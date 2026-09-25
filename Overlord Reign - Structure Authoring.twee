@@ -1,0 +1,5566 @@
+:: StoryTitle
+Overlord Reign - Structure Authoring
+
+
+:: StoryData
+{
+  "ifid": "8F367180-8789-4508-8E97-5C1B801E2B3D",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Oh, You'll Do Nicely",
+  "zoom": 0.6
+}
+
+
+:: Quaver Wants a Band {"position":"2700,1550","size":"100,100"}
+SPEAKER: Quaver
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/quaver_wants_a_band · working title "A Band for the Dark Tower" · trigger/objective: quest-specs part 1
+
+[[Eleven Instruments. Why.]]
+
+Quaver Request
+
+
+:: Nobody Mapped This {"position":"3500,3000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/nobody_mapped_this · working title "A Castle Off the Map" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Courtiers, Long Dead]]
+
+Lost Castle Found
+
+
+:: Just a Collar Now {"position":"4100,3000","size":"100,100"}
+SPEAKER: Mortis
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/just_a_collar_now · working title "A Collar Left Behind" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Not Quite Dead, Fido]]
+
+Pet died
+
+
+:: Finally, a Proper Horde {"position":"1600,2800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:prologue_and_horde/finally_a_proper_horde · working title "A Complete Horde" · trigger/objective: quest-specs part 1
+
+Complete Horde Entry
+
+
+:: Feed the Cradle {"position":"2300,1000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/feed_the_cradle · working title "A Cradle for Flesh" · trigger/objective: quest-specs part 1
+
+[[It Twitched!]]
+
+
+:: Dead Dragons Don't Fly {"position":"2200,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/dead_dragons_dont_fly · working title "A Dead Dragon Flies" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Kindred, Still Meddling]]
+
+
+:: Brew on Purpose {"position":"2100,1000","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/brew_on_purpose · working title "A Deliberate Formula" · trigger/objective: quest-specs part 1
+
+[[Perfected Poison]]
+
+
+:: Salvage the Salvagers {"position":"5700,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/salvage_the_salvagers · working title "A Den Worth Razing" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: I Know That Stride {"position":"2200,2300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/i_know_that_stride · working title "A Familiar Weight Below" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[He Rebuilt the Hall]]
+
+
+:: It's Still Warm {"position":"2300,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/its_still_warm · working title "A Fleshy Core" · trigger/objective: quest-specs part 1
+
+[[Feed the Cradle]]
+
+
+:: Their Fire Is Yours {"position":"4500,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/their_fire_is_yours · working title "A Forge Owes Its Fire" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Dragons Make Great Bellows {"position":"3300,1100","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/dragons_make_great_bellows · working title "A Forge for Dragons" · trigger/objective: quest-specs part 1
+
+[[Steel That Screams]]
+
+DragonForge Restoration
+
+
+:: Wear Their Faces {"position":"7400,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/wear_their_faces · working title "A God Beneath a Master" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Lovely, Stolen Gold {"position":"1400,1000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/lovely_stolen_gold · working title "A Golden Start" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Hoard Restoration
+
+
+:: Let the Straw Work {"position":"2900,600","size":"100,100"}
+SPEAKER: Gristle
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/let_the_straw_work · working title "A Harvest Worth Automating" · trigger/objective: quest-specs part 1
+
+[[Twenty Crops, Zero Minions]]
+
+
+:: Flowers Want Hearts? {"position":"3900,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/flowers_want_hearts · working title "A Heart for the Altar" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Weed the Garden]]
+
+
+:: Resin for Peace {"position":"7600,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/resin_for_peace · working title "A Hive Left its Own" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Bees. Endless Bees. {"position":"3100,3000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/bees_endless_bees · working title "A Hive Without End" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Her Majesty, the Bug]]
+
+Bee Nest Found
+
+
+:: Something Chews Up North {"position":"2200,1700","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/something_chews_up_north · working title "A Hunger In The Frozen North" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Frozen Leftovers]]
+
+
+:: Pointy End Out, Sire {"position":"1600,2000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:prologue_and_horde/pointy_end_out_sire · working title "A New Master" · trigger/objective: quest-specs part 1
+
+[[Sit, Sire. Brood.]]
+
+[[The World Won't Ruin Itself]]
+
+[[Fire, Fury, No Sense]]
+
+Brown Quest
+
+
+:: Holy or Bloody? {"position":"3100,600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/holy_or_bloody · working title "A New Power Balance" · trigger/objective: quest-specs part 1
+
+
+:: Loot Deserves Drawers {"position":"1400,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/loot_deserves_drawers · working title "A Place for Everything" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Storage Restoration
+
+
+:: The World Won't Ruin Itself {"position":"1800,1800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:prologue_and_horde/the_world_wont_ruin_itself · working title "A Reign Unfolds" · trigger/objective: quest-specs part 1
+
+[[Spree, Still Sheepish]] 
+
+[[Raiders With Real Estate]] 
+
+[[Dwarves, Still Digging]] 
+
+[[Small, Fat and Greedy]] 
+
+[[Our Ugly Cousins]] 
+
+[[Scavengers Downstairs]]
+
+[[Oh No. Frogs.]] 
+
+[[Elves, Somewhat Soggy]] 
+
+[[Family We Don't Mention]] 
+
+[[A God With Feathers]] 
+
+[[Ants With Ambitions]] 
+
+[[Something's Gone Off]]
+
+[[The Dead Keep Poor Company]] 
+
+[[Bees. Endless Bees.]] 
+
+[[A Cup Worth Filling]] 
+
+[[Nobody Mapped This]] 
+
+[[Minions With Tails]] 
+
+[[Too Many Flowers]] 
+
+[[Just a Collar Now]] 
+
+[[Pale Suits You, Sire]] 
+
+[[Dragons Again? Lovely.]] 
+
+Exploration Opens
+
+
+:: Souls, Crystallised {"position":"2500,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/souls_crystallised · working title "A Ritual that Works" · trigger/objective: quest-specs part 1
+
+[[Gods Like Snacks]]
+
+
+:: Dragons Again? Lovely. {"position":"4700,3000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/dragons_again_lovely · working title "A Shadow with Wings" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Read Up, Sire]]
+
+Dragon encountered
+
+
+:: One Wound, Many Bleeds {"position":"2800,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/one_wound_many_bleeds · working title "A Single Wound" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[So That's Where It Went]]
+
+
+:: Something's Gone Off {"position":"1800,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/somethings_gone_off · working title "A Tainted Essence" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[We Need a Bigger Sword]]
+
+[[Scars Everywhere, Sire]] 
+
+[[That Is Not a Fish]] 
+
+First Essence Found, Sets up the Campaign
+
+
+:: It's... Blooming? {"position":"3800,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/its_blooming · working title "A Thriving Wound" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Shulkers, Still Sulking]]
+
+
+:: Home, Wretched Home {"position":"2300,1575","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/home_wretched_home · working title "A Tower Complete" · trigger/objective: quest-specs part 1
+
+[[Quaver Wants a Band]]
+
+Complete Tower
+
+
+:: Eleven Instruments. Why. {"position":"2875,1550","size":"100,100"}
+SPEAKER: Quaver
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/eleven_instruments_why · working title "A Whole Orchestra" · trigger/objective: quest-specs part 1
+
+
+:: Minions With Tails {"position":"3700,3000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/minions_with_tails · working title "A Workforce with Tails" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Cheese Is Currency Now]]
+
+Rat encountered
+
+
+:: That Is Not a Fish {"position":"4500,3000","size":"100,100"}
+SPEAKER: the Collector
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/that_is_not_a_fish · working title "An Aberration on the Line" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Bottled Gibberish]]
+
+Aberration caught
+
+
+:: Raid Where I Point {"position":"4000,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/raid_where_i_point · working title "An Armed Boundary" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Trophies, Not Clutter {"position":"1400,1200","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/trophies_not_clutter · working title "An Armory Worth Seeing" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Armory Restoration
+
+
+:: Cheese Is Currency Now {"position":"3700,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/cheese_is_currency_now · working title "An Empire of Cheese" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[A Rat's Crown Jewel]]
+
+
+:: Rich Soil, Richer Master {"position":"2900,1000","size":"100,100"}
+SPEAKER: Gristle
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/rich_soil_richer_master · working title "An Estate Worth Feeding" · trigger/objective: quest-specs part 1
+
+[[Tiny Farmhands]]
+
+
+:: RSVP to a Lich {"position":"2900,3400","size":"100,100"}
+SPEAKER: Mortis
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/rsvp_to_a_lich · working title "An Invitation to the Lich" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Only One Dark Lord, Thanks]]
+
+
+:: Theft or Salvage? {"position":"5100,1000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/theft_or_salvage · working title "An Old Conflict" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Side With the Beards]]
+
+[[Both Work for You Now]]
+
+[[Back the Tunnel Rats]]
+
+[[Peace, What is it good for?]]
+
+Dwarf/Kobold Introduction
+
+
+:: Back the Tunnel Rats {"position":"5250,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/back_the_tunnel_rats · working title "Arm the Den" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Kobold Favored Path
+
+
+:: Patron of Ugly Engineers {"position":"5400,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/patron_of_ugly_engineers · working title "Arms by Patronage" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: We Never Speak of Ratlantis {"position":"3700,3800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/we_never_speak_of_ratlantis · working title "Back from Ratlantis" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Blow the Horn, Sire {"position":"4200,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/blow_the_horn_sire · working title "Bastille as a Weapon" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Pets Are Minions Too {"position":"1700,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/pets_are_minions_too · working title "Beasts Pen" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Pen Restoration
+
+
+:: Guests Who Can't Leave {"position":"1400,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/guests_who_cant_leave · working title "Behind the Bars" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Prison Restoration
+
+
+:: Swallowed Whole, Armour On {"position":"2400,1900","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/swallowed_whole_armour_on · working title "Blood Beneath the Armor" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Sirok, Evicted]]
+
+
+:: The Bedtime Story Was True {"position":"3700,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/the_bedtime_story_was_true · working title "Break the Civic Spine" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Courtiers, Long Dead {"position":"3500,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/courtiers_long_dead · working title "Break the Lost Court" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Finders Keepers, Sire]]
+
+
+:: Cheat Them Politely {"position":"5200,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/cheat_them_politely · working title "Business Without Tribute" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Scars Everywhere, Sire {"position":"2200,2950","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/scars_everywhere_sire · working title "Cataclysm" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Dwarven Junk, Awake]]
+
+[[Gods Don't Stay Buried]]
+
+[[The Fourth's Old General]]
+
+[[Netherworld Scrap Metal]]
+
+[[Something Big Below]]
+
+[[Still Burning, Poor Knight]]
+
+[[Why Is It in the Sky?]]
+
+[[The Rift's Doorman]]
+
+Corruption Investigation Path
+
+
+:: Shulkers, Still Sulking {"position":"4000,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/shulkers_still_sulking · working title "Cities at the Edge" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[More to Conquer, Sire]]
+
+
+:: The Staff Says Obey {"position":"7800,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/the_staff_says_obey · working title "Command of the Resin" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Turn This Into That {"position":"1900,600","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/turn_this_into_that · working title "Crossing the Boundary" · trigger/objective: quest-specs part 1
+
+
+:: Weed the Garden {"position":"3900,3400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/weed_the_garden · working title "Cut Down the Queen" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Off With Her Head {"position":"7700,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/off_with_her_head · working title "Cut Off the Crown" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Calamari, Sire? {"position":"2600,2500","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/calamari_sire · working title "Cut the Ocean's Threat" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[One Wound, Many Bleeds]]
+[[It Smells Off]]
+[[Now the Dead Dance]]
+[[Older Than You Think]]
+[[It Cracks Everything]]
+[[All Roads Bleed One Way]]
+
+
+:: Their Forges, Our Metal {"position":"6600,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/their_forges_our_metal · working title "Depth Metal on Call" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Just a Little Prick {"position":"2300,400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/just_a_little_prick · working title "Directed Life" · trigger/objective: quest-specs part 1
+
+
+:: Steel That Screams {"position":"3300,900","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/steel_that_screams · working title "DragonSteel" · trigger/objective: quest-specs part 1
+
+DragonForge Questline End
+
+
+:: Sirok, Evicted {"position":"2600,1900","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/sirok_evicted · working title "Empty the Desert" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[One Wound, Many Bleeds]]
+[[It Smells Off]]
+[[Now the Dead Dance]]
+[[Older Than You Think]]
+[[It Cracks Everything]]
+[[All Roads Bleed One Way]]
+
+
+:: Glowing Things, Sire {"position":"3500,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/glowing_things_sire · working title "Enchantment Room" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Enchantment Restoration
+
+
+:: Evil Always Finds a Way {"position":"3400,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/evil_always_finds_a_way · working title "End Credits" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[It Didn't Close. Of Course.]]
+
+
+:: Gluttony, Meet Grave {"position":"4900,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/gluttony_meet_grave · working title "End the Gnumus" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Clever Little Scavengers {"position":"5800,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/clever_little_scavengers · working title "Engineer the Den" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Bottled Sweetness. Ugh. {"position":"3100,3400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/bottled_sweetness_ugh · working title "Essence of the Hive" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Perfected Poison {"position":"2100,800","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/perfected_poison · working title "Evil's Formula" · trigger/objective: quest-specs part 1
+
+
+:: Snuff the Last Light {"position":"6500,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/snuff_the_last_light · working title "Extinguish the Light" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: More to Conquer, Sire {"position":"4200,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/more_to_conquer_sire · working title "Far Edge of the Reign" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Let Giblet Hit Things {"position":"3300,1400","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/let_giblet_hit_things · working title "Fire & Iron" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+[[Dragons Make Great Bellows]] 
+
+Forge Restoration
+
+
+:: Pale Suits You, Sire {"position":"4300,3000","size":"100,100"}
+SPEAKER: Lestat
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/pale_suits_you_sire · working title "First Blood" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Hunt the Hunter]]
+
+Became Vampire
+
+
+:: It Twitched! {"position":"2300,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/it_twitched · working title "Flesh Reborn... Almost" · trigger/objective: quest-specs part 1
+
+[[Chew, Don't Complain]]
+
+
+:: Feasts Are for Gloating {"position":"2700,1000","size":"100,100"}
+SPEAKER: Gristle
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/feasts_are_for_gloating · working title "Food Shaman" · trigger/objective: quest-specs part 1
+
+
+:: Trolls Below, Giants Above {"position":"4900,3800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/trolls_below_giants_above · working title "Giants Above" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: I May Have Dabbled {"position":"2300,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/i_may_have_dabbled · working title "Gnarl's Secret Project" · trigger/objective: quest-specs part 1
+
+[[It's Still Warm]]
+
+[[Home, Wretched Home]]
+
+Biomancy Restoration
+
+
+:: Family We Don't Mention {"position":"6900,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/family_we_dont_mention · working title "Gold in the Netherworld" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[It's Our Gold Now]]
+
+[[Honest Barter. Disgusting.]]
+
+[[Erase the Family Shame]]
+
+Piglin Introduction
+
+
+:: Honest Barter. Disgusting. {"position":"6800,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/honest_barter_disgusting · working title "Gold without Theft" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Gristle Needs a Stove {"position":"2800,1400","size":"100,100"}
+SPEAKER: Gristle
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/gristle_needs_a_stove · working title "Gristle's Kitchen" · trigger/objective: quest-specs part 1
+
+[[Evil Marches on Its Stomach]]
+
+[[Home, Wretched Home]]
+
+Kitchen Restoration
+
+
+:: Kindred, Still Meddling {"position":"2400,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/kindred_still_meddling · working title "Heraldry of the Raised" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Stay Dead This Time]]
+
+
+:: Squeeze the Essence Out {"position":"2100,1200","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/squeeze_the_essence_out · working title "Knowledge of the Earth" · trigger/objective: quest-specs part 1
+
+[[Brew on Purpose]]
+
+
+:: Again. And Again. {"position":"1900,800","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/again_and_again · working title "Laws of Repetition" · trigger/objective: quest-specs part 1
+
+[[Turn This Into That]]
+
+
+:: Bottled Gibberish {"position":"4500,3200","size":"100,100"}
+SPEAKER: the Collector
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/bottled_gibberish · working title "Lost in Translation" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Every Scrap Collected]]
+
+
+:: Both Work for You Now {"position":"5050,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/both_work_for_you_now · working title "Make them Work" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peace Path
+
+
+:: Maze, Meal, Hydra {"position":"4900,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/maze_meal_hydra · working title "Maze & Fire" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Knights, Ghosts, Ghasts]]
+
+
+:: Purple Means Power {"position":"3100,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/purple_means_power · working title "More than a Weapon" · trigger/objective: quest-specs part 1
+
+[[Holy or Bloody?]]
+
+
+:: The Sand Is Moving {"position":"2200,1900","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/the_sand_is_moving · working title "Movement Beneath the Ruborian Sands" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Swallowed Whole, Armour On]]
+
+
+:: Chew, Don't Complain {"position":"2300,600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/chew_dont_complain · working title "No Mouth, Must Work" · trigger/objective: quest-specs part 1
+
+[[Just a Little Prick]]
+
+
+:: Birds Don't Rise Twice {"position":"7300,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/birds_dont_rise_twice · working title "Not a Phoenix" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Elves, Hiding in Trees {"position":"4900,3000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/elves_hiding_in_trees · working title "Old Forest, New Master" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[The Forest's First Keepers]]
+
+Twilight Forest Start
+
+
+:: Forgive Me, Old Master {"position":"2600,2300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/forgive_me_old_master · working title "One Reign Must End" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[One Wound, Many Bleeds]]
+[[It Smells Off]]
+[[Now the Dead Dance]]
+[[Older Than You Think]]
+[[It Cracks Everything]]
+[[All Roads Bleed One Way]]
+
+
+:: Oh, You'll Do Nicely {"position":"1600,1800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:prologue_and_horde/oh_youll_do_nicely · working title "Our New Overlord" · trigger/objective: quest-specs part 1
+
+[[Pointy End Out, Sire]] 
+
+"Introduction Quest"
+
+
+:: Guards on a Leash {"position":"3800,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/guards_on_a_leash · working title "Overlord's Watch" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Half Man, Half Fish {"position":"2400,2500","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/half_man_half_fish · working title "Part of the Sea" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Calamari, Sire?]]
+
+
+:: A God on Retainer {"position":"7200,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/a_god_on_retainer · working title "Patron of the Grove" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Peace, What is it good for? {"position":"5150,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/peace_what_is_it_good_for · working title "Peace, What is it good for?" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+War Path
+
+
+:: The Dead Keep Poor Company {"position":"2900,3000","size":"100,100"}
+SPEAKER: Mortis
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/the_dead_keep_poor_company · working title "Places the Dead Keep" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[A Stick Worth Stealing]]
+
+Graveyard Found
+
+
+:: Words With Teeth {"position":"3100,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/words_with_teeth · working title "Practical Spellcraft" · trigger/objective: quest-specs part 1
+
+[[Scrolls, Forged Hot]]
+
+
+:: Gods Like Snacks {"position":"2500,1000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/gods_like_snacks · working title "Prepare the Offering" · trigger/objective: quest-specs part 1
+
+[[Talk to Fire, Sire]]
+
+
+:: Profit, Then Ruin {"position":"5300,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/profit_then_ruin · working title "Profit & Ruin" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Frogs Farm for Us {"position":"6000,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/frogs_farm_for_us · working title "Prosperity in Ribbit" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Maracas on Command {"position":"6200,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/maracas_on_command · working title "Quiet Village under Shadow" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Shiny. Suspiciously So. {"position":"3300,3400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/shiny_suspiciously_so · working title "Radiance for the Vessel" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[The Architect of Chaos]]
+
+
+:: Break It, Rebuild It {"position":"1900,1000","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/break_it_rebuild_it · working title "Reassembling Matter" · trigger/objective: quest-specs part 1
+
+[[Again. And Again.]]
+
+
+:: Healers, Sadly Necessary {"position":"1600,2600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:prologue_and_horde/healers_sadly_necessary · working title "Restore the Blues" · trigger/objective: quest-specs part 1
+
+[[Finally, a Proper Horde]]
+
+Blue Quest
+
+
+:: Stabbing Is an Art {"position":"1600,2400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:prologue_and_horde/stabbing_is_an_art · working title "Restore the Greens" · trigger/objective: quest-specs part 1
+
+[[Healers, Sadly Necessary]]
+
+Green Quest
+
+
+:: Fire, Fury, No Sense {"position":"1600,2200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:prologue_and_horde/fire_fury_no_sense · working title "Restore the Reds" · trigger/objective: quest-specs part 1
+
+[[Stabbing Is an Art]]
+
+Red Quest
+
+
+:: It Didn't Close. Of Course. {"position":"3600,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/it_didnt_close_of_course · working title "Return to the Wasteland" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[It's... Blooming?]]
+
+
+:: Chasing Storms, Sire {"position":"4500,3600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/chasing_storms_sire · working title "Rocky Waters" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Heavy Rites]]
+
+
+:: Halo or Horns? {"position":"2500,600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/halo_or_horns · working title "Sacred or Wicked" · trigger/objective: quest-specs part 1
+
+
+:: Sit, Sire. Brood. {"position":"1675,1600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/sit_sire_brood · working title "Seat of the Overlord" · trigger/objective: quest-specs part 1
+
+[[Let Giblet Hit Things]]
+
+[[Loot Deserves Drawers]]
+
+[[Trophies, Not Clutter]]
+
+[[Lovely, Stolen Gold]]
+
+[[Not the Heart. Yet.]]
+
+[[Gashling's Little Circus]]
+
+[[Guests Who Can't Leave]]
+
+[[Mind the Fumes, Sire]]
+
+[[Burn It Scientifically]]
+
+[[Gristle Needs a Stove]]
+
+[[Books? How Quaint.]]
+
+[[Gods Are Just Landlords]]
+
+[[I May Have Dabbled]]
+
+[[Pets Are Minions Too]] 
+
+[[Glowing Things, Sire]] 
+
+[[Even Evil Sleeps]]
+
+
+:: Kill the Big Lizard {"position":"3200,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/kill_the_big_lizard · working title "Sever the Anchor" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Evil Always Finds a Way]]
+[[A Piece of Home]]
+
+
+:: Scrolls, Forged Hot {"position":"3100,1000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/scrolls_forged_hot · working title "Shape the Mana" · trigger/objective: quest-specs part 1
+
+[[Purple Means Power]]
+
+
+:: Skor's Last Supper {"position":"2600,1700","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/skors_last_supper · working title "Silence the North" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[One Wound, Many Bleeds]]
+[[It Smells Off]]
+[[Now the Dead Dance]]
+[[Older Than You Think]]
+[[It Cracks Everything]]
+[[All Roads Bleed One Way]]
+
+
+:: Blessed Silence {"position":"6100,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/blessed_silence · working title "Silent Garden, At Last" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Tiny Farmhands {"position":"2900,800","size":"100,100"}
+SPEAKER: Gristle
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/tiny_farmhands · working title "Small Hands for Small Work" · trigger/objective: quest-specs part 1
+
+[[Let the Straw Work]]
+
+
+:: Spree, Still Sheepish {"position":"3700,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/spree_still_sheepish · working title "Spree, Again" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Spree's Favourite Customer]]
+
+[[Guards on a Leash]]
+
+[[The Bedtime Story Was True]]
+
+Humans Introduction
+
+
+:: Evil Marches on Its Stomach {"position":"2800,1200","size":"100,100"}
+SPEAKER: Gristle
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/evil_marches_on_its_stomach · working title "Start with Dinner" · trigger/objective: quest-specs part 1
+
+[[Feasts Are for Gloating]]
+
+[[Rich Soil, Richer Master]]
+
+
+:: Egg Theft, a Classic {"position":"4700,3400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/egg_theft_a_classic · working title "Steal the Future" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Mind the Landing]]
+
+
+:: Bribe the Captain {"position":"5600,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/bribe_the_captain · working title "Supply the Captain" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Read Up, Sire {"position":"4700,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/read_up_sire · working title "Take the Measure" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Egg Theft, a Classic]]
+
+
+:: Wet Handshakes {"position":"6400,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/wet_handshakes · working title "Terms Below the Surface" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Why Is It in the Sky? {"position":"2075,3250","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/why_is_it_in_the_sky · working title "The Acropolips" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Mind the Fumes, Sire {"position":"2100,1400","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/mind_the_fumes_sire · working title "The Alchemy Den" · trigger/objective: quest-specs part 1
+
+[[Squeeze the Essence Out]]
+
+[[Home, Wretched Home]]
+
+Alchemy Restoration
+
+
+:: Dwarven Junk, Awake {"position":"1925,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/dwarven_junk_awake · working title "The Ancient Factory" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: The Architect of Chaos {"position":"3300,3600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/the_architect_of_chaos · working title "The Architect of Chaos" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Gashling's Little Circus {"position":"1400,1800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/gashlings_little_circus · working title "The Arena" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Arena Restoration
+
+
+:: Twenty Crops, Zero Minions {"position":"2900,400","size":"100,100"}
+SPEAKER: Gristle
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/twenty_crops_zero_minions · working title "The Assisted Estate" · trigger/objective: quest-specs part 1
+
+
+:: Raiders With Real Estate {"position":"4100,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/raiders_with_real_estate · working title "The Bastille" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Burn the Bastille]]
+
+[[Raid Where I Point]]
+
+[[Blow the Horn, Sire]]
+
+Pillager Introduction
+
+
+:: A Stick Worth Stealing {"position":"2900,3200","size":"100,100"}
+SPEAKER: Mortis
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/a_stick_worth_stealing · working title "The Bone Staff" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[RSVP to a Lich]]
+
+
+:: Still Burning, Poor Knight {"position":"2325,3250","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/still_burning_poor_knight · working title "The Burning Arena" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Only One Dark Lord, Thanks {"position":"2900,3600","size":"100,100"}
+SPEAKER: Mortis
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/only_one_dark_lord_thanks · working title "The Corrupted Champion" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Gods Don't Stay Buried {"position":"2200,3125","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/gods_dont_stay_buried · working title "The Cursed Pyramid" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Scavengers Downstairs {"position":"5700,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/scavengers_downstairs · working title "The Den Below" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Salvage the Salvagers]]
+
+[[Theft or Salvage?]] 
+
+[[Bribe the Captain]]
+
+[[Clever Little Scavengers]]
+
+Kobold Introduction
+
+
+:: He Rebuilt the Hall {"position":"2400,2300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/he_rebuilt_the_hall · working title "The Door to an Old Reign" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Forgive Me, Old Master]]
+
+
+:: Gods Are Just Landlords {"position":"2500,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/gods_are_just_landlords · working title "The Eidolons Chamber" · trigger/objective: quest-specs part 1
+
+[[Souls, Crystallised]]
+
+[[Home, Wretched Home]]
+
+Eidolon Restoration
+
+
+:: The Fourth's Old General {"position":"2325,3125","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/the_fourths_old_general · working title "The Frosted Prison" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Thaw the Snow Queen {"position":"4900,3600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/thaw_the_snow_queen · working title "The Frozen Queen" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Trolls Below, Giants Above]]
+
+
+:: Spree's Favourite Customer {"position":"3600,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/sprees_favourite_customer · working title "The Full Larder" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: A Rat's Crown Jewel {"position":"3700,3400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/a_rats_crown_jewel · working title "The Gem of Ratlantis" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Depose the Rat Baron]]
+
+
+:: Small, Fat and Greedy {"position":"4900,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/small_fat_and_greedy · working title "The Gnumu Settlement" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Old Craft, New Master]]
+
+[[Debt Is a Leash]]
+
+[[Gluttony, Meet Grave]]
+
+Gnumu/Halfling Introduction
+
+
+:: Our Ugly Cousins {"position":"5300,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/our_ugly_cousins · working title "The Goblin Camp" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Profit, Then Ruin]]
+
+[[Cheat Them Politely]]
+
+[[Patron of Ugly Engineers]]
+
+Goblin Introduction
+
+
+:: Not Quite Dead, Fido {"position":"4100,3200","size":"100,100"}
+SPEAKER: Mortis
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/not_quite_dead_fido · working title "The Grave Gives Something Back" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Death, Politely Refused]]
+
+
+:: A Cup Worth Filling {"position":"3300,3000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/a_cup_worth_filling · working title "The Great Chalice" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Fill It to the Brim]]
+
+Essence Found
+
+
+:: Fill It to the Brim {"position":"3300,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/fill_it_to_the_brim · working title "The Great Essences" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Shiny. Suspiciously So.]]
+
+
+:: A God With Feathers {"position":"7300,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/a_god_with_feathers · working title "The Grove and its God" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Wear Their Faces]]
+
+[[A God on Retainer]]
+
+[[Birds Don't Rise Twice]]
+
+[[Elves, Hiding in Trees]] 
+
+Grove Introduction
+
+
+:: Hunt the Hunter {"position":"4300,3200","size":"100,100"}
+SPEAKER: Lestat
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/hunt_the_hunter · working title "The Hunter" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Blood Has Its Price]]
+
+
+:: Mind the Landing {"position":"4700,3600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/mind_the_landing · working title "The Master Takes Wing" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Dragons Make Great Bellows]]
+
+
+:: Blood Has Its Price {"position":"4300,3400","size":"100,100"}
+SPEAKER: Lestat
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/blood_has_its_price · working title "The Price of Power" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Her Majesty, the Bug {"position":"3100,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/her_majesty_the_bug · working title "The Queen's Domain" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Bottled Sweetness. Ugh.]]
+
+
+:: Depose the Rat Baron {"position":"3700,3600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/depose_the_rat_baron · working title "The Rat Baron" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[We Never Speak of Ratlantis]]
+
+
+:: Oh No. Frogs. {"position":"6100,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/oh_no_frogs · working title "The Ribbit Village" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Maracas on Command]]
+
+[[Frogs Farm for Us]]
+
+[[Blessed Silence]]
+
+[[Elves, Hiding in Trees]] 
+
+Ribbit Introduction
+
+
+:: The Rift's Doorman {"position":"2500,3200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/the_rifts_doorman · working title "The Ruined Citadel" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: The Sea Keeps Secrets {"position":"2200,2500","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/the_sea_keeps_secrets · working title "The Sea Has Been Keeping Something" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Half Man, Half Fish]]
+
+
+:: Netherworld Scrap Metal {"position":"2075,3125","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/netherworld_scrap_metal · working title "The Soul Forge" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Books? How Quaint. {"position":"3100,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/books_how_quaint · working title "The Spell Study" · trigger/objective: quest-specs part 1
+
+[[Words With Teeth]]
+
+[[Home, Wretched Home]]
+
+Spell Room Restoration
+
+
+:: Dwarves, Still Digging {"position":"4500,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/dwarves_still_digging · working title "The Successor Hold" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[A Vassal Forge]]
+
+[[Their Fire Is Yours]]
+
+[[Signed in Stone]]
+
+[[Theft or Salvage?]]
+
+Dwarf Introduction
+
+
+:: Something Big Below {"position":"2200,3250","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:scars/something_big_below · working title "The Sunken City" · trigger/objective: quest-specs part 2 + narrative-beats
+
+
+:: Every Scrap Collected {"position":"4500,3400","size":"100,100"}
+SPEAKER: the Collector
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/every_scrap_collected · working title "The Sunken Record" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Chasing Storms, Sire]]
+
+
+:: Burn It Scientifically {"position":"1900,1400","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/burn_it_scientifically · working title "The Theurgy Lab" · trigger/objective: quest-specs part 1
+
+[[Salt, Sulfur, Smugness]]
+
+[[Home, Wretched Home]]
+
+Theurgy Restoration
+
+
+:: Not the Heart. Yet. {"position":"1400,1600","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/not_the_heart_yet · working title "The Tower Heart?" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Waystones Restoration
+
+
+:: Elves, Somewhat Soggy {"position":"6500,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/elves_somewhat_soggy · working title "The Village beneath" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Wet Handshakes]]
+
+[[Their Forges, Our Metal]]
+
+[[Snuff the Last Light]]
+
+Sea People Introduction
+
+
+:: A Vassal Forge {"position":"4600,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/a_vassal_forge · working title "The Weight of Continuity" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: So That's Where It Went {"position":"3000,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/so_thats_where_it_went · working title "The Wound Beyond the World" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Kill the Big Lizard]]
+
+
+:: Salt, Sulfur, Smugness {"position":"1900,1200","size":"100,100"}
+SPEAKER: Blister
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/salt_sulfur_smugness · working title "Three Principles" · trigger/objective: quest-specs part 1
+
+[[Break It, Rebuild It]]
+
+
+:: Knights, Ghosts, Ghasts {"position":"4900,3400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/knights_ghosts_ghasts · working title "Towers in the Gloom" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Thaw the Snow Queen]]
+
+
+:: Signed in Stone {"position":"4400,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/signed_in_stone · working title "Two Claims" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Old Craft, New Master {"position":"4800,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/old_craft_new_master · working title "Vintage Work Restored" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Peaceful Path
+
+
+:: Debt Is a Leash {"position":"5000,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/debt_is_a_leash · working title "Vintage on Credit" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: We Need a Bigger Sword {"position":"2000,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/we_need_a_bigger_sword · working title "We Need a Bigger Sword" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Something Chews Up North]] 
+
+[[The Sand Is Moving]] 
+
+[[Dead Dragons Don't Fly]] 
+
+[[I Know That Stride]] 
+
+[[The Sea Keeps Secrets]] 
+
+Boss Hideout Found
+
+
+:: Heavy Rites {"position":"4500,3800","size":"100,100"}
+SPEAKER: the Collector
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/heavy_rites · working title "Weight of the World" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Side With the Beards {"position":"4950,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/side_with_the_beards · working title "Weight the Scales" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Dwarf Favored Path
+
+
+:: Burn the Bastille {"position":"4100,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/burn_the_bastille · working title "What Bows After Fear" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: Finders Keepers, Sire {"position":"3500,3400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/finders_keepers_sire · working title "What the Castle Kept" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Frozen Leftovers {"position":"2400,1700","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/frozen_leftovers · working title "What the Frost Made" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[Skor's Last Supper]]
+
+
+:: Too Many Flowers {"position":"3900,3000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/too_many_flowers · working title "Where the Orchids Gather" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Flowers Want Hearts?]]
+
+Orchid Altar found
+
+
+:: It's Our Gold Now {"position":"7000,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/its_our_gold_now · working title "Who Owns the Gold" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Submission Path
+
+
+:: Talk to Fire, Sire {"position":"2500,800","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/talk_to_fire_sire · working title "Words that Answer" · trigger/objective: quest-specs part 1
+
+[[Halo or Horns?]]
+
+
+:: Even Evil Sleeps {"position":"1400,2000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_dark_tower/even_evil_sleeps · working title "Your Chambers, Sire" · trigger/objective: quest-specs part 1
+
+[[Home, Wretched Home]]
+
+Bedroom Restoration
+
+
+:: Death, Politely Refused {"position":"4100,3400","size":"100,100"}
+SPEAKER: Mortis
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/death_politely_refused · working title "A Death Reversed" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+
+:: Stay Dead This Time {"position":"2600,2100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/stay_dead_this_time · working title "Undo the Resurrection" · trigger/objective: quest-specs part 2 + narrative-beats
+
+[[One Wound, Many Bleeds]]
+[[It Smells Off]]
+[[Now the Dead Dance]]
+[[Older Than You Think]]
+[[It Cracks Everything]]
+[[All Roads Bleed One Way]]
+
+
+:: Ants With Ambitions {"position":"7700,1400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/ants_with_ambitions · working title "The Mound-Dwellers" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+[[Off With Her Head]]
+
+[[Resin for Peace]]
+
+[[The Staff Says Obey]]
+
+Myrmex Introduction
+
+
+:: Erase the Family Shame {"position":"6900,1200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_reign/erase_the_family_shame · working title "Break the Pig Pride" · trigger/objective: quest-specs part 2 (intros) + part 4 (paths)
+
+Destruction Path
+
+
+:: The Forest's First Keepers {"position":"5050,3100","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:tales/the_forests_first_keepers · working title "The Forest's First Keepers" · trigger/objective: quest-specs part 1 (hooks) + part 3
+
+[[Maze, Meal, Hydra]]
+
+Naga + Lich (NEW passage)
+
+
+:: A Piece of Home {"position":"3200,2300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION (unlock): 
+POPUP (unlock): 
+START LOG: 
+OBJECTIVES (voiced): 
+EMOTION (complete): 
+POPUP (complete): 
+COMPLETION LOG: 
+CODER NOTES: overlord:the_wound/a_piece_of_home · working title "A Seed of the Heart" · trigger/objective: quest-specs part 2 + narrative-beats
+
+Dragon Egg = seed of the Tower Heart (NEW passage, optional for the credits)
+
+
+:: It Smells Off {"position":"2900,1700","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:the_wound/it_smells_off · working title "Gnarl's Suspicions I" · Rambling-style entry (popup + log, no completion) · spec: narrative-beats
+
+Count-based: fires when the 1st gate is resolved, whatever the order (NEW passage)
+
+
+:: Now the Dead Dance {"position":"2900,1850","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:the_wound/now_the_dead_dance · working title "Gnarl's Suspicions II" · Rambling-style entry (popup + log, no completion) · spec: narrative-beats
+
+Count-based: fires when the 2nd gate is resolved, whatever the order (NEW passage)
+
+
+:: Older Than You Think {"position":"2900,2000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:the_wound/older_than_you_think · working title "Gnarl's Suspicions III" · Rambling-style entry (popup + log, no completion) · spec: narrative-beats
+
+Count-based: fires when the 3rd gate is resolved, whatever the order (NEW passage)
+
+
+:: It Cracks Everything {"position":"2900,2150","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:the_wound/it_cracks_everything · working title "Gnarl's Suspicions IV" · Rambling-style entry (popup + log, no completion) · spec: narrative-beats
+
+Count-based: fires when the 4th gate is resolved, whatever the order (NEW passage)
+
+
+:: All Roads Bleed One Way {"position":"2900,2300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:the_wound/all_roads_bleed_one_way · working title "Gnarl's Suspicions V" · Rambling-style entry (popup + log, no completion) · spec: narrative-beats
+
+Count-based: fires when the 5th gate is resolved, whatever the order (NEW passage)
+
+
+:: Flesh, Forged [rambling] {"position":"1000,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/flesh_forged · fires on advancement `biomancy:biomancy/bio_forge` (in-game name "Organic Smithing") · no completion popup/entry · see ramblings doc
+
+
+:: It's Spreading, Sire [rambling] {"position":"1150,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/its_spreading_sire · fires on advancement `biomancy:biomancy/malignant_growth` (in-game name "Malignant Growth") · no completion popup/entry · see ramblings doc
+
+
+:: Stars Taste Better [rambling] {"position":"1300,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stars_taste_better · fires on advancement `biomancy:biomancy/nether_star_sacrifice` (in-game name "Superior Sacrifice") · no completion popup/entry · see ramblings doc
+
+
+:: Spare Kidneys, Anyone? [rambling] {"position":"1450,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/spare_kidneys_anyone · fires on advancement `biomancy:biomancy/organ_trader` (in-game name "Organ Trader") · no completion popup/entry · see ramblings doc
+
+
+:: Holes. So Many Holes. [rambling] {"position":"1600,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/holes_so_many_holes · fires on advancement `biomancy:biomancy/primal_orifice` (in-game name "Trypophobia?") · no completion popup/entry · see ramblings doc
+
+
+:: The Cat Had It Coming [rambling] {"position":"1750,4400","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_cat_had_it_coming · fires on advancement `biomancy:biomancy/cat_killer` (in-game name "Kitty Cat Killer") · no completion popup/entry · see ramblings doc
+
+
+:: Endangered? Not Anymore. [rambling] {"position":"1900,4400","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/endangered_not_anymore · fires on advancement `biomancy:biomancy/poacher` (in-game name "Rare Animal Poacher") · no completion popup/entry · see ramblings doc
+
+
+:: Fangs for the Collection [rambling] {"position":"2050,4400","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/fangs_for_the_collection · fires on advancement `biomancy:biomancy/predator_killer` (in-game name "Predator Killer") · no completion popup/entry · see ramblings doc
+
+
+:: Reap What They Carry [rambling] {"position":"2200,4400","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/reap_what_they_carry · fires on advancement `biomancy:biomancy/greedy_butcher` (in-game name "Greedy Butcher") · no completion popup/entry · see ramblings doc
+
+
+:: The Cradle Likes It Raw [rambling] {"position":"2350,4400","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_cradle_likes_it_raw · fires on advancement `biomancy:biomancy/cooked_meat_sacrifice` (in-game name "Cooked Meat Disrelish") · no completion popup/entry · see ramblings doc
+
+
+:: Paste for the Pets [rambling] {"position":"2500,4400","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/paste_for_the_pets · fires on advancement `biomancy:biomancy/digester` (in-game name "Yummy Paste") · no completion popup/entry · see ramblings doc
+
+
+:: Every Meat, Sire [rambling] {"position":"2650,4400","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_meat_sire · fires on advancement `biomancy:biomancy/raw_meat_collection` (in-game name "Collector of Raw Meats") · no completion popup/entry · see ramblings doc
+
+
+:: Brewing With Guts [rambling] {"position":"2800,4400","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/brewing_with_guts · fires on advancement `biomancy:biomancy/bio_lab` (in-game name "Is this still Alchemy?") · no completion popup/entry · see ramblings doc
+
+
+:: Exotic, Probably Toxic [rambling] {"position":"2950,4400","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/exotic_probably_toxic · fires on advancement `biomancy:biomancy/exotic_compounds` (in-game name "Exotic Bio-Alchemy") · no completion popup/entry · see ramblings doc
+
+
+:: Meddling With Growth [rambling] {"position":"3100,4400","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/meddling_with_growth · fires on advancement `biomancy:biomancy/genetic_compounds` (in-game name "Genetic Bio-Alchemy") · no completion popup/entry · see ramblings doc
+
+
+:: Secretions, Bottled [rambling] {"position":"3250,4400","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/secretions_bottled · fires on advancement `biomancy:biomancy/organic_compounds` (in-game name "Organic Bio-Alchemy") · no completion popup/entry · see ramblings doc
+
+
+:: You Cured It? Why? [rambling] {"position":"3400,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/you_cured_it_why · fires on advancement `eidolon:cure_zombie` (in-game name "Curse Lifted") · no completion popup/entry · see ramblings doc
+
+
+:: Chanting at Strays [rambling] {"position":"3550,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/chanting_at_strays · fires on advancement `eidolon:frost_spell` (in-game name "Call of Winter") · no completion popup/entry · see ramblings doc
+
+
+:: Healing? Wash Your Hands. [rambling] {"position":"3700,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/healing_wash_your_hands · fires on advancement `eidolon:lay_on_hands` (in-game name "Healing Touch") · no completion popup/entry · see ramblings doc
+
+
+:: Priests Teach Now? [rambling] {"position":"3850,4400","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/priests_teach_now · fires on advancement `eidolon:sacred_path` (in-game name "The Sacred Path") · no completion popup/entry · see ramblings doc
+
+
+:: A Goblet, Filled [rambling] {"position":"1000,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_goblet_filled · fires on advancement `eidolon:sacrifice` (in-game name "Blood for the Dark One") · no completion popup/entry · see ramblings doc
+
+
+:: Smiting Is Rude [rambling] {"position":"1150,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/smiting_is_rude · fires on advancement `eidolon:smite_undead` (in-game name "The light's Fury") · no completion popup/entry · see ramblings doc
+
+
+:: One Fewer Peasant [rambling] {"position":"1300,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/one_fewer_peasant · fires on advancement `eidolon:villager_sacrifice` (in-game name "A Greater Sacrifice") · no completion popup/entry · see ramblings doc
+
+
+:: Witches Know Best [rambling] {"position":"1450,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/witches_know_best · fires on advancement `eidolon:wicked_path` (in-game name "The Wicked Path") · no completion popup/entry · see ramblings doc
+
+
+:: Soup, But Worse [rambling] {"position":"1600,4550","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/soup_but_worse · fires on advancement `eidolon:crucible` (in-game name "Alchemical Soup") · no completion popup/entry · see ramblings doc
+
+
+:: The Dead Obey You [rambling] {"position":"1750,4550","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_dead_obey_you · fires on advancement `eidolon:enthrall_undead` (in-game name "A New Servant") · no completion popup/entry · see ramblings doc
+
+
+:: Harvest Season [rambling] {"position":"1900,4550","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/harvest_season · fires on advancement `eidolon:reaper_scythe` (in-game name "Reaping Time") · no completion popup/entry · see ramblings doc
+
+
+:: Promoted to Zombie [rambling] {"position":"2050,4550","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/promoted_to_zombie · fires on advancement `eidolon:zombify` (in-game name "A New Recruit for the Dark") · no completion popup/entry · see ramblings doc
+
+
+:: Someone's Crypt, Sire [rambling] {"position":"2200,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/someones_crypt_sire · fires on advancement `irons_spellbooks:irons_spellbooks/enter_catacombs` (in-game name "Dungeon Delving") · no completion popup/entry · see ramblings doc
+
+
+:: Ink Fit for a Tyrant [rambling] {"position":"2350,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/ink_fit_for_a_tyrant · fires on advancement `irons_spellbooks:irons_spellbooks/ink_legendary` (in-game name "Premium!") · no completion popup/entry · see ramblings doc
+
+
+:: Follow the Needle [rambling] {"position":"2500,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/follow_the_needle · fires on advancement `irons_spellbooks:irons_spellbooks/make_wayward_compass` (in-game name "And so a Quest Begins!") · no completion popup/entry · see ramblings doc
+
+
+:: A Dead King's Diary [rambling] {"position":"2650,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_dead_kings_diary · fires on advancement `irons_spellbooks:irons_spellbooks/spell_book_dead_king` (in-game name "Necronomicon") · no completion popup/entry · see ramblings doc
+
+
+:: Bound in Dragon [rambling] {"position":"2800,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/bound_in_dragon · fires on advancement `irons_spellbooks:irons_spellbooks/spell_book_dragon` (in-game name "Elder Power") · no completion popup/entry · see ramblings doc
+
+
+:: Stolen From Illagers [rambling] {"position":"2950,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stolen_from_illagers · fires on advancement `irons_spellbooks:irons_spellbooks/spell_book_evoker` (in-game name "Grimoire of Evokation") · no completion popup/entry · see ramblings doc
+
+
+:: A Peasant's Prayer Book [rambling] {"position":"3100,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_peasants_prayer_book · fires on advancement `irons_spellbooks:irons_spellbooks/spell_book_villager` (in-game name "Enlightenment") · no completion popup/entry · see ramblings doc
+
+
+:: Wizards Hate Sharing [rambling] {"position":"3250,4550","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/wizards_hate_sharing · fires on advancement `irons_spellbooks:irons_spellbooks/steal_from_wizard` (in-game name "A Fool's Folly") · no completion popup/entry · see ramblings doc
+
+
+:: A Stick That Burns [rambling] {"position":"3400,4550","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_stick_that_burns · fires on advancement `irons_spellbooks:irons_spellbooks/staff_pyrium` (in-game name "Ancient Beckonings") · no completion popup/entry · see ramblings doc
+
+
+:: Mouldy Magic [rambling] {"position":"3550,4550","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/mouldy_magic · fires on advancement `irons_spellbooks:irons_spellbooks/spell_book_rotten` (in-game name "How long's this been here?") · no completion popup/entry · see ramblings doc
+
+
+:: Written in You [rambling] {"position":"3700,4550","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/written_in_you · fires on advancement `irons_spellbooks:irons_spellbooks/spell_book_blood` (in-game name "A piece of Yourself") · no completion popup/entry · see ramblings doc
+
+
+:: The Dead King's Sceptre [rambling] {"position":"3850,4550","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_dead_kings_sceptre · fires on advancement `irons_spellbooks:irons_spellbooks/staff_blood_staff` (in-game name "Staff of Blood") · no completion popup/entry · see ramblings doc
+
+
+:: An Old Codex, Restored [rambling] {"position":"1000,4700","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/an_old_codex_restored · fires on advancement `irons_spellbooks:irons_spellbooks/spell_book_netherite` (in-game name "Ancient Knowledge") · no completion popup/entry · see ramblings doc
+
+
+:: Pelting Raiders, Sire? [rambling] {"position":"1150,4700","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/pelting_raiders_sire · fires on advancement `farmersdelight:main/hit_raider_with_rotten_tomato` (in-game name "Boo! Hiss!") · no completion popup/entry · see ramblings doc
+
+
+:: A Knife Too Fancy [rambling] {"position":"1300,4700","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_knife_too_fancy · fires on advancement `farmersdelight:main/obtain_netherite_knife` (in-game name "If You Can't Take the Heat...") · no completion popup/entry · see ramblings doc
+
+
+:: Balanced Meals, How Dull [rambling] {"position":"1450,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/balanced_meals_how_dull · fires on advancement `farmersdelight:main/eat_nourishing_food` (in-game name "Nourishing!") · no completion popup/entry · see ramblings doc
+
+
+:: Ham, Freshly Liberated [rambling] {"position":"1600,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/ham_freshly_liberated · fires on advancement `farmersdelight:main/get_ham` (in-game name "Wild Butcher") · no completion popup/entry · see ramblings doc
+
+
+:: Fungus Farming [rambling] {"position":"1750,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/fungus_farming · fires on advancement `farmersdelight:main/get_mushroom_colony` (in-game name "Fungus Among Us") · no completion popup/entry · see ramblings doc
+
+
+:: Every Dish, Devoured [rambling] {"position":"1900,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_dish_devoured · fires on advancement `farmersdelight:main/master_chef` (in-game name "Master Chef") · no completion popup/entry · see ramblings doc
+
+
+:: Every Seed Planted [rambling] {"position":"2050,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_seed_planted · fires on advancement `farmersdelight:main/plant_all_crops` (in-game name "Crop Rotation") · no completion popup/entry · see ramblings doc
+
+
+:: A Pot Full of Mana [rambling] {"position":"2200,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_pot_full_of_mana · fires on advancement `farmers_spell:alchemist_pot` (in-game name "Brimming with Mana") · no completion popup/entry · see ramblings doc
+
+
+:: Blood Tofu. Really. [rambling] {"position":"2350,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/blood_tofu_really · fires on advancement `farmers_spell:blood_tofu` (in-game name "Coagulated Blood...") · no completion popup/entry · see ramblings doc
+
+
+:: Vintage From the Crypt [rambling] {"position":"2500,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/vintage_from_the_crypt · fires on advancement `farmers_spell:catacombs_wine` (in-game name "Vintage Bloodline") · no completion popup/entry · see ramblings doc
+
+
+:: Gluttony, Seasoned [rambling] {"position":"2650,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/gluttony_seasoned · fires on advancement `farmers_spell:chef_ratatouille` (in-game name "Chef Ratatouille") · no completion popup/entry · see ramblings doc
+
+
+:: Bread That Sinks Ships [rambling] {"position":"2800,4700","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/bread_that_sinks_ships · fires on advancement `farmers_spell:icebreaker_bread` (in-game name "Titantic Bread") · no completion popup/entry · see ramblings doc
+
+
+:: Every Monster Carved [rambling] {"position":"2950,4700","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_monster_carved · fires on advancement `dungeonsdelight:main/all_knife_mob_drops` (in-game name "Gastrocryptozoologist") · no completion popup/entry · see ramblings doc
+
+
+:: Who's the Monster Now? [rambling] {"position":"3100,4700","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/whos_the_monster_now · fires on advancement `dungeonsdelight:main/all_monster_effects` (in-game name "Monsters Smashed") · no completion popup/entry · see ramblings doc
+
+
+:: An Entire Horse, Sire? [rambling] {"position":"3250,4700","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/an_entire_horse_sire · fires on advancement `dungeonsdelight:main/eat_horse` (in-game name "How Hungry...?") · no completion popup/entry · see ramblings doc
+
+
+:: Yams Turned on Yams [rambling] {"position":"3400,4700","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/yams_turned_on_yams · fires on advancement `dungeonsdelight:main/use_gunk_arrow_on_monster_yam` (in-game name "Septic Tank") · no completion popup/entry · see ramblings doc
+
+
+:: The Cleaver of Heresy [rambling] {"position":"3550,4700","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_cleaver_of_heresy · fires on advancement `dungeonsdelight:main/get_netherite_cleaver` (in-game name "Cutlery of Apostasy") · no completion popup/entry · see ramblings doc
+
+
+:: Spawner Scrap [rambling] {"position":"3700,4700","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/spawner_scrap · fires on advancement `dungeonsdelight:main/get_stained_scrap` (in-game name "Heavy Metal") · no completion popup/entry · see ramblings doc
+
+
+:: A Blade That Drinks [rambling] {"position":"3850,4700","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_blade_that_drinks · fires on advancement `dungeonsdelight:main/get_stained_weapon` (in-game name "A Slice of Life") · no completion popup/entry · see ramblings doc
+
+
+:: Ate the Whole Dungeon [rambling] {"position":"1000,4850","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/ate_the_whole_dungeon · fires on advancement `dungeonsdelight:main/all_dungeonsdelight_foods` (in-game name "Meal of Champions") · no completion popup/entry · see ramblings doc
+
+
+:: Every Monster Morsel [rambling] {"position":"1150,4850","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_monster_morsel · fires on advancement `dungeonsdelight:main/all_monster_foods` (in-game name "The Privilege of The Living") · no completion popup/entry · see ramblings doc
+
+
+:: Bloody Mary, Bottoms Up [rambling] {"position":"1300,4850","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/bloody_mary_bottoms_up · fires on advancement `dungeonsdelight:main/eat_bloody_mary` (in-game name "Bloody Mary Challenge") · no completion popup/entry · see ramblings doc
+
+
+:: Monster Cuisine [rambling] {"position":"1450,4850","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/monster_cuisine · fires on advancement `dungeonsdelight:main/eat_monster_food` (in-game name "Ah, Dungeon Food") · no completion popup/entry · see ramblings doc
+
+
+:: A Pot for Monsters [rambling] {"position":"1600,4850","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_pot_for_monsters · fires on advancement `dungeonsdelight:main/place_monster_pot` (in-game name "Delicious in a Dungeon") · no completion popup/entry · see ramblings doc
+
+
+:: Well, That Collapsed [rambling] {"position":"1750,4850","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/well_that_collapsed · fires on advancement `display_case:collapse` (in-game name "The collapse") · no completion popup/entry · see ramblings doc
+
+
+:: A Case in a Case [rambling] {"position":"1900,4850","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_case_in_a_case · fires on advancement `display_case:infinity_case` (in-game name "To infinity and beyond") · no completion popup/entry · see ramblings doc
+
+
+:: Untouched by the Third [rambling] {"position":"2050,4850","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/untouched_by_the_third · fires on advancement `block_factorys_bosses:no_hit_underworld_knight` (in-game name "Beyond Death") · no completion popup/entry · see ramblings doc
+
+
+:: Under a Minute, Sire! [rambling] {"position":"2200,4850","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/under_a_minute_sire · fires on advancement `block_factorys_bosses:kill_boss_under_minute` (in-game name "Overclocker") · no completion popup/entry · see ramblings doc
+
+
+:: Not a Scorch Mark [rambling] {"position":"2350,4850","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/not_a_scorch_mark · fires on advancement `block_factorys_bosses:no_hit_dragon` (in-game name "Dragon Hunter") · no completion popup/entry · see ramblings doc
+
+
+:: Dry as a Bone [rambling] {"position":"2500,4850","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dry_as_a_bone · fires on advancement `block_factorys_bosses:no_hit_kraken` (in-game name "Wraith of the Tide") · no completion popup/entry · see ramblings doc
+
+
+:: Not Even Sandy [rambling] {"position":"2650,4850","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/not_even_sandy · fires on advancement `block_factorys_bosses:no_hit_sandworm` (in-game name "Desert Power") · no completion popup/entry · see ramblings doc
+
+
+:: Not a Scratch in the Snow [rambling] {"position":"2800,4850","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/not_a_scratch_in_the_snow · fires on advancement `block_factorys_bosses:no_hit_yeti` (in-game name "King of the Hill") · no completion popup/entry · see ramblings doc
+
+
+:: Well, That Went Badly [rambling] {"position":"2950,4850","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/well_that_went_badly · fires on advancement `block_factorys_bosses:die_boss` (in-game name "Bosses' Rise") · no completion popup/entry · see ramblings doc
+
+
+:: Shellfish, Shelled [rambling] {"position":"3100,4850","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/shellfish_shelled · fires on advancement `cataclysm:kill_clawdian` (in-game name "Not so Shrimple Now") · no completion popup/entry · see ramblings doc
+
+
+:: A Golem, Rift-Flavoured [rambling] {"position":"3250,4850","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_golem_rift_flavoured · fires on advancement `cataclysm:kill_ender_golem` (in-game name "Palette Swap") · no completion popup/entry · see ramblings doc
+
+
+:: Put Out That Fire [rambling] {"position":"3400,4850","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/put_out_that_fire · fires on advancement `cataclysm:kill_revenant` (in-game name "Imperfect thing") · no completion popup/entry · see ramblings doc
+
+
+:: Every Scar Settled [rambling] {"position":"3550,4850","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_scar_settled · fires on advancement `cataclysm:kill_all_bosses` (in-game name "The Cataclysmfarer") · no completion popup/entry · see ramblings doc
+
+
+:: Corruption, How Lovely [rambling] {"position":"3700,4850","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/corruption_how_lovely · fires on advancement `graveyard:graveyard/corruption` (in-game name "Source of Evil") · no completion popup/entry · see ramblings doc
+
+
+:: Mushrooms Gone Wrong [rambling] {"position":"3850,4850","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/mushrooms_gone_wrong · fires on advancement `graveyard:graveyard/giant_mushroom` (in-game name "Corrupting the Paradise") · no completion popup/entry · see ramblings doc
+
+
+:: Tea With the Dead [rambling] {"position":"1000,5000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/tea_with_the_dead · fires on advancement `graveyard:graveyard/haunted_house` (in-game name "Invitation to the Tea Party") · no completion popup/entry · see ramblings doc
+
+
+:: Blind, Still Deadly [rambling] {"position":"1150,5000","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/blind_still_deadly · fires on advancement `graveyard:graveyard/kill_while_blinded` (in-game name "Peekaboo, I (still) see you!") · no completion popup/entry · see ramblings doc
+
+
+:: Iron With Taste [rambling] {"position":"1300,5000","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/iron_with_taste · fires on advancement `graveyard:graveyard/dark_iron` (in-game name "Iron, but dark") · no completion popup/entry · see ramblings doc
+
+
+:: The Tree Remembers [rambling] {"position":"1450,5000","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_tree_remembers · fires on advancement `graveyard:graveyard/dead_tree` (in-game name "Hanging Tree") · no completion popup/entry · see ramblings doc
+
+
+:: Coffins to Carry [rambling] {"position":"1600,5000","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/coffins_to_carry · fires on advancement `graveyard:graveyard/equip_ghouling_coffin` (in-game name "The dead shall serve") · no completion popup/entry · see ramblings doc
+
+
+:: Their Own Dagger [rambling] {"position":"1750,5000","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/their_own_dagger · fires on advancement `graveyard:graveyard/kill_acolyte_bone_dagger` (in-game name "Turning the tables") · no completion popup/entry · see ramblings doc
+
+
+:: A Horde, Unmade [rambling] {"position":"1900,5000","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_horde_unmade · fires on advancement `graveyard:graveyard/kill_horde` (in-game name "Walking Dead") · no completion popup/entry · see ramblings doc
+
+
+:: Wraiths Hate Grave Robbers [rambling] {"position":"2050,5000","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/wraiths_hate_grave_robbers · fires on advancement `graveyard:graveyard/kill_wraith` (in-game name "Taking from the Dead") · no completion popup/entry · see ramblings doc
+
+
+:: Voluntary Donations [rambling] {"position":"2200,5000","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/voluntary_donations · fires on advancement `graveyard:graveyard/vial_of_blood` (in-game name "Blood "Donation"") · no completion popup/entry · see ramblings doc
+
+
+:: Best Friends With a Bee [rambling] {"position":"2350,5000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/best_friends_with_a_bee · fires on advancement `the_bumblezone:beehemoth/queen_beehemoth` (in-game name "Regal Friends Till The Very End!") · no completion popup/entry · see ramblings doc
+
+
+:: A Bee You Can Ride [rambling] {"position":"2500,5000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_bee_you_can_ride · fires on advancement `the_bumblezone:beehemoth/tamed_beehemoth` (in-game name "Bee Movie But It's 300% Larger") · no completion popup/entry · see ramblings doc
+
+
+:: NOT THE BEES, Sire! [rambling] {"position":"2650,5000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/not_the_bees_sire · fires on advancement `the_bumblezone:effects/bee_hit_wrath_of_the_hive` (in-game name "NOT THE BEEEEEES!!!") · no completion popup/entry · see ramblings doc
+
+
+:: You Drank It? Sweet Gods. [rambling] {"position":"2800,5000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/you_drank_it_sweet_gods · fires on advancement `the_bumblezone:essence/bee_essence_infusion` (in-game name "Hope, Love, Dreams, and BEES!!!") · no completion popup/entry · see ramblings doc
+
+
+:: A Sanctum. Of Bees. [rambling] {"position":"2950,5000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_sanctum_of_bees · fires on advancement `the_bumblezone:structures/enter_sempiternal_sanctum` (in-game name "Ancient Origins") · no completion popup/entry · see ramblings doc
+
+
+:: The Bee Queen's Errands [rambling] {"position":"3100,5000","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_bee_queens_errands · fires on advancement `the_bumblezone:the_queens_desire/the_beginning` (in-game name "The Queen's Desire") · no completion popup/entry · see ramblings doc
+
+
+:: The Blue Sanctum Falls [rambling] {"position":"3250,5000","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_blue_sanctum_falls · fires on advancement `the_bumblezone:essence/essence_calming` (in-game name "Peace and Love") · no completion popup/entry · see ramblings doc
+
+
+:: The White Sanctum Falls [rambling] {"position":"3400,5000","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_white_sanctum_falls · fires on advancement `the_bumblezone:essence/essence_continuity` (in-game name "Reality Glitch") · no completion popup/entry · see ramblings doc
+
+
+:: The Purple Sanctum Falls [rambling] {"position":"3550,5000","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_purple_sanctum_falls · fires on advancement `the_bumblezone:essence/essence_knowing` (in-game name "The All-Seeing") · no completion popup/entry · see ramblings doc
+
+
+:: The Green Sanctum Falls [rambling] {"position":"3700,5000","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_green_sanctum_falls · fires on advancement `the_bumblezone:essence/essence_life` (in-game name "Blessings of Life") · no completion popup/entry · see ramblings doc
+
+
+:: The Yellow Sanctum Falls [rambling] {"position":"3850,5000","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_yellow_sanctum_falls · fires on advancement `the_bumblezone:essence/essence_radiance` (in-game name "Solar Powered") · no completion popup/entry · see ramblings doc
+
+
+:: The Red Sanctum Falls [rambling] {"position":"1000,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_red_sanctum_falls · fires on advancement `the_bumblezone:essence/essence_raging` (in-game name "Unstoppable Anger") · no completion popup/entry · see ramblings doc
+
+
+:: Buzzing Ballads, All of Them [rambling] {"position":"1150,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/buzzing_ballads_all_of_them · fires on advancement `the_bumblezone:music_discs/obtain_all_music_discs` (in-game name "Gotta Hive a Dance!") · no completion popup/entry · see ramblings doc
+
+
+:: Stung Stiff [rambling] {"position":"1300,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stung_stiff · fires on advancement `the_bumblezone:stinger_spear/stinger_spear_paralyze_boss` (in-game name "Getting Favorable Odds") · no completion popup/entry · see ramblings doc
+
+
+:: Stingers, Reattached [rambling] {"position":"1450,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stingers_reattached · fires on advancement `the_bumblezone:the_queens_desire/back_in_action` (in-game name "Back in Action") · no completion popup/entry · see ramblings doc
+
+
+:: 128 Trades With a Bug [rambling] {"position":"1600,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/128_trades_with_a_bug · fires on advancement `the_bumblezone:the_queens_desire/crazy_trader` (in-game name "Crazy Trader") · no completion popup/entry · see ramblings doc
+
+
+:: Silverfish, Squished [rambling] {"position":"1750,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/silverfish_squished · fires on advancement `the_bumblezone:the_queens_desire/fighting_the_swarm` (in-game name "Fighting the Swarm") · no completion popup/entry · see ramblings doc
+
+
+:: Landlord to Bees [rambling] {"position":"1900,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/landlord_to_bees · fires on advancement `the_bumblezone:the_queens_desire/flooding_the_housing_market` (in-game name "Flooding the Housing Market") · no completion popup/entry · see ramblings doc
+
+
+:: Bee Matchmaker [rambling] {"position":"2050,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/bee_matchmaker · fires on advancement `the_bumblezone:the_queens_desire/love_bees` (in-game name "Love bees") · no completion popup/entry · see ramblings doc
+
+
+:: Mites Begone [rambling] {"position":"2200,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/mites_begone · fires on advancement `the_bumblezone:the_queens_desire/otherworldly_mites` (in-game name "Otherworldly Mites") · no completion popup/entry · see ramblings doc
+
+
+:: The Wither, by Bee [rambling] {"position":"2350,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_wither_by_bee · fires on advancement `the_bumblezone:the_queens_desire/peak_inefficiency` (in-game name "Peak Inefficiency") · no completion popup/entry · see ramblings doc
+
+
+:: Stinger Volleys [rambling] {"position":"2500,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stinger_volleys · fires on advancement `the_bumblezone:the_queens_desire/poison_warfare` (in-game name "Poison Warfare") · no completion popup/entry · see ramblings doc
+
+
+:: Pollen to the Face [rambling] {"position":"2650,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/pollen_to_the_face · fires on advancement `the_bumblezone:the_queens_desire/pollen_fight` (in-game name "Pollen Fight") · no completion popup/entry · see ramblings doc
+
+
+:: Cave Spiders, Culled [rambling] {"position":"2800,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/cave_spiders_culled · fires on advancement `the_bumblezone:the_queens_desire/terror_fangs` (in-game name "Terror Fangs") · no completion popup/entry · see ramblings doc
+
+
+:: Flower Fiend [rambling] {"position":"2950,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/flower_fiend · fires on advancement `the_bumblezone:the_queens_desire/the_crazy_florist` (in-game name "The Crazy Florist") · no completion popup/entry · see ramblings doc
+
+
+:: Dragon Slain in Bee Armour [rambling] {"position":"3100,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dragon_slain_in_bee_armour · fires on advancement `the_bumblezone:the_queens_desire/the_great_dragon_slayer` (in-game name "The Great Dragon Slayer") · no completion popup/entry · see ramblings doc
+
+
+:: Spiders by the Dozen [rambling] {"position":"3250,5150","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/spiders_by_the_dozen · fires on advancement `the_bumblezone:the_queens_desire/too_many_legs` (in-game name "Too Many Legs") · no completion popup/entry · see ramblings doc
+
+
+:: Dressed as a Bee. Proudly. [rambling] {"position":"3400,5150","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dressed_as_a_bee_proudly · fires on advancement `the_bumblezone:armor/warrior_bee` (in-game name "The Bee Warrior Rises!") · no completion popup/entry · see ramblings doc
+
+
+:: The Sweetest Shield [rambling] {"position":"3550,5150","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_sweetest_shield · fires on advancement `the_bumblezone:honey_crystal_shield/obtain_maxed_honey_crystal_shield` (in-game name "Grand Hive Defender") · no completion popup/entry · see ramblings doc
+
+
+:: Royal Jelly, Gulped [rambling] {"position":"3700,5150","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/royal_jelly_gulped · fires on advancement `the_bumblezone:honey_bucket/drink_royal_jelly_bottle` (in-game name "Gaining Royal Powers") · no completion popup/entry · see ramblings doc
+
+
+:: A Bucket of Jelly [rambling] {"position":"3850,5150","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_bucket_of_jelly · fires on advancement `the_bumblezone:honey_bucket/obtain_royal_jelly_bucket` (in-game name "Masterful Collector") · no completion popup/entry · see ramblings doc
+
+
+:: Drunk on Honey [rambling] {"position":"1000,5300","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/drunk_on_honey · fires on advancement `the_bumblezone:the_queens_desire/honey_drunk` (in-game name "Honey Drunk") · no completion popup/entry · see ramblings doc
+
+
+:: Feeding Bees. Ugh. [rambling] {"position":"1150,5300","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/feeding_bees_ugh · fires on advancement `the_bumblezone:the_queens_desire/hungry_hungry_bees` (in-game name "Hungry Hungry Bees") · no completion popup/entry · see ramblings doc
+
+
+:: Honey Slimes, Breeding [rambling] {"position":"1300,5300","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/honey_slimes_breeding · fires on advancement `the_bumblezone:the_queens_desire/slimy_mitosis` (in-game name "Slimy Mitosis") · no completion popup/entry · see ramblings doc
+
+
+:: Fishing in Honey [rambling] {"position":"1450,5300","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/fishing_in_honey · fires on advancement `the_bumblezone:tools/fish_rare_loot` (in-game name "Beesistent Fishing") · no completion popup/entry · see ramblings doc
+
+
+:: Every Sticky Corner [rambling] {"position":"1600,5300","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_sticky_corner · fires on advancement `the_bumblezone:biomes/discover_all_biomes` (in-game name "Beeography") · no completion popup/entry · see ramblings doc
+
+
+:: Every Hive Explored [rambling] {"position":"1750,5300","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_hive_explored · fires on advancement `the_bumblezone:structures/enter_all_structures` (in-game name "Sightbee-er") · no completion popup/entry · see ramblings doc
+
+
+:: Filth, Refined [rambling] {"position":"1900,5300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/filth_refined · fires on advancement `rats:ball_of_filth` (in-game name "Cleanliness is Close to Godliness!") · no completion popup/entry · see ramblings doc
+
+
+:: Rats at the Bench [rambling] {"position":"2050,5300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rats_at_the_bench · fires on advancement `rats:rat_crafting_table` (in-game name "Rat Auto-Crafting") · no completion popup/entry · see ramblings doc
+
+
+:: Rats From the Netherworld [rambling] {"position":"2200,5300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rats_from_the_netherworld · fires on advancement `rats:rat_upgrade_demon` (in-game name "I Seen This Before...") · no completion popup/entry · see ramblings doc
+
+
+:: Rats With Wings. Why. [rambling] {"position":"2350,5300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rats_with_wings_why · fires on advancement `rats:rat_upgrade_flight` (in-game name "Essentially Pigeons") · no completion popup/entry · see ramblings doc
+
+
+:: A God-Rat, Sire? [rambling] {"position":"2500,5300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_god_rat_sire · fires on advancement `rats:rat_upgrade_god` (in-game name "Whats a Man to a King?") · no completion popup/entry · see ramblings doc
+
+
+:: Piglins Worship Rats Now [rambling] {"position":"2650,5300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/piglins_worship_rats_now · fires on advancement `rats:rat_upgrade_idol` (in-game name "False Prophet") · no completion popup/entry · see ramblings doc
+
+
+:: Pickpocket Rats [rambling] {"position":"2800,5300","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/pickpocket_rats · fires on advancement `rats:rat_upgrade_pickpocket` (in-game name "Talk of the Town") · no completion popup/entry · see ramblings doc
+
+
+:: Every Hat, Rat-Sized [rambling] {"position":"2950,5300","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_hat_rat_sized · fires on advancement `rats:all_hats` (in-game name "Grand Hat Collector") · no completion popup/entry · see ramblings doc
+
+
+:: The Plague Doctor Falls [rambling] {"position":"3100,5300","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_plague_doctor_falls · fires on advancement `rats:defeat_black_death` (in-game name "Do Not Go Quietly Into the Night") · no completion popup/entry · see ramblings doc
+
+
+:: The Rat King Falls [rambling] {"position":"3250,5300","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_rat_king_falls · fires on advancement `rats:defeat_rat_king` (in-game name "King of the World!") · no completion popup/entry · see ramblings doc
+
+
+:: The Piper's Tune [rambling] {"position":"3400,5300","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_pipers_tune · fires on advancement `rats:piper` (in-game name "Pay the Piper") · no completion popup/entry · see ramblings doc
+
+
+:: A Tune Worth Stealing [rambling] {"position":"3550,5300","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_tune_worth_stealing · fires on advancement `rats:rat_music_disc` (in-game name "Rat Tunes") · no completion popup/entry · see ramblings doc
+
+
+:: Rats in Armour [rambling] {"position":"3700,5300","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rats_in_armour · fires on advancement `rats:rat_upgrade_warrior` (in-game name "Rat Warrior Clan") · no completion popup/entry · see ramblings doc
+
+
+:: Rat-Touched Rations [rambling] {"position":"3850,5300","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rat_touched_rations · fires on advancement `rats:contaminated_food` (in-game name "Stop that Health Inspector!") · no completion popup/entry · see ramblings doc
+
+
+:: Cheese From the Netherworld [rambling] {"position":"1000,5450","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/cheese_from_the_netherworld · fires on advancement `rats:nether_cheese` (in-game name "Spicy Pepper Jack") · no completion popup/entry · see ramblings doc
+
+
+:: Rat Cuisine [rambling] {"position":"1150,5450","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rat_cuisine · fires on advancement `rats:rat_cooking` (in-game name "Anyone Can Cook") · no completion popup/entry · see ramblings doc
+
+
+:: Rat, Head Chef [rambling] {"position":"1300,5450","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rat_head_chef · fires on advancement `rats:rat_upgrade_chef` (in-game name "The Rat is the Cook!") · no completion popup/entry · see ramblings doc
+
+
+:: You've Caught Something [rambling] {"position":"1450,5450","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/youve_caught_something · fires on advancement `rats:plague` (in-game name "Down with the Sickness!") · no completion popup/entry · see ramblings doc
+
+
+:: Leeches Were Optional [rambling] {"position":"1600,5450","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/leeches_were_optional · fires on advancement `rats:plague_cure` (in-game name "The Medieval Treatment") · no completion popup/entry · see ramblings doc
+
+
+:: Beaked Quack [rambling] {"position":"1750,5450","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/beaked_quack · fires on advancement `rats:plague_doctor` (in-game name "I AM THE CURE!") · no completion popup/entry · see ramblings doc
+
+
+:: Death Dances In [rambling] {"position":"1900,5450","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/death_dances_in · fires on advancement `rats:black_death` (in-game name "Dance Macabre!") · no completion popup/entry · see ramblings doc
+
+
+:: Rats of the Deep Dark [rambling] {"position":"2050,5450","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rats_of_the_deep_dark · fires on advancement `rats:rat_upgrade_sculked` (in-game name "One with the Souls") · no completion popup/entry · see ramblings doc
+
+
+:: Garlic in a Bottle [rambling] {"position":"2200,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/garlic_in_a_bottle · fires on advancement `nycto:nycto/brew_garlic_brew` (in-game name "Holy Water") · no completion popup/entry · see ramblings doc
+
+
+:: Hunters for Hire [rambling] {"position":"2350,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/hunters_for_hire · fires on advancement `nycto:nycto/buy_hunter_contract` (in-game name "Contract Killer") · no completion popup/entry · see ramblings doc
+
+
+:: Fully Undead [rambling] {"position":"2500,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/fully_undead · fires on advancement `nycto:nycto/complete_vampire` (in-game name "Taste of Eternity") · no completion popup/entry · see ramblings doc
+
+
+:: Not So Eternal [rambling] {"position":"2650,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/not_so_eternal · fires on advancement `nycto:nycto/kill_vampire` (in-game name "Not So Immortal") · no completion popup/entry · see ramblings doc
+
+
+:: Stake Through the Heart [rambling] {"position":"2800,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stake_through_the_heart · fires on advancement `nycto:nycto/kill_vampire_with_wooden_stake` (in-game name "Shot Through The Heart") · no completion popup/entry · see ramblings doc
+
+
+:: A Garlic Halberd [rambling] {"position":"2950,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_garlic_halberd · fires on advancement `nycto:nycto/obtain_garlic_coated_halberd` (in-game name "Seasoned Warrior") · no completion popup/entry · see ramblings doc
+
+
+:: Garlic Jewellery [rambling] {"position":"3100,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/garlic_jewellery · fires on advancement `nycto:nycto/obtain_garlic_wreath` (in-game name "It's Called Aura") · no completion popup/entry · see ramblings doc
+
+
+:: Coffin Naps [rambling] {"position":"3250,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/coffin_naps · fires on advancement `nycto:nycto/sleep_in_coffin` (in-game name "Rest in Peace") · no completion popup/entry · see ramblings doc
+
+
+:: Garlic to the Face [rambling] {"position":"3400,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/garlic_to_the_face · fires on advancement `nycto:nycto/use_garlic_brew_on_vampire` (in-game name "Night of the Living") · no completion popup/entry · see ramblings doc
+
+
+:: Dressed as a Hunter [rambling] {"position":"3550,5450","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dressed_as_a_hunter · fires on advancement `nycto:nycto/wear_vampire_hunter_armor` (in-game name "Van Helsing") · no completion popup/entry · see ramblings doc
+
+
+:: Old Tools, New Edge [rambling] {"position":"3700,5450","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/old_tools_new_edge · fires on advancement `fathoms:nautical/upgrade_ornate_tool` (in-game name "Former Glory") · no completion popup/entry · see ramblings doc
+
+
+:: The Maelstrom Wakes [rambling] {"position":"3850,5450","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_maelstrom_wakes · fires on advancement `fathoms:nautical/activate_conduit` (in-game name "Moskstraumen") · no completion popup/entry · see ramblings doc
+
+
+:: Every Rite Mastered [rambling] {"position":"1000,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_rite_mastered · fires on advancement `fathoms:nautical/all_max_level_rituals` (in-game name "Gargantua's Devout") · no completion popup/entry · see ramblings doc
+
+
+:: Cursed, Knowingly [rambling] {"position":"1150,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/cursed_knowingly · fires on advancement `fathoms:nautical/apply_jinx` (in-game name "The Monkey's Paw") · no completion popup/entry · see ramblings doc
+
+
+:: Stone by Lightning [rambling] {"position":"1300,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stone_by_lightning · fires on advancement `fathoms:nautical/calcify_augur` (in-game name "Rapid Calcification") · no completion popup/entry · see ramblings doc
+
+
+:: Every Fish in the Sea [rambling] {"position":"1450,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_fish_in_the_sea · fires on advancement `fathoms:nautical/catch_all_fish` (in-game name "Ol' Mariner") · no completion popup/entry · see ramblings doc
+
+
+:: A Horse Made of Kelp [rambling] {"position":"1600,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_horse_made_of_kelp · fires on advancement `fathoms:nautical/create_kelpie` (in-game name "Transmogrification") · no completion popup/entry · see ramblings doc
+
+
+:: Dredging for Secrets [rambling] {"position":"1750,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dredging_for_secrets · fires on advancement `fathoms:nautical/dredging_apparatus` (in-game name "Dredge the Depths") · no completion popup/entry · see ramblings doc
+
+
+:: Buried in the Deep [rambling] {"position":"1900,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/buried_in_the_deep · fires on advancement `fathoms:nautical/enter_ancient_reservoir` (in-game name "Buried Alive") · no completion popup/entry · see ramblings doc
+
+
+:: Oil-Slick Finery [rambling] {"position":"2050,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/oil_slick_finery · fires on advancement `fathoms:nautical/full_tell_tale_heart_trim_material` (in-game name "Oilman") · no completion popup/entry · see ramblings doc
+
+
+:: A Heart of Oil. Bold. [rambling] {"position":"2200,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_heart_of_oil_bold · fires on advancement `fathoms:nautical/make_a_bad_decision` (in-game name "Heart of Oil") · no completion popup/entry · see ramblings doc
+
+
+:: An Extinct Shell [rambling] {"position":"2350,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/an_extinct_shell · fires on advancement `fathoms:nautical/obtain_nautilus_shell` (in-game name "Extinct Enigma") · no completion popup/entry · see ramblings doc
+
+
+:: A Pylon, Pocketed [rambling] {"position":"2500,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_pylon_pocketed · fires on advancement `fathoms:nautical/obtain_pylon` (in-game name "Bomb Squad") · no completion popup/entry · see ramblings doc
+
+
+:: Turtle-Shell Helm [rambling] {"position":"2650,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/turtle_shell_helm · fires on advancement `fathoms:nautical/obtain_turtle_shell` (in-game name "Turtle Power") · no completion popup/entry · see ramblings doc
+
+
+:: Pirate's Coffer [rambling] {"position":"2800,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/pirates_coffer · fires on advancement `fathoms:nautical/open_coffer` (in-game name "You Are a Pirate") · no completion popup/entry · see ramblings doc
+
+
+:: A Greater Rite [rambling] {"position":"2950,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_greater_rite · fires on advancement `fathoms:nautical/perform_enhanced_ritual` (in-game name "Return to Nature") · no completion popup/entry · see ramblings doc
+
+
+:: The Well Thaws [rambling] {"position":"3100,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_well_thaws · fires on advancement `fathoms:nautical/thaw_wishing_well` (in-game name "Frozen in Time") · no completion popup/entry · see ramblings doc
+
+
+:: Overloaded Pylons [rambling] {"position":"3250,5600","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/overloaded_pylons · fires on advancement `fathoms:nautical/whiplash_lightning` (in-game name "System Overload") · no completion popup/entry · see ramblings doc
+
+
+:: A Staff for Dragons [rambling] {"position":"3400,5600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_staff_for_dragons · fires on advancement `iceandfire:iceandfire/dragon_staff` (in-game name "Dragon Commander") · no completion popup/entry · see ramblings doc
+
+
+:: Jungle Wings Tamed [rambling] {"position":"3550,5600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/jungle_wings_tamed · fires on advancement `iceandfire:iceandfire/tame_amphithere` (in-game name "Jungle Fliers") · no completion popup/entry · see ramblings doc
+
+
+:: Don't Look It in the Eye [rambling] {"position":"3700,5600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dont_look_it_in_the_eye · fires on advancement `iceandfire:iceandfire/tame_cockatrice` (in-game name "Stay Out of my Peripheral!") · no completion popup/entry · see ramblings doc
+
+
+:: Half Horse, Half Hawk [rambling] {"position":"3850,5600","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/half_horse_half_hawk · fires on advancement `iceandfire:iceandfire/tame_hippogryph` (in-game name "Buck Beak") · no completion popup/entry · see ramblings doc
+
+
+:: A Head That Petrifies [rambling] {"position":"1000,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_head_that_petrifies · fires on advancement `iceandfire:iceandfire/gorgon_head` (in-game name "Clash of the Titans") · no completion popup/entry · see ramblings doc
+
+
+:: One Eye Fewer [rambling] {"position":"1150,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/one_eye_fewer · fires on advancement `iceandfire:iceandfire/kill_cyclops` (in-game name "My Name is Nobody") · no completion popup/entry · see ramblings doc
+
+
+:: Worm Out of the Sand [rambling] {"position":"1300,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/worm_out_of_the_sand · fires on advancement `iceandfire:iceandfire/kill_deathworm` (in-game name "The Desert Swimmers") · no completion popup/entry · see ramblings doc
+
+
+:: Ghost Busted [rambling] {"position":"1450,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/ghost_busted · fires on advancement `iceandfire:iceandfire/kill_ghost` (in-game name "Who You Gonna Call?") · no completion popup/entry · see ramblings doc
+
+
+:: Heads Everywhere [rambling] {"position":"1600,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/heads_everywhere · fires on advancement `iceandfire:iceandfire/kill_hydra` (in-game name "The Twelve Labors of Hercules") · no completion popup/entry · see ramblings doc
+
+
+:: Dragonslayer, Sire [rambling] {"position":"1750,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dragonslayer_sire · fires on advancement `iceandfire:iceandfire/kill_if_dragon` (in-game name "Dragonslayer") · no completion popup/entry · see ramblings doc
+
+
+:: Serpent Soup [rambling] {"position":"1900,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/serpent_soup · fires on advancement `iceandfire:iceandfire/kill_sea_serpent` (in-game name "Sea? Not a Problem") · no completion popup/entry · see ramblings doc
+
+
+:: Deaf to Sirens [rambling] {"position":"2050,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/deaf_to_sirens · fires on advancement `iceandfire:iceandfire/kill_siren` (in-game name "Tie me to the Mast") · no completion popup/entry · see ramblings doc
+
+
+:: Brass Birds, Plucked [rambling] {"position":"2200,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/brass_birds_plucked · fires on advancement `iceandfire:iceandfire/kill_stymphalian_bird` (in-game name "Herc was on a Roll!") · no completion popup/entry · see ramblings doc
+
+
+:: Armour for a Dragon [rambling] {"position":"2350,5750","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/armour_for_a_dragon · fires on advancement `iceandfire:iceandfire/dragonarmor` (in-game name "Suit Up") · no completion popup/entry · see ramblings doc
+
+
+:: A Sword Still Burning [rambling] {"position":"2500,5750","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_sword_still_burning · fires on advancement `iceandfire:iceandfire/dragonbone_flaming_sword` (in-game name "A Flaming Sword") · no completion popup/entry · see ramblings doc
+
+
+:: Dragonsteel, Sharpened [rambling] {"position":"2650,5750","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dragonsteel_sharpened · fires on advancement `iceandfire:iceandfire/dragonsteel_weapon` (in-game name "Draconic Evolution") · no completion popup/entry · see ramblings doc
+
+
+:: A Pixie's Wand [rambling] {"position":"2800,5750","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_pixies_wand · fires on advancement `iceandfire:iceandfire/pixie_wand` (in-game name "Where Is My Mind?") · no completion popup/entry · see ramblings doc
+
+
+:: Dragon Chow [rambling] {"position":"2950,5750","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dragon_chow · fires on advancement `iceandfire:iceandfire/dragon_meal` (in-game name "Dragon Growth Hormone") · no completion popup/entry · see ramblings doc
+
+
+:: Every Leaf, Sire [rambling] {"position":"3100,5750","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_leaf_sire · fires on advancement `twilightforest:arborist` (in-game name "Maniacal Dendrologist") · no completion popup/entry · see ramblings doc
+
+
+:: Up the Beanstalk [rambling] {"position":"3250,5750","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/up_the_beanstalk · fires on advancement `twilightforest:beanstalk` (in-game name "Jack and the Beanstalk") · no completion popup/entry · see ramblings doc
+
+
+:: Ghasts From the Sky [rambling] {"position":"3400,5750","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/ghasts_from_the_sky · fires on advancement `twilightforest:ghast_trap` (in-game name "Something Strange in Towerwood") · no completion popup/entry · see ramblings doc
+
+
+:: A Ram, Satisfied [rambling] {"position":"3550,5750","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_ram_satisfied · fires on advancement `twilightforest:quest_ram` (in-game name "Consummate Baaahs") · no completion popup/entry · see ramblings doc
+
+
+:: Unmaking the Unmaker [rambling] {"position":"3700,5750","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/unmaking_the_unmaker · fires on advancement `twilightforest:uncraft_uncrafting_table` (in-game name "A Step too Far") · no completion popup/entry · see ramblings doc
+
+
+:: Giant Theft [rambling] {"position":"3850,5750","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/giant_theft · fires on advancement `twilightforest:giants` (in-game name "I'm on Cloud Nine") · no completion popup/entry · see ramblings doc
+
+
+:: Four Sceptres, One Master [rambling] {"position":"1000,5900","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/four_sceptres_one_master · fires on advancement `twilightforest:lich_scepters` (in-game name "By Our Powers Combined!") · no completion popup/entry · see ramblings doc
+
+
+:: The Acid Rain Clears [rambling] {"position":"1150,5900","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_acid_rain_clears · fires on advancement `twilightforest:progress_merge` (in-game name "Ultimate Showdown") · no completion popup/entry · see ramblings doc
+
+
+:: A Trophy for the Master [rambling] {"position":"1300,5900","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_trophy_for_the_master · fires on advancement `twilightforest:progress_trophy_pedestal` (in-game name "Trophied Champion") · no completion popup/entry · see ramblings doc
+
+
+:: Glass Swords Break [rambling] {"position":"1450,5900","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/glass_swords_break · fires on advancement `twilightforest:break_glass_sword` (in-game name "One Hit Wonder") · no completion popup/entry · see ramblings doc
+
+
+:: Dressed in Fire [rambling] {"position":"1600,5900","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dressed_in_fire · fires on advancement `twilightforest:fiery_set` (in-game name "Gallons of Blood and Tears") · no completion popup/entry · see ramblings doc
+
+
+:: Snake-Scale Armour [rambling] {"position":"1750,5900","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/snake_scale_armour · fires on advancement `twilightforest:naga_armors` (in-game name "Naga Armorer") · no completion popup/entry · see ramblings doc
+
+
+:: Mystery Cake [rambling] {"position":"1900,5900","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/mystery_cake · fires on advancement `twilightforest:experiment_115` (in-game name "Mystery Meat?") · no completion popup/entry · see ramblings doc
+
+
+:: Cake. Forever. [rambling] {"position":"2050,5900","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/cake_forever · fires on advancement `twilightforest:experiment_115_115` (in-game name "Eating 115 Everyday, 115 Years, Forever") · no completion popup/entry · see ramblings doc
+
+
+:: Cake That Returns [rambling] {"position":"2200,5900","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/cake_that_returns · fires on advancement `twilightforest:experiment_115_self_replenishing` (in-game name "Making a note: Huge Success!") · no completion popup/entry · see ramblings doc
+
+
+:: Starving? Hydra Chop. [rambling] {"position":"2350,5900","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/starving_hydra_chop · fires on advancement `twilightforest:hydra_chop` (in-game name "Hydra Chop, Baby!") · no completion popup/entry · see ramblings doc
+
+
+:: The Forest, Eaten [rambling] {"position":"2500,5900","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_forest_eaten · fires on advancement `twilightforest:twilight_dinner` (in-game name "We Dine At Eternal Sundown") · no completion popup/entry · see ramblings doc
+
+
+:: Harming Potions, Chugged [rambling] {"position":"2650,5900","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/harming_potions_chugged · fires on advancement `twilightforest:full_mettle_alchemist` (in-game name "Full Mettle Alchemist") · no completion popup/entry · see ramblings doc
+
+
+:: A Pickaxe for Mazes [rambling] {"position":"2800,5900","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_pickaxe_for_mazes · fires on advancement `twilightforest:mazebreaker` (in-game name "Breaking the Maze") · no completion popup/entry · see ramblings doc
+
+
+:: Maps of Shiny Things [rambling] {"position":"2950,5900","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/maps_of_shiny_things · fires on advancement `twilightforest:ore_map` (in-game name "How Can That Be Worth It?") · no completion popup/entry · see ramblings doc
+
+
+:: A Totem Against Slimming [rambling] {"position":"3100,5900","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_totem_against_slimming · fires on advancement `gnumus:weight_loss_protection` (in-game name "Weight Loss Protection") · no completion popup/entry · see ramblings doc
+
+
+:: A Hat for Haggling [rambling] {"position":"3250,5900","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_hat_for_haggling · fires on advancement `gnumus:worthy_traders_hat` (in-game name "Worthy Trader's Hat") · no completion popup/entry · see ramblings doc
+
+
+:: Big Snout, Brought Down [rambling] {"position":"3400,5900","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/big_snout_brought_down · fires on advancement `gnumus:plan_boar` (in-game name "Plan "Boar"") · no completion popup/entry · see ramblings doc
+
+
+:: Every Pouch, Pinched [rambling] {"position":"3550,5900","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_pouch_pinched · fires on advancement `gnumus:sack_collector` (in-game name "Pouch Collector") · no completion popup/entry · see ramblings doc
+
+
+:: A Rifle, Vintage [rambling] {"position":"3700,5900","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_rifle_vintage · fires on advancement `gnumus:vintage_rifleman` (in-game name "Vintage Rifleman") · no completion popup/entry · see ramblings doc
+
+
+:: Vintage Gadgetry [rambling] {"position":"3850,5900","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/vintage_gadgetry · fires on advancement `gnumus:vintage_technology` (in-game name "Vintage Technology") · no completion popup/entry · see ramblings doc
+
+
+:: A Helmet for Gluttons [rambling] {"position":"1000,6050","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_helmet_for_gluttons · fires on advancement `gnumus:wellfed_warrior` (in-game name "Well-fed Warrior") · no completion popup/entry · see ramblings doc
+
+
+:: A Hearty Gnumu Dinner [rambling] {"position":"1150,6050","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_hearty_gnumu_dinner · fires on advancement `gnumus:hearty_dish` (in-game name "Hearty Dish") · no completion popup/entry · see ramblings doc
+
+
+:: A Goblin in a Barrel [rambling] {"position":"1300,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_goblin_in_a_barrel · fires on advancement `goblins_tyranny:barrel_success` (in-game name "Kinda Sus") · no completion popup/entry · see ramblings doc
+
+
+:: A Droblin of Your Own [rambling] {"position":"1450,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_droblin_of_your_own · fires on advancement `goblins_tyranny:droblin_success` (in-game name "Best Slave Forever") · no completion popup/entry · see ramblings doc
+
+
+:: A Shiny Bug Tamed [rambling] {"position":"1600,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_shiny_bug_tamed · fires on advancement `goblins_tyranny:glitteron_success` (in-game name "A Bug's Life") · no completion popup/entry · see ramblings doc
+
+
+:: Disguised as Cousins [rambling] {"position":"1750,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/disguised_as_cousins · fires on advancement `goblins_tyranny:goblins_disguise_success` (in-game name "Hiding Among Fools") · no completion popup/entry · see ramblings doc
+
+
+:: Waking the Drunk [rambling] {"position":"1900,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/waking_the_drunk · fires on advancement `goblins_tyranny:wake_up_success` (in-game name "Do Not Disturb") · no completion popup/entry · see ramblings doc
+
+
+:: Goblin Prototype, Pinched [rambling] {"position":"2050,6050","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/goblin_prototype_pinched · fires on advancement `goblins_tyranny:prototype_success` (in-game name "This is Mine Now") · no completion popup/entry · see ramblings doc
+
+
+:: Goblin Wings [rambling] {"position":"2200,6050","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/goblin_wings · fires on advancement `goblins_tyranny:skybound_success` (in-game name "To the Sky") · no completion popup/entry · see ramblings doc
+
+
+:: Upgrades, Goblin-Style [rambling] {"position":"2350,6050","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/upgrades_goblin_style · fires on advancement `goblins_tyranny:upgrade_success` (in-game name "Upgrades, People. Upgrades.") · no completion popup/entry · see ramblings doc
+
+
+:: Liquid Fire [rambling] {"position":"2500,6050","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/liquid_fire · fires on advancement `goblins_tyranny:blazing_liquor_success` (in-game name "This is Fine !") · no completion popup/entry · see ramblings doc
+
+
+:: A Deadly Drink [rambling] {"position":"2650,6050","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_deadly_drink · fires on advancement `goblins_tyranny:deadly_liquor_success` (in-game name "I Don't Feel so Good...") · no completion popup/entry · see ramblings doc
+
+
+:: Tastes Like Cousin [rambling] {"position":"2800,6050","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/tastes_like_cousin · fires on advancement `goblins_tyranny:goblins_meat_success` (in-game name "Goblin Eater") · no completion popup/entry · see ramblings doc
+
+
+:: Stew for the Merchant [rambling] {"position":"2950,6050","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stew_for_the_merchant · fires on advancement `goblins_tyranny:mushroom_success` (in-game name "Seeing a Rainbow Road ?") · no completion popup/entry · see ramblings doc
+
+
+:: Peasant to Fish [rambling] {"position":"3100,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/peasant_to_fish · fires on advancement `seadwellers:adv_turn_villager_into_mermorph` (in-game name "Reverse Evolution") · no completion popup/entry · see ramblings doc
+
+
+:: A Mask in the Grove [rambling] {"position":"3250,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_mask_in_the_grove · fires on advancement `mowziesmobs:sneak_grove` (in-game name "Birds of a Feather") · no completion popup/entry · see ramblings doc
+
+
+:: Stolen From a Frostmaw [rambling] {"position":"3400,6050","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/stolen_from_a_frostmaw · fires on advancement `mowziesmobs:steal_ice_crystal` (in-game name "Big Brain™ Time") · no completion popup/entry · see ramblings doc
+
+
+:: Fortunate Grottol [rambling] {"position":"3550,6050","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/fortunate_grottol · fires on advancement `mowziesmobs:kill_grottol_fortune` (in-game name "Double Or Nothing!") · no completion popup/entry · see ramblings doc
+
+
+:: Grottol, Gently [rambling] {"position":"3700,6050","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/grottol_gently · fires on advancement `mowziesmobs:kill_grottol_silk_touch` (in-game name "You're Coming With Me") · no completion popup/entry · see ramblings doc
+
+
+:: Fell Off the Sculpture [rambling] {"position":"3850,6050","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/fell_off_the_sculpture · fires on advancement `mowziesmobs:sculptor_failure` (in-game name "No One Jumps for the Beef") · no completion popup/entry · see ramblings doc
+
+
+:: Rusted Knight Toppled [rambling] {"position":"1000,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rusted_knight_toppled · fires on advancement `mowziesmobs:kill_ferrous_wroughtnaut` (in-game name "Just a Flesh Wound") · no completion popup/entry · see ramblings doc
+
+
+:: Frostmaw, Thawed [rambling] {"position":"1150,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/frostmaw_thawed · fires on advancement `mowziesmobs:kill_frostmaw` (in-game name "Rude Awakening") · no completion popup/entry · see ramblings doc
+
+
+:: Naga, Grounded [rambling] {"position":"1300,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/naga_grounded · fires on advancement `mowziesmobs:kill_naga` (in-game name "Wingin' It") · no completion popup/entry · see ramblings doc
+
+
+:: The Sculptor Approves [rambling] {"position":"1450,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_sculptor_approves · fires on advancement `mowziesmobs:sculptor_challenge` (in-game name "You Must Believe") · no completion popup/entry · see ramblings doc
+
+
+:: The Chest Bit Back [rambling] {"position":"1600,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_chest_bit_back · fires on advancement `artifacts:chest_slayer` (in-game name "Chest Slayer") · no completion popup/entry · see ramblings doc
+
+
+:: Eating Artifacts, Sire? [rambling] {"position":"1750,6200","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/eating_artifacts_sire · fires on advancement `artifacts:adventurous_eater` (in-game name "Adventurous Eater") · no completion popup/entry · see ramblings doc
+
+
+:: A Relic Unearthed [rambling] {"position":"1900,6200","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_relic_unearthed · fires on advancement `artifacts:amateur_archaeologist` (in-game name "Amateur Archaeologist") · no completion popup/entry · see ramblings doc
+
+
+:: Every Dungeon Delved [rambling] {"position":"2050,6200","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_dungeon_delved · fires on advancement `betterdungeons:all_dungeons` (in-game name "Professional Dungeoneer") · no completion popup/entry · see ramblings doc
+
+
+:: Krampus Is Coming [rambling] {"position":"2200,6200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/krampus_is_coming · fires on advancement `born_in_chaos_v1:naughty_child` (in-game name "Naughty Child") · no completion popup/entry · see ramblings doc
+
+
+:: Sweets. Disgusting. [rambling] {"position":"2350,6200","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/sweets_disgusting · fires on advancement `born_in_chaos_v1:trickor_treat` (in-game name "Trick or Treat") · no completion popup/entry · see ramblings doc
+
+
+:: Mother of Spiders, Squashed [rambling] {"position":"2500,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/mother_of_spiders_squashed · fires on advancement `born_in_chaos_v1:arachnophobes_nightmare` (in-game name "Arachnophobe's Nightmare") · no completion popup/entry · see ramblings doc
+
+
+:: Top Dog, Put Down [rambling] {"position":"2650,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/top_dog_put_down · fires on advancement `born_in_chaos_v1:big_boy` (in-game name "Big Boy") · no completion popup/entry · see ramblings doc
+
+
+:: Every Charm [rambling] {"position":"2800,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_charm · fires on advancement `born_in_chaos_v1:charm_collector` (in-game name "Charm Collector") · no completion popup/entry · see ramblings doc
+
+
+:: The Missionary Silenced [rambling] {"position":"2950,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_missionary_silenced · fires on advancement `born_in_chaos_v1:dark_creator` (in-game name "Dark Creator") · no completion popup/entry · see ramblings doc
+
+
+:: Bonescaller, Unboned [rambling] {"position":"3100,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/bonescaller_unboned · fires on advancement `born_in_chaos_v1:dismantledto_bones` (in-game name "Senior Summoner") · no completion popup/entry · see ramblings doc
+
+
+:: Swatted in Style [rambling] {"position":"3250,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/swatted_in_style · fires on advancement `born_in_chaos_v1:excessive_fly_swatter` (in-game name "Excessive Fly Swatter") · no completion popup/entry · see ramblings doc
+
+
+:: Chaos Cast Out [rambling] {"position":"3400,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/chaos_cast_out · fires on advancement `born_in_chaos_v1:exorcism` (in-game name "Exorcism") · no completion popup/entry · see ramblings doc
+
+
+:: The Stalker Stalked [rambling] {"position":"3550,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_stalker_stalked · fires on advancement `born_in_chaos_v1:fighting_nightmares` (in-game name "Fighting Nightmares") · no completion popup/entry · see ramblings doc
+
+
+:: Every Hat of Chaos [rambling] {"position":"3700,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_hat_of_chaos · fires on advancement `born_in_chaos_v1:hatman` (in-game name "Hatman") · no completion popup/entry · see ramblings doc
+
+
+:: Lifestealer, Robbed [rambling] {"position":"3850,6200","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/lifestealer_robbed · fires on advancement `born_in_chaos_v1:horror_underthe_mantle` (in-game name "Horror Under the Mantle") · no completion popup/entry · see ramblings doc
+
+
+:: The Glutton, Gutted [rambling] {"position":"1000,6350","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_glutton_gutted · fires on advancement `born_in_chaos_v1:horrorofthe_depths` (in-game name "Horror of the Depths") · no completion popup/entry · see ramblings doc
+
+
+:: The Pumpkin Lord Falls [rambling] {"position":"1150,6350","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_pumpkin_lord_falls · fires on advancement `born_in_chaos_v1:pumpkin_lord` (in-game name "Last Night") · no completion popup/entry · see ramblings doc
+
+
+:: Sir Pumpkinhead, Carved [rambling] {"position":"1300,6350","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/sir_pumpkinhead_carved · fires on advancement `born_in_chaos_v1:pumpkin_sir` (in-game name "Pumpkin Sir") · no completion popup/entry · see ramblings doc
+
+
+:: Rampage, Sire! [rambling] {"position":"1450,6350","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/rampage_sire · fires on advancement `born_in_chaos_v1:rampage` (in-game name "RAMPAGE!") · no completion popup/entry · see ramblings doc
+
+
+:: Moonlit Cowboy [rambling] {"position":"1600,6350","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/moonlit_cowboy · fires on advancement `born_in_chaos_v1:spruce_cowboyinthe_moonlight` (in-game name "Spruce Cowboy In The Moonlight") · no completion popup/entry · see ramblings doc
+
+
+:: Every Record of Chaos [rambling] {"position":"1750,6350","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_record_of_chaos · fires on advancement `born_in_chaos_v1:symphonyof_chaos` (in-game name "Symphony of Chaos") · no completion popup/entry · see ramblings doc
+
+
+:: Krampus, Unwrapped [rambling] {"position":"1900,6350","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/krampus_unwrapped · fires on advancement `born_in_chaos_v1:wrong_santa` (in-game name "Wrong Santa") · no completion popup/entry · see ramblings doc
+
+
+:: Clad in Dark Metal [rambling] {"position":"2050,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/clad_in_dark_metal · fires on advancement `born_in_chaos_v1:chaos_knight` (in-game name "Chaos Knight") · no completion popup/entry · see ramblings doc
+
+
+:: A Dark Metal Blade [rambling] {"position":"2200,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_dark_metal_blade · fires on advancement `born_in_chaos_v1:dark_blacksmith` (in-game name "Dark Blacksmith") · no completion popup/entry · see ramblings doc
+
+
+:: A Warblade Your Size [rambling] {"position":"2350,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_warblade_your_size · fires on advancement `born_in_chaos_v1:my_size` (in-game name "My Size!") · no completion popup/entry · see ramblings doc
+
+
+:: Shielded by Darkness [rambling] {"position":"2500,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/shielded_by_darkness · fires on advancement `born_in_chaos_v1:protectedby_darkness` (in-game name "Protected by Darkness") · no completion popup/entry · see ramblings doc
+
+
+:: Spiny Shell Suit [rambling] {"position":"2650,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/spiny_shell_suit · fires on advancement `born_in_chaos_v1:shell_warrior` (in-game name "Shell Warrior") · no completion popup/entry · see ramblings doc
+
+
+:: Spider Bite, Forged [rambling] {"position":"2800,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/spider_bite_forged · fires on advancement `born_in_chaos_v1:spider_warlord` (in-game name "Spider Warlord") · no completion popup/entry · see ramblings doc
+
+
+:: Every Dark Blade [rambling] {"position":"2950,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_dark_blade · fires on advancement `born_in_chaos_v1:squireofthe_dark_lord` (in-game name "Squire of the Dark Lord") · no completion popup/entry · see ramblings doc
+
+
+:: Dressed in Nightmares [rambling] {"position":"3100,6350","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dressed_in_nightmares · fires on advancement `born_in_chaos_v1:unitywith_darknessachievement` (in-game name "Unity with Darkness") · no completion popup/entry · see ramblings doc
+
+
+:: Eternal Candy. Ugh. [rambling] {"position":"3250,6350","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/eternal_candy_ugh · fires on advancement `born_in_chaos_v1:yoursatietywillbe_eternal` (in-game name "Your satiety will be Eternal!") · no completion popup/entry · see ramblings doc
+
+
+:: Spirits, Transmuted [rambling] {"position":"3400,6350","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/spirits_transmuted · fires on advancement `born_in_chaos_v1:infernal_medicine` (in-game name "Infernal Medicine") · no completion popup/entry · see ramblings doc
+
+
+:: Elixir of Changing [rambling] {"position":"3550,6350","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/elixir_of_changing · fires on advancement `born_in_chaos_v1:transmutalogy` (in-game name "Transmutalogy") · no completion popup/entry · see ramblings doc
+
+
+:: Every Tombstone Taken [rambling] {"position":"3700,6350","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_tombstone_taken · fires on advancement `born_in_chaos_v1:bury_them_all` (in-game name "Bury Them All") · no completion popup/entry · see ramblings doc
+
+
+:: Pocket Necromancy [rambling] {"position":"3850,6350","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/pocket_necromancy · fires on advancement `born_in_chaos_v1:compact_necromancy` (in-game name "Compact Necromancy") · no completion popup/entry · see ramblings doc
+
+
+:: Grave Robbing, Sire? [rambling] {"position":"1000,6500","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/grave_robbing_sire · fires on advancement `born_in_chaos_v1:grave_ravager` (in-game name "Grave Ravager") · no completion popup/entry · see ramblings doc
+
+
+:: The Guide, Guided [rambling] {"position":"1150,6500","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_guide_guided · fires on advancement `born_in_chaos_v1:guidetothenextworld` (in-game name "The day of the Dead") · no completion popup/entry · see ramblings doc
+
+
+:: A Stack of Souls [rambling] {"position":"1300,6500","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_stack_of_souls · fires on advancement `born_in_chaos_v1:soul_eater` (in-game name "Soul Eater") · no completion popup/entry · see ramblings doc
+
+
+:: Vampirism, Bottled [rambling] {"position":"1450,6500","size":"100,100"}
+SPEAKER: Lestat
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/vampirism_bottled · fires on advancement `born_in_chaos_v1:heart_thief` (in-game name "Heart Thief") · no completion popup/entry · see ramblings doc
+
+
+:: Curtain Call [rambling] {"position":"1600,6500","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/curtain_call · fires on advancement `conjurer_illager:kill_conjurer` (in-game name "What a Performance!") · no completion popup/entry · see ramblings doc
+
+
+:: A Soul in a Bottle [rambling] {"position":"1750,6500","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_soul_in_a_bottle · fires on advancement `darkerdepths:activities/bottle_void_soul` (in-game name "Bottle O'Void Souls") · no completion popup/entry · see ramblings doc
+
+
+:: Diamonds Revive [rambling] {"position":"1900,6500","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/diamonds_revive · fires on advancement `darkerdepths:activities/insert_diamond_into_crystal_husk` (in-game name "Back From the Dead!") · no completion popup/entry · see ramblings doc
+
+
+:: Anchored to Death [rambling] {"position":"2050,6500","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/anchored_to_death · fires on advancement `darkerdepths:activities/set_death_anchor` (in-game name "Soul Pact") · no completion popup/entry · see ramblings doc
+
+
+:: A Pixie, Swatted [rambling] {"position":"2200,6500","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_pixie_swatted · fires on advancement `ice_and_fire_delight:kill_pixie` (in-game name "You are a monster!") · no completion popup/entry · see ramblings doc
+
+
+:: Minced Dragon [rambling] {"position":"2350,6500","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/minced_dragon · fires on advancement `ice_and_fire_delight:dragon_minced_meat_adv` (in-game name "Not so great beast") · no completion popup/entry · see ramblings doc
+
+
+:: Three Dragons' Might [rambling] {"position":"2500,6500","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/three_dragons_might · fires on advancement `ice_and_fire_delight:power_of_three_dragons_adv` (in-game name "The Power of Three Dragons") · no completion popup/entry · see ramblings doc
+
+
+:: Dragon Omelette [rambling] {"position":"2650,6500","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dragon_omelette · fires on advancement `ice_and_fire_delight:rip_dragon_adv` (in-game name "Rest in peace Dragon") · no completion popup/entry · see ramblings doc
+
+
+:: Exploded at Dinner [rambling] {"position":"2800,6500","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/exploded_at_dinner · fires on advancement `ice_and_fire_delight:too_much_power` (in-game name "Too Much Power") · no completion popup/entry · see ramblings doc
+
+
+:: Every Lava Plant [rambling] {"position":"2950,6500","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_lava_plant · fires on advancement `netherdepthsupgrade:main/abyssal_flora_expert` (in-game name "Abyssal Flora Expert") · no completion popup/entry · see ramblings doc
+
+
+:: Fishing in Lava [rambling] {"position":"3100,6500","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/fishing_in_lava · fires on advancement `netherdepthsupgrade:main/lava_fishing_master` (in-game name "Lava Fishing Master") · no completion popup/entry · see ramblings doc
+
+
+:: DeadBeard, Dead Again [rambling] {"position":"3250,6500","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/deadbeard_dead_again · fires on advancement `rottencreatures:he_is_a_pirate` (in-game name "He's a Pirate!") · no completion popup/entry · see ramblings doc
+
+
+:: Every Rotten Thing [rambling] {"position":"3400,6500","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_rotten_thing · fires on advancement `rottencreatures:kill_all_rot` (in-game name "Purification!") · no completion popup/entry · see ramblings doc
+
+
+:: Immortal, Briefly [rambling] {"position":"3550,6500","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/immortal_briefly · fires on advancement `rottencreatures:shocking_encounter` (in-game name "High Tension") · no completion popup/entry · see ramblings doc
+
+
+:: A Liar's Mask [rambling] {"position":"3700,6500","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_liars_mask · fires on advancement `savage_and_ravage:adventure/mask_of_dishonesty` (in-game name "A Little Tricking") · no completion popup/entry · see ramblings doc
+
+
+:: Explosive Fashion [rambling] {"position":"3850,6500","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/explosive_fashion · fires on advancement `savage_and_ravage:adventure/griefer_armor` (in-game name "Dynamite with a Laser Beam") · no completion popup/entry · see ramblings doc
+
+
+:: Every Illager Relic [rambling] {"position":"1000,6650","size":"100,100"}
+SPEAKER: the Collector
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_illager_relic · fires on advancement `savage_and_ravage:adventure/relic_collector` (in-game name "Relic Collector") · no completion popup/entry · see ramblings doc
+
+
+:: An Unmovable Shield [rambling] {"position":"1150,6650","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/an_unmovable_shield · fires on advancement `shieldexp:get_netherite_shield` (in-game name "Immovable Object") · no completion popup/entry · see ramblings doc
+
+
+:: Wasting a Golden Apple [rambling] {"position":"1300,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/wasting_a_golden_apple · fires on advancement `supplementaries:story/unenchanter` (in-game name "Why Would You do That!?") · no completion popup/entry · see ramblings doc
+
+
+:: Soap. For Dinner. [rambling] {"position":"1450,6650","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/soap_for_dinner · fires on advancement `supplementaries:husbandry/soap` (in-game name "Tide Pod Challenge") · no completion popup/entry · see ramblings doc
+
+
+:: A Sip From the Chalice [rambling] {"position":"1600,6650","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_sip_from_the_chalice · fires on advancement `supplementaries:nether/goblet` (in-game name "Consume the Concoction Chalice") · no completion popup/entry · see ramblings doc
+
+
+:: A Hoe for Fighting [rambling] {"position":"1750,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_hoe_for_fighting · fires on advancement `tameablebeasts:big_iron_hoe` (in-game name "It's Not For Gardening") · no completion popup/entry · see ramblings doc
+
+
+:: A Beast From Ages Past [rambling] {"position":"1900,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_beast_from_ages_past · fires on advancement `tameablebeasts:grapteranodon` (in-game name "Hey Just Like In Ark") · no completion popup/entry · see ramblings doc
+
+
+:: Penguins in Armour [rambling] {"position":"2050,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/penguins_in_armour · fires on advancement `tameablebeasts:ice_armor` (in-game name "Bring Me A Warden!") · no completion popup/entry · see ramblings doc
+
+
+:: A Flying Cloud [rambling] {"position":"2200,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_flying_cloud · fires on advancement `tameablebeasts:quetzalcoatlus` (in-game name "Is That A Cloud?") · no completion popup/entry · see ramblings doc
+
+
+:: Beetle-Gem Armour [rambling] {"position":"2350,6650","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/beetle_gem_armour · fires on advancement `tameablebeasts:beetle_armor` (in-game name "Giving Netherite A Run For Its Money") · no completion popup/entry · see ramblings doc
+
+
+:: Wings of Beetle [rambling] {"position":"2500,6650","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/wings_of_beetle · fires on advancement `tameablebeasts:beetle_elytra` (in-game name "Why Not Have Both?") · no completion popup/entry · see ramblings doc
+
+
+:: An Iron Beetle [rambling] {"position":"2650,6650","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/an_iron_beetle · fires on advancement `tameablebeasts:metal_beetle` (in-game name "Chrome Beetle") · no completion popup/entry · see ramblings doc
+
+
+:: Passenger Seating [rambling] {"position":"2800,6650","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/passenger_seating · fires on advancement `tameablebeasts:quetzal_stand` (in-game name "Public Transport") · no completion popup/entry · see ramblings doc
+
+
+:: You Saved a Village? Shameful. [rambling] {"position":"2950,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/you_saved_a_village_shameful · fires on advancement `minecraft:adventure/hero_of_the_village` (in-game name "Hero of the Village") · no completion popup/entry · see ramblings doc
+
+
+:: Captain Deposed [rambling] {"position":"3100,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/captain_deposed · fires on advancement `minecraft:adventure/voluntary_exile` (in-game name "Voluntary Exile") · no completion popup/entry · see ramblings doc
+
+
+:: Raising the Anchor Again [rambling] {"position":"3250,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/raising_the_anchor_again · fires on advancement `minecraft:end/respawn_dragon` (in-game name "The End... Again...") · no completion popup/entry · see ramblings doc
+
+
+:: A Beacon for Evil [rambling] {"position":"3400,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_beacon_for_evil · fires on advancement `minecraft:nether/create_full_beacon` (in-game name "Beaconator") · no completion popup/entry · see ramblings doc
+
+
+:: Summoning the Wither [rambling] {"position":"3550,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/summoning_the_wither · fires on advancement `minecraft:nether/summon_wither` (in-game name "Withering Heights") · no completion popup/entry · see ramblings doc
+
+
+:: A Ghast Abroad [rambling] {"position":"3700,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_ghast_abroad · fires on advancement `minecraft:nether/uneasy_alliance` (in-game name "Uneasy Alliance") · no completion popup/entry · see ramblings doc
+
+
+:: Un-Zombifying a Peasant [rambling] {"position":"3850,6650","size":"100,100"}
+SPEAKER: Gnarl
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/un_zombifying_a_peasant · fires on advancement `minecraft:story/cure_zombie_villager` (in-game name "Zombie Doctor") · no completion popup/entry · see ramblings doc
+
+
+:: One Bolt, Five Bodies [rambling] {"position":"1000,6800","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/one_bolt_five_bodies · fires on advancement `minecraft:adventure/arbalistic` (in-game name "Arbalistic") · no completion popup/entry · see ramblings doc
+
+
+:: Every Monster Slain [rambling] {"position":"1150,6800","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_monster_slain · fires on advancement `minecraft:adventure/kill_all_mobs` (in-game name "Monsters Hunted") · no completion popup/entry · see ramblings doc
+
+
+:: Out-Shooting a Skeleton [rambling] {"position":"1300,6800","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/out_shooting_a_skeleton · fires on advancement `minecraft:adventure/sniper_duel` (in-game name "Sniper Duel") · no completion popup/entry · see ramblings doc
+
+
+:: Two Phantoms, One Arrow [rambling] {"position":"1450,6800","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/two_phantoms_one_arrow · fires on advancement `minecraft:adventure/two_birds_one_arrow` (in-game name "Two Birds, One Arrow") · no completion popup/entry · see ramblings doc
+
+
+:: Ghast, Return to Sender [rambling] {"position":"1600,6800","size":"100,100"}
+SPEAKER: Quaver
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/ghast_return_to_sender · fires on advancement `minecraft:nether/return_to_sender` (in-game name "Return to Sender") · no completion popup/entry · see ramblings doc
+
+
+:: Every Trim, Sire [rambling] {"position":"1750,6800","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_trim_sire · fires on advancement `minecraft:adventure/trim_with_all_exclusive_armor_patterns` (in-game name "Smithing with Style") · no completion popup/entry · see ramblings doc
+
+
+:: Clad in Netherite [rambling] {"position":"1900,6800","size":"100,100"}
+SPEAKER: Giblet the Sixth
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/clad_in_netherite · fires on advancement `minecraft:nether/netherite_armor` (in-game name "Cover Me in Debris") · no completion popup/entry · see ramblings doc
+
+
+:: Ate Everything [rambling] {"position":"2050,6800","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/ate_everything · fires on advancement `minecraft:husbandry/balanced_diet` (in-game name "A Balanced Diet") · no completion popup/entry · see ramblings doc
+
+
+:: A Full Menagerie [rambling] {"position":"2200,6800","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_full_menagerie · fires on advancement `minecraft:husbandry/bred_all_animals` (in-game name "Two by Two") · no completion popup/entry · see ramblings doc
+
+
+:: A Netherite Hoe. Why? [rambling] {"position":"2350,6800","size":"100,100"}
+SPEAKER: Gristle
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_netherite_hoe_why · fires on advancement `minecraft:husbandry/obtain_netherite_hoe` (in-game name "Serious Dedication") · no completion popup/entry · see ramblings doc
+
+
+:: Dragon Breath, Bottled [rambling] {"position":"2500,6800","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/dragon_breath_bottled · fires on advancement `minecraft:end/dragon_breath` (in-game name "You Need a Mint") · no completion popup/entry · see ramblings doc
+
+
+:: Every Effect at Once [rambling] {"position":"2650,6800","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_effect_at_once · fires on advancement `minecraft:nether/all_effects` (in-game name "How Did We Get Here?") · no completion popup/entry · see ramblings doc
+
+
+:: A Terrible Cocktail [rambling] {"position":"2800,6800","size":"100,100"}
+SPEAKER: Blister
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/a_terrible_cocktail · fires on advancement `minecraft:nether/all_potions` (in-game name "A Furious Cocktail") · no completion popup/entry · see ramblings doc
+
+
+:: Every Biome Seen [rambling] {"position":"2950,6800","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/every_biome_seen · fires on advancement `minecraft:adventure/adventuring_time` (in-game name "Adventuring Time") · no completion popup/entry · see ramblings doc
+
+
+:: Wings, Borrowed [rambling] {"position":"3100,6800","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/wings_borrowed · fires on advancement `minecraft:end/elytra` (in-game name "Sky's the Limit") · no completion popup/entry · see ramblings doc
+
+
+:: The Netherworld Tour [rambling] {"position":"3250,6800","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/the_netherworld_tour · fires on advancement `minecraft:nether/explore_nether` (in-game name "Hot Tourist Destinations") · no completion popup/entry · see ramblings doc
+
+
+:: Shortcut Through Hell [rambling] {"position":"3400,6800","size":"100,100"}
+SPEAKER: Grubbison Jr
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/shortcut_through_hell · fires on advancement `minecraft:nether/fast_travel` (in-game name "Subspace Bubble") · no completion popup/entry · see ramblings doc
+
+
+:: Death, Declined [rambling] {"position":"3550,6800","size":"100,100"}
+SPEAKER: Mortis
+EMOTION: 
+POPUP: 
+LOG: 
+CODER NOTES: overlord:ramblings/death_declined · fires on advancement `minecraft:adventure/totem_of_undying` (in-game name "Postmortal") · no completion popup/entry · see ramblings doc
+
+

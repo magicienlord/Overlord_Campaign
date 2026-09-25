@@ -1,0 +1,18 @@
+# Overlord Reigns: lore answers, L6 factions (continues overlord-reigns-lore-answers.md)
+
+Cleaned up after the final gap audit: every line here agrees with `overlord-reigns-canon-resolutions.md` (which still wins in case of doubt).
+
+- **"The Silence"** = the Overlord-less age (~300 years) between the 4th's fall and the fifth's rise, when the Netherworld went quiet. (Ashlord released the reborn dragons during it.)
+
+## Factions
+- **Humans of Spree**: the REBUILT OI Spree, a prosperous farming town that has forgotten the Overlords (a bedtime story). Still sheep, pumpkins, beer and the Happy Mule, still "the loyalty of potatoes". Proud, well-fed, guarded (Guard Villagers). It remembers neither the 3rd nor the heroes and has NO link to the 4th. The Wound shows up as bigger monsters at its walls.
+- **Pillagers of the Bastille**: Heaven's Peak's descendants turned raiders (plague survivors / the city guard gone bad) living by pillage from the fortified old city. They answer to strength alone, so an Overlord impresses them. Ravagers and Clay Golems are their pride.
+- **Dwarves of the Successor Hold**: the last hold of the canon Dwarves (OI's greedy Dwarf King; realm ruined). Heirs clinging to an old claim of "continuity". Their ancestors built war machines, one of which became the Harbinger. They despise the Kobolds, who squat in their old tunnels.
+- **Kobolds of the Den Below**: scrappy, clever tunnel-folk (warriors, engineers, enchanters, pirates) who moved into the Dwarves' abandoned tunnels during the Silence. That is the "old conflict": the Dwarves call it theft, the Kobolds call it salvage. Led by Captains; Gnarl rather likes their greed.
+- **Goblins**: a merchant tyranny (camps, caravans, liquor, extortion; they enslave Droblins). Tyranny as a business model; rivals to an Overlord in greed and evil, so Gnarl both respects and resents them. Minions and Goblins believe they're COUSINS, with nothing to support the claim (canon outsiders call Minions "goblins").
+- **Gnumus**: Halfling descendants swollen by gluttony magic. They have NO knowledge of their Halfling ancestry (lost to time), so they don't hate the Overlord either. Gluttonous craftsmen and traders (vintage tools and rifles, cheese, doubloons).
+- **Sea People (Mermorphs)**: Everlight elves who were OUTSIDE the closed Gates of Everlight when the 4th's wave struck the reef (the tar pits he burned made "the seas start rising"). They drowned and became the Mermorphs; those behind the gates survived, and Everlight still exists, sealed (mention only). The Mermorphs remember being elves but have forgotten the Overlord and the cause. Their "Light" is the last of their elven light magic, kept alive in their sea lanterns; "Extinguish the Light" snuffs out the final spark.
+- **Ribbits**: frogs awakened by Evernight's REBORN magic (the forest regrew on its own once no Overlord crushed it). Gentle, musical (maracas), gardening swamp-folk. The "Silent Garden" (Destruction) is their swamp-garden emptied of song. Gnarl finds them unbearably twee.
+- **The Grove / Umvuthi**: a sun spirit born of Evernight's reborn magic, worshipped as a god by the masked Umvuthana. "Not a Phoenix" is Gnarl's jab when it's killed (a sun-bird god that doesn't rise again). "A God Beneath a Master" means making a god kneel.
+- **Piglins**: descendants of Minions and... a pig (a shameful subject for Gnarl). There is NO "Golden Order": the Destruction quest is **"Break the Pig Pride"**.
+- **Myrmex (The Mound-Dwellers)**: another consequence of Evernight's reborn magic: insect colonies swollen by it. No "chosen" lore (the old title only meant the Overlord choosing the colony with his banner).
