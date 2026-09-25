@@ -1,0 +1,39 @@
+[101.10] GNARL: Evil energy straight ahead, my Lord!   <<Trigger: The player nears the Dwarven Abyss dwarves>>
+[101.20] GNARL: Seems there’s something in there the Dwarves want... which probably means it’s drinkable or valuable!   <<A group of dwarves starts fighting with the dwarves around the abyss>>
+[200.10] GNARL: Sire, I detect some sentience emanating from that golden Goldo statue. I think our grumpy little friend’s spirit may still reside in it.   <<Trigger: The player enters the central hall and nears the statue of Goldo.>>
+[200.20] GNARL: A golden prison! Now that’s eternal damnation with some 
+[200.30] FORGOTTEN GOD: Thank you...   <<(Smug)>>
+[210.10] GNARL: Understandably that Wraith doesn’t get tired of watching Dwarves explode.    <<Trigger: The player enters the chamber of deadly gold>>
+[210.20] GNARL: However, we’re going to need him out of the way if you want that gold, and by out of the way I mean dead... again!
+[211.10] GNARL: Ha! Look at him trundling after that gold. They still can’t resist it!    <<Trigger: Player picks up gold, dwarf follows it>>
+[211.20] GNARL: Why don’t you see what happens if you lure him to a bigger piece.
+[212.5] GNARL: The smell of gold is luring them out, Sire!   <<Trigger: More Dwarves come out of the caves nearby >>
+[212.10] FORGOTTEN GOD: The Dwarves’ hatred for Goldo is even greater than their lust for gold! His incarceration amused me... but perhaps it is only fitting that he is hacked apart by his own people!   <<(Excited/Surprised); Evil Laugh at End | Trigger: The Dwarves notices Goldo, becomes frenzied and rushes towards him with their pick-axes>>
+[212.20] GNARL: Goldo certainly doesn’t like it!   <<More dwarves emerge with pickaxes and start attacking Goldo >>
+[212.30] GNARL: Go on, hit him harder, hit him harder!   <<shout>>
+[212.40] GNARL: The Abyss Stone is buried inside Goldo! Better lure a few more angry beards in here to dig that little fellow out.   <<Goldo cracks>>
+[215.10] GNARL: Goldo’s regenerating, you need more Dwarves, Sire.   <<Trigger: Goldo starts to regenerate.>>
+[215.20] GNARL: The statue is rebuilding itself! Keep those Dwarves busy, Lord!
+[215.30] GNARL: Master, you need more Dwarves!
+[300.10] GNARL: Playful types those Wraiths. I wonder what would happen if you gave those Dwarves a bit of liquid refreshment...even out the odds a bit.   <<Trigger: Player enters the Chamber of Blinking Gold. >>
+[300.20] GNARL: That should give ‘em a bit of a kick!   <<Trigger: Player turns on the beer pipes.>>
+[300.25] FORGOTTEN GOD: Do not interfere with    <<Trigger: Dwarves attack the wraith who flees with the bag of gold.>>
+[300.30] GNARL: He’s taken the gold! Get after him!
+[300.40] GNARL: Hmmm… it’s really quite homely, for a damnation dimension.   <<Trigger: Player kills the reaper wraith and picks up the gold.>>
+[301.10] GNARL: Protect those Dwarves, Sire! They can’t dig if they’re dead!   <<Trigger: Player enters the Mine area. Hungover dwarves are wandering about, very grumpily in a specifc direction.>>
+[400.10] GNARL: These Dwarves have had a little too much of the good stuff. Careful they don’t throw up on you. Master... vomit stains are a devil to shift!   <<Trigger: Player enters the Mine area>>
+[400.20] GNARL: They seem very determined though, I wonder where they’re heading…
+[401.10] FORGOTTEN GOD: You and your    <<Trigger: The Player is crossing the bridge area.>>
+[401.20] FORGOTTEN GOD: They had everything. Fame, wealth adulation… and they wasted it! Their suffering will bring me back!
+[402.10] GNARL: Drat, Sire, I know that creature from my Demons, Deities and the Damned lessons as a young Minion.    <<Trigger: Player has killed all the undead. >>
+[402.20] GNARL: Can’t quite put a name to it... seems the more I think about it, the more the memory fades.
+[403.20] GNARL: Ah, that will be what we in the Evil profession like to call... a trap!
+[404.10] FORGOTTEN GOD: Enough!   <<Trigger: The dwarves start attacking Goldo for the last time>>
+[404.20] GNARL: Oh, he really doesn’t want you to get that Stone, Lord!
+[404.30] GNARL: It’s ours! Quickly get it out of here before…   <<Trigger: Goldo finally collapses and the portal stone can be picked up.>>
+[404.40] GNARL: ...they turn up!
+[404.45] FORGOTTEN GOD: You have failed!   <<(Evil Snigger) on End | Trigger: The Abyss Stone is destroyed.>>
+[404.50] FORGOTTEN GOD: Entertaining, but you have yet to see my    <<Trigger: The dwarves are repelled.>>
+[405.20] GNARL: Congratulations! You are Master of the Golden Abyss, Dark Lord!   <<Trigger: The player commits the Abyss Stone Player is engulfed in lightning.>>
+[500.10] GNARL: Don’t worry about those angry beards. Sire... plenty more where they came from.   <<Trigger: Player kills the dwarves that are following the gold bags before reaching the hall. These can be looped as required>>
+[500.20] GNARL: Get that gold to the hall Sire. Plenty more Dwarves in there.

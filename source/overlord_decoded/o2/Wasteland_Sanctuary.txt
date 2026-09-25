@@ -1,0 +1,74 @@
+[100.10] (unattributed): I have assembled the artifact, Dark One, but it has very little power left.
+[100.15] (unattributed): The Empire seek to force their way into the Last Sanctuary and from there into your realm.
+[100.20] (unattributed): If you really believe this can strike a decisive blow against Solarius, then I give you permission to charge it with energy from my four shrines in the lower caves.
+[100.25] (unattributed): Alas, this will mean the destruction of the creatures that live there.
+[100.30] (unattributed): Wow, I’m glad I don’t live in her domain!
+[100.35] (unattributed): Grave decisions must be made during a time of war, but I pray they will not suffer too long.
+[100.40] (unattributed): I hope that this object is worth Florian’s life.
+[100.45] (unattributed): I fear he is not long for this world - Especially if he is put in Solarius’ vile Arena!
+[100.50] (unattributed): Couldn’t happen to a nicer chap!
+[100.55] (unattributed): Go, we don’t have long before they break through.
+[110.10] (unattributed): Get the Minions to carry the Towerheart to the shrine and let’s juice this thing up!
+[110.20] (unattributed): Now use your Evil Presence spell on the crystal to transfer its energy into the Towerheart.
+[110.30] (unattributed): Keep holding the spell until all the energy is transferred, Lord. Don’t waste a drop.
+[120.10] (unattributed): Oh no, your little ball thingy! Shame, it looked like it was going to be so shiny, as well. 
+[120.20] (unattributed): I could’ve used it as my throne and sat on top of it like a Queen.
+[120.30] (unattributed): Think you’d look much better under it!
+[120.40] (unattributed): Hmm, either way Sire you must get the Towerheart back. It’s not fully charged yet!
+[200.10] (unattributed): It’s landed in the middle of a Gnome village, Sire. With any luck it’s squashed a few of the stunted little squelchers!
+[200.20] (unattributed): Get it back before they start trying to live in it!
+[210.10] (unattributed): That’s it, Gnomies, if in doubt run away! Right let’s find the next shrine, Sire.
+[220.10] (unattributed): Better find something to cover that hole, Sire. No one needs an exploding Gnome stuck to them.
+[220.20] (unattributed): Good! Best place for them. Get going before they dig their way out!
+[220.30] (unattributed): Hurry, I don’t want the soldiers getting into the Netherworld. There’s a bit too much Empire in here as it is.
+[230.10] (unattributed): Bring the Towerheart to the shrine, Master.
+[230.20] (unattributed): Now cast your Evil presence spell on the crystal.
+[230.30] (unattributed): Hold that spell, Lord. We’ll need all the energy from the shrine.
+[240.10] (unattributed): It’s a gift from the earth.
+[240.20] (unattributed): Woooooooowww. A shiny gift.
+[240.30] (unattributed): Quick. We must bring it to the others.
+[300.10] (unattributed): By my hairy black toes, they’re salamanders! Ancient creatures that live deep within the earth where it’s warmest.
+[300.20] (unattributed): The shrine must have been protecting their lair.
+[300.30] (unattributed): The gases within the bellies of these fiery fellows make them extremely unstable, especially when damaged. 
+[300.40] (unattributed): When that happens it’s just best to stay out of their way until the explosions have subsided!
+[300.50] (unattributed): All clear, Sire. 
+[300.60] (unattributed): If you could find some way of bringing those lizards around to *ahem* our way of thinking, Lord, they might make suitable mounts for your Reds.
+[310.10] (unattributed): Bring the Towerheart to the shrine, Master.
+[400.10] (unattributed): It’s our shiny thing, we found it, man!
+[400.20] (unattributed): And we’re not going to let you use it to destroy the shrines and the pretty creatures!
+[400.30] (unattributed): Our Queen clearly doesn’t know bad vibes when she sees them!
+[410.10] (unattributed): Leave them alone you bully!
+[410.20] (unattributed): Oh no, he’s bringing us down!
+[420.10] (unattributed): Ha ha! No shiny thing for you!
+[430.10] (unattributed): You leave us no choice!
+[430.20] (unattributed): We’ll have to hurt you!
+[440.10] (unattributed): Order your Minions to carry the Towerheart near to the shrine.
+[440.20] (unattributed): Cast your Evil presence spell on the crystal and let’s suck it dry!
+[440.30] (unattributed): You broke the spell too early, Master. Try again, we need all that crystal’s energy.
+[500.10] (unattributed): It’s a salamander King! He must be controlling the other salamanders.
+[500.20] (unattributed): And he’s making off with the Towerheart! Fay really should have better control over her creature. Send a memo out!
+[500.30] (unattributed): Still there’s something about the Towerheart that brings out the thief in everyone.
+[510.10] (unattributed): No time to become the King’s favourite toy, Sire. Get out of there!
+[510.20] (unattributed): Enough playing about, Master, there’s Empire at the door! We need that Towerheart back fast! 
+[510.30] (unattributed): Perhaps you can find a way to cool him down a little?
+[520.10] (unattributed): Now’s your chance! Give him a good hard smack and get our Towerheart!
+[520.20] (unattributed): Quick Lord, Make with the cold shower again!
+[520.30] (unattributed): Keep on that lizard’s tail... and then chop it off! Chop anything you like off. Just kill it!
+[530.10] (unattributed): Now finish him and we can get the Towerheart and control of his little fireball friends. 
+[530.20] (unattributed): A few fire-breathing salamanders on our side should send the Empire running!
+[540.10] (unattributed): You’ll have to smash the head, Sire. Shame, would’ve looked good in my rockery next to the petrified succubus. 
+[540.20] (unattributed): Ah, such a shame... wonderful woman, before the, er, incident.
+[550.10] (unattributed): See, they’re not attacking now. You’re their new King! I’m sure the Reds will be happy they don’t have to walk everywhere.
+[555.10] (unattributed): Keep moving, Sire. One more shrine to go! And lots more Empire to crush!
+[560.10] (unattributed): Drat! They’re breaking through! Quickly! Keep them out of the Sanctuary, Master!
+[570.10] (unattributed): Saddle up your Reds and sweep the salamanders over the ramp!
+[570.20] (unattributed): Use your salamanders on that ramp and keep moving. That way they can set those soldiers on fire, without being damaged.
+[570.30] (unattributed): A drive by flaming!
+[570.40] (unattributed): Don’t forget to keep your salamanders moving and flaming, Sire!
+[570.50] (unattributed): Use your salamanders on the Gnome holes. Get some flames up the parts only their mothers see!
+[575.10] (unattributed): Don’t leave the Towerheart behind, Sire. There seems no shortage of beasties that want to thieve it!
+[575.20] (unattributed): What have you done with the Towerheart, Sire? You need to bring it to the shrine.
+[580.10] (unattributed): Now let’s see a bit of Evil Presence on that crystal!
+[580.20] (unattributed): Try again and this time, make sure you drain all the energy from the crystal.
+[580.30] (unattributed): That’s the last of the shrines. Hmmm, still doesn’t seem like it’s got enough pep yet! 
+[580.40] (unattributed): Move it, Sire and head back to Queenie, sharpish. Perhaps with the Empire breaking through her roof, there’s more of this sanctuary she’d like to sacrifice!

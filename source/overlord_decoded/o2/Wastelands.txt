@@ -1,0 +1,156 @@
+[100.10] (unattributed): Ah, these lands were once the location of the Dark Tower - The seat of Overlording power! 
+[100.20] (unattributed): At least until your predecessor mysteriously disappeared during a trip to the Infernal Abyss.
+[100.30] (unattributed): Without an Overlord the Minions fled to the Netherworld.
+[100.40] (unattributed): After the Great Cataclysm ruined the Dark Tower, we never returned.
+[100.50] (unattributed): See for yourself. Magic is running rampant here! Unrestrained! 
+[100.52] (unattributed): And Minions are rather partial to not being turned inside out or growing an extra head!
+[100.54] (unattributed): Unless it’s in the service of our Overlord, of course!
+[100.60] (unattributed): This place is said to be the source of the Great Cataclysm and a magical plague, which swept the land many years ago.
+[100.70] (unattributed): Although no one is quite sure what caused it.
+[100.80] (unattributed): You should explore, Lord. These lands once held many secrets and artifacts  which may now aid you against the Empire.
+[110.10] (unattributed): Ah, this looming fortress was once the source of fear and brown trousers in this land.
+[110.15] (unattributed): But whatever caused the Cataclysm has reduced it to ruins.
+[110.20] (unattributed): This was once your spawning pit, Sire. Well, it was where your evil seed was planted, as it were.
+[110.30] (unattributed): Your spawn-mother left before you were born.
+[110.40] (unattributed): She didn’t feel that a Dark Tower was the right place to bring up a baby. Strange female!
+[110.50] (unattributed): Until the Browns found you in Nordberg, we thought we’d lost you forever. See there’s no restraining true Evil. It’s in the blood!
+[120.10] (unattributed): By my claws, that’s a shard of the old Towerheart! 
+[120.20] (unattributed): The Towerheart collects magical energy and grows in power with its Overlord.
+[120.30] (unattributed): With the old Overlord gone, the magical energy within it should have gradually dispelled. 
+[120.40] (unattributed): But it appears to have exploded for some reason! So that’s what caused the Great Cataclysm!
+[120.50] (unattributed): See if you can locate the other shards of the Towerheart, Sire. Maybe there’s some magical energy left.
+[130.10] (unattributed): If the Towerheart exploded and caused the Cataclysm, then no wonder all that pent up energy resulted in a magical plague. 
+[130.20] (unattributed): It had no Overlord to be absorbed into!
+[130.30] (unattributed): Just look at what it’s done to the flora and fauna around here. That magical ooze looks particularly potent.
+[130.40] (unattributed): It may have odd side effects on your Minions. Send one into it and see what happens. 
+[130.50] (unattributed): Er, I wouldn’t send one of your favourites, just in case.
+[140.10] (unattributed): Oh dear! He’s mutated and out of control! Let’s not do that again.
+[145.10] (unattributed): After the magical plague the locals didn’t take kindly to magical folk. Seems even the surviving Halflings were drummed out of their homes.
+[145.20] (unattributed): Mind you, no one likes having Halflings around at the best of times!
+[150.20] (unattributed): These are dark crystals; Pure evil energy that’s become crystallized. 
+[150.30] (unattributed): Very powerful and very rare, Sire. You may find them useful.
+[160.10] (unattributed): That ooze is blocking your way, Sire. It’s not safe for your Minions to cross.
+[160.20] (unattributed): Maybe if we had the Blue Minions, they might be able to resist it, being much more magically inclined.
+[160.30] (unattributed): You should try and locate them, Sire. In the meantime, I suggest you continue your diabolical deeds elsewhere.
+[170.10] (unattributed): Master, we’ll need the Blues to continue. 
+[170.20] (unattributed): Of course, if you can’t resist exploring some more I shall refresh your knowledge of these lands.
+[170.30] (unattributed): Don’t go forward without the Blues, Lord. If you wish to, you can explore the safe areas some more and I can refresh your memory about these lands.
+[200.10] (unattributed): Now, let’s see if our little jaunt to the Arena to fetch back the Blues was worth it!
+[200.20] (unattributed): Try sending a Blue Minion into the ooze.
+[200.30] (unattributed): Ah, as I thought their magic is pushing back the ooze. Be quick, Sire, I doubt it’ll stay away for long.
+[210.10] (unattributed): This ooze... hmmm it must be what happens when large quantities of magic are released into the world and  there’s no appropriate host nearby.
+[210.20] (unattributed): It’s soured magic, Sire. No good to anyone.
+[210.30] (unattributed): You should venture further into the domain and continue to search for shards of the Towerheart.
+[220.10] (unattributed): Hmm, are these barriers to keep something in or keep something out? 
+[220.20] (unattributed): Either way, they won’t be stopping you, Great One!
+[230.10] (unattributed): The explosion of the Towerheart decimated the entire area, including the old Dark Tower.
+[230.20] (unattributed): I guess they didn’t call it a Cataclysm for nothing!
+[240.10] (unattributed): There’s another Towerheart shard, Lord! Free it from that ooze.
+[300.10] (unattributed): Where did it go?
+[300.20] (unattributed): Must have a base around here.
+[300.30] (unattributed): Think it’s the one we’re meant to be looking for?
+[300.40] (unattributed): Yeah, cos I’d hate to think we’d stumbled upon the wrong secret base!
+[310.10] (unattributed): This is it! They’ve sent the Demon Lord of Nordberg to finish us off!
+[310.20] (unattributed): Look, we’ve got enough problems, ok?
+[310.30] (unattributed): They kicked us out of the City; claimed that we were contaminated with magic. Ridiculous!
+[310.40] (unattributed): Or we no longer “fitted” in the Glorious Empire.
+[310.50] (unattributed): They dumped us here to die! Arrrrgggg.
+[310.60] (unattributed): Get back.... Get back. Stay away from me!
+[310.70] (unattributed): Aggg! He’s mutated!
+[320.10] (unattributed): No time for pleasantries ... not that I have anything pleasant to say to you…
+[320.20] (unattributed): A large force of Empire troops is heading this way. 
+[320.30] (unattributed): I come on behalf of Queen Fay to offer you against my better judgement, a truce. If you agree follow me to the Last Sanctuary.
+[330.10] (unattributed): I take no joy that our paths have crossed again, but it appears we share a common enemy - One who is as relentless as they are powerful. 
+[330.20] (unattributed): I speak of Solarius’ Empire.
+[330.30] (unattributed): His forces are too great for either of us to fight alone…
+[330.40] (unattributed): Oh, let me guess... now she wants to be friends!
+[330.50] (unattributed): But together we may stand a chance.
+[330.60] (unattributed): There! No one ever suggests being friends when they’re dripping with gold and jewels!
+[330.70] (unattributed): I know what you seek in these lands. If you agree to join forces I will send my lieutenant Florian to aid you.
+[330.80] (unattributed): Help finding the Towerheart shards would be useful, Sire. I guess we can always kill him afterwards!
+[335.10] (unattributed): Follow me then, Scourge of Nature, let’s go!
+[337.10] (unattributed): You appear to have overlooked a few shards on your way, here, Scourge. Honestly I have to do everything myself!
+[340.10] (unattributed): This is what you get when you disrespect nature!
+[340.20] (unattributed): All nature’s animals are beautiful to me... apart from those little freaks of yours!
+[340.30] (unattributed): Yuck! See how evil has sneezed across the perfect face of Mother Nature!
+[340.40] (unattributed): The balance must be maintained!
+[340.50] (unattributed): Such things assault my eyes. Yet I shall be strong!
+[350.10] (unattributed): Squash it! I mean usher it gently to the next world.
+[350.20] (unattributed): Come on. We know how good you are at destroying things!
+[350.30] (unattributed): It’s regime of oozing terror must be stopped!
+[350.40] (unattributed): Strike it from my sight!
+[350.50] (unattributed): Come on!
+[350.60] (unattributed): Hmm, not bad, Scourge of Nature! Let us continue.
+[360.10] (unattributed): If I die you will never find your precious Towerheart shards!
+[360.20] (unattributed): Leave me alone. I will not be persecuted by the likes of you!
+[360.30] (unattributed): I am not the enemy!
+[360.40] (unattributed): Cease your actions!
+[360.50] (unattributed): Do not seek my destruction!
+[370.10] (unattributed): Uncool man, uncool!
+[370.15] (unattributed): The man... the man’s oppressing me!
+[370.20] (unattributed): Don’t mess with my mojo.
+[370.25] (unattributed): I don’t like your negative vibes!
+[370.30] (unattributed): What’s with all the aggression, man?
+[370.35] (unattributed): Sheath your weapon at once!
+[370.40] (unattributed): You’re really bringing me down!
+[370.45] (unattributed): Leave me alone!
+[370.50] (unattributed): Harsh! Harsh!
+[370.55] (unattributed): We’re on the same side!
+[380.10] (unattributed): Are you happy now?
+[380.20] (unattributed): Do concentrate on the task in hand, Sire!
+[380.30] (unattributed): He has returned to the earth.
+[380.40] (unattributed): I know killing them is very tempting, Lord, but there are other pressing matters to attend to!
+[380.50] (unattributed): He’s dead! He’s dead!
+[380.60] (unattributed): Don’t kill the Elves, Sire. They make good meat shields!
+[380.70] (unattributed): Why must you torment us, man?
+[380.80] (unattributed): At the moment these Elves are more useful to us alive than dead, Master!
+[380.90] (unattributed): Well there goes the battle fodder!
+[390.10] (unattributed): I have found a piece!
+[390.20] (unattributed): Just like horrible pointy-eared sniffer dogs, Sire!
+[390.30] (unattributed): Here! Look, beast!
+[390.40] (unattributed): Why do the hard work yourself, when you can get Elves to do it for you?
+[390.50] (unattributed): Here’s one!
+[390.60] (unattributed): There’s a good Elf doggie!
+[390.70] (unattributed): Over here, Scourge.
+[390.80] (unattributed): I hope he doesn’t want you to scratch him behind his ears!
+[400.5] (unattributed): The remaining shards are behind this gate, I will open it for you!
+[400.10] (unattributed): There’s the last piece. Secure it and we can return to the Sanctuary.
+[400.20] (unattributed): That oozy thing has our Towerheart shard, Master. Show it what we do to oozy things around here!
+[410.10] (unattributed): They’ve found us! They’ve found us! We’re doomed. DOOMED!
+[420.10] (unattributed): This is the end!
+[420.20] (unattributed): They’ve come for us!
+[420.30] (unattributed): Oh woe is me... woe, wwwooooeee!
+[420.40] (unattributed): We are finished!
+[430.10] (unattributed): It’s that Elf outlaw!
+[430.20] (unattributed): Mercy! Mercy! Please have mercy!
+[430.30] (unattributed): We have no need for mercy... Elf... we have justice... to the Arena with him!
+[430.40] (unattributed): Nooooo! Nooooo! Queeeeeen Fay! Save me, save me!
+[430.50] (unattributed): Oh well, I guess that’s one Arena fight that won’t last too long! Saves you having to kill him!
+[430.60] (unattributed): At least we have all the shards. They’re gathered in the Sanctuary. You better return there... fast!
+[440.10] (unattributed): After him! After him!
+[500.10] (unattributed): Death to the magical demons!
+[500.12] (unattributed): Destroy all magic!
+[500.14] (unattributed): Solarius will bring the light!
+[500.16] (unattributed): All magic must be wiped out.
+[500.18] (unattributed): The Empire will prevail!
+[500.20] (unattributed): Leave no demon alive!
+[500.22] (unattributed): Find the Sanctuary!
+[500.24] (unattributed): Wipe them out!
+[500.26] (unattributed): Kill the Elf! Kill the Elf friends!
+[500.28] (unattributed): You cannot hide from Solarius!
+[500.30] (unattributed): We will bring the might of the Empire down upon you!
+[500.32] (unattributed): For the Empire!
+[500.34] (unattributed): He is in league with the Elves!
+[500.36] (unattributed): You may hide in the earth. But we will find you!
+[500.38] (unattributed): There’s no where you can go that we can’t follow!
+[500.40] (unattributed): Ha! They’re actually trying to gang up against us!
+[500.42] (unattributed): We will breach the Last Sanctuary.
+[500.44] (unattributed): For Solarius!
+[500.46] (unattributed): Kill them! Kill them all!
+[500.48] (unattributed): We’ll get you back in the Arena!
+[510.10] (unattributed): Archers, fire!
+[510.20] (unattributed): Fire!
+[510.30] (unattributed): There they are, fire!
+[510.40] (unattributed): Shoot at will!
+[510.50] (unattributed): That’s them! Fire!
+[510.60] (unattributed): Shoot them down!

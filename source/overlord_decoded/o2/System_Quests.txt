@@ -1,0 +1,499 @@
+[WORLD_GNOMES.DESC] (unattributed): Kill a thousand gnomes
+[WORLD_GNOMES.DESC_DONE] (unattributed): You have exterminated the gnomes
+[LM1A_OLCHALL.DESC] (unattributed): Prove you are the Overlord
+[LM1A_OLCHALL.DESC_DONE] (unattributed): You are the Overlord!
+[LM1A_OLCHALL_01.DESC] (unattributed): Overlord Challenge 1: Kill a harmless creature and take its life
+[LM1A_OLCHALL_01.DESC_DONE] (unattributed): You killed a harmless creature
+[LM1A_OLCHALL_02.DESC] (unattributed): Overlord Challenge 2: Tame the wolves
+[LM1A_OLCHALL_02.DESC_DONE] (unattributed): You tamed the wolves
+[LM1C_OLCHALL_03.DESC] (unattributed): Overlord Challenge 3: Acquire Evil Presence Power
+[LM1C_OLCHALL_03.DESC_DONE] (unattributed): Evil Presence is yours
+[LM1C_OLCHALL_04.DESC] (unattributed): Overlord Challenge 4: Master the art of destruction
+[LM1C_OLCHALL_04.DESC_DONE] (unattributed): You are master in destruction
+[LM1C_OLCHALL_05.DESC] (unattributed): Overlord Challenge 5: Master the Population
+[LM1C_OLCHALL_05.DESC_DONE] (unattributed): You have mastered the Nordberg Population
+[LM1C_OLCHALL_06.DESC] (unattributed): Overlord Challenge 6: Power up the Netherworld
+[LM1C_OLCHALL_06.DESC_DONE] (unattributed): The Netherworld is alive again
+[LM0_MM1.DESC] (unattributed): Obtain a ship in Nordhaven
+[LM0_MM1.DESC_DONE] (unattributed): You have your very own ship
+[LM0_MM1_1.DESC] (unattributed): Thaw your ship from the ice
+[LM0_MM1_1.DESC_DONE] (unattributed): Your ship is free
+[LM0_MM1_2.DESC] (unattributed): Decide what to do with the villagers; use them or punish them
+[LM0_MM1_2.DESC_DONE_EVIL] (unattributed): You have killed the villagers
+[LM0_MM1_2.DESC_DONE] (unattributed): You have used the villagers to thaw the ice for you
+[LM0_MM2.DESC] (unattributed): Do Minimission 2
+[LM0_MM2.DESC_DONE] (unattributed): Minimission 2 done
+[LM0_MM3.DESC] (unattributed): Do Minimission 3
+[LM0_MM3.DESC_DONE] (unattributed): Minimission 3 done
+[LM0_MM4.DESC] (unattributed): Do Minimission 4
+[LM0_MM4.DESC_DONE] (unattributed): Minimission 4 done
+[LM0_MM9.DESC] (unattributed): Do Minimission 9
+[LM0_MM9.DESC_DONE] (unattributed): Minimission 9 done
+[LM3C_MM9.DESC] (unattributed): Recharge the Tower heart
+[LM3C_MM9.DESC_DONE] (unattributed): You have recharged the Tower Heart
+[LM3C_MM9_1.DESC] (unattributed): Drain Fay's magic power
+[LM3C_MM9_1.DESC_DONE] (unattributed): All of fays power is yours
+[LM3C_MM9_TYRANNY.DESC] (unattributed): Decide to keep Fay as mistress or drain her to the death
+[LM3C_MM9_TYRANNY.DESC_DONE] (unattributed): Fay has joined you as your mistress
+[LM3C_MM9_TYRANNY.DESC_DONE_EVIL] (unattributed): You killed Fay, her power is yours
+[LM4B_SENATOR.DESC] (unattributed): Kill Senator Drearius and his wife
+[LM4B_SENATOR.DESC_DONE] (unattributed): They have been killed
+[LM4B_CHAIR.DESC] (unattributed): Obtain a sedan chair
+[LM4B_CHAIR.DESC_DONE] (unattributed): You have obtained the sedan chair
+[LM4A_DRESS.DESC] (unattributed): Dress up 16 Minions as Legionaries to fool the Catapult guards
+[LM4A_DRESS.DESC_DONE] (unattributed): You have fooled the guards
+[TCT_NORDBERG_QUEST.DESC] (unattributed): Control Nordberg Town
+[TCT_NORDBERG_TASK.DESC] (unattributed): Domination or Destruction?
+[TCT_NORDBERG_QUEST.DESC_DONE_DOM] (unattributed): You've  dominated Nordberg Town
+[TCT_NORDBERG_QUEST.DESC_DONE_DES] (unattributed): You've  destroyed Nordberg Town
+[TCT_EVERLIGHT_QUEST.DESC] (unattributed): Control Everlight Town
+[TCT_EVERLIGHT_TASK.DESC] (unattributed): Domination or Destruction?
+[TCT_EVERLIGHT_QUEST.DESC_DONE_DOM] (unattributed): You've  dominated Everlight Town
+[TCT_EVERLIGHT_QUEST.DESC_DONE_DES] (unattributed): You've  destroyed Everlight Town
+[TCT_FAIRYLAND_QUEST.DESC] (unattributed): Control Sanctuary Town
+[TCT_FAIRYLAND_TASK.DESC] (unattributed): Domination or Destruction?
+[TCT_FAIRYLAND_QUEST.DESC_DONE_DOM] (unattributed): You've controlled Sanctuary Town through Domination
+[TCT_FAIRYLAND_QUEST.DESC_DONE_DES] (unattributed): You've controlled Sanctuary Town through Destruction
+[TCT_TASK_TOTAL.DESC] (unattributed): Total population
+[TCT_TASK_ENSLAVED.DESC] (unattributed): Villagers enslaved
+[TCT_TASK_KILLED.DESC] (unattributed): Villagers killed
+[Q1_HEADER.DESC] (unattributed): Demonstrate your Overlording skills
+[Q1_HEADER.DESC_DONE] (unattributed): Demonstrate your Overlording skills
+[Q1_TASK_01.DESC] (unattributed): Chase the children away
+[Q1_TASK_01.DESC_DONE] (unattributed): You have chased the children away
+[Q1_TASK_02.DESC] (unattributed): Show the Minions some magic
+[Q1_TASK_02.DESC_DONE] (unattributed): You've demonstrated your magical skills to the Minions
+[Q1_TASK_03.DESC] (unattributed): Control the Minions
+[Q1_TASK_03.DESC_DONE] (unattributed): You've controlled the Minions
+[Q1_TASK_04.DESC] (unattributed): Wreak mayhem and destruction
+[Q1_TASK_04.DESC_DONE] (unattributed): You've brought mayhem and destruction to the Midwinter's party
+[Q2_HEADER.DESC] (unattributed): Find a way into the Town Square
+[Q2_HEADER.DESC_DONE] (unattributed): Find a way into the Town Square
+[Q2_TASK_01.DESC] (unattributed): Follow Kelda
+[Q2_TASK_01.DESC_DONE] (unattributed): You've followed Kelda
+[Q2_TASK_02.DESC] (unattributed): Find the children's secret hideout
+[Q2_TASK_02.DESC_DONE] (unattributed): You've located the children's secret hideout
+[Q2_TASK_03.DESC] (unattributed): Steal the children's clothes
+[Q2_TASK_03.DESC_DONE] (unattributed): Your Minions are now dressed as children
+[Q2_TASK_04.DESC] (unattributed): Fool the drunken villager
+[Q2_TASK_04.DESC_DONE] (unattributed): You've fooled Nev into letting you into the party
+[Q2B_HEADER.DESC] (unattributed): Find out what's going on
+[Q2B_HEADER.DESC_DONE] (unattributed): Find out what's going on
+[Q2B_TASK_01.DESC] (unattributed): Follow Kelda to the Village Wall
+[Q2B_TASK_01.DESC_DONE] (unattributed): You've followed Kelda to the Village Wall
+[Q2A_HEADER.DESC] (unattributed): Head into the wilderness
+[Q2A_HEADER.DESC_DONE] (unattributed): Head into the wilderness
+[Q2A_TASK_01.DESC] (unattributed): Follow the Minions 
+[Q2A_TASK_01.DESC_DONE] (unattributed): You've followed the Minions
+[Q2A_TASK_02.DESC] (unattributed): Capture the Catapult
+[Q2A_TASK_02.DESC_DONE] (unattributed): You've taken control of the Catapult
+[Q2A_TASK_03.DESC] (unattributed): Shoot the barrier with the Catapult
+[Q2A_TASK_03.DESC_DONE] (unattributed): You've crushed the barrier
+[Q2A_TASK_04.DESC] (unattributed): Escape across the ice flows to the Minion Burrows
+[Q2A_TASK_04.DESC_DONE] (unattributed): You've escaped across the ice flows
+[Q3_HEADER.DESC] (unattributed): Become the Overlord
+[Q3_HEADER.DESC_DONE] (unattributed): Become the Overlord
+[Q3_TASK_01.DESC] (unattributed): Combat Training
+[Q3_TASK_01.DESC_DONE] (unattributed): You are combat ready
+[Q3_TASK_02.DESC] (unattributed): Gather 30 Lifeforce for Netherworld Minions
+[Q3_TASK_02.DESC_DONE] (unattributed): You've collected 30 Lifeforce orbs to create new Minions
+[Q3_TASK_03.DESC] (unattributed): Tame Wolves to create Minion Mounts
+[Q3_TASK_03.DESC_DONE] (unattributed): You've tamed the Wolves to become mounts for your Brown Minions
+[Q3_TASK_04A.DESC] (unattributed): Enter the Sanctuary Cave
+[Q3_TASK_04A.DESC_DONE] (unattributed): You've found the Sanctuary Cave
+[Q3_TASK_04.DESC] (unattributed): Find a Spell Stone to pep up the Netherworld
+[Q3_TASK_04.DESC_DONE] (unattributed): You've found a Spell Stone
+[Q3_TASK_05A.DESC] (unattributed): Take the Spell Stone to Nordberg
+[Q3_TASK_05A.DESC_DONE] (unattributed): You took the Spell Stone to Nordberg
+[Q3_TASK_05.DESC] (unattributed): Find a Netherworld Gate to commit the Spell Stone
+[Q3_TASK_05.DESC_DONE] (unattributed): You've found a Netherworld Gate and committed the Spell Stone
+[Q3_TASK_06.DESC] (unattributed): Use your spell to kill some villagers
+[Q3_TASK_06.DESC_DONE] (unattributed): You've killed some villagers with your new spell
+[Q3_TASK_07.DESC] (unattributed): Use your spell to subdue some villagers
+[Q3_TASK_07.DESC_DONE] (unattributed): You've used your new spell to subdue some villagers
+[Q3_TASK_08.DESC] (unattributed): Travel back to the Netherworld
+[Q3_TASK_08.DESC_DONE] (unattributed): You've returned to the Netherworld
+[Q4_AUDITION.DESC] (unattributed): A Nordbergian requests an audience
+[Q4_HEADER.DESC] (unattributed): Conquer Nordberg Town
+[Q4_HEADER.DESC_DONE] (unattributed): Conquer Nordberg Town
+[Q4_TASK_01.DESC] (unattributed): Go to Nordberg
+[Q4_TASK_01.DESC_DONE] (unattributed): You've returned to Nordberg
+[Q4_TASK_02.DESC] (unattributed): Find out what's going on in Nordberg
+[Q4_TASK_02.DESC_DONE] (unattributed): You now know that the Empire and Governor Borius run Nordberg
+[Q4_TASK_03.DESC] (unattributed): Remove the fire barriers
+[Q4_TASK_03.DESC_DONE] (unattributed): With the help of the Reds you've removed the fire barriers
+[Q6_HEADER.DESC] (unattributed): Find the Red Minions
+[Q6_HEADER.DESC_DONE] (unattributed): Find the Red Minions
+[Q6_TASK_01.DESC] (unattributed): Go back to the Sanctuary Cave
+[Q6_TASK_01.DESC_DONE] (unattributed): You've returned to the Sanctuary Cave
+[Q6_TASK_02.DESC] (unattributed): Explore the Sanctuary to find the Red Minions
+[Q6_TASK_02.DESC_DONE] (unattributed): You've located the Red Minions
+[Q6_TASK_03.DESC] (unattributed): Find the Red Hive
+[Q6_TASK_03.DESC_DONE] (unattributed): You've found the Red Hive
+[Q6_TASK_04.DESC] (unattributed): Find a way to the Red Hive
+[Q6_TASK_04.DESC_DONE] (unattributed): You've found a route to the Red Hive
+[Q6_TASK_05.DESC] (unattributed): Bring the Red Hive to the Netherworld
+[Q6_TASK_05.DESC_DONE] (unattributed): You've returned the Red Hive to the Netherworld
+[Q6_TASK_05A.DESC] (unattributed): Go back to Nordberg
+[Q6_TASK_05A.DESC_DONE] (unattributed): You've returned to Nordberg
+[Q7_HEADER.DESC] (unattributed): Open the Sanctuary
+[Q7_HEADER.DESC_DONE] (unattributed): Open the Sanctuary
+[Q7_TASK_01.DESC] (unattributed): Examine the Netherworld shard
+[Q7_TASK_01.DESC_DONE] (unattributed): You've examined the Netherworld shard
+[Q7_TASK_02.DESC] (unattributed): Find a way in with your possessed Minion
+[Q7_TASK_02.DESC_DONE] (unattributed): You've possessed a Minion and used it to enter the Sanctuary
+[Q7_TASK_03.DESC] (unattributed): Destroy the pod to remove the roots
+[Q7_TASK_03.DESC_DONE] (unattributed): You've destroyed the roots of the pod
+[Q4_TASK_04.DESC] (unattributed): Find a way to flank the Ballista
+[Q4_TASK_04.DESC_DONE] (unattributed): You've flanked the Ballista
+[Q4_TASK_05.DESC] (unattributed): Take over the Ballista
+[Q4_TASK_05.DESC_DONE] (unattributed): The Ballista has been taken over by your Minions
+[Q4_TASK_06.DESC] (unattributed): Clear the blockades on the main road
+[Q4_TASK_06.DESC_DONE] (unattributed): You've used the Ballista to clear the blockades
+[Q4_TASK_07.DESC] (unattributed): Find a way to get into the Town
+[Q4_TASK_07.DESC_DONE] (unattributed): You've found a way into Nordberg
+[Q4_TASK_08.DESC] (unattributed): Investigate the digsite
+[Q4_TASK_08.DESC_DONE] (unattributed): You've explored the digsite
+[Q4_TASK_09.DESC] (unattributed): Blow up the Town Gate
+[Q4_TASK_09.DESC_DONE] (unattributed): You blew the bloody doors off!
+[Q4_TASK_10.DESC] (unattributed): Find Borius
+[Q4_TASK_10.DESC_DONE] (unattributed): You've found Governor Borius
+[Q4_TASK_11.DESC] (unattributed): Destroy the Temple
+[Q4_TASK_11.DESC_DONE] (unattributed): You've left the Temple in ruins
+[Q4_TASK_12.DESC] (unattributed): Find a way to reach the Town Hall
+[Q4_TASK_12.DESC_DONE] (unattributed): You've found a way to get to the Town Hall
+[Q4_TASK_13.DESC] (unattributed): Use the Siege Tower to reach the Town Hall
+[Q4_TASK_13.DESC_DONE] (unattributed): You used the Siege Tower to reach the Town Hall
+[Q4_TASK_14.DESC] (unattributed): Defeat Borius
+[Q4_TASK_14.DESC_DONE] (unattributed): You have defeated Borius
+[Q4_TASK_15.DESC] (unattributed): Kill or Enslave Borius
+[Q4_TASK_15.DESC_DONE_DOM] (unattributed): Governor Borius is your groveling slave
+[Q4_TASK_15.DESC_DONE_DES] (unattributed): You've killed Governor Borius
+[Q4_TASK_16.DESC] (unattributed): Take over Nordberg Town
+[Q4_TASK_16.DESC_DONE] (unattributed): You've taken over Nordberg Town
+[Q4_TASK_16A.DESC] (unattributed): Go back to the Netherworld
+[Q4_TASK_16A.DESC_DONE] (unattributed): You've returned to the Netherworld
+[Q8_Audience.DESC] (unattributed): A Nordbergian requests an audience
+[Q8_HEADER.DESC] (unattributed): Save your ship
+[Q8_HEADER.DESC_DONE] (unattributed): Save your ship
+[Q8_TASK_01A.DESC] (unattributed): Go to Nordhaven
+[Q8_TASK_01A.DESC_DONE] (unattributed): You've found Nordhaven
+[Q8_TASK_01.DESC] (unattributed): Deal with the ship thieves in Nordhaven
+[Q8_TASK_01.DESC_DONE] (unattributed): You've severely dealt with the ship thieves in Nordberg 
+[Q8_TASK_02.DESC] (unattributed): Find a way to melt the river ice
+[Q8_TASK_02.DESC_DONE] (unattributed): You've melted the ice in the river
+[Q8_TASK_03.DESC] (unattributed): Set fire to tar pits 
+[Q8_TASK_03.DESC_DONE] (unattributed): You've set fire to the tar pits
+[Q8_TASK_04.DESC] (unattributed): Set fire to the giant tar pit or subdue 10 villagers to remove the ice for you
+[Q8_TASK_04.DESC_DONE_DOM] (unattributed): You've subdued 10 villagers into melting the ice for you
+[Q8_TASK_04.DESC_DONE_DES] (unattributed): You've set fire to a giant tarpit and melted the ice
+[Q9_HEADER.DESC] (unattributed): Set sail to Everlight
+[Q9_HEADER.DESC_DONE] (unattributed): Set sail to Everlight
+[Q9_TASK_02.DESC] (unattributed): Sail out of Nordhaven
+[Q9_TASK_02.DESC_DONE] (unattributed): You're leaving Nordhaven behind you
+[Q9_TASK_03.DESC] (unattributed): Get to open sea
+[Q9_TASK_03.DESC_DONE] (unattributed): Your ship has reached the open sea
+[Q9_TASK_04.DESC] (unattributed): Sail on to Everlight
+[Q9_TASK_04.DESC_DONE] (unattributed): You're bound for Everlight
+[Q10_HEADER.DESC] (unattributed): Destroy the ship blockade
+[Q10_HEADER.DESC_DONE] (unattributed): Destroy the ship blockade
+[Q10_TASK_01.DESC] (unattributed): Dock your ship
+[Q10_TASK_01.DESC_DONE] (unattributed): Your ship has now been docked
+[Q10_TASK_02.DESC] (unattributed): Find a way to destroy the ship that's blocking the river
+[Q10_TASK_02.DESC_DONE] (unattributed): You've destroyed the ship blocking the river
+[Q11_HEADER.DESC] (unattributed): Open the Gates to Everlight
+[Q11_HEADER.DESC_DONE] (unattributed): Open the Gates to Everlight
+[Q11_TASK_01.DESC] (unattributed): Return the Gate Keys to their slots
+[Q11_TASK_01.DESC_DONE] (unattributed): You have returned the Gate Keys to their slots
+[Q12_HEADER.DESC] (unattributed): Seize the Elven ship
+[Q12_HEADER.DESC_DONE] (unattributed): Seize the Elven ship
+[Q12_TASK_01.DESC] (unattributed): Get to the Elven ship before they escape
+[Q12_TASK_01.DESC_DONE] (unattributed): You've reached the Elven ship
+[Q12_TASK_02.DESC] (unattributed): Burn the sails to stop the ship
+[Q12_TASK_02.DESC_DONE] (unattributed): You've burnt the sails on the Elven ship
+[Q12_TASK_03.DESC] (unattributed): Board their ship
+[Q12_TASK_03.DESC_DONE] (unattributed): You've boarded the ship
+[Q12_TASK_04.DESC] (unattributed): Kill the Elves
+[Q12_TASK_04.DESC_DONE] (unattributed): You've killed the Elves
+[Q14_HEADER.DESC] (unattributed): Everlight Jungle
+[Q14_HEADER.DESC_DONE] (unattributed): Everlight Jungle
+[Q14_TASK_01.DESC] (unattributed): Venture further into the jungle
+[Q14_TASK_01.DESC_DONE] (unattributed): You've gone deeper into the jungle
+[Q14A_HEADER.DESC] (unattributed): Rescue the Green Minion Hive
+[Q14A_HEADER.DESC_DONE] (unattributed): Rescue the Green Minion Hive
+[Q14A_TASK_01.DESC] (unattributed): Find the guarded Empire building
+[Q14A_TASK_01.DESC_DONE] (unattributed): You've found the guarded Empire building
+[Q14A_TASK_02.DESC] (unattributed): Retrieve the Green Hive from the guarded Empire building
+[Q14A_TASK_02.DESC_DONE] (unattributed): You've retrieved the Green Hive from the guarded Empire building
+[Q14A_TASK_03.DESC] (unattributed): Destroy the Sentinel Towers
+[Q14A_TASK_03.DESC_DONE] (unattributed): You've destroyed the Sentinel Towers
+[Q14A_TASK_04.DESC] (unattributed): Leave the guarded Empire building
+[Q14A_TASK_04.DESC_DONE] (unattributed): You've left the guarded Empire building
+[Q15_HEADER.DESC] (unattributed): Find your missing crew
+[Q15_HEADER.DESC_DONE] (unattributed): Find your missing crew
+[Q15_TASK_01.DESC] (unattributed): Find Minions crew members 
+[Q15_TASK_01.DESC_DONE] (unattributed): You've found your Minion crew members
+[Q16_Audience.DESC] (unattributed): A Nordbergian requests an audience
+[Q16_HEADER.DESC] (unattributed): Deal with the Nordberg Commune
+[Q16_HEADER.DESC_DONE] (unattributed): Deal with the Nordberg Commune
+[Q16_TASK_01.DESC] (unattributed): Tear the Commune apart
+[Q16_TASK_01.DESC_DONE_DOM] (unattributed): You've controlled the Commune by turning the residents into slaves
+[Q16_TASK_01.DESC_DONE_DES] (unattributed): You've destroyed the Commune through death and mayhem
+[Q16_TASK_02.DESC] (unattributed): Open the Gate to the Commune
+[Q16_TASK_02.DESC_DONE] (unattributed): You've opened the Commune Gate
+[Q16_TASK_03.DESC] (unattributed): Find your Wolves
+[Q16_TASK_03.DESC_DONE] (unattributed): You've found your Wolf mounts
+[Q17_HEADER.DESC] (unattributed): Spider Queen Temple
+[Q17_HEADER.DESC_DONE] (unattributed): Spider Queen Temple
+[Q17_TASK_01.DESC] (unattributed): Defeat the Spider Queen
+[Q17_TASK_01.DESC_DONE] (unattributed): You've defeated the Spider Queen
+[Q17_TASK_02.DESC] (unattributed): Find a way into the Temple
+[Q17_TASK_02.DESC_DONE] (unattributed): You've found a way into the Temple
+[Q17_TASK_03.DESC] (unattributed): Find a way out of the Temple
+[Q17_TASK_03.DESC_DONE] (unattributed): You've found a way out of the Temple
+[Q18_HEADER.DESC] (unattributed): Everlight Town
+[Q18_HEADER.DESC_DONE] (unattributed): Everlight Town
+[Q18_TASK_01.DESC] (unattributed): Gain entrance to Everlight Town
+[Q18_TASK_01.DESC_DONE] (unattributed): You've found a way into the Town
+[Q18_TASK_02A.DESC] (unattributed): Get into Everlight Town
+[Q18_TASK_02A.DESC_DONE] (unattributed): You've entered Everlight Town
+[Q18_TASK_02.DESC] (unattributed): Destroy the Temple
+[Q18_TASK_02.DESC_DONE] (unattributed): The Temple is in ruins
+[Q18_TASK_03.DESC] (unattributed): Kill or Subdue the Everlight Governess
+[Q18_TASK_03.DESC_DONE_DOM] (unattributed): You have subdued the Governess of Everlight
+[Q18_TASK_03.DESC_DONE_DES] (unattributed): You have killed the Governess of Everlight
+[Q18_TASK_04.DESC] (unattributed): Start Town Control over Everlight
+[Q18_TASK_04.DESC_DONE] (unattributed): You've started Town Control over Everlight
+[Q18_TASK_05.DESC] (unattributed): Go back to the Netherworld
+[Q18_TASK_05.DESC_DONE] (unattributed): You've returned to the Netherworld
+[Q13_Audience.DESC] (unattributed): A mysterious lady appears
+[Q13_HEADER.DESC] (unattributed): Visit the Wasteland
+[Q13_HEADER.DESC_DONE] (unattributed): Visit the Wasteland
+[Q13_TASK_01.DESC] (unattributed): Go to the Wasteland
+[Q13_TASK_01.DESC_DONE] (unattributed): You've entered the Wastelands
+[Q19A_Audience.DESC] (unattributed): Travel to the Empire
+[Q19A_HEADER.DESC] (unattributed): Go to the Empire Heartlands
+[Q19A_HEADER.DESC_DONE] (unattributed): Go to the Empire Heartlands
+[Q19A_TASK_01.DESC] (unattributed): Set sail for the Empire Heartlands
+[Q19A_TASK_01.DESC_DONE] (unattributed): You have set sail for the Empire Heartlands
+[Q19_HEADER.DESC] (unattributed): Find a way into Empire City
+[Q19_HEADER.DESC_DONE] (unattributed): Find a way into Empire City
+[Q19_TASK_01.DESC] (unattributed): Get to Empire City's Gates
+[Q19_TASK_01.DESC_DONE] (unattributed): You've reached Empire City's Gates
+[Q19_TASK_02.DESC] (unattributed): Get past the Harbor Fort
+[Q19_TASK_02.DESC_DONE] (unattributed): You've got past the Harbor Fort
+[Q19_TASK_03.DESC] (unattributed): Dress up 16 Minions as Legionaries to fool the Catapult guards
+[Q19_TASK_03.DESC_DONE] (unattributed): You've dressed up 16 Minions as Legionaries
+[Q19_TASK_04.DESC] (unattributed): Take control of the Catapult
+[Q19_TASK_04.DESC_DONE] (unattributed): Your Minions have taken control of the Catapult
+[Q19_TASK_05A.DESC] (unattributed): Explore further into the Empire Heartlands
+[Q19_TASK_05A.DESC_DONE] (unattributed): You've explored further into the Heartlands
+[Q19_TASK_05.DESC] (unattributed): Get yourself a Sedan Chair
+[Q19_TASK_05.DESC_DONE] (unattributed): You've stolen Senator Drearius' Sedan Chair
+[Q19_TASK_06.DESC] (unattributed): Find a good location for the Netherworld Gate
+[Q19_TASK_06.DESC_DONE] (unattributed): You've reached a suitable location for a Netherworld Gate
+[Q19_TASK_07.DESC] (unattributed): Take down the  Sentinel on the main road
+[Q19_TASK_07.DESC_DONE] (unattributed): You've taken down the Sentinel on the main road
+[Q19_TASK_08.DESC] (unattributed): Get onto the main road
+[Q19_TASK_08.DESC_DONE] (unattributed): You've reached the main road
+[Q19_TASK_09.DESC] (unattributed): Destroy the Villa and take down Senator Drearius
+[Q19_TASK_09.DESC_DONE_DOM] (unattributed): You've destroyed the Villa and turned Senator Drearius into your slave
+[Q19_TASK_09.DESC_DONE_DES] (unattributed): You've destroyed the Villa and killed Senator Drearius
+[Q19_TASK_10.DESC] (unattributed): Use the Sedan Chair to infiltrate the City
+[Q19_TASK_10.DESC_DONE] (unattributed): You've used the Sedan Chair to infiltrate the City
+[Q21_HEADER.DESC] (unattributed): Find the Blue Minions
+[Q21_HEADER.DESC_DONE] (unattributed): Find the Blue Minions
+[Q21_TASK_01.DESC] (unattributed): Find out where the Blue Minions are
+[Q21_TASK_01.DESC_DONE] (unattributed): Your Blue Minions have been taken to the Arena Dungeons
+[Q21_TASK_02.DESC] (unattributed): Infiltrate Empire City
+[Q21_TASK_02.DESC_DONE] (unattributed): You have infiltrated Empire City
+[Q21_TASK_03.DESC] (unattributed): Find the Arena Dungeons
+[Q21_TASK_03.DESC_DONE] (unattributed): You have located the Arena Dungeons
+[Q21_TASK_04.DESC] (unattributed): Enter the Arena Dungeons
+[Q21_TASK_04.DESC_DONE] (unattributed): You have entered the Arena Dungeons
+[Q21_TASK_05.DESC] (unattributed): Free the Blue Minions 
+[Q21_TASK_05.DESC_DONE] (unattributed): You've freed the Blue Minions
+[Q21_TASK_06.DESC] (unattributed): Use the Raft to reach the Blue Hive
+[Q21_TASK_06.DESC_DONE] (unattributed): You have used the raft to reach the Blue Hive
+[Q21_TASK_07.DESC] (unattributed): Follow the Blue Hive
+[Q21_TASK_07.DESC_DONE] (unattributed): You've followed the Blue Hive into the Imperial Palace
+[Q22_HEADER.DESC] (unattributed): Find the Blue Hive in the Palace
+[Q22_HEADER.DESC_DONE] (unattributed): Find the Blue Hive in the Palace
+[Q22_TASK_01.DESC] (unattributed): Find the Blue Hive
+[Q22_TASK_01.DESC_DONE] (unattributed): You've found the Blue Hive
+[Q22_TASK_02.DESC] (unattributed): Find a new way into the Imperial Palace
+[Q22_TASK_02.DESC_DONE] (unattributed): You've found a new way into the Imperial Palace
+[Q22_TASK_03.DESC] (unattributed): Retrieve the Blue Hive
+[Q22_TASK_03.DESC_DONE] (unattributed): You've retrieved the Blue Hive
+[Q23_HEADER.DESC] (unattributed): Survive the Arena Games
+[Q23_HEADER.DESC_DONE] (unattributed): Survive the Arena Games
+[Q23_TASK_01.DESC] (unattributed): Resurrect the dead Minions
+[Q23_TASK_01.DESC_DONE] (unattributed): You've resurrected the dead Minions
+[Q23_TASK_02.DESC] (unattributed): Survive the slave round
+[Q23_TASK_02.DESC_DONE] (unattributed): You've beaten the slaves
+[Q23_TASK_03.DESC] (unattributed): Survive the Unicorn round
+[Q23_TASK_03.DESC_DONE] (unattributed): You've defeated the Unicorns
+[Q23_TASK_04.DESC] (unattributed): Survive the Gargantuan round
+[Q23_TASK_04.DESC_DONE] (unattributed): You've crushed the Gargantuan
+[Q23_TASK_05.DESC] (unattributed): Survive the all-out round
+[Q23_TASK_05.DESC_DONE] (unattributed): You're still standing after the all-out round
+[Q23_TASK_06.DESC] (unattributed): Survive the Yeti round
+[Q23_TASK_06.DESC_DONE] (unattributed): You've survived the Yeti round
+[Q24_HEADER.DESC] (unattributed): Arena Escape
+[Q24_HEADER.DESC_DONE] (unattributed): Arena Escape
+[Q24_TASK_01.DESC] (unattributed): Find a way to escape the Arena
+[Q24_TASK_01.DESC_DONE] (unattributed): You've found a way to escape the Arena
+[Q24_TASK_02.DESC] (unattributed): Destroy the pillars at both sides of the Imperial Lodge
+[Q24_TASK_02.DESC_DONE] (unattributed): You've broken the Imperial Lodge
+[Q24_TASK_03.DESC] (unattributed): Kill or Enslave the Yeti
+[Q24_TASK_03.DESC_DONE_DOM] (unattributed): You've subdued your old friend, the Yeti
+[Q24_TASK_03.DESC_DONE_DES] (unattributed): You've killed your old friend, the Yeti
+[Q24_TASK_04.DESC] (unattributed): Escape the Arena
+[Q24_TASK_04.DESC_DONE] (unattributed): You've escaped the Arena
+[Q25_HEADER.DESC] (unattributed): Gather all the Tower Heart shards
+[Q25_HEADER.DESC_DONE] (unattributed): Gather all the Tower Heart shards
+[Q25_TASK_01.DESC] (unattributed): Gather the Tower Heart shards from the Wasteland
+[Q25_TASK_01.DESC_DONE] (unattributed): You've collected all the Tower Heart shards from the Wastelands
+[Q25_TASK_02.DESC] (unattributed): Follow Florian to find the Tower Heart shards
+[Q25_TASK_02.DESC_DONE] (unattributed): Florian has helped you find the missing Tower Heart shards
+[Q27_HEADER.DESC] (unattributed): Escape from the Wastelands!
+[Q27_HEADER.DESC_DONE] (unattributed): Escape from the Wastelands!
+[Q27_TASK_01.DESC] (unattributed): Escape!
+[Q27_TASK_01.DESC_DONE] (unattributed): You have escaped the Empire troops
+[Q28_HEADER.DESC] (unattributed): Revive the Tower Heart
+[Q28_HEADER.DESC_DONE] (unattributed): Revive the Tower Heart
+[Q28_TASK_01.DESC] (unattributed): Return to the collected shards in the Wasteland Sanctuary
+[Q28_TASK_01.DESC_DONE] (unattributed): You've reached the collection of shards in the Sanctuary
+[Q28_TASK_02A.DESC] (unattributed): Go to the Sanctuary Depths
+[Q28_TASK_02A.DESC_DONE] (unattributed): You've reached the Sanctuary Depths
+[Q28_TASK_02.DESC] (unattributed): Charge up the Tower Heart at the Shrines
+[Q28_TASK_02.DESC_DONE] (unattributed): You've charged up the Tower Heart from the Shrines
+[Q28_TASK_03A.DESC] (unattributed): Go back to Sanctuary Town
+[Q28_TASK_03A.DESC_DONE] (unattributed): You've returned to Sanctuary Town
+[Q28_TASK_03.DESC] (unattributed): Bring the Tower Heart back to Queen Fay
+[Q28_TASK_03.DESC_DONE] (unattributed): You've have brought the Tower Heart back to Queen Fay
+[Q29_HEADER.DESC] (unattributed): Into the Depths
+[Q29_HEADER.DESC_DONE] (unattributed): Into the Depths
+[Q29_TASK_01.DESC] (unattributed): Retrieve the Tower Heart from the Gnomes
+[Q29_TASK_01.DESC_DONE] (unattributed): You've stolen back the Tower Heart from the Gnomes
+[Q29_TASK_02.DESC] (unattributed): Get past the fiery Salamanders and find the Tower Heart
+[Q29_TASK_02.DESC_DONE] (unattributed): You've escaped the Salamanders and retrieved the Tower Heart
+[Q29_TASK_03.DESC] (unattributed): Chase down and kill the Salamander King
+[Q29_TASK_03.DESC_DONE] (unattributed): The King is Dead!
+[Q28_TASK_04.DESC] (unattributed): Drain Queen Fay to recharge the Tower Heart
+[Q28_TASK_04.DESC_DONE] (unattributed): You've drained Queen Fay to charge up the Tower Heart
+[Q28_TASK_05.DESC] (unattributed): Overcharge Dark Fay or take her as your Mistress
+[Q28_TASK_05.DESC_DONE_DOM] (unattributed): You've taken Dark Fay as your Mistress
+[Q28_TASK_05.DESC_DONE_DES] (unattributed): You've overcharged Dark Fay and killed her
+[Q30_Audience.DESC] (unattributed): An Everlightian requests an audience
+[Q30_HEADER.DESC] (unattributed): Rebels in Everlight Town
+[Q30_HEADER.DESC_DONE] (unattributed): Rebels in Everlight Town
+[Q30_TASK_01.DESC] (unattributed): Find a way into the Elf village
+[Q30_TASK_01.DESC_DONE] (unattributed): You've got into the Elf village
+[Q30_TASK_02.DESC] (unattributed): Find and stop the rebels in Everlight Town
+[Q30_TASK_02.DESC_DONE] (unattributed): You have crushed the rebellion in Everlight Town
+[Q30_TASK_03.DESC] (unattributed): Decide the fate of the last rebel
+[Q30_TASK_03.DESC_DONE_DOM] (unattributed): You have again taught the elves that you are their master
+[Q30_TASK_03.DESC_DONE_DES] (unattributed): You have punished the elves with death and destruction
+[Q31_Audience.DESC] (unattributed): Assault Plan
+[Q31_HEADER.DESC] (unattributed): Assault Empire City
+[Q31_HEADER.DESC_DONE] (unattributed): Assault Empire City
+[Q31_TASK_01.DESC] (unattributed): Emerge in the Empire Heartlands
+[Q31_TASK_01.DESC_DONE] (unattributed): You've entered the Empire Heartlands
+[Q31_TASK_02.DESC] (unattributed): Breach the City wall with the Tower Heart
+[Q31_TASK_02.DESC_DONE] (unattributed): You've used the Tower Heart to breach the city wall
+[Q31_TASK_03.DESC] (unattributed): Deal with the last of the defenders
+[Q31_TASK_03.DESC_DONE] (unattributed): You've dealt with the last of Empire City's defenders
+[Q31_TASK_04.DESC] (unattributed): Get into the City
+[Q31_TASK_04.DESC_DONE] (unattributed): You've entered Empire City
+[Q32_HEADER.DESC] (unattributed): Tactical Plan
+[Q32_HEADER.DESC_DONE] (unattributed): Tactical Plan
+[Q32_TASK_01.DESC] (unattributed): Take the first hill
+[Q32_TASK_01.DESC_DONE] (unattributed): You've taken the first hill
+[Q32_TASK_02.DESC] (unattributed): Allow a Netherworld Catapult to be deployed on the first hill
+[Q32_TASK_02.DESC_DONE] (unattributed): Grubby has deployed a Netherworld Catapult on the first hill
+[Q32_TASK_03.DESC] (unattributed): Shoot boulders to repel the attacking waves
+[Q32_TASK_03.DESC_DONE] (unattributed): You've used the Catapult to repel the waves of attackers
+[Q32_TASK_04.DESC] (unattributed): Get a Catapult onto the second hill
+[Q32_TASK_04.DESC_DONE] (unattributed): Grubby has deployed a Catapult on the second hill
+[Q32_TASK_05.DESC] (unattributed): Flatten the opposition
+[Q32_TASK_05.DESC_DONE] (unattributed): The enemy has been squashed
+[Q32_TASK_06.DESC] (unattributed): Get a Catapult onto the third hill
+[Q32_TASK_06.DESC_DONE] (unattributed): Grubby has deployed a Catapult on the third hill
+[Q33_HEADER.DESC] (unattributed): Empire City
+[Q33_HEADER.DESC_DONE] (unattributed): Empire City
+[Q33_TASK_01.DESC] (unattributed): Get into the Emperor's Palace
+[Q33_TASK_01.DESC_DONE] (unattributed): You've made it to the Emperor's Palace
+[Q33_TASK_02.DESC] (unattributed): Destroy the four Temples to remove the shield around the Palace
+[Q33_TASK_02.DESC_DONE] (unattributed): You've destroyed the four Temples and remove the shield around the Palace
+[Q34_HEADER.DESC] (unattributed): Emperor's Palace
+[Q34_HEADER.DESC_DONE] (unattributed): Emperor's Palace
+[Q34_TASK_01.DESC] (unattributed): Find the Magic Containment Room
+[Q34_TASK_01.DESC_DONE] (unattributed): You've made it to the Magic Containment Room
+[Q34_TASK_02.DESC] (unattributed): Locate the Emperor and take him down
+[Q34_TASK_02.DESC_DONE] (unattributed): You've killed Emperor Solarius 
+[Q35_HEADER.DESC] (unattributed): Ooze on the Loose
+[Q35_HEADER.DESC_DONE] (unattributed): Ooze on the Loose
+[Q35_TASK_01.DESC] (unattributed): Destroy the Devourer
+[Q35_TASK_01.DESC_DONE] (unattributed): You've turned the Devourer into mush
+[Q_N1_HEADER.DESC] (unattributed): Netherworld Tour
+[Q_N1_HEADER.DESC_DONE] (unattributed): Netherworld Tour
+[Q_N1_TASK_01.DESC] (unattributed): All about your Throne
+[Q_N1_TASK_01.DESC_DONE] (unattributed): You've used your Throne
+[Q_N1_TASK_02.DESC] (unattributed): Getting around the Netherworld
+[Q_N1_TASK_02.DESC_DONE] (unattributed): You've explored the Netherworld
+[Q_N1_TASK_03.Audition] (unattributed): Learn more about the Minion Burrows
+[Q_N1_TASK_03.DESC] (unattributed): Visit the Minion Burrows
+[Q_N1_TASK_03.DESC_DONE] (unattributed): You've visited the Minion Burrows
+[Q_N1_TASK_04.Audition] (unattributed): Learn more about the Private Quarters
+[Q_N1_TASK_04.DESC] (unattributed): Visit the Private Quarters
+[Q_N1_TASK_04.DESC_DONE] (unattributed): You've been to the Private Quarters
+[Q_N1_TASK_05.Audition] (unattributed): Learn more about the Foundations
+[Q_N1_TASK_05.DESC] (unattributed): Visit the Foundations
+[Q_N1_TASK_05.DESC_DONE] (unattributed): You've explored the Foundations
+[Q_N1_TASK_06.Audition] (unattributed): Learn more about the Battle Rock
+[Q_N1_TASK_06.DESC] (unattributed): Visit the Battle Rock
+[Q_N1_TASK_06.DESC_DONE] (unattributed): You've been to the Battle Rock
+[Q_N1_TASK_07.DESC] (unattributed): Visit the Forge in the Foundations
+[Q_N1_TASK_07.DESC_DONE] (unattributed): You've been to see your Forge
+[Q_N1_TASK_08.DESC] (unattributed): Visit Kelda in the Private Quarters
+[Q_N1_TASK_08.DESC_DONE] (unattributed): You've visited Kelda in the Private Quarters
+[Q_N2_HEADER.DESC] (unattributed): Things to do in the Netherworld
+[Q_N2_HEADER.DESC_DONE] (unattributed): Things to do in the Netherworld
+[Q_N2_TASK_01.Audition] (unattributed): Giblet requests an audience
+[Q_N2_TASK_01.DESC] (unattributed): Visit the Foundations to forge weapons and armor
+[Q_N2_TASK_01.DESC_DONE] (unattributed): You've forged all weapons and armor
+[Q_N2_TASK_02.Audition] (unattributed): Giblet requests an audience
+[Q_N2_TASK_02.DESC] (unattributed): Visit the Foundations to buy Netherworld upgrades
+[Q_N2_TASK_02.DESC_DONE] (unattributed): You've built all Netherworld upgrades
+[Q_N2_TASK_03.Audition] (unattributed): Dungeon Minion Gash requests an audience
+[Q_N2_TASK_03.DESC] (unattributed): Fight challengers on the Battle Rock
+[Q_N2_TASK_03.DESC_DONE] (unattributed): You've completed all challenges on the Battle Rock
+[Q_N2_TASK_04.Audition] (unattributed): Gnarl requests an audience
+[Q_N2_TASK_04.DESC] (unattributed): Upgrade your Spells in the Magic Room
+[Q_N2_TASK_04.DESC_DONE] (unattributed): You've fully upgraded your Spells
+[Q_N2_TASK_05.Audition] (unattributed): Minion Mortis requests an audience
+[Q_N2_TASK_05.DESC] (unattributed): Visit the Burrows to resurrect Minions
+[Q_N2_TASK_06.Audition] (unattributed): Kelda requests an audience
+[Q_N2_TASK_06.DESC] (unattributed): Buy some gifts for Kelda
+[Q_N2_TASK_06.DESC_DONE] (unattributed): Kelda is content
+[Q_N2_TASK_07.Audition] (unattributed): Juno requests an audience
+[Q_N2_TASK_07.DESC] (unattributed): Buy some gifts for Juno
+[Q_N2_TASK_07.DESC_DONE] (unattributed): Juno is content
+[Q_N2_TASK_08.Audition] (unattributed): Dark Fay requests an audience
+[Q_N2_TASK_08.DESC] (unattributed): Buy some gifts for Dark Fay
+[Q_N2_TASK_08.DESC_DONE] (unattributed): Dark Fay is content
+[Q_N2_TASK_09.Audition] (unattributed): Ghost Fay requests an audience
+[Q_N2_TASK_09.DESC] (unattributed): Buy some gifts for Ghost Fay
+[Q_N2_TASK_09.DESC_DONE] (unattributed): Ghost Fay is content
+[Q_N2_TASK_10.DESC] (unattributed): Ease the rivalry between your Mistresses
+[Q_N2_TASK_10.DESC_DONE] (unattributed): Your Mistresses get along (for now)
+[Q_N2_TASK_11.Audition] (unattributed): Gnarl requests an audience
+[Q_N2_TASK_11.DESC] (unattributed): Nordberg Tyranny reminder audience event
+[Q_N2_TASK_11.DESC_DONE] (unattributed): Your Tyranny over Nordberg is complete
+[Q_N2_TASK_12.Audition] (unattributed): Gnarl requests an audience
+[Q_N2_TASK_12.DESC] (unattributed): Everlight Tyranny reminder audience event
+[Q_N2_TASK_12.DESC_DONE] (unattributed): Your Tyranny over Everlight is complete
+[D.C1] (unattributed): These are Dark Crystals; Pure evil energy that’s become crystallized 
+[D.C2] (unattributed): Very powerful and very rare, Sire You may find them useful
+[Prologue.1] (unattributed): Thirteen years later…

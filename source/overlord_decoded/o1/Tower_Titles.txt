@@ -1,0 +1,87 @@
+[GREETING_1.JES] MINION_JESTER: Hail   <<At start of title sequence>>
+[GREETING_2.JES] MINION_JESTER: Greetings   <<At start of title sequence>>
+[GREETING_3.JES] MINION_JESTER: Welcome   <<At start of title sequence>>
+[GREETING_4.JES] MINION_JESTER: Salutations   <<At start of title sequence>>
+[D1_WORLDSTONE.JES] MINION_JESTER: Savior of the Tower Heart   <<sequenced announcement | Just as Tower Heart starts to fade out in Halfling Domain>>
+[D1_GETROSE.JES] MINION_JESTER: Rescuer of the Distressed Damsel   <<sequenced announcement | Just as the forced return to tower occurs when Rose joins>>
+[D1_REDMINIONS.JES] MINION_JESTER: Leader of the Fire Starters   <<sequenced announcement>>
+[D2S1_GREENHIVE.JES] MINION_JESTER: Ruler of the Stealth Army   <<sequenced announcement | When the Green Minion Hive is committed>>
+[D3S1_BLUEHIVE.JES] MINION_JESTER: Warrior of the Watery Ones   <<sequenced announcement>>
+[D1_FORGE.JES] MINION_JESTER: Wielder of Steel   <<sequenced announcement>>
+[D3_FORGE.JES] MINION_JESTER: Forger of Durium   <<sequenced announcement>>
+[D4_ARCANIUM.JES] MINION_JESTER: Master of Arcanium Weaponry   <<sequenced announcement>>
+[FULL_DURIUM.JES] MINION_JESTER: Leader of the Minion Army   <<sequenced announcement>>
+[FULL_ARCANIUM.JES] MINION_JESTER: Great and Mighty Overlord   <<sequenced announcement>>
+[ULTIMATE_STEEL.JES] MINION_JESTER: Wielder of Mighty Weapons    <<sequenced announcement>>
+[ULTIMATE_DURIUM.JES] MINION_JESTER: Wielder of Arcane Weapons   <<sequenced announcement>>
+[ULTIMATE_ARCANIUM.JES] MINION_JESTER: Impenetrable One   <<sequenced announcement>>
+[D1_FOOD.JES] MINION_JESTER: Gluttonous Overlard   <<sequenced announcement>>
+[D1_FOOD.ALT] MINION_JESTER: Merciful Quietener of the Grumbling Stomachs   <<sequenced announcement>>
+[D2_GROVE.JES] MINION_JESTER: Desecrator of the Sacred Grove   <<sequenced announcement>>
+[D2_GROVE.ALT] MINION_JESTER: Friend to the Flowers and Trees   <<sequenced announcement>>
+[D3S5_MISTRESSES.JES] MINION_JESTER: Appreciator of Voluptuous Assets   <<sequenced announcement>>
+[D3S5_MISTRESSES.ALT] MINION_JESTER: Loyal Lord!   <<sequenced announcement>>
+[D4_FEMALE_ELVES.JES] MINION_JESTER: Destroyer of Elvenkind   <<sequenced announcement>>
+[D4_FEMALE_ELVES.ALT] MINION_JESTER: Elf Lover!   <<sequenced announcement>>
+[D5_RETRIEVESTATUE.JES] MINION_JESTER: Pincher of Sacred Relics   <<sequenced announcement>>
+[D5_RETRIEVESTATUE.ALT] MINION_JESTER: Blessed of the Elves   <<sequenced announcement>>
+[TRAITORS_FATE.JES] MINION_JESTER: Executioner of Traitors   <<sequenced announcement>>
+[TRAITORS_FATE.ALT] MINION_JESTER: Forgiving Lord   <<sequenced announcement>>
+[D1_MELVIN.JES] MINION_JESTER: Exploder of Melvin Underbelly   <<sequenced announcement | When Melvin is defeated:>>
+[D2_OBERON.JES] MINION_JESTER: Rude Awakener   <<sequenced announcement>>
+[D3_WILLIAM.JES] MINION_JESTER: Purger of the Perverted Paladin   <<sequenced announcement>>
+[D4_GOLDO.JES] MINION_JESTER: Grinder of Goldo and Ravager of Rollie   <<sequenced announcement>>
+[D5_CAPTUREJEWEL.JES] MINION_JESTER: Apprehender of Thieves   <<sequenced announcement>>
+[D3_KAHN.JES] MINION_JESTER: Giant Slayer   <<sequenced announcement>>
+[TOWER_WIZARD.JES] MINION_JESTER: The One True Overlord   <<sequenced announcement | After Wizard completes his death sequence>>
+[MINION_KILLS_1000.JES] MINION_JESTER: Reckless Orchestrator of Minion Deaths   <<sequenced announcement>>
+[MINION_KILLS_10000.JES] MINION_JESTER: Mass Minion Murderer   <<sequenced announcement>>
+[HARVEST_10.JES] MINION_JESTER: Harvester of Lifeforce   <<sequenced announcement>>
+[HARVEST_250.JES] MINION_JESTER: Force Feeder   <<sequenced announcement>>
+[HARVEST_1000.JES] MINION_JESTER: Amasser of Armies   <<sequenced announcement>>
+[HARVEST_10000.JES] MINION_JESTER: Forceful One   <<sequenced announcement>>
+[BEAT_JESTER1.JES] MINION_JESTER: Bully of Jesters   <<sequenced announcement>>
+[BEAT_JESTER2.JES] MINION_JESTER: Suppressor of Free Jester Speech   <<sequenced announcement>>
+[BEAT_JESTER3.JES] MINION_JESTER: Vanquisher of the Funny   <<sequenced announcement>>
+[HALF_DUNGEON.JES] MINION_JESTER: Dungeon Dabbler   <<sequenced announcement>>
+[FULL_DUNGEON.JES] MINION_JESTER: Master of the Dungeon    <<sequenced announcement>>
+[VELVET_BEDROOM.JES] MINION_JESTER: Lord of Lust and Lechery   <<sequenced announcement>>
+[ROSE_BEDROOM.JES] MINION_JESTER: Most Knowledgeable Master of Minions   <<sequenced announcement>>
+[PEASANT_KILLS_1.JES] MINION_JESTER: Peasant Punisher   <<sequenced announcement>>
+[PEASANT_KILLS_20.JES] MINION_JESTER: Man Mangler   <<sequenced announcement>>
+[FEMALE_KILLS_10.JES] MINION_JESTER: Wenchbane   <<sequenced announcement>>
+[PEASANT_KILLS_100.JES] MINION_JESTER: Enemy of Man   <<sequenced announcement>>
+[PEASANT_KILLS_500.JES] MINION_JESTER: Enemy of Mankind   <<sequenced announcement>>
+[ELF_KILLS_10.JES] MINION_JESTER: Destroyer of Elves   <<sequenced announcement>>
+[PEASANT_FLAMED_1.JES] MINION_JESTER: Peasant Toaster   <<sequenced announcement>>
+[PEASANT_FLAMED_20.JES] MINION_JESTER: Peasant Pyromaniac   <<sequenced announcement>>
+[ZOMBIE_KILLS_100.JES] MINION_JESTER: Bane of the Undead   <<sequenced announcement>>
+[TOWER_INIT.JES] MINION_JESTER: Keeper of the Ruined Tower   <<sequenced announcement | Initial title>>
+[D1_CRANE.JES] MINION_JESTER: Restorer of the Dark Tower      <<sequenced announcement | Just as Crane starts to fade out in Slave Camp>>
+[TOWER_UPGRADE_1.JES] MINION_JESTER: Unspeakable Decorator of the Dark Tower   <<sequenced announcement>>
+[TOWER_UPGRADE_2.JES] MINION_JESTER: Cosy Lord of Evil Homeliness   <<sequenced announcement>>
+[CORRUPTED_LVL_1.JES] MINION_JESTER: Dabbler in the Evil Arts   <<sequenced announcement>>
+[CORRUPTED_LVL_2.JES] MINION_JESTER: Scion of Darkness   <<sequenced announcement>>
+[CORRUPTED_LVL_3.JES] MINION_JESTER: Patron of Evil   <<sequenced announcement>>
+[CORRUPTED_LVL_4.JES] MINION_JESTER: Enemy of the Light   <<sequenced announcement>>
+[CORRUPTED_LVL_5.JES] MINION_JESTER: Infernal Majesty   <<sequenced announcement>>
+[CORRUPTED_LVL_6.JES] MINION_JESTER: Demon of Death and Destruction   <<sequenced announcement>>
+[CORRUPTED_LVL_7.JES] MINION_JESTER: Most High Lord of Chaos   <<sequenced announcement>>
+[UNCORRUPTED_LVL_1.JES] MINION_JESTER: Watchful Guardian   <<sequenced announcement>>
+[UNCORRUPTED_LVL_2.JES] MINION_JESTER: Cautious Crusader    <<sequenced announcement>>
+[UNCORRUPTED_LVL_3.JES] MINION_JESTER: Peasant Protector   <<sequenced announcement>>
+[UNCORRUPTED_LVL_4.JES] MINION_JESTER: Mindful Warrior   <<sequenced announcement>>
+[UNCORRUPTED_LVL_5.JES] MINION_JESTER: Duke of Deviousness   <<sequenced announcement>>
+[UNCORRUPTED_LVL_6.JES] MINION_JESTER: Military Mastermind   <<sequenced announcement>>
+[UNCORRUPTED_LVL_7.JES] MINION_JESTER: Supreme Lord of Honor   <<sequenced announcement>>
+[TUTORIAL_COMPLETE.JES] MINION_JESTER: Most Wise Master   <<sequenced announcement | Complete Tutorial: >>
+[TUTORIAL_COMPLETE.ALT] MINION_JESTER: Most Overconfident Master   <<sequenced announcement | Complete Tutorial: >>
+[D2S3_TOMBPLUNDERER.JES] MINION_JESTER: Defiler of the Elven Temple   <<sequenced announcement>>
+[HARRASS_PEASANTS.JES] MINION_JESTER: Harasser of Humans   <<sequenced announcement>>
+[SUPRESS_SPREE.JES] MINION_JESTER: Suppressor of Spree   <<sequenced announcement>>
+[TRASH_HOMES.JES] MINION_JESTER: Homewrecker   <<sequenced announcement>>
+[TRASH_TOWNS.JES] MINION_JESTER: Town Trasher   <<sequenced announcement>>
+[SLUG_FEEDER.JES] MINION_JESTER: Fattener of Slugs   <<sequenced announcement>>
+[SILENT_ORDER.JES] MINION_JESTER: New God of the Mumblers   <<sequenced announcement>>
+[D1_SERVANTS.JES] MINION_JESTER: Servant Snatcher   <<sequenced announcement>>
+[BAR_FIGHT.JES] MINION_JESTER: Bar Room Brawler   <<sequenced announcement>>

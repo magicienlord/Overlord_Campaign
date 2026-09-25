@@ -1,0 +1,28 @@
+[HEALTH.10] (unattributed): You’ve got a Health Upgrade, Sire. They mean a lot less messy deaths!
+[HEALTH.20] (unattributed): Your health has been increased, Master. It’s less likely I’ll have to come and scrape you up now!
+[HEALTH.30] (unattributed): Your maximum health has increased. That’s good, Sire. Dead Masters bring me out in a rash.
+[HEALTH.40] (unattributed): There’s more lovely health for you, Lord. You can never be too healthy!
+[HEALTH.50] (unattributed): Your health has been increased Master. Wish mine had!
+[MANA.10] (unattributed): Your mana has been increased, Sire. Now use it wisely.
+[MANA.20] (unattributed): Oh, you’ve got a mana upgrade, now don’t go spending it all on the same spell!
+[MANA.30] (unattributed): Ah, you’ve increased your mana pool. That means more magical mayhem!
+[MANA.40] (unattributed): Your mana reserves have been upgraded, Sire. Now don’t go thinking you’re invulnerable.
+[MANA.50] (unattributed): More Mana, Lord! Always good to have a bit more of that up your gauntlet!
+[HORD.10] (unattributed): You can control a large Minion horde, Sire. Now don’t let the power go to your head.
+[HORD.20] (unattributed): Ah, a command upgrade. You can summon more Minions to the battlefield now.
+[HORD.30] (unattributed): Now you've got a new command upgrade you can summon more Minions to die valiantly in your name. 
+[HORD.40] (unattributed): That command upgrade will let you have the power of life and death over more Minion souls.
+[HORD.50] (unattributed): You’ve got a new command upgrade, Sire. That means more Minion carnage.
+[HORD.60] (unattributed): Your horde size has increased, Lord. Who’s a big, powerful Overlord then? You are! Yes you are!
+[CATA.10] (unattributed): That’s a Spell Catalyst, Sire. You can use it to improve your spells.
+[CATA.20] (unattributed): Ah, you’ve got a spell catalyst. That’ll allow you to do all kinds of interesting things with your spells.
+[CATA.30] (unattributed): Another spell catalyst, Sire! Don’t forget to visit your magic room and assign it to a spell.
+[CATA.40] (unattributed): Ah, a spell catalyst. Lots of magical mayhem right there.
+[CATA.50] (unattributed): You’ve got a spell catalyst. It is amazing the things you can find just lying about.
+[HALO.10] (unattributed): Ah, you’ve found the Halo spell, Sire. You can use that to buff your Minions or turn yourself into a ticking bomb of magical energy!
+[BOOST.10] (unattributed): Now, the Minion Spell will give you a little more creative control over your Minions, Lord. You can make super tough Minions or use them to boost your own health.
+[DRUM.10] (unattributed): I believe it’s a drum, Sire. Well I’m sure Quaver can find some use for it.
+[HARP.10] (unattributed): You’ve found a harp, Sire. I believe Quaver has just fainted with excitement.
+[FORGE.10] (unattributed): With this forge stone you’ll be able to unlock new forging recipes. Giblet will be pleased!
+[FORGE.20] (unattributed): It’s a forge stone, Sire. Giblet is very keen to see what that unlocks.
+[FORGE.30] (unattributed): Another forge stone! Ahh the Minions will be lining up to be sacrificed to the great forge.

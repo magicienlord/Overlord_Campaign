@@ -1,0 +1,91 @@
+[100.10] GNARL: The Ruborian Desert is bristling with Evil energy, Dark One.    <<Trigger: The player has killed the wizard.>>
+[100.20] GNARL: It must be the source of all these Abysses that have been popping up like they own the place!
+[101.10] GNARL: That Gate is locked, Sire, but it resonates with Evil Energy. Perhaps the proximity of the other Abyss Stones might coax it to unlock.   <<Trigger: The player nears the Warrior Abyss and has all four portal stones>>
+[101.20] GNARL: It’s a Gate, Sire. But it doesn’t seem to be active. Perhaps you should investigate the other Gates first?   <<Trigger: The player nears the Warrior Abyss and DOES NOT have all four portal stones.>>
+[101.30] GNARL: Fasten your boots and warm up your fireballs, oh Lord… the power behind this one is greater than anything we’ve encountered!   <<Trigger: The player has unlocked the Abyss>>
+[102.10] GNARL: I have taken the liberty, Sire, of transporting the Abyss Stone to this Gate. It resonates with the same energy!   <<The player has 1 Abyss Stone after they Kill the wizard,>>
+[102.20] GNARL: I have taken the liberty, Sire, of transporting the Abyss Stones to this Gate. They resonate with the same energy!   <<The player has 2 or more Abyss Stones after they kill the wizard>>
+[102.30] GNARL: If you can find all of the other Stones... they may just tweak the little devil open.   <<Added to first line when The player has 1,2 or 3 Abyss Stones after they kill the wizard.>>
+[102.40] GNARL: Perhaps they may just tweak the little devil open!   <<Added to first line when The player has 4 Abyss Stones after they kill the wizard.>>
+[200.10] GNARL: Quickly, Master, ready your Minions!   <<Trigger: The player enters the warrior abyss>>
+[200.20] GNARL: Don’t think they’ll give up that easily, Sire!   <<Trigger: The player survives the first wraith wave>>
+[200.30] GNARL: You’re still alive, Master... I’m impressed!   <<Trigger: The player has survived 50% of the wraith waves>>
+[200.40] GNARL: Have you had too much sun, Sire? Stay near the Gates!   <<Trigger: The player charges down the hill into the wraith crowd. >>
+[200.50] GNARL: I don’t think that’s very wise, Lord!   <<Trigger: The player charges down the hill into the wraith crowd. >>
+[200.60] GNARL: Ah, so you’re taking the fight to them… I see.   <<Trigger: The player charges down the hill into the wraith crowd. >>
+[200.70] GNARL: You might want to stay a little nearer to the Gates, Dark Master!   <<Trigger: The player charges down the hill into the wraith crowd. >>
+[200.80] GNARL: You made it Sire! Good, good! It’s so tiresome having to scrape up your Overlord when he’s splattered all over an Evil Abyss.   <<Trigger: The player has destroyed all the wraiths>>
+[200.90] GNARL: I keep getting this nagging feeling in the back of my mind, Sire... a scab of a memory I just can’t pick.
+[200.100] GNARL: I think, I 
+[300.10] GNARL: Oh dear, it’s a    <<Trigger: The player enters the labyrinth.>>
+[300.30] GNARL: Ah, that’s better! You can see where you’re going now! These peasants seem particularly flammable, Master.   <<Trigger: The player lights up a peasant>>
+[300.40] GNARL: The increased light must attract them!   <<The player lights up two or more peasants for the first time, causing undead to spawn.>>
+[310.10] KAHN: Jewel... Jewel... JEWEL!   <<Last one pronounced Jewwwweeeeeellllllllllll! | Trigger: The player is in earshot of Kahn, although can’t see him yet. Looped. >>
+[310.20] KAHN: Kahn hurts...Kahn 
+[310.30] KAHN: Crush it! Crush it!
+[310.40] KAHN: Kahn is not HAPPY!
+[311.10] KAHN: You! I know you! You took her, you took my little sugarplum! Come here, I’ll tear you apart with my teeth!   <<Trigger: The player see Kahn – either through proximity or because they’ve lit a peasant.>>
+[311.20] GNARL: Well if it isn’t our old friend Kahn! Looks like his anger has literally blown him to pieces.
+[311.30] KAHN: Get that thing away from me!
+[312.10] KAHN: Hey stop that thing! Stop that thing Momma...Momma!   <<Pronounced Momaaaaaaaaaaaaaaaaaaaaaaaaaa! | Trigger: The wraith shield charger nears Kahn.>>
+[312.20] KAHN: Aargh!   <<Trigger: Kahn breaks apart>>
+[312.30] KAHN: Hey, can you scratch my left leg please?   <<After the parts settle>>
+[313.10] KAHN: I don’t feel very well.   <<Trigger: Player nears Kahn after he’s broken apart. These can be looped.>>
+[313.20] KAHN: Do you think Jewel will still love me like this?
+[313.30] KAHN: Kahn... not so angry now.
+[400.5] CHAINED LABYRINTH PEASANT 1: Please don’t set me on fire! I smell 
+[400.10] CHAINED LABYRINTH PEASANT 2: It’s you! And you’ve brought your army! Oh, I feel so much better now!
+[400.15] CHAINED LABYRINTH PEASANT 3: The creatures, I can hear them in the darkness!
+[400.20] CHAINED LABYRINTH PEASANT 4: Carry on, carry on, don’t mind me!
+[400.25] CHAINED LABYRINTH PEASANT 1: I’m soggy, I’m soggy! I won’t light!
+[400.30] CHAINED LABYRINTH PEASANT 2: They call this place the Infernal Abyss. I really don’t like the sound of that!
+[400.35] CHAINED LABYRINTH PEASANT 3: This creature tied me up! It said it was called... Oh I've forgotten!
+[400.40] CHAINED LABYRINTH PEASANT 4: Go on, entertain me!
+[400.45] CHAINED LABYRINTH PEASANT 1: Hey, do you remember me? You crushed my house once!
+[400.50] CHAINED LABYRINTH PEASANT 2: This thing came, a big scary thing called... er... um.
+[400.55] CHAINED LABYRINTH PEASANT 3: It’s so dark in here.
+[400.60] CHAINED LABYRINTH PEASANT 4: One of those Wraiths put something down my trousers!
+[400.65] CHAINED LABYRINTH PEASANT 1: They never chained me up back home in Spree!
+[400.70] CHAINED LABYRINTH PEASANT 2: Be a pal, put a guy out of his misery, would you?
+[410.5] CHAINED LABYRINTH PEASANT 1: Oh, it’s quite tickly.   <<Ooooohhhh.>>
+[410.10] CHAINED LABYRINTH PEASANT 2: That’s better, I was feeling a little chilly.
+[410.15] CHAINED LABYRINTH PEASANT 3: Oh, that’s so like you!
+[410.20] CHAINED LABYRINTH PEASANT 4: Ah, I can see where I’m hanging now.
+[410.25] CHAINED LABYRINTH PEASANT 1: Nothing like a jolly fire.
+[410.30] CHAINED LABYRINTH PEASANT 2: Sorry, I don’t think I’m burning very well
+[410.35] CHAINED LABYRINTH PEASANT 3: What’s with all the burning and destruction? Do you have 
+[410.40] CHAINED LABYRINTH PEASANT 4: I have rights you know! I have the right not to be set on fire!
+[410.45] CHAINED LABYRINTH PEASANT 1: That’s really quite pleasant, tingly.
+[410.50] CHAINED LABYRINTH PEASANT 2: Well! I’m on fire. I hope you’re happy now!
+[410.55] CHAINED LABYRINTH PEASANT 1: Don’t burn me, burn him! He looks all lovely and flammable!
+[500.10] GNARL: It’s the Temple of the Forgotten God, Sire. So this must be the Infernal Abyss!    <<Trigger: The player nears the Coliseum Gates and switches>>
+[500.20] GNARL: When this deity’s former spouse, the Mother Goddess, found him in the arms of another, she cursed him! 
+[500.30] GNARL: Anyone who tries to remember him starts to forget him, that’s almost as bad as death for a God.
+[500.40] GNARL: The curse must be weakened the closer you get to his lair.
+[500.50] GNARL: The overeating, the play, those 
+[501.10] GNARL: The switches must be on a timer, Sire. Bloody Gods never just have a doorknocker and a welcome mat!   <<Trigger: The player fails to switch the switches for the first time.>>
+[501.20] GNARL: The Gates are open, Master! Time to put a little hurtin’ on that meddling deity?   <<Trigger: The player opens the Temple Gates>>
+[510.10] SWITCH PEASANT 1: What do you want to go in there for?    <<Trigger: Whilst the player is in the switch room and the door is closed. These lines should loop.>>
+[510.20] SWITCH PEASANT 2: I’ve heard some very strange noises coming from behind that door.
+[510.30] SWITCH PEASANT 1: Stay out here! You get your own chains!
+[510.40] SWITCH PEASANT 2: Well, it’s some new company, at least. I’m getting fed up of him!
+[510.50] SWITCH PEASANT 1: You gotta be quick with those switches.
+[510.60] SWITCH PEASANT 2: All those switches, for one door... that’s just showing off!
+[510.70] SWITCH PEASANT 1: The thing behind that door is powerful, real powerful. Don’t go getting it angry!
+[510.80] SWITCH PEASANT 2: Ah, we’ve got something to watch now!
+[510.90] SWITCH PEASANT 1: Quit fiddling with those switches! Dark Lords, always messing about with things!
+[515.10] SWITCH PEASANT 1: Now you’ve done it!   <<Trigger: Whilst the player is in the switch room and the door is opened. These lines should loop. >>
+[515.20] SWITCH PEASANT 2: You have no idea what you’re getting yourself into, do you buddy?
+[515.30] SWITCH PEASANT 1: Good luck, you and your little pets are gonna need it!
+[515.40] SWITCH PEASANT 2: Better you than me!
+[515.50] SWITCH PEASANT 1: Oh dear... oh dear, dear, dear, what 
+[515.60] SWITCH PEASANT 2: There’s still time to run!
+[520.10] GRATE PEASANT 1: Don’t touch that wheel!   <<Trigger: Whilst the player is in the switch room>>
+[520.20] GRATE PEASANT 2: Pay no attention to us, it’s the door, the door you want!
+[520.30] GRATE PEASANT 3: I feel like a beef steak!
+[520.40] GRATE PEASANT 1: Is he here to save us?
+[520.50] GRATE PEASANT 2: He’s looking at us funny.
+[520.60] GRATE PEASANT 3: Nothing to see here, move on, move on!
+[520.70] GRATE PEASANT 1: Get us off here!
+[520.80] GRATE PEASANT 2: I don’t like the look of those creatures.
+[520.90] GRATE PEASANT 3: You’ve got nothing against us, have you?

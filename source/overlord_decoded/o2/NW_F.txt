@@ -1,0 +1,63 @@
+[INTRO.10] (unattributed): Greetings, Sire! Welcome to Foundations. Master can order biiiigggg Netherworld buildings here!
+[INTRO.20] (unattributed): Barracks! Upgrades! Battle Rock! And Giblet will build. Oh yes he will!
+[INTRO.30] (unattributed): Giblet is a particularly robust Minion, Sire. Been around almost as long as I have!
+[INTRO.40] (unattributed): This Forge! Build weapons and armor here! But need Reds to power it.
+[INTRO.50] (unattributed): Minion Giblet ready to receive orders!
+[INTRO2.10] (unattributed): The Reds have powered up the Forge. Ah Giblet is practically vibrating with excitement already!
+[INTRO2.20] (unattributed): Collecting Forge Stones  on your travels will allow you to forge more items, Sire. 
+[INTRO2.30] (unattributed): Now let’s see what Giblet has for you.
+[FOUND.NO_I1] (unattributed): What can Giblet build, Master?
+[FOUND.NO_I2] (unattributed): New orders for Giblet?
+[FOUND.NO_I3] (unattributed): Giblet is ready, Master!
+[FOUND.NO_I4] (unattributed): Giblet build new things? Yes! Yes?
+[FOUND.I_AMB1] (unattributed): You choose. Giblet builds!
+[FOUND.I_AMB2] (unattributed): Look at list, then select to tell Giblet what you wish to build!
+[FOUND.I_AMB3] (unattributed): They may look small now but they will be biiiigggg. So biiiiiig!
+[FOUND.I_AMB4] (unattributed): Master must bring treasure and Minions to Giblet. Then Giblet can build.
+[FOUND.I_AMB5] (unattributed): Upgrading Barracks will make Minions stronger!
+[FOUND.I_AMB6] (unattributed): You can practice Overlording at the Battle Rock.
+[FOUND.I_AMB7] (unattributed): Battle Rock fun! Yes! Yes! Giblet like very much. Go Master! Go Master!
+[FOUND.I_AMB8] (unattributed): I live to build, Master!
+[FOUND.I_NOGOLD1] (unattributed): You need more treasure Master!
+[FOUND.I_NOGOLD2] (unattributed): More treasure, Master, more treasure!
+[FOUND.I_NOGOLD3] (unattributed): Giblet needs more treasure!
+[FOUND.I_NOMIN1] (unattributed): More Minions needed!
+[FOUND.I_NOMIN2] (unattributed): Sacrifice more Minions, Master!
+[FOUND.I_NOMIN3] (unattributed): Giblet needs more Minions!
+[FOUND.BROWN] (unattributed): Your Browns now stronger, Master!
+[FOUND.RED] (unattributed): Your Reds now stronger, Master!
+[FOUND.GREEN] (unattributed): Your Greens now stronger, Master!
+[FOUND.BLUE] (unattributed): Your Blues now stronger, Master!
+[FOUND.ARENA] (unattributed): Your Battle Rock is ready, Master! Yay! Yaaaaay!
+[FOUND.QUIT] (unattributed): Come see Giblet soon, Master!
+[FORGE.NO_I1] (unattributed): What shall we forge, Master?
+[FORGE.NO_I2] (unattributed): What would you like to forge, Master?
+[FORGE.NO_I3] (unattributed): Giblet, ready to forge!
+[FORGE.NO_I4] (unattributed): Let’s forge something, Master!
+[FORGE.I_AMB1] (unattributed): Keep collecting Forge Stones Master. Give Giblet more items to forge!
+[FORGE.I_AMB2] (unattributed): So many wonderful and deadly things to choose from. Giblet keep in Armory!
+[FORGE.I_AMB3] (unattributed): Everything for an Overlord! Yes! Yes!
+[FORGE.I_AMB4] (unattributed): Select what you wish Giblet to forge, Master!
+[FORGE.I_AMB5] (unattributed): No item is forged without a cost, Master! Sorry thems the rules!
+[FORGE.I_AMB6] (unattributed): Minions will happily sacrifice themselves to the Forge!
+[FORGE.I_AMB7] (unattributed): Keep Armory stocked, Master. You never know what you might have to bash!
+[FORGE.I_AMB8] (unattributed): The Forge is good and hot, Master!
+[FORGE.I_ARMOR1] (unattributed): Very nice, Master!
+[FORGE.I_ARMOR2] (unattributed): Looks good, Master!
+[FORGE.I_ARMOR3] (unattributed): Suits, Master!
+[FORGE.I_ARMOR4] (unattributed): Giblet like!
+[FORGE.I_WEAP1] (unattributed): Ohhh very sharp, Master!
+[FORGE.I_WEAP2] (unattributed): You cause chaos with that, Master!
+[FORGE.I_WEAP3] (unattributed): Giblet approve!
+[FORGE.I_WEAP4] (unattributed): You Overlord good with that!
+[FORGE.QUIT] (unattributed): See you soon, Master!
+[ARMOR.NO_I1] (unattributed): You wish check your Armory, Master?
+[ARMOR.NO_I2] (unattributed): Everything is stored in Armory! All clean and shiny.
+[ARMOR.NO_I3] (unattributed): Giblet care for your things in Armory.
+[ARMOR.NO_I4] (unattributed): Giblet throw nothing away. All in the Armory!
+[ARMOR.I_AMB1] (unattributed): You wish to change something?
+[ARMOR.I_AMB2] (unattributed): Everything you forge stored here!
+[ARMOR.I_AMB3] (unattributed): Overlords have no pockets, which is why Giblet make you Armory!
+[ARMOR.I_AMB4] (unattributed): You wish to change your armor, Sire?
+[ARMOR.I_AMB5] (unattributed): Master, you wish to change your weapon?
+[ARMOR.I_AMB6] (unattributed): Can Giblet fetch you something from Armory?

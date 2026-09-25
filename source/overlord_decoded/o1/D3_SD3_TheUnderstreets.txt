@@ -1,0 +1,5 @@
+[100.10] GNARL: There are rumours, Sire, that the Royal Forges connect to these catacombs.   <<Trigger: On entering the Understreets. Condition: The player has not received the forge quest - If they have then this line should not play.>>
+[100.20] GNARL: I wonder if that holier-than-thou-half-wit Sir William stole a smelter from 
+[200.10] GNARL: Looks like the one in the middle’s been munching on a few military brains, he’s controlling the others!   <<Trigger: The zombie boss spawns more zombies.>>
+[205.10] GNARL: As I suspected, Lord, there’s the Durium smelter! You must return it to the Tower, at once!   <<Trigger: The player finds the forge item.>>
+[206.10] GNARL: I’m sure you don’t want to be crushed by a rock giant, Sire. So I suggest you find our missing smelter.   <<Trigger: The player tries to leave without having picked up the Understreets forge item. >>

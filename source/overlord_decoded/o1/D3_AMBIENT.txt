@@ -1,0 +1,94 @@
+[100.10] MALE_REFUGEE: I feel terrible, everything aches!   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.30] MALE_REFUGEE: I got out before they shut the City... wouldn’t wanna be trapped in there.   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.40] MALE_REFUGEE: Those Knights give me the creeps... they’re too quiet.   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.50] MALE_REFUGEE: Hey, you come to ‘elp us?   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.60] MALE_REFUGEE: The City is crawling with disease.   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.70] MALE_REFUGEE: Don’t get too near me... I’ve got    <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.80] MALE_REFUGEE: What good are priests who lock 'emselves away from their people?   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.90] MALE_REFUGEE: Something strange is going on at that Inn!   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.100] MALE_REFUGEE: Dunno what’s worse, stuck in there with them, or stuck out here with them!   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.110] MALE_REFUGEE: Sir William’s locked himself away. Coward!   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.130] MALE_REFUGEE: Oh, I think I just coughed up a kidney.   <<Coughs horribly before line | Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.140] MALE_REFUGEE: I’m telling you, he went into that Inn... and I never saw him again!   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[100.150] MALE_REFUGEE: Are we safe in here? Won’t those creatures get in?   <<Trigger: Various points throughout this area (designers to decide.) Note: There should be various coughing and wheezing noises in this area.
+>>
+[.] (unattributed): ---
+[101.10] MALE_REFUGEE1: What threat are we to you?   <<Trigger: Player attacks refugees>>
+[.] (unattributed): ---
+[102.10] MALE_REFUGEE1: Do not end our suffering this way!   <<Trigger: The player has killed a number of peasants>>
+[.] (unattributed): ---
+[103.10] MALE_REFUGEE1: I hear that the plague is subsiding!   <<Trigger: The player returns to this area after killing the succubus queen.>>
+[103.20] MALE_REFUGEE1: The City has been re-opened!   <<Trigger: The player returns to this area after killing the succubus queen.>>
+[103.30] MALE_REFUGEE1: I’m not going back yet, it still ain’t safe.   <<Trigger: The player returns to this area after killing the succubus queen.>>
+[103.40] MALE_REFUGEE1: I don’t care what they say, I’m staying put!   <<Trigger: The player returns to this area after killing the succubus queen.>>
+[103.50] MALE_REFUGEE1: There are still zombies out there!   <<Trigger: The player returns to this area after killing the succubus queen.>>
+[103.60] MALE_REFUGEE1: I ain’t ever going back to that City!   <<Trigger: The player returns to this area after killing the succubus queen.>>
+[103.80] MALE_REFUGEE1: I knew that something was going on in that Inn!   <<Trigger: The player returns to this area after killing the succubus queen.>>
+[200.10] GUARD: Keep your eyes open men. Don’t want those things getting in!   <<Trigger: Various points throughout this area (designers to decide.) There should be more time in between these lines than in the main part of the camp.>>
+[200.20] GUARD: Go for the heads!   <<Trigger: Various points throughout this area (designers to decide.) There should be more time in between these lines than in the main part of the camp.>>
+[200.30] GUARD: You don’t want to leave the camp!   <<Trigger: Various points throughout this area (designers to decide.) There should be more time in between these lines than in the main part of the camp.>>
+[200.40] GUARD: The marshes are crawling with ‘em.   <<Trigger: Various points throughout this area (designers to decide.) There should be more time in between these lines than in the main part of the camp.>>
+[200.50] GUARD: Sir William shut the others in... shut them in with those things.   <<Trigger: Various points throughout this area (designers to decide.) There should be more time in between these lines than in the main part of the camp.>>
+[200.60] GUARD: Heaven’s Peak’s been locked down, there’s no getting in.   <<Trigger: Various points throughout this area (designers to decide.) There should be more time in between these lines than in the main part of the camp.>>
+[200.70] GUARD: Don’t loiter, make yourself useful.   <<Trigger: Various points throughout this area (designers to decide.) There should be more time in between these lines than in the main part of the camp.>>
+[.] (unattributed): ---
+[201.10] GUARD: He’s one of the Fallen Knights, attack!   <<Trigger: Player attacks guards.>>
+[.] (unattributed): ---
+[202.10] GUARD: Please, Lord! Have mercy, we have suffered enough.   <<Trigger: The player has killed a number of guards.>>
+[.] (unattributed): ---
+[203.10] GUARD: I’m keeping sharp. Those creatures might still be out there!   <<Trigger: The player returns to this area after killing the Succubus Queen.>>
+[203.20] GUARD: Heard you been cleaning up the City...course I’d do it myself, but I’m, er, needed here.   <<Trigger: The player returns to this area after killing the Succubus Queen.>>
+[203.30] GUARD: Hey, good job, Lord, good job!   <<Trigger: The player returns to this area after killing the Succubus Queen.>>
+[300.10] MALE_TOWNSFOLK: Are you here to do something about the plague?   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.20] MALE_TOWNSFOLK: The wedding... it was gonna be so beautiful!   <<Sniffs after line. | Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.40] TOWNSFOLK_LEADER: I don’t know what’s become of this City, I really don’t...   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.50] MALE_TOWNSFOLK: I heard the plague started in the Poor Quarter, near the Inn!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.60] MALE_TOWNSFOLK: Sir William used to visit the Inn, and it weren’t to drink there!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.70] MALE_TOWNSFOLK: I tell you, when he came from that quest, Sir William was different... changed!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.80] TOWNSFOLK_LEADER: Thank the Gods you’re here!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.90] MALE_TOWNSFOLK: We haven’t got long! Those things will break through soon!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.100] MALE_TOWNSFOLK: There’s no cure for it... no cure!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.110] MALE_TOWNSFOLK: I love a good wedding... ah such a shame.   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.120] TOWNSFOLK_LEADER: We really need your help, Lord!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.130] MALE_TOWNSFOLK: ’Ave you seen the Citadel? It’s guarded by flying demons!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.140] MALE_TOWNSFOLK: That Mistress Velvet’s a right catch. Wonder why Sir William cancelled the wedding...   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.150] MALE_TOWNSFOLK: They call him a Paladin! Ha!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.160] TOWNSFOLK_LEADER: Sir William doesn’t care about this City any more.   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.170] MALE_TOWNSFOLK: He used to be called William the Abstainer, now they call him William the Black!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.180] MALE_TOWNSFOLK: I’m gonna get a drink! I don’t want to remember anything about this place!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.190] MALE_TOWNSFOLK: I heard the Poor Quarter's still heavily infested!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.200] MALE_TOWNSFOLK: I think those priests must be behind it!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.210] MALE_TOWNSFOLK: That place is trouble!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.220] TOWNSFOLK_LEADER: If you feel like some zombie bashing, the Poor Quarter's to the East!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.230] MALE_TOWNSFOLK: I’ve gotta get outta this place... but out there it might be even worse!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.240] MALE_TOWNSFOLK: Sir William has forgotten the Code of the Paladins!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[300.250] MALE_TOWNSFOLK: He never used to be like this... he was a good man, a decent man!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period when the city is not free, i.e. The player has not killed the succubus queen.>>
+[.] (unattributed): ---
+[301.10] MALE_TOWNSFOLK: I hear you cleaned up that Inn, nice work, Lord!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.20] MALE_TOWNSFOLK: Perhaps the plague will ease now.   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.30] TOWNSFOLK_LEADER: I knew that Inn was behind it!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.40] MALE_TOWNSFOLK: I do hope that Mistress Velvet isn’t hurt, such a buxom little wench!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.50] MALE_TOWNSFOLK: Thank you Lord! Thank you!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.60] MALE_TOWNSFOLK: I going to search for my family, they may have made it to the camp.   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.70] TOWNSFOLK_LEADER: The plague hasn’t gone yet, but it is subsiding!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.80] MALE_TOWNSFOLK: Maybe the Paladin will have the wedding once the plague is gone.   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.90] MALE_TOWNSFOLK: At last we have some hope!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.100] TOWNSFOLK_LEADER: Perhaps there is hope for us yet.   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.110] MALE_TOWNSFOLK: This place needs a good clean! Oh, I wonder if zombie will stain...   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.120] MALE_TOWNSFOLK: There are no more new cases... thank the Gods!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.130] MALE_TOWNSFOLK: I heard you cleared the Poor Quarter. We are in your debt, Sire.   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.140] TOWNSFOLK_LEADER: You have shown us the way, Sire!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.150] MALE_TOWNSFOLK: Perhaps Sir William will come back to us now!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>
+[301.160] TOWNSFOLK_LEADER: Soon we can start bringing the refugees back to the City!   <<Trigger: Various points throughout this area (designers to decide.) This is purely for the period after the city is free, i.e. The player has killed the succubus queen.>>

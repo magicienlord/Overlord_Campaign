@@ -1,0 +1,254 @@
+[100.10] GNARL: Ah, you made it through the Gate, Sire!   <<Trigger: As the camera zooms in on the area. Only triggered for tutorial quest.>>
+[100.20] GNARL: This tranquil wilderness... so rural and idyllic. Hideous is it not? Try not to inhale it, my Lord!   <<Trigger: As the camera focuses on the Overlord on the portal stone>>
+[100.30] GNARL: You can summon your Minions from these Gates. They are ancient arcane links between your Tower and this land!   <<Trigger: As the camera focuses on the Minion Gate.>>
+[100.40] GNARL: Currently you can only summon Browns. You must find the other lost Minion tribes before you can summon them.   <<Trigger: The camera focuses on the Brown Minion Gate>>
+[.] (unattributed): ---
+[101.10] GNARL: You can summon your Minions from these Gates. They are ancient arcane links between your Tower and this land. Currently you can only summon Browns. You must find the other lost Minion tribes before you can summon them.   <<Trigger: If all Minion Gates are already in place (At this point only Brown will be useable). This is a substitute for Gnarl’s last line in the opening scene.>>
+[200.10] GNARL: Perhaps we may recover some of our looted Tower Objects in this...lush, verdant abomination.   <<Trigger: After the opening cut-scene has finished.>>
+[.] (unattributed): ---
+[201.10] GNARL: Your Minions are waiting. They need only to be summoned!   <<Trigger: The player hasn’t summoned any Minions for X seconds.>>
+[201.20] GNARL: We don’t have all day, my Lord. Let us summon some Minions, go forth and kill something.   <<Trigger: The player hasn’t summoned any Minions for X more seconds.>>
+[201.30] GNARL: My Lord, it is unseemly to travel unescorted. I would advise against it. Return to the Tower Gate and call forth your loyal Minions.   <<Trigger: The player moves out of the summoning area without summoning any Minions.>>
+[201.40] GNARL: Do not agitate the wildlife, Sire. Someone might see. You have Minions to do that for you. Return to the Gate and summon them.   <<Trigger: The player moves out of the summoning area without summoning any Minions and starts killing sheep. >>
+[.] (unattributed): ---
+[202.10] GNARL: Brown Minions are your main fighters. They will happily die so you don’t have to!   <<Trigger: The player summons Brown Minions>>
+[202.20] GNARL: There are more Minions to summon, Master. They say a sign known only to the Overlord will tell you how many Minions you may call forth.   <<Trigger: The player only summons a few Minions and X time elapses.>>
+[.] (unattributed): ---
+[203.10] GNARL: These fluffy creatures barely know they’re alive, but you can still harvest Lifeforce from them.   <<Trigger: The player approaches the sheep with his Minions.>>
+[203.20] GNARL: Rid this place of these woolly cabbages!   <<Trigger: The player has killed 3 sheep.>>
+[203.30] GNARL: Good, Sire!   <<Trigger: The player continues to kill sheep.>>
+[203.40] GNARL: All they do is chew grass until something kills them!   <<Trigger: The player continues to kill sheep.>>
+[203.50] GNARL: Stupid, pointless creatures!   <<Trigger: The player continues to kill sheep.>>
+[.] (unattributed): ---
+[204.10] GNARL: Your Minions will dutifully bring you anything they find. Like this Lifeforce. They do not have the wit to do anything else... nor the pockets!   <<Trigger: As the Minions bring back the initial Lifeforce to the player.>>
+[204.15] GNARL: This yellow Lifeforce will allow you to summon more Browns, Sire.   <<Trigger: As the Minions bring back the initial Lifeforce to the player.>>
+[204.20] GNARL: Remember, Lifeforce equals Minions. Return to the Gate to call more to your side.   <<Trigger: Minions continue to return Lifeforce>>
+[204.30] GNARL: You can absorb Lifeforce yourself, Master, by merely getting near it.   <<Trigger: Minions continue to return Lifeforce>>
+[204.40] GNARL: You must build up your army, Sire. Summon more Minions at the Gate.   <<Trigger: The player has collected 7 pieces of Lifeforce.>>
+[204.50] GNARL: You’ve cleaned out this place, Master! Return to the Gate and call forth all your Minions.   <<Trigger: The player has collected all of Lifeforce in the area.>>
+[204.60] GNARL: There is Lifeforce somewhere near, Master. Retrieve it!   <<Trigger: The player has killed all the sheep but not found all the Lifeforce.>>
+[.] (unattributed): ---
+[205.10] GNARL: These urns ahead may yield something beneficial. There’s nothing Minions like more than breaking things! Well, apart from    <<Trigger: As the player nears the urns near the river.>>
+[206.10] GNARL: Our way is blocked. Ah, but we have strength in numbers! Use all your Minions on that pillar, and they will work together to move it.   <<Trigger: As the player nears the first pillar.>>
+[206.20] GNARL: You’ll need more Minions to move that pillar.   <<Trigger: The player does not have enough Minions on the pillar.>>
+[206.30] GNARL: All yours, you putrid lumps of flesh! Make your Master proud!   <<Trigger: The player has 10 Minions on the pillar>>
+[206.40] GNARL: Onwards!   <<Trigger: The pillar has been moved.>>
+[300.10] BOB: Ohh!!   <<Panicked! | Trigger: Bob is spooked by a Minion.>>
+[300.20] BOB: Halflings took over my farm. Tied me up in the sun, to scare the birds! Now, those pumpkins are plotting against poor Bob.
+[300.30] BOB: They want revenge for all the pies I made, and the soup, and the jelly and the, er, ice-cream!  I hear the pumpkins whispering at night.
+[300.40] BOB: But I won’t leave my farm to the Halflings...Oh no! They’re worse than the pumpkins! Please help get Bob’s farm back.
+[.] (unattributed): ---
+[301.10] BOB: Oh don’t listen to those lying orange varmints!   <<Panicked! | Trigger: Player starts to trash pumpkin field.>>
+[301.20] BOB: They’re screaming! The pumpkins are screaming! They’re scared. Get ‘em, get ‘em!   <<Cheerful | Trigger: Player has trashed half the pumpkins>>
+[301.30] BOB: Ohh... they’re coming to get me! Ohhhhhh!   <<Panicked! | Trigger: Minions wear pumpkin heads - Interactive >>
+[.] (unattributed): ---
+[302.10] BOB: Your creatures ain’t related to pumpkins are they?   <<Curious. | Trigger: These can be timing based if the player is hanging around the area.>>
+[302.20] BOB: Even the birds laugh at me. They’re in league with the pumpkins!   <<Depressed. | Trigger: These can be timing based if the player is hanging around the area.>>
+[302.30] BOB: Keep those squeaky things away from me! Keep em away!   <<Scared. | Trigger: These can be timing based if the player is hanging around the area.>>
+[.] (unattributed): ---
+[303.10] BOB: My farm! …Oh, well... I’d rather have a wrecked farm than one smelling of Halfling! These aren’t your normal tea-sipping, cake-eating types either. They’re evil little blighters!   <<Trigger: The farm is trashed, we cut to the exterior. A Halfling comes running out and is cornered by a Minion.>>
+[303.20] BROWN_MINION: Kill! Kill! Kill!
+[303.30] HALFLING: Yaaaaarg!   <<Screaming. | Trigger: Player presses A to strike Halfling.>>
+[.] (unattributed): ---
+[304.10] BOB: Whoo hoo, that showed ‘im!   <<Pronounced 'Whoooo hoooo' | Trigger: The player crushes the nasty little Halfling>>
+[304.20] BOB: Oh, you’d better get going, sonny. Now the path behind my house leads to the village of Spree. Oh I bet there are more of them fat little demons about, so be careful.
+[.] (unattributed): ---
+[305.10] BOB: Me, well I think I’ll stay here. Fix my farm. Maybe grow marrows instead. Yeah, marrows don’t talk so much. Yeah, that’d be nice...   <<Cheerful, sigh before 'That'll be nice'. | Trigger: After the Halfling killed cut-scene has finished>>
+[.] (unattributed): ---
+[306.10] BOB: Argh!   <<Death throes! | Trigger: The player kills Bob.>>
+[.] (unattributed): ---
+[307.10] BOB: I wonder what marrow jelly's like?   <<Thoughtful. | Trigger: If the player tries to talk to Bob again, these lines can be looped as required.>>
+[307.20] BOB: I tried growing marrows but the pumpkins keep comin’ back!   <<Slightly ranty. | Trigger: If the player tries to talk to Bob again, these lines can be looped as required.>>
+[307.30] BOB: I don’t know what I hate more, pumpkins or Halflings!   <<Trigger: If the player tries to talk to Bob again, these lines can be looped as required.>>
+[400.10] GNARL: Your Minions can access areas that are too small for your Evil magnificence… oh yes.   <<Trigger: Player nears the first Minion Sweeping area.>>
+[.] (unattributed): ---
+[401.10] GNARL: Minions will automatically equip any useful items they find...and often, oh, any useless items too! But do not fear, your weapons and armor are custom forged at the Tower. We wouldn’t dream of giving    <<Sighs after 'often'. | Trigger: The Minions Equip Objects.>>
+[.] (unattributed): ---
+[402.10] GNARL: The Tower Heart! The Halflings must have used it to grow pumpkins. The little fools, they have no idea of the real power it contains. Clear those pumpkins and let’s get it back to the Tower!   <<Trigger: The player nears the Tower Heart which is in the middle of a patch of pumpkins.>>
+[402.20] GNARL: Your Minions will carry it for you, Master. Being the Overlord means never having to lift anything heavy!   <<Trigger: The Player pauses for X seconds without starting to destroy the pumpkins.>>
+[402.30] GNARL: Careful! Careful!   <<Trigger: The Minions begin to move the Tower Heart.>>
+[402.40] GNARL: Ah, the Minions have found a short-cut!   <<Trigger: The Minions find the short cut.>>
+[402.50] GNARL: Mouldy! Keep up with the other Minions! Giblet, I see you pretending to hold it with one claw! Hold your share, Gubbin, you useless sack of pus!   <<Trigger: As the Minions are moving the Heart stone to the Portal Gate.>>
+[.] (unattributed): ---
+[404.10] GNARL: Testing, testing, one two? Is this thing working? It’s a bit grubby…   <<Blowing after this line, as if blowing into a microphone to test it.  | Trigger: The player returns to the Halfling domain after the ‘Returning the Tower Heart’ scene.>>
+[404.20] GNARL: Can you hear me, Master? Oh... there you are! 
+[404.30] GNARL: Now, Sire, the creatures around here are rather frisky, so they will have undoubtedly repopulated the area.
+[404.40] GNARL: Call forth some Minions and head for that peasant village... Spree, revolting name!
+[.] (unattributed): ---
+[406.10] GNARL: This pillar will require all your Minions to move it, oh Dark Lord.   <<Trigger: The player nears the bigger 15-Minion pillar.>>
+[.] (unattributed): ---
+[407.10] GATE_GUARD_1: Halflings approaching! Get ready!   <<Trigger: The player nears the gates of Spree triggering a cut-scene.>>
+[407.20] GATE_GUARD_2: Hang on! Those ain’t Halflings! Look at the one with the helmet!
+[407.30] GATE_GUARD_1: Hmmm, could be two Halflings holding up some armor. Yeah, I bet that's it! I don’t trust those sneaky little wossnames.
+[407.40] GATE_GUARD_2: Hmmm, maybe you’re right. ’Ere prove you ain’t Halflings and free our men from the camps down the road!
+[407.50] GATE_GUARD_1: If you are, stay right there so I can get my aim straight!
+[.] (unattributed): ---
+[408.10] GATE_GUARD_1: Now that Lord Spree’s gone, we’re the last line of defense!   <<Trigger: After the gates of Spree intro cut-scene has finished. The two guards talk to each other.>>
+[408.20] GATE_GUARD_2: We let 'em in and they’ll have us in one of those work-camps before you can say tea and cakes!   <<Trigger: After the gates of Spree intro cut-scene has finished. The two guards talk to each other.>>
+[.] (unattributed): ---
+[409.10] GATE_GUARD_1: Go on, get out of here. Show you’re not a coward like Lord Spree.   <<Trigger: the player hangs around area for X seconds.>>
+[409.20] GATE_GUARD_2: Yeah, and try not to die 'orribly like he did!
+[409.30] GATE_GUARD_1: Yeah we ain’t letting you in ‘less you prove you’re not one of them knee-nutters!   <<Trigger: The player still hangs around area for X+ seconds.>>
+[.] (unattributed): ---
+[410.10] GATE_GUARD_1: Okay, okay so you ain’t a Halfling! I get it! We still ain’t letting you in until you free the others.   <<Trigger: The player tries to hit the peasants with a fireball. >>
+[410.20] GATE_GUARD_2: Hey, I see some of them Halflings up ahead in the…um... flammable grass!
+[410.30] GATE_GUARD_2: What did we do to you?   <<Scared shout. | Trigger: The player tries to hit the peasants with a fireball. >>
+[410.40] GATE_GUARD_1: Go show that trick to the Halflings!   <<Trigger: The player tries to hit the peasants with a fireball. >>
+[410.50] GNARL: Master, you’ve run out of Mana. For now I can use my reserves to recharge you. I regret, I can only do this a few times! Master, please be careful with your Mana.   <<Trigger: The player gets fireball happy and runs out of Mana.>>
+[.] (unattributed): ---
+[411.10] GNARL: There, in the field! Greedy little Halflings! Use your Fireball spell on the wheat and roast them like suckling pigs!   <<Trigger: The player nears the area where the Halflings are hiding in the corn field.>>
+[411.20] GNARL: More Halflings. Toast them!   <<Trigger: As the player nears the Halfling Patrol area.>>
+[.] (unattributed): ---
+[412.10] GNARL: See the clouds that rose from those dead Halflings? That’s Evil energy, it gathers in all us Evil creatures. You will learn more of it in time, Master.   <<Trigger: After the player has killed the first group of Halflings.>>
+[.] (unattributed): ---
+[413.10] FIELD_PEASANT_1: You rescued us! Our kneecaps are safe from the Halflings!   <<Trigger: The player nears the area where the peasants are working in a field.>>
+[413.20] FIELD_PEASANT_2: Although Spree village is still free, some of our brothers are being held in a work camp down the road!
+[413.30] FIELD_PEASANT_3: After that Halfling, Melvin Underbelly came back from his adventures they called him a hero! Then things went 
+[413.40] FIELD_PEASANT_1: Melvin used to be small... well, small for a Halfling, anyway. But he developed a vast appetite.
+[413.50] FIELD_PEASANT_2: Now he’s 
+[413.60] FIELD_PEASANT_2: His henchmen stole our food and forced us to work in the fields to grow more food for Melvin!
+[.] (unattributed): ---
+[414.10] GNARL: You’ve unearthed another Minion Gate, Master. It must have been drawn to your dark powers. You can summon more Brown Minions here.   <<Trigger: The player nears the second Brown Minion Gate.>>
+[.] (unattributed): ---
+[415.10] GNARL: This is an arcane Blood Pit, Sire. You can sacrifice Minions here to regain your own Health.  Have no fear, your Minions will gladly die for you... They’re very loyal...   <<Whispers 'They're very loyal.' and laughs at the end. | Trigger: The player nears the Blood Pit.>>
+[.] (unattributed): ---
+[416.10] GNARL: A Mana Pit, I haven’t seen one of these in years! They allow you to sacrifice your Minions and replenish your Mana.   <<Trigger: The player nears the Mana Pit.>>
+[.] (unattributed): ---
+[417.10] GNARL: This must be the work camp those peasants spoke of. Be careful, Lord.   <<Trigger: The player nears the entrance to the work camp.>>
+[417.20] GNARL: They're throwing rocks! Primitives!   <<Trigger: When the rock lobbers start throwing rocks.>>
+[417.30] GNARL: Look sire, a wheel! Your Minions can turn these and...well, you never know what might happen...   <<Trigger: When the player nears the wheel.>>
+[417.40] GNARL: I hear the bleating of lesser creatures, my Lord.   <<Trigger: When the player nears the wheel.>>
+[417.50] GNARL: Make sure you take a full set of Minions with you. Halflings might be short, but they’re tough!   <<Trigger: The player has cleared all the guards.>>
+[500.10] GATE_GUARD_1: You’ve saved us! Our boys are safely home. Oh a fine job, my Lord!   <<The player enters Spree for the first time after liberating it. Trigger: As the gate opens.>>
+[500.20] GATE_GUARD_2: Oh, never doubted you for a second! We were just having a little fun with you earlier, no offence, eh?
+[500.30] GATE_GUARD_1: Have your fellas move our barrier then go and have a tankard or two at The Happy Mule. It’s on me!
+[.] (unattributed): ---
+[501.10] GNARL: Ah, look at them go. It’s gone right to their heads! You see Master, such beverages make Minions more aggressive and temporarily increases their strength.   <<Trigger: Once the pillar is moved. Accompanies a cut scene.>>
+[501.20] ARCHIE: Ah it’s nice to see folks enjoying themselves for a change. Quite a wild bunch, aren’t they?   <<Trigger: Directly after Gnarl has finished speaking in the Spree- Minion Opening scene. The Camera Cuts to Archie walking out of the Inn. Looking satisfied, he turns to player.>>
+[501.30] ARCHIE: Back home in Ruboria I'm called Archibaldamius Methuselah Wobbleboard III, but folks round here just call me Archie.   <<Trigger: Camera pans onto the Inn and Archie the Inn Keeper.>>
+[501.40] ARCHIE: We’ve had some tough times. The Halflings have ransacked most of the farms and everyone’s turned up in Spree... on my doorstep!  They voted me Mayor! I got the drinks, yeah, but no food to feed them.   <<Trigger: Camera pans around Spree again, focusing on the gathered peasants.>>
+[501.50] ARCHIE: Look, I really need some... er... er    <<Trigger: Camera focuses on Bill. Minions have stopped boozing. >>
+[501.60] ARCHIE: Their village lies to the East. I bet they’re keeping it there! Go on, full tummies for us equals fuller pockets for you, if you get my drift.   <<Trigger: Camera pans to the Halfling homes Gate Exit (show the guards, pan going over their heads towards the Halflings).>>
+[501.70] ARCHIE: Always feel free to charge your Minions up at my Inn!   <<Trigger: Cut back to Archie.>>
+[.] (unattributed): ---
+[502.10] ARCHIE: I’ll bet a barrel of beer that our food is in the Halfling village to the East...   <<Trigger: If the player returns without the food.>>
+[502.20] ARCHIE: Man, those Halflings didn’t eat all that food did they?   <<Trigger: If the player returns without the food.>>
+[502.30] ARCHIE: We’re starving here!   <<Trigger: If the player returns without the food.>>
+[.] (unattributed): ---
+[503.10] ARCHIE: You’re a gent! I couldn’t ‘ave spent another night listening to my grumblin’ stomach!   <<Trigger: If the player has given the food back.>>
+[503.20] ARCHIE: You’re welcome at the Happy Mule any time!   <<Trigger: If the player has given the food back.>>
+[503.30] ARCHIE: We’re in your debt. Beers all around!   <<Trigger: If the player has given the food back.>>
+[.] (unattributed): ---
+[504.10] ARCHIE: You’ve taken food from the mouth of babies... you hear me?    <<Trigger: If the player has kept the food for himself.>>
+[504.20] ARCHIE: I’ve seen some Evil on my travels, but you and those    <<Trigger: If the player has kept the food for himself.>>
+[504.30] ARCHIE: Shame on you man... shame on you!   <<Trigger: If the player has kept the food for himself.>>
+[.] (unattributed): ---
+[505.10] ARCHIE: I miss my Ruboria! Dry as a dead man’s tongue, and sandstorms so bad you’d be sneezing glass for a week.   <<Trigger: General ambient announcements for Archie. This can be distributed/looped as needed.>>
+[505.20] ARCHIE: Ah man, I saw this lady pass through here the other week. Pretty as flower but sharp as dagger. Ouch!   <<Trigger: General ambient announcements for Archie. This can be distributed/looped as needed.>>
+[505.30] ARCHIE: I don’t know why they made me Mayor. I know what happened to Lord Spree, our last Mayor. I ain’t ending up like that!   <<Trigger: General ambient announcements for Archie.This can be distributed/looped as needed.>>
+[505.40] ARCHIE: Fancy a drop of the good stuff?   <<Trigger: General ambient announcements for Archie.This can be distributed/looped as needed.>>
+[.] (unattributed): ---
+[506.10] ARCHIE: Some little thief has nicked my Inn sign! Who’d want to steal a sign?   <<Note: At a certain point in the game Jewel will steal the Inn sign for the Happy Mule. Trigger: The player passes through Spree after the Inn sign has been stolen. This can be looped as required.>>
+[.] (unattributed): ---
+[507.10] EAST_GATE_GUARD_1: Watch out, it’s a hero!   <<Trigger: As the Overlord approaches:>>
+[507.20] EAST_GATE_GUARD_2: Like we need any more of 
+[507.30] EAST_GATE_GUARD_1: Look what happened to the last party of heroes we had ‘ere. Crazy as a bag of weasels, the lot of them!
+[507.40] EAST_GATE_GUARD_2: Yeah, and that was before they came back! Hey, I saw that Melvin last week. He used to be such a nice little fellow. But I swear he looked at me like I was a giant ham! He was actually 
+[507.50] EAST_GATE_GUARD_1: Yuck! Well, we’d better unlock this gate, I suppose.   <<After this exchange the gate is unlocked and the player can open it.>>
+[.] (unattributed): ---
+[508.10] EAST_GATE_GUARD_1: We’ve got your back, Lord!   <<Trigger: If the town is still friendly, some guards will follow the Overlord when he opens the gate.>>
+[508.20] EAST_GATE_GUARD_2: Let’s skewer some Halflings!   <<Trigger: If the town is still friendly, some guards will follow the Overlord when he opens the gate.>>
+[508.30] EAST_GATE_GUARD_1: Need some help?   <<Trigger: If the town is still friendly, some guards will follow the Overlord when he opens the gate.>>
+[508.40] EAST_GATE_GUARD_2: We could do with a bit of exercise.   <<Trigger: If the town is still friendly, some guards will follow the Overlord when he opens the gate.>>
+[508.50] EAST_GATE_GUARD_1: We’re with you!   <<Trigger: If the town is still friendly, some guards will follow the Overlord when he opens the gate.>>
+[508.60] EAST_GATE_GUARD_2: We’re coming, Sire!   <<Trigger: If the town is still friendly, some guards will follow the Overlord when he opens the gate.>>
+[.] (unattributed): ---
+[509.10] EAST_GATE_GUARD_1: We’ll stay here.   <<Trigger: If the Town is suppressed, the guards will not help and will stay put.>>
+[509.20] EAST_GATE_GUARD_2: No sense in crowding the man.   <<Trigger: If the Town is suppressed, the guards will not help and will stay put.>>
+[509.30] EAST_GATE_GUARD_1: Better keep the village protected.   <<Trigger: If the Town is suppressed, the guards will not help and will stay put.>>
+[509.40] EAST_GATE_GUARD_2: Better him than us.   <<Trigger: If the Town is suppressed, the guards will not help and will stay put.>>
+[509.50] EAST_GATE_GUARD_1: Let’s just pretend we didn’t see him.   <<Trigger: If the Town is suppressed, the guards will not help and will stay put.>>
+[509.60] EAST_GATE_GUARD_2: This gate won’t protect itself!   <<Trigger: If the Town is suppressed, the guards will not help and will stay put.>>
+[600.10] GNARL: Looks like they’re preparing a party down there. We should hurry up Sire, don’t want to miss it.   <<Trigger: The player walks to a ledge and gets a distant view of the Halfling village square. Halflings and Maids are running around setting up a party.    >>
+[.] (unattributed): ---
+[601.10] GNARL: Seems that we won’t be joining the party, just yet. While they’re busy here, perhaps you should find out where those greedy devils have hidden Spree’s food.   <<Trigger: After the player has killed the troll guard.>>
+[.] (unattributed): ---
+[602.10] GNARL: Looks like you’ll be able to fit your magnificent and imposing presence in through there, Lord.   <<Trigger: The player reaches the Halfling Homes.>>
+[.] (unattributed): ---
+[603.10] GNARL: Well, well, well it appears Melvin the Halfling    <<Trigger: The player nears the gateway after completing the food supply quest.>>
+[603.20] GNARL: Looks like Melvin is making a run for it, well a waddle for it! Your Minions seem bewitched... it does have a haunting beauty to it...   <<Trigger: Brief Cut-scene where Melvin can be seen lumbering off.>>
+[603.30] GNARL: Perhaps we should stay a while... revel in the melody...   <<Slightly dreamily. | Trigger: shot of the Overlord grasping his head.>>
+[603.40] GNARL: Oh...My feet, Master, I can’t stop them... Oh, I’m dancing, I’m actually    <<Voice changes to disgusted tone at 'Aggh, I'm dancing.' | Trigger: Gnarl begins to hum>>
+[.] (unattributed): ---
+[604.10] FIDDLER: Hey, I’m an artiste!   <<Trigger: The player hits the fiddler for the first time>>
+[604.20] FIDDLER: At least your creatures appreciate talent!   <<Trigger: The player hits the fiddler for the second time>>
+[604.30] FIDDLER: Everyone’s...a... critic...   <<Whilst dying. | Trigger: The player hits the fiddler for the third time and kills him>>
+[604.40] GNARL: So often the great die before their time. Ohhh! His music will live on in our hearts!   <<Slightly sad.>>
+[.] (unattributed): ---
+[605.10] GNARL: You won’t be following that tub of lard until you fix that wheel, Sire.   <<Trigger: The player nears the broken wheel.>>
+[.] (unattributed): ---
+[606.10] GNARL: Halflings don’t care about guarding when there’s food gone missing! Always thinking with their stomachs!   <<As the player is about to enter the Halfling Party Square, Melvin can be seen feasting. Irritating fiddle music is playing. 
+
+Camera moves from the Player’s perspective to Melvin who is standing on a >>
+[607.10] FIELD_PEASANT_1: Careful! This is the only bit of farmland we’ve managed to save from the Halflings.   <<Trigger: When the player enters the East of Spree playfields area for the first time.>>
+[607.20] FIELD_PEASANT_2: But the crops won’t be ready for months. We’ll have starved by then!
+[607.30] FIELD_PEASANT_3: Halfling patrols are still out there, we’ve seen ‘em going to this old workshop! Think they’re keeping somethin’ in there.
+[.] (unattributed): ---
+[608.10] GNARL: It’s one of our smelters! And those devils have captured Red Minions to stoke it. Silly scorchers! They must be imprisoned in the tunnels under Spree. We need to put out the fire to move the smelter, but to do that we must be able to summon Reds. You have to find the Red Minion Hive.   <<Trigger: When the player enters the workshop and sees the smelter for the first time.>>
+[.] (unattributed): ---
+[609.10] FARMER_1: These roots! I’ve never seen anything like it!   <<Trigger: When the player passes near the farmers and roots.>>
+[609.20] FARMER_2: Darn Elves! Can’t keep their own forest under control!   <<Trigger: When the player passes near the farmers and roots.>>
+[609.30] FARMER_3: These roots are strangling our crops!   <<Trigger: When the player passes near the farmers and roots.>>
+[609.40] FARMER_1: The forest... it’s gone crazy, that ain’t natural I’m telling you!   <<Trigger: When the player passes near the farmers and roots.>>
+[609.50] FARMER_2: I’ve tried cutting 'em, setting 'em on fire. Nothing helps!   <<Trigger: When the player passes near the farmers and roots.>>
+[609.60] FARMER_3: It’s Elf magic! I never trusted those pointy-eared layabouts!   <<Trigger: When the player passes near the farmers and roots.>>
+[.] (unattributed): ---
+[610.10] GNARL: Use your Reds to put out the fire, then your Browns can carry the smelter back to the Tower.   <<Trigger: When the player enters the workshop and has the Red Minions with him.>>
+[.] (unattributed): ---
+[611.10] WEST_GATE_GUARD: Halflings! Close the gates!   <<Trigger: As the Minions are carrying the smelter back to spree.>>
+[611.20] GNARL: Cowardly creatures! Quick, find another route, then decide how to deal with these worthless peons!   <<Trigger: The guard has run inside and the gate has been shut.>>
+[700.10] CASTLE_SPREE_SURVIVOR: Castle Spree is under siege, it’s burning! The demons...they came...they came out of the    <<Babbling. Pronounced 'ddddddemons' | Trigger: At the north gate the player will meet a survivor from castle Spree. There are no guards at this gate. Note: Once these lines have played through once, th>>
+[700.20] CASTLE_SPREE_SURVIVOR: The lady, she told us to run. So I ran and I didn’t look back, even when the screaming started. I don’t know if the others made it.
+[700.30] CASTLE_SPREE_SURVIVOR: Well you’ll need a army to get in. Oh, I see you have one. Well, go ahead then!
+[700.40] CASTLE_SPREE_SURVIVOR: I’m not going back there again...   <<Scared.>>
+[.] (unattributed): ---
+[701.10] GNARL: Melted armor is such a pain, Lord. You need to find the Red Minions. Their skin absorbs fire. They can take the...    <<Chuckles to himself after '...heat off you.' | Trigger: When the player nears the flame barrier without red Minions.>>
+[701.20] GNARL: You are not flame-proof, Master! Enlist the aid of the Red Minions, only their skin can absorb the flames.   <<Trigger: If the player nears the flame barrier again without red Minions.>>
+[800.10] GNARL: A thousand Halflings couldn’t do this much damage. I smell magic in the air. That’s never a good smell. Sire, I think you should investigate further.   <<Trigger: The player nears Castle Spree. A mini cut-scene will pan over the burning castle.>>
+[.] (unattributed): ---
+[801.10] GNARL: He was most definitely not local! I wonder if the lady that gibbering peasant mentioned is behind this.   <<Trigger: After the player has killed their first Ruborian Raider.>>
+[.] (unattributed): ---
+[802.10] GNARL: Better find another way in, oh Master of the Shadows.   <<Trigger: As the player nears the drawbridge.>>
+[.] (unattributed): ---
+[803.10] SPREE_GUARD_1: Sorry, Lord... we, er, panicked. It won’t happen again!   <<Trigger: The player revisits Spree after completing the smelter quest. Note the guard here can be any guard near to where the player enters Spree.>>
+[803.20] SPREE_GUARD_2: We 
+[803.30] GNARL: If you want to teach Spree a lesson Sire, then now is the time. Of course, you may have other plans. I wouldn’t dream of telling you your job, Sire.
+[900.10] GNARL: It seems you have made your choice, Master.   <<Trigger: The player kills one peasant. Note: After 10 peasants have been killed the peasants will stop fighting and surrender to the player.>>
+[.] (unattributed): ---
+[901.10] OFFERER_PEASANT: Dark Lord, in the hope that you might have pity on us poor wretches, we offer you our finest maiden!   <<Trigger: The player has killed 10 peasants and suppressed Spree.  IMPORTANT NOTE: When recording this cut-scene with voice actors ensure that a secondary version is recorded with 'MAIDEN' replacing 'V>>
+[901.40] FEMALE_SERVANT: I ain’t a maiden! They don’t call me Haystack Harriet for nothing!   <<IMPORTANT NOTE: When recording this cut-scene with voice actors ensure that a secondary version is recorded with 'MAIDEN' replacing 'VIRGIN' at every instance.>>
+[901.50] OFFERER_PEASANT: She’s clearly hysterical ... overcome by your magnificent visage, Lord!   <<Coughs loudly.>>
+[901.60] GNARL: We could always use a few servants at the Tower...clean the place up. The Spawning Pit is getting rather whiffy.
+[.] (unattributed): ---
+[902.10] FEMALE_SERVANT: You don’t want me, I’m feeling very    <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.20] FEMALE_SERVANT: I can’t cook you know!   <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.30] FEMALE_SERVANT: You don’t want me, you want my sister, she’s the pretty one!   <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.40] FEMALE_SERVANT: I’m not going with you...you sheep killer!   <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.50] FEMALE_SERVANT: Spree’s my home, please don’t take me away.   <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.60] FEMALE_SERVANT: I heard what you did to Spree, you brute!   <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.70] FEMALE_SERVANT: My brother's gonna get you for this.   <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.80] FEMALE_SERVANT: Keep those creatures away from me!   <<Trigger: The player finds a maiden. The lines for the virgins do not include the one in the cut-scene as she has already spoken.>>
+[902.90] FEMALE_SERVANT: All anyone in Spree thinks about is sheep, pumpkins or beer! Ugh, get me out of this place!   <<The last maiden should have this line.>>
+[902.100] MALE_SERVANT: If you need any sheep looking after, or, or pumpkins growing, I’m your man!   <<The male servant>>
+[902.110] MALE_SERVANT: Er my wife volunteered me for this... can’t think why!
+[.] (unattributed): ---
+[903.10] GNARL: Your first innocent, Sire. He died so your Dark Domain could flourish! Now don’t get    <<Trigger: The player kills their first innocent. This could be floated over all the levels as it might not happen in the Halfling domain.>>
+[1000.10] GNARL: One last thing, Sire...Killing innocents, and I use the term    <<Trigger: The peasants in the field are just becoming visible. >>
+[1000.20] GNARL: This attracts more Evil energy which increases your powers.
+[1000.30] GNARL: However, this is rarely suitable for establishing a long-term Evil plan.
+[1000.40] GNARL: That requires people, 
+[1200.10] GNARL : Drowning your army is a waste, Sire. If only we had Minions that could swim, or float, or not drown quite so fast!   <<Trigger: When the player nears the water/wheel area for the first time and they have not found the Blue Minion Tower object. Cppied from elf main>>
+[1200.20] BROWN_MINION: Blues, swim like fishies!   <<Giggles after speech. | Copied from elf main>>
+[1300.10] FEMALE_PEASANT: My Lord, now you’ve got rid of Melvin, the sheep are flourishing!   <<Trigger: When the player has returned to Halfling domain and has not surpressed Spree>>
+[1300.20] FEMALE_PEASANT: Take as many as you like, Sire, they’re breeding faster than I can count ‘em!
+[1300.30] BROWN_MINION: Ohhhh, more sheepies!   <<Claps excitetly after saying this.>>

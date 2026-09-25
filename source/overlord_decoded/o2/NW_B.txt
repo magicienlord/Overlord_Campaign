@@ -1,0 +1,95 @@
+[100.10] (unattributed): Explore the Netherworld further or take the tunnel to the Ice Caves where I’ve set up a few tests to gauge your true Overlord potential.
+[100.20] (unattributed): I’m far too old for gallivanting and those Nordberg winds go right up my nethers, so I shall stay here; warm my bones with a little hell fire.
+[100.30] (unattributed): Don’t worry you’ll have Quaver, our Bard, and some Browns with you. 
+[100.40] (unattributed): Besides, your helmet allows me to hear and see what you do. And I bet you thought it was just a hat!
+[TOUR.10] (unattributed): The Minion Burrows are believed to be the birth place of the First Minion: He who dug his way to the surface to serve the very First Overlord.
+[TOUR.20] (unattributed): After we, um, lost our last Master and before the Great Cataclysm decimated the old lands, we retreated here in the Exodus.
+[TOUR.30] (unattributed): Here we’ve remained, searching for our next bastion of evil!
+[TOUR.40] (unattributed): Minion Mortis is in charge, that is to say he facilitates your decisions, Sire.
+[TOUR.50] (unattributed): Spawns new Minions, tends the souls of the dead, makes sure they don’t come back with the wrong head, that sort of thing.
+[TOUR.60] (unattributed): Minions. We live. We serve. We die. It is what we are and what we will always be.
+[TOUR.BARR1] (unattributed): Barracks. The spawning place. You bring me Lifeforce, I bring you Minions.
+[TOUR.BARR2] (unattributed): The Barracks are where Minions live when they’re not out causing chaos with you, Sire. 
+[TOUR.BARR3] (unattributed): It’s also where we keep the Hives, which allow Minion summoning. 
+[TOUR.BARR4] (unattributed): Unfortunately, during the Exodus several Minion Hives were lost. We only managed to retain the Browns.
+[TOUR.BARR5] (unattributed): I’m sure they’d love a visit.
+[TOUR.BROWN1] (unattributed): Here be Browns! Browns are strong and loyal. They live to fight!
+[TOUR.BROWN2] (unattributed): That’s right, Mortis. 
+[TOUR.BROWN3] (unattributed): Browns are your main melee fighters due to their attitude of hit first... jump up and down on the carcass, later!
+[TOUR.NORED1] (unattributed): No Red Minions.
+[TOUR.NORED2] (unattributed): Mortis misses the Reds; He used to let them roast rats on his scythe. 
+[TOUR.NORED3] (unattributed): They were lured away by wisps! Daft creatures! But we believe they’re living in a volcanic area nearby.
+[TOUR.RED] (unattributed): Well the place is a little less drafty with our Reds back. They have a powerful ranged attack, Sire, and can also absorb fire.
+[TOUR.NOGREEN1] (unattributed): Greens Gone.
+[TOUR.NOGREEN2] (unattributed): The Greens left during the Exodus. They said they smelt something reeking and split from the main group.
+[TOUR.NOGREEN3] (unattributed): They’re such stealthy types, we blinked and they were gone. 
+[TOUR.NOGREEN4] (unattributed): Talk in the Spawning Pit says they’ve made their home on a jungle island.
+[TOUR.GREEN] (unattributed): Ah the Greens; it’s almost nice to have the smell back. They are stealthy assassins, Master, with a ferocious backstab attack.
+[TOUR.NOBLUE1] (unattributed): No Blues.
+[TOUR.NOBLUE2] (unattributed): This damp spot is reserved for the Blues. 
+[TOUR.NOBLUE3] (unattributed): Their magical inclination meant they felt most lost without an Overlord to guide them. They retreated to the nearest watery area. 
+[TOUR.NOBLUE4] (unattributed): Strange fellows. We have no idea what’s happened to them.
+[TOUR.BLUE1] (unattributed): Well, Sire, the Blues don’t seem too bothered by their spell in the Arena. 
+[TOUR.BLUE2] (unattributed): Their swimming and resurrection skills will come in handy, not to mention their immunity to magic.
+[TOUR.TOTEM1] (unattributed): This totem pole represents the number of Minions you can control, Master. 
+[TOUR.TOTEM2] (unattributed): Alas, several pieces were lost during the Exodus. Find them and you can control more Minions. 
+[TOUR.GRAVE1] (unattributed): Do you see dead Minions, Sire?
+[TOUR.GRAVE2] (unattributed): This is the Graveyard. You can view your recently deceased Minions in the Temple and resurrect your favorites.
+[TOUR.GRAVE3] (unattributed): But life has a price. Life for death. Death for life.
+[TOUR.GRAVE4] (unattributed): Indeed Mortis. If you wish to resurrect a fallen Minion you need to sacrifice Minions of the same color.
+[TOTEM.NOFULL1] (unattributed): There are still more Minion upgrades to collect, Sire.
+[TOTEM.NOFULL2] (unattributed): The totem pole is not yet complete, Master. There’re more pieces to find.
+[TOTEM.FULL1] (unattributed): Your horde is at maximum size, Sire!
+[TOTEM.FULL2] (unattributed): The totem is complete. You cannot control more Minions, Master!
+[GRAVE.10] (unattributed): Do you wish to see the dead ones, Master?
+[GRAVE.20] (unattributed): Sire, you seek death for life?
+[GRAVE.30] (unattributed): The price must be paid. Death for life!
+[GRAVE.40] (unattributed): You wish to resurrect the fallen?
+[GRAVE.50] (unattributed): The balance must be maintained. Death for life.
+[GRAVE.60] (unattributed): What would you ask of me?
+[IGRAVE.10] (unattributed): Do not fear, Master. The newly spawned will be sacrificed first.
+[IGRAVE.15] (unattributed): Don’t worry, Minions will happily die for their Master. Several times if necessary!
+[IGRAVE.20] (unattributed): Who would you ask the grave for?
+[IGRAVE.25] (unattributed): Valiant Minions earn titles. The more easily dispatched ones have very different epitaphs!
+[IGRAVE.30] (unattributed): The debt of souls must be met, Master.
+[IGRAVE.35] (unattributed): Got your eye on a favorite to raise, Sire?
+[IGRAVE.40] (unattributed): Do you have the required souls?
+[IGRAVE.45] (unattributed): Don’t fear the reaper, Sire. He’s really quite cuddly.
+[IGRAVE.50] (unattributed): Who do you wish to raise from the grave, Sire?
+[IGRAVE.55] (unattributed): It’ll be nice to have some of our old boys back in the field again. Killing things.
+[IGRAVE.NO1] (unattributed): You don’t have enough souls, Sire.
+[IGRAVE.NO2] (unattributed): More must die so he may live.
+[IGRAVE.NO3] (unattributed): More souls, Master!
+[IGRAVE.NO4] (unattributed): More must die!
+[IGRAVE.NO5] (unattributed): You do not have enough Minions for the sacrifice!
+[RES.BROWN1] (unattributed): I live!
+[RES.BROWN2] (unattributed): I’m here!
+[RES.BROWN3] (unattributed): I will bash again!
+[RES.BROWN4] (unattributed): It’s me!
+[RES.BROWN5] (unattributed): Taaa Daaaaaa!
+[RES.BROWN6] (unattributed): I live to bash!
+[RES.RED1] (unattributed): I burn again!
+[RES.RED2] (unattributed): I return!
+[RES.RED3] (unattributed): Flame on!
+[RES.RED4] (unattributed): Fire up!
+[RES.RED5] (unattributed): I live!
+[RES.RED6] (unattributed): I rise!
+[RES.GREEN1] (unattributed): I live to stab!
+[RES.GREEN2] (unattributed): Greetings Master!
+[RES.GREEN3] (unattributed): I will stab again!
+[RES.GREEN4] (unattributed): I live!
+[RES.GREEN5] (unattributed): It’s me!
+[RES.GREEN6] (unattributed): I’m back!
+[RES.BLUE1] (unattributed): I return!
+[RES.BLUE2] (unattributed): Thank you, Master!
+[RES.BLUE3] (unattributed): I rise!
+[RES.BLUE4] (unattributed): Good to be back!
+[RES.BLUE5] (unattributed): Command me!
+[RES.BLUE6] (unattributed): I will heal again!
+[GRAVE.QUIT1] (unattributed): Come and see me soon, Master.
+[GRAVE.QUIT2] (unattributed): Don’t fear the reaper.
+[GRAVE.QUIT3] (unattributed): Visit soon.
+[GRAVE.QUIT4] (unattributed): Death is your friend.
+[GRAVE.QUIT5] (unattributed): Goodbye, Master.
+[GRAVE.QUIT6] (unattributed): Farewell, Sire.
+[GRAVE.QUIT7] (unattributed): See you soon, Lord!

@@ -1,0 +1,66 @@
+[LOADING_SCREEN.HINT_001] (unattributed): "Power corrupts. Absolute power... is a whole lot of fun."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_002] (unattributed): "There’s nothing noble about a dragon. It’s 10 tons of flaming muscle powered by a brain the size of a gooseberry."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_003] (unattributed): "Seals can see into your soul. They must be wiped out!"   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_004] (unattributed): "Take it easy...but do take it!"   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_005] (unattributed): "Do not play cards with a rock giant. They never go to a game without an ace or two up their crevices."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_006] (unattributed): "If you must eat a phoenix, don't roast it, it only encourages them. Instead boil in water or hot oil."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_007] (unattributed): "Never eat weevils on a Tuesday."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_008] (unattributed): "The evil that men do is nothing compared to the evil that we do."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_009] (unattributed): "Unicorns! Over-rated pit-ponies!"   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_010] (unattributed): "It’s good to be bad, but it’s better to be evil."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_011] (unattributed): "Eating the eyeballs of a dryad will make your spleen explode."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_012] (unattributed): "Never take a succubus home to meet your mother."   <<Hint, used in FE Loading Screen >>
+[LOADING_SCREEN.HINT_013] (unattributed): To lock a target and keep it locked, press [Caps Lock]. Press it again to unlock.
+[LOADING_SCREEN.HINT_014] (unattributed): While having a target locked ([Shift]) you can switch targets with the [Z] or [C] key. This way you can quickly send your Minions to engage multiple weaker opponents.
+[LOADING_SCREEN.HINT_015] (unattributed): You can control both the Minions and the camera with the mouse. To control the Minions first hold down both mouse buttons and then sweep them in the direction you want. 
+[LOADING_SCREEN.HINT_016] (unattributed): You can use the scroll wheel of your mouse to quickly select different types of Minions.
+[LOADING_SCREEN.HINT_017] (unattributed): You can use the [1] key to select Brown Minions, [2] for Reds, [3] for Greens and [4] for Blues. Use ['] to select all minions again.
+[LOADING_SCREEN.HINT_018] (unattributed): You can use the scroll wheel of your mouse to quickly select different types of Minions.
+[LOADING_SCREEN.HINT_019] (unattributed): To change the Minion and Mount Selection, press their selection key ([1],[2],[3] or [4]) repeatedly. First press – all Minions of that type selected. Second press – only Mounted Minions of that type are selected. Third press – only non Mounted Minions of that type are selected.
+[LOADING_SCREEN.HINT_020] (unattributed): Revisit conquered areas to harvest Lifeforce and treasure. 
+[LOADING_SCREEN.HINT_021] (unattributed): Hold the right mouse button to call back all your Minions. 
+[LOADING_SCREEN.HINT_022] (unattributed): Don’t worry about lost Minions, they will automatically return to their Spawning Pit.
+[LOADING_SCREEN.HINT_023] (unattributed): Utilizing different combinations of Minion types both on and off a Guard Marker can be an effective tactic. Try sending both Brown and Green Minions to attack a target. Or add Greens and Blues to a Red Minion Guard Marker.
+[LOADING_SCREEN.HINT_024] (unattributed): Browns are melee fighters. Their policy is bash first, jump up and down on the carcass, later.
+[LOADING_SCREEN.HINT_025] (unattributed): Use Browns to pin down fast moving enemies and fleeing peasants.
+[LOADING_SCREEN.HINT_026] (unattributed): Position Browns on a Guard Marker using [Q]. Do this in a bottleneck and they can stop enemies from breaking through and abusing your Dark Majesty.   
+[LOADING_SCREEN.HINT_027] (unattributed): Reds are fiery little blighters. Always handy if you fancy something roasted.
+[LOADING_SCREEN.HINT_028] (unattributed): The more fire damage enemies take at once; the higher the chance they’ll catch fire!
+[LOADING_SCREEN.HINT_029] (unattributed): Keep your Reds out of melee and place them on high ground on a Guard Marker using [Q].
+[LOADING_SCREEN.HINT_030] (unattributed): Greens are stealthy types. What they lack in hygiene they make up for in sneakiness.
+[LOADING_SCREEN.HINT_031] (unattributed): Green Minions on a Guard Marker will cloak; making them invisible to enemies. 
+[LOADING_SCREEN.HINT_032] (unattributed): Greens have a powerful backstab attack. Make sure they approach enemies from behind.  
+[LOADING_SCREEN.HINT_033] (unattributed): Blues can swim and resurrect, but they’re less durable, so only order them to do bashing as a last resort. 
+[LOADING_SCREEN.HINT_034] (unattributed): Blues can swim.  Conquered levels might contain water-bound goodies that you weren’t able to get with your other Minions.
+[LOADING_SCREEN.HINT_035] (unattributed): Place Blues on a Guard Marker in a safe spot ([Q]) and make them auto-resurrect fallen Minions in the front line!
+[LOADING_SCREEN.HINT_036] (unattributed): Sweep Blue Minions with the mouse to make them blink past enemies. 
+[LOADING_SCREEN.HINT_037] (unattributed): Sweeping Wolves gives them a temporary boost and is useful for breaking through Legion Formations.
+[LOADING_SCREEN.HINT_038] (unattributed): Spiders can be placed on walls using a Guard Marker. These ambush points are impossible to reach for most enemies. 
+[LOADING_SCREEN.HINT_039] (unattributed): Salamanders enable Reds to fire whilst moving; so keep them rolling!
+[LOADING_SCREEN.HINT_040] (unattributed): Walking up to a Netherworld Gate will restore your Health and Mana. 
+[LOADING_SCREEN.HINT_041] (unattributed): Observe enemies carefully. Often they will signal before an attack. Call your Minions back in time to avoid damage and follow up if the enemy has a weak spot.
+[LOADING_SCREEN.HINT_042] (unattributed): Empire units in formation receive a defensive bonus and can’t be targeted individually. 
+[LOADING_SCREEN.HINT_043] (unattributed): Take out Centurions first to lower the morale of their formations. If their morale drops too low the formation will break up and the individual units will rout. 
+[LOADING_SCREEN.HINT_044] (unattributed): Some enemies can be directed to charge a target.
+[LOADING_SCREEN.HINT_045] (unattributed): Tyranny affects how your Spells work.  Destruction Overlords become better at destroying things. Domination Overlords get better at dominating weak minded individuals. 
+[LOADING_SCREEN.HINT_046] (unattributed): Peasants under domination will slavishly follow you around and attack any hostile targets. Why waste Minions when plebs are available? 
+[LOADING_SCREEN.HINT_047] (unattributed): Subdue stray peasants (hold [Alt]), so they can act as an extra attack force or a handy diversion for enemies. 
+[LOADING_SCREEN.HINT_048] (unattributed): Although the Target spell (hold [Alt]) might not be enough to kill strong enemies on its own - it will slow them down. 
+[LOADING_SCREEN.HINT_049] (unattributed): Boost your Minions before sending them in a particularly challenging battle. 
+[LOADING_SCREEN.HINT_050] (unattributed): Use the Shockwave Spell when being surrounded by lots of pesky enemies.
+[LOADING_SCREEN.HINT_051] (unattributed): Get to know all about your Minions by picking them up on the battlefield (Hold [Alt], click the left mouse button, then select with [A] and [D]). Make sure you let go in time! 
+[LOADING_SCREEN.HINT_052] (unattributed): Minions are always ready to be sacrificed (Hold [Alt] and left click the mouse) when the going gets tough for their Overlord. 
+[LOADING_SCREEN.HINT_053] (unattributed): Try resurrecting your favorite Minions at the Graveyard. You will need to pay the price in blood of lesser Minions, however.
+[LOADING_SCREEN.HINT_054] (unattributed): Champion Minions might have developed special abilities, pay close attention! 
+[LOADING_SCREEN.HINT_055] (unattributed): To fully conquer a town; hunt down all free townsfolk and determine their fate - death or domination. 
+[LOADING_SCREEN.HINT_056] (unattributed): Revisit towns to collect the goodies that the townsfolk have produced
+[LOADING_SCREEN.HINT_057] (unattributed): Explore the Netherworld. You might find some lost treasures the Minions have forgotten about.
+[LOADING_SCREEN.HINT_058] (unattributed): Be good to your Mistress, even if you have more than one, and she’ll be good to you. 
+[LOADING_SCREEN.] (unattributed): You can upgrade your Spells with Catalysts in the Magic Room in the Private Quarters. 
+[LOADING_SCREEN.HINT_059] (unattributed): Collect plenty of Lifeforce! You don’t want to use your best and most tooled up Minions as weapon ingredients. 
+[LOADING_SCREEN.HINT_060] (unattributed): Get to know your forged weapons. Some have bonuses associated with special strikes. 
+[LOADING_SCREEN.HINT_061] (unattributed): "A good leader inspires by example. But if that fails, brutal violence will do just as well."
+[LOADING_SCREEN.HINT_062] (unattributed): "Do not use a Salamander for cooking purposes. They will nearly always burn things."
+[LOADING_SCREEN.HINT_063] (unattributed): "Browns, Reds and Greens cannot swim. They are, however, remarkably good at drowning."
+[LOADING_SCREEN.HINT_064] (unattributed): "Don't ask Quaver to sing you a lullaby."
+[LOADING_SCREEN.HINT_065] (unattributed): "Never get between Gnarl and his deep fried baby seal nuggets."

@@ -1,0 +1,127 @@
+[100.10] GNARL: The slime, the stagnant odor, the festering corpses, it’s all so homely...   <<Trigger: On entering the domain for the first time>>
+[100.15] GNARL: You’ll see that the City of Heaven’s Peak dominates these swamp-laden lands, my Lord. Within it the great Citadel of Angelis Keep squats like a fly on a dung-pile.
+[.] (unattributed): ---
+[101.10] REFUGEE_LEADER: Look friend, the camp is getting pretty full now. We just can’t take in any more. And your little friends look pretty far gone. I’m sorry.   <<Trigger: When the player encounters the refugee leader and refugee sub-leader.>>
+[101.20] REFUGEE_SUB_LEADER: Er, I don’t think he’s a refugee, Sir. From the way he’s dressed I say he’s heading to the city, not away from it!
+[101.30] REFUGEE_LEADER: You mean you actually want to get    <<What's wrong with this guy?' as an aside to the sub-leader.>>
+[101.40] REFUGEE_SUB_LEADER: You know about the plague, right? The zombies? The city’s been closed off! Orders of Sir William, our Paladin governor.
+[101.45] REFUGEE_SUB_LEADER: He even cancelled his own wedding! And that ain’t a woman you want to cancel on!
+[101.50] REFUGEE_LEADER: Look, if you and your creatures want to start wandering about, be my guest! I suppose you might find a way in if you search...   <<Note: This last section of refugee leader dialogue can get looped until the player enters the sewers.>>
+[101.60] REFUGEE_LEADER: But I warn you, it’s not safe, and you won’t get any help from us! We’ve enough work to do in the camp, as it is. And zombies ain’t the worst of it!
+[200.10] GRAVEDIGGER_1: Well, I ain’t going in there.   <<Trigger: Two peasants (former grave diggers, perhaps) are talking to each other as the player approaches.>>
+[200.20] GRAVEDIGGER_2: Yeah, we buried ‘em once!
+[200.30] GRAVEDIGGER_1: And we’re not gonna do it again!
+[200.40] GRAVEDIGGER_2: Unless we get overtime!
+[200.50] GRAVEDIGGER_1: Hey, now you’re talking!   <<The Gravediggers should then have a looping animation that involves standing there, looking around, scratching themselves etc.>>
+[.] (unattributed): ---
+[201.10] GRAVEDIGGER_1: Oof!   <<Trigger: When the player gets close enough Gravedigger 1 is hit by a flying gravestone (thrown from inside the graveyard.) This can be triggered at any point during the grave diggers’ conversation, or>>
+[201.20] GRAVEDIGGER_2: Argh run... run!
+[.] (unattributed): ---
+[300.10] SHEPHERD: Hey, I see you looking at my sheep! Keep your creatures away from my girls!   <<Trigger: When the player nears the shepherd/sheep in this area. >>
+[300.20] BROWN_MINION: Ooohhh come here sheepie sheepies!
+[.] (unattributed): ---
+[301.10] SHEPHERD: That’s it! Stay back girls, Daddy’s going to teach the bad man a lesson!   <<Trigger: When the player attacks a sheep.>>
+[400.10] SICK_REFUGEE: Argh... what’s happening... what’s happening? Get away from me, get away... get away!   <<Trigger: One of the refugees starts turning into a zombie. We don’t need to see the crotch rot blackness, if we can do it, we should show it only in the Half Way to Heaven Inn.>>
+[.] (unattributed): ---
+[401.10] GUARD_1: Hey, big guy, get over here!   <<Trigger: When the player enters the second area of the camp, where the majority of the guards are. Guard 1, who will be standing near the edge of the guard area (overlooking the swamp area/entrance to>>
+[.] (unattributed): ---
+[402.10] GUARD_1: Over here!   <<Trigger: The player doesn’t go to the guard.
+These can be looped as needed.
+>>
+[402.20] GUARD_1: I ain’t doing this for my health, you know!   <<Trigger: The player doesn’t go to the guard.
+These can be looped as needed.
+>>
+[402.30] GUARD_1: Come on! I got something to show you.   <<Trigger: The player doesn’t go to the guard.
+These can be looped as needed.
+>>
+[.] (unattributed): ---
+[403.10] GUARD_1: Heard you might be looking for a way into Heaven’s Peak? You’re crazy, you know that?    <<Trigger: The player goes over to the guard.>>
+[403.15] GUARD_1: But I’ve still got a family in there... so maybe you’re the kind o’ crazy we need right now.
+[403.20] GUARD_1: See that sewer entrance over there. I been watching it, seen a few refugees comin' out.   <<Short cut scene focusing on the sewer entrance.>>
+[403.25] GUARD_1: Not many I grant you and some are in a bad way...a 
+[403.30] GNARL: Aah, if you want to cross water, you’ll need to locate the Blue Minions. They must be somewhere around here... they gravitate towards watery areas.
+[403.40] BROWN_MINION: We don’t like to swim... Blues like to swim!
+[500.10] BARRIER_GUARD_1: Careful there, that barrier is all that stands between us and those creatures.   <<Trigger: As the player passes the barrier guards.>>
+[500.20] BARRIER_GUARD_2: We shoot any that come close... but it won’t hold for long.
+[.] (unattributed): ---
+[501.10] BARRIER_GUARD_1: What the hell d’ya do that for? You want your brains eaten like a boiled egg?   <<Trigger: The player breaks the barrier.>>
+[501.20] BARRIER_GUARD_2: Get ready... they’re coming!
+[.] (unattributed): ---
+[502.10] ROSE: Now that’s no way for a lady to go out! She’ll catch a cold in this place!   <<Trigger: If the player encounters the lone succubus.>>
+[.] (unattributed): ---
+[504.10] GNARL: These creatures are Boombo Birds. They are as deadly as they are stupid looking and fiercely protective of their eggs.   <<Trigger: The player enters the main Boombo bird area in the swamp. >>
+[.] (unattributed): ---
+[505.10] GNARL: I might've known that the Blues would find somewhere nice and damp to hide. Go forth, Sire, and retrieve their Hive.   <<Trigger: The player nears the Blue Minion lair in the Moist Caverns.>>
+[600.10] FALLEN_KNIGHT_1: Intruder!   <<Low hiss. | Trigger: When the player breaks a barrier to enter the market square. A Fallen Knight rushes to attack him.>>
+[600.20] ROSE: Not one for conversation, was he?   <<Trigger: The first Fallen Knight is killed.>>
+[600.30] TOWNSFOLK_1: Ha! You killed it. Stone dead! Even six of us couldn’t take down that Fallen Knight! I’m gonna tell the others!   <<One of the townsfolk comes running up.>>
+[.] (unattributed): ---
+[601.10] TOWNSFOLK_LEADER: That Knight...he works...well    <<Scared. | Trigger: The player enters the area with the gate wheel in.
+Two townsfolk come up to him.
+>>
+[601.20] TOWNSFOLK_2: Please... the gate wheel, we’re not strong enough to turn it ourselves. Get us out of this place!
+[.] (unattributed): ---
+[602.10] WHEEL_FALLEN_KNIGHT_1: Enemies!   <<Low hiss. | Trigger: When the two fallen knights near the gate wheel spot the player.>>
+[602.20] WHEEL_FALLEN_KNIGHT_2: They must die!   <<Low hiss.>>
+[.] (unattributed): ---
+[603.10] TOWNSFOLK_1: Thank you, thank you! Come on! I’ve heard there’s a camp out there. Maybe we can reach it.   <<Thank you' directed at player, rest is shouted at other townfolk. | Trigger: After the player has opened the gate. Townsfolk 1 starts moving towards the gate.>>
+[603.20] TOWNSFOLK_2: Er... don’t we need weapons? Those creatures... they’re out there. I’ve heard them.   <<Townsfolk 2 starts moving towards the gate, then pauses.>>
+[603.30] TOWNSFOLK_1: I’m not waiting around here!
+[603.40] TOWNSFOLK_2: Hey, wait for me!   <<Townsfolk 1 starts running out of the gate. Townsfolk 2 speaks this line then follows. Note:  More townsfolk could run with them, but they won’t have lines. Those that choose to stay will have their o>>
+[603.50] TOWNSFOLK_LEADER: Thank you Lord! Since Sir William returned from his last crusade the City has spiraled into chaos.
+[603.60] TOWNSFOLK_LEADER: There are zombies everywhere, some say demons, too... and we even had to cancel the royal wedding.
+[603.70] ROSE: Some young harlot, I imagine... with full breasts and an empty head.
+[603.80] TOWNSFOLK_LEADER: Could you look into it, Lord? I should stay here, do what I can for these folks. Some are as frightened to go as they are to stay!
+[604.10] ROSE: Well, that’s just typical of her! I mean... of her type, Sire! A silly little wench, too daft to know what’s she’s getting herself into!   <<Note: This should happen after the above scene with the townsfolk leader.
+Trigger: Mini- cut-scene. Camera focuses in on the poster of the canceled wedding for a few seconds.
+>>
+[.] (unattributed): ---
+[702.10] TOWNSFOLK_5: They say that Sir William’s knights have special armor, crafted in a magical forge below the city...I don’t know about that, but they sure are tough brutes!   <<Trigger: If the player hasn’t found the forge item in the Understreets.These lines can be alternated/looped as necessary.
+>>
+[702.20] TOWNSFOLK_6: You been to the Understreets yet? Did you see the forge... is it really there? Bah, it’s, uh, just school-boy puff, there ain’t no magical forge!   <<Trigger: If the player hasn’t found the forge item in the Understreets.These lines can be alternated/looped as necessary.
+>>
+[800.10] TEMPLE_ALLEY_TOWNSFOLK: They call themselves the Order of the Silent God! But they are not godly men!   <<Triggered: When the player nears the alley leading to the temple>>
+[800.20] TEMPLE_ALLEY_TOWNSFOLK: They’ve barricaded the temple gates. They won’t let anyone in.
+[800.30] TEMPLE_ALLEY_TOWNSFOLK: Those priests are worse than the zombies! I hope the plague gets ‘em all.
+[.] (unattributed): ---
+[801.10] TEMPLE_TOWNSFOLK_1: Let us in, let us in!   <<Cut-scene triggered: When the player nears the temple area.
+A group of townsfolk run by the player and up to the barrier in front of the temple.
+>>
+[801.20] TEMPLE_TOWNSFOLK_1: We are your lost sheep!   <<Cut to Silent, motionless Priest>>
+[801.30] BROWN_MINION: Sheepies... sheepies, where sheepies?
+[801.40] TEMPLE_TOWNSFOLK_2: Give us sanctuary, give us food, we beg you!   <<Cut to Towns folk>>
+[801.50] TEMPLE_TOWNSFOLK_3: You pious silent fiends, we’re dying out here!   <<Cut to Silent, motionless Priest>>
+[801.60] TEMPLE_TOWNSFOLK_2: Barriers won’t save you... not in the end. They’ll break through!   <<Angry. 'They'll break through' shouted. | Cut to the group standing in front of the gate.>>
+[.] (unattributed): ---
+[802.10] TEMPLE_TOWNSFOLK_2: They’ve got to come out sooner or later.  And we’ll be waiting!   <<Shout 'And we'll be waiting!' | Trigger: continues from cutscene above.>>
+[802.20] ROSE: Now that’s just silly! They’re starving potential worshippers! Do something!
+[.] (unattributed): ---
+[803.10] TEMPLE_TOWNSFOLK_1: He’s done it, he’s broken it down!   <<Trigger: The player breaks down the barrier.>>
+[803.20] TEMPLE_TOWNSFOLK_2: Looks like there is some humanity left! Let’s go.
+[803.30] TEMPLE_TOWNSFOLK_3: Yeah, I’m starving!
+[803.40] TEMPLE_TOWNSFOLK_1: Come on then!
+[803.50] TEMPLE_TOWNSFOLK_3: Er, actually, I’m not that hungry.   <<The peasants run in, a group of Fallen Knights stomp forward, followed by some white priests.>>
+[803.60] PRIEST_WHITE: Mmmm MMMM!   <<(kill them)>>
+[.] (unattributed): ---
+[804.10] PRIEST_WHITE: MMMmmmm mmmmmmm mmm mmmm mmm mm!   <<Trigger: When the player has killed enough of the priests and the fallen knights the white priests will surrender, more white priests can run up at this point.       Note: Could be a non-interactive c>>
+[804.20] GNARL: My mumble is a bit rusty, but I, I believe he’s saying:‘We surrender! Please don’t kill us!'
+[804.25] GNARL: That or he’s asking the way to the nearest banana merchant. I’m inclined to go with the former.
+[804.30] PRIEST_WHITE: Mmmm mmm mm?   <<White priest 1 turns to the other priests>>
+[804.40] PRIEST_WHITE: Mmmmm Mmmmm mmmmmm mmm. MMM MMM MMM MA!   <<Triumphantly. | There are some mmmms of agreement and all the priests hold their hands up to the player.>>
+[804.60] GNARL: They appear to have accepted you as their new god, Sire.   <<ALTERNATIVE LINE In case the Priests do not heal you within the city walls.>>
+[.] (unattributed): ---
+[805.10] GNARL: Doesn’t exactly say ‘welcome’ does it? Sir William is certainly not anxious for visitors and I wouldn’t advise tangling with these ladies, just yet.   <<Trigger: When the player nears the entrance to the Citadel for the first time and sees all the succubus guards.>>
+[900.10] INN_TOWNSFOLK_1: That was amazing, stranger!   <<Trigger: After the player has cleared out the first horde of zombies in this area he encounters a group of townsfolk.>>
+[900.20] INN_TOWNSFOLK_2: Thank you, thank you.
+[900.30] INN_TOWNSFOLK_3: We’re very impressed.
+[900.40] INN_TOWNSFOLK_1: Especially the way you killed them all...!
+[900.50] INN_TOWNSFOLK_2: ...and tired yourself out!
+[900.60] INN_TOWNSFOLK_1: Now we’ll have our funnnnn...yyarrrrrrrrggg!   <<(Following this statement the townsfolk turn into zombies and attack the player.)>>
+[.] (unattributed): ---
+[901.10] BOUNCER_1: ’Ere comes another one!   <<Trigger: When the player nears the entrance to the Half Way to Heaven Inn the two bouncers outside will have some dialogue.>>
+[901.20] BOUNCER_2: ...another 
+[901.30] BOUNCER_1: Now don’t you start no trouble in there, lad!
+[901.40] BOUNCER_2: ...We’ll be watching!   <<Gameplay Note: If you start a fight on either the lower or upper floors, the two bouncers, who should be stronger than the average townsfolk/peasant should run in. >>
+[.] (unattributed): ---
+[1000.10] GNARL: Hmmm, a succubus!    <<Trigger: If the player encounters the lone succubus and has already encountered/killed the succubus and zombies in the graveyard.>>
+[1000.20] GNARL: Poor misunderstood young ladies. They just want a little bit of love...a little bit of 

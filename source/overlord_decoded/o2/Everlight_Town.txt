@@ -1,0 +1,40 @@
+[100.10] (unattributed): More Eradicators. I guess magical creatures don’t have an invitation to their party.
+[100.20] (unattributed): Ah, it’s nice to be out in foreign parts, killing the locals. That’s the thing about vacations; getting there is half the fun! 
+[110.10] (unattributed): Formation forward. On the double. Archers in position!
+[120.10] (unattributed): New formation! Be quick about it!
+[120.20] (unattributed): Forward men! Cut ‘em down!
+[120.30] (unattributed): Forward formation! Look lively! Look lively!
+[120.40] (unattributed): New men! New men! Advance! Advance!
+[130.10] (unattributed): Archers! Fill them full of holes!
+[130.20] (unattributed): Get ‘em in your sights archers!
+[130.30] (unattributed): Ready your bows! Fire!
+[130.40] (unattributed): More archers!
+[200.10] (unattributed): Clearly this is the place Empire Citizens like to go when they tire of city life…
+[200.20] (unattributed): or possibly when they reach a certain weight!
+[200.30] (unattributed): I mean why come all this way to just lie on sand and rotate like a roasting pig?
+[200.40] (unattributed): Seems the local Elves have been reduced to catering to the every whim of these obnoxious bloaters, debasing their once proud race with the ignominy of servitude. 
+[200.50] (unattributed): so it’s not all bad!
+[210.10] (unattributed): Quentin the natives are restless and heading this way!
+[210.20] (unattributed): Guards! Guards!
+[220.10] (unattributed): This must be where the Elves live. Well, I suppose you have to give the servants some place to stay!
+[300.10] (unattributed): I see the entertainment has arrived! Or maybe this is what you’re after, hmm?
+[300.20] (unattributed): Well she’s destined for the Arena I’m afraid. And if there’s any of you left once my guards have finished... you’ll be next!
+[310.10] (unattributed): Quick, Master use your flags!
+[320.10] (unattributed): Put the beast down, guards!
+[320.20] (unattributed): Er you are here to rescue me right?
+[320.30] (unattributed): This is better than the Arena!
+[320.40] (unattributed): I’m far too pretty for this place, anyway!
+[320.50] (unattributed): Bring me his head... and the heads of all his little... things!
+[320.60] (unattributed): I don’t care how much blood you have to spill, just get me out of here!
+[320.70] (unattributed): Finish him. I will not have that creature spoiling our resort!
+[320.80] (unattributed): Um please try not to die!
+[330.10] (unattributed): Stay back... stay back. I was just protecting the interests of my guests, that’s all. 
+[330.20] (unattributed): I wouldn’t have really sent you to the Arena!
+[330.30] (unattributed): Hmmm... but you would have sent me to the Arena!
+[330.40] (unattributed): You’re not exactly what I had in mind for a white knight, but you certainly fill your armour very well!
+[330.50] (unattributed): So, are you going to show her who’s in charge of Everlight, now?
+[340.10] (unattributed): Well, that certainly solved the problem! I like a man with who knows what he wants! Especially if what he wants is me. 
+[340.20] (unattributed): Ha... now she’s the slave. Mmmmm, I like your style.
+[350.10] (unattributed): Ah, a way out of this place!
+[350.20] (unattributed): What?! She’s not coming here, is she?
+[350.30] (unattributed): The more the merrier, aye, Sire?

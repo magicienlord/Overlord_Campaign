@@ -1,0 +1,110 @@
+[100.1] (unattributed): Red Rescuer
+[100.2] (unattributed): Green Grabber
+[100.3] (unattributed): Blue Bringer
+[100.4] (unattributed): Rescuer of Kelda
+[100.5] (unattributed): Juno's Champion
+[100.6] (unattributed): Corruptor of the Queen
+[100.7] (unattributed): Ghost Bringer
+[100.8] (unattributed): Tyrant of Nordberg
+[100.9] (unattributed): Tyrant of Everlight
+[100.10] (unattributed): Master Builder
+[100.11] (unattributed): Tyrant of the Tower
+[100.12] (unattributed): The Dominator
+[100.13] (unattributed): The Destructor
+[100.14] (unattributed): Seal Slayer
+[100.15] (unattributed): Battle Rock Bruiser
+[100.16] (unattributed): Battle Rock Champion
+[100.17] (unattributed): Gnome Grinder
+[100.18] (unattributed): Scrooge
+[100.19] (unattributed): Rock On
+[100.20] (unattributed): Minion Harvester
+[100.21] (unattributed): Ladies’ Man
+[100.22] (unattributed): Kelda’s Special Friend
+[100.23] (unattributed): Juno’s Special Friend
+[100.24] (unattributed): Dark Fay’s Special Friend
+[100.25] (unattributed): Ghost Fay’s Special Friend
+[100.26] (unattributed): Minion Captain
+[100.27] (unattributed): Mayhem Maker
+[100.28] (unattributed): Forger
+[100.29] (unattributed): Tower Heart Salvager
+[100.30] (unattributed): Nightmare of Nordberg
+[100.31] (unattributed): Evil of Everlight
+[100.32] (unattributed): Spider Squasher 
+[100.33] (unattributed): King Killer
+[100.34] (unattributed): Hippy Humbler
+[100.35] (unattributed): Commune Crusher
+[100.36] (unattributed): Global Warmer
+[100.37] (unattributed): Seafarer
+[100.38] (unattributed): ‘Panda’monium
+[100.39] (unattributed): Wastelands Explorer
+[100.40] (unattributed): Evil Presence
+[100.41] (unattributed): Dark Halo
+[100.42] (unattributed): Minion Handler
+[100.43] (unattributed): Sanctuary Smasher
+[100.44] (unattributed): Fairy Flattener
+[100.45] (unattributed): Soldier Slicer
+[100.46] (unattributed): Leader of the Pack
+[100.47] (unattributed): Band Builder
+[100.48] (unattributed): Minion Possessor
+[100.49] (unattributed): Yeti Slayer
+[100.50] (unattributed): Tourist Trapper
+[100.51] (unattributed): Tourist Trouncer
+[100.52] (unattributed): Rebel Rouser
+[100.53] (unattributed): Rebellion Queller
+[100.54] (unattributed): Yeti Petter
+[100.55] (unattributed): Dark Emperor
+[200.1] (unattributed): Our fiery friends are back with us, when will the fairies learn? In fighting Reds you'll end up dead and something's gonna burn!
+[200.2] (unattributed): The Greens have come from the jungles deep. Where wind it never blows. It's not so swell to have the smell. Everybody hold you nose!
+[200.3] (unattributed): The Blues are back in the evil fold. It’s true they had a fright. But Sire did thwart Arena foes. It was a splendid sight!
+[200.4] (unattributed): Feisty Kelda’s come to join us, she looks handy in a brawl. I hope she won’t cut off my head and mount it on the wall.
+[200.5] (unattributed): Oh Juno is a lovely sight. I'm almost moved to tears. I hope she will sit down with me and gently stroke my ears!
+[200.6] (unattributed): The Sanctuary has been destroyed, Dark Fay has come to play! We may need more black velvet if she is going to stay!
+[200.7] (unattributed): The Sanctuary has been destroyed, and Queenie made a fuss. And now we got to pay the price, her ghost’s moved in with us!
+[200.8] (unattributed): Sire is Tyrant of Nordberg, feared by one and all! No one can stand against him and those who try will fall!
+[200.9] (unattributed): Hail Tyrant of Everlight, who made the Empire quail! There’s no one left to face you down who is not bound to fail!
+[200.10] (unattributed): Our Lord he has been building. Let’s hope it’s not a fad. Foreboding, dark and heinous, it’s quite the evil pad!
+[200.11] (unattributed): The ladies love a big 'un, the dark and looming power. And now he’s built his own one, he’s Tyrant of the Tower!
+[200.12] (unattributed): Our Lord he loves to dominate, subversion is the key. All around do fear him, the land’s on bended knee!
+[200.13] (unattributed): The Master loves destruction, the sound of screams and fear. For every soul that he cuts down, we Minions give a cheer.
+[200.14] (unattributed): Sire did slay the fluffy beasts, they didn’t have a prayer. Now they’ll make a nice warm muff. Our Lord the Seal Slayer!
+[200.15] (unattributed): The Arena has been rocking, our Lord he loves to fight. The Minions flock to see ‘cos violence makes their night!
+[200.16] (unattributed): He’s Lord of the Arena. All foes he did ably crush. I hope he doesn’t turn on me and make Quaver into mush!
+[200.17] (unattributed): He’s hunted down the little pests, their pointy hats did run. There’s nothing like a gnome on fire to make for evil fun!
+[200.18] (unattributed): Our Lord he likes to save his gold, to spend it would be vile. Instead he likes to look at it, he has a great big pile!
+[200.19] (unattributed): His carnage is impressive. Of that there is no doubt. The rock did fly right through the air, one strike and they were out!
+[200.20] (unattributed): Life force has been gathered. Our Minions spring to work. They’ll obey their Master. The killings just a perk!
+[200.21] (unattributed): With three ladies in the Tower, we feared it would be hell. But the Lord did sooth their savage ways and they all got on so well!
+[200.22] (unattributed): Kelda came from Nordberg, to our Tower she did descend. Our Lord won her affection, now he’s her special friend.
+[200.23] (unattributed): Oh Juno is an Empire gal, she’s elegant and sleek. She showed our Lord exotic ways, I swear I didn’t peak!
+[200.24] (unattributed): Now Fay’s heart’s been corrupted, she’s got that evil spark. And when she closed the curtains, they both embrace the dark!
+[200.25] (unattributed): Fay is quite the temptress, though her time alive is done. She took our Lord to spiritual heights, the dead can have fun!
+[200.26] (unattributed): Our Master saved his Minion crew from spider webs so icky. Now they’re back to fight again, I hope they’re not too sticky!
+[200.27] (unattributed): There was a boy from the Nordberg Town who sent the locals screaming. But now the boy’s become a man, he’ll start his evil scheming!
+[200.28] (unattributed): Sire has mastered forging, he’s now prepared for battle. He’ll inspire fear and loathing and cause teeth and bones to rattle!
+[200.29] (unattributed): The Tower Heart we thought was lost, it’d taken quite a knock. But now the Master’s pieced it back, it’ll give our foes a shock.
+[200.30] (unattributed): Our Master has claimed Nordberg, a land of snow and ice. And now he will take sweet revenge, he’s naughty, he’s not nice!
+[200.31] (unattributed): Everlight was an Empire playground, a place of great excess. And now our Lord has conquered it, their tourist trap’s a mess!
+[200.32] (unattributed): Sire did kill the Spider Queen, her reign of terror ends. The Greens are very happy, cos we’ve got her little friends!
+[200.33] (unattributed): The Salamander King is dead! He’s just a piece of meat. The Reds are celebrating, cos his mounts will save their feet!
+[200.34] (unattributed): Our Lord did crash the commune and captured them like bugs. They shall not run from him again. He’s got no time for hugs!
+[200.35] (unattributed): Our Lord did crush the commune and squashed them all like bugs. None shall run from him again. He’s got no time for hugs!
+[200.36] (unattributed): The tarpits are all burning, the sky has been turned black. The seas have started rising, global warming’s right on track!
+[200.37] (unattributed): Our captain manned a mighty ship and sailed us through the straits. With his merry rowing Minions he discovered Elven gates!
+[200.38] (unattributed): Master killed a panda, a horrid, fluffy beast. If I knew how to cook one, we’d have a giant feast!
+[200.39] (unattributed): The Master’s been to the Wastelands, Once our Minion home. Now it’s where the magic’s soured and oozing beasts do roam!
+[200.40] (unattributed): Evil Presence is with us, my very favorite spell! Make them fall upon their knees or send their bones to hell.
+[200.41] (unattributed): Master has a Halo, to buff his army vast. Or turn that feisty spell on him and cause himself to blast!
+[200.42] (unattributed): Now Master can grab a Minion and send it to attack. Or use the fellow to buff himself with a light Minion snack!
+[200.43] (unattributed): Now Sire did find a Sanctuary, a place of magic light. He smashed it up, he smashed it down and had a real good smite!
+[200.44] (unattributed): Sire did slay a winged one! I don’t know how they fly. They seem too round to leave the ground and ever reach the sky!
+[200.45] (unattributed): Those Elven soldiers are finished, why does the earth cry out in pain? With those poor saps out of the way, she’s everything to gain!
+[200.46] (unattributed): Now Sire has found some wolven friends, there is no looking back. With his Browns aboard their steeds, he’s leader of the pack!
+[200.47] (unattributed): Poor Quaver he does sing alone, sad times he had to weather. But now our Lord has looted Elves, he’s got a band together!
+[200.48] (unattributed): Sire performed an unholy act, a Minion he did possess. Thankfully he let it go, before there was a mess!
+[200.49] (unattributed): Master slayed the Yeti fierce, he really was a thug. And I think we all agree, he looks better as a rug!
+[200.50] (unattributed): Those tourists tried to run, from the Master’s evil reign! But our Lord did track them down and brought them back again!
+[200.51] (unattributed): Those tourists tried to run, and got themselves a boat. But Master sent it sinking down, I wonder can they float?
+[200.52] (unattributed): The rebels tried to stir things up, and blow Everlight apart. But now they’re slaves, just like the rest, it wasn’t very smart!
+[200.53] (unattributed): The rebels tried to stir things up, and blow Everlight apart. But now they’re food for bugs and worms, it wasn’t very smart!
+[200.54] (unattributed): Lord subdued the Yeti fierce, he really was a thug. Master has him as a pet, he’d be better as a rug!
+[200.55] (unattributed): Sire slew the Devourer, before it could eat the town. Now folks all call him Emperor for beating that blob down!

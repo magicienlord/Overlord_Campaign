@@ -1,0 +1,100 @@
+[100.10] GNARL: Ooooh, I feel another surge of Evil energy, my Lord, it’s coming from Heaven’s Peak! Must be another of those wretched Abyss Gates!   <<Trigger: When the player has killed William>>
+[101.10] GNARL: It    <<Trigger: The player nears the Paladin Abyss>>
+[101.20] MALE TOWNSFOLK 1: Oh Sire, our women went into this Gate, Lord. Apart from Molly at the Inn that is! Even though those demons have gone, our girls won’t come out! They say they’re fed up with us.
+[101.30] MALE TOWNSFOLK 2: And I want my tea... and my tummy hurts, and my socks are full of holes! Please see if you can talk some sense into them, Dark Lord.
+[200.10] KITCHEN FEMALE 1: Oh, not    <<Trigger: Player enters the Large Kitchen>>
+[200.20] KITCHEN FEMALE 1: Anyway, it opened up this Abyss for us, so we could get a bit of peace from those creatures of yours!
+[200.30] KITCHEN FEMALE 2: Up in Heaven’s Peak it was Succubus this, Succubus that, why don’t you have wings like 
+[200.50] KITCHEN FEMALE 1: And it’s all 
+[200.60] KITCHEN FEMALE 1: Now that filthy slug is 
+[200.70] KITCHEN FEMALE 2: They’re    <<(Tuts)>>
+[200.100] MALE CLEANING TOWNSFOLK 1: I’m trying my best, M’lady.
+[200.110] GNARL: This is clearly some new breed of Evil, Sire. Proceed with caution.
+[201.10] KITCHEN FEMALE 1: See, he’s just like the rest,    <<Trigger: Player is in the kitchen but has not killed the slug.>>
+[201.20] KITCHEN FEMALE 2: You just can’t get the help these days, can you Doris?
+[202.10] KITCHEN FEMALE 1: Eew, that’s disgusting!   <<Pronounced Eeeeeeew. | Trigger: Player kills the slug.>>
+[202.20] KITCHEN FEMALE 2: Clean that up at once! You’ll find the cleaning machine over there!
+[202.30] GNARL: You’ll need more than a Minion to operate that, Master. It’s a known fact that Paladins remove 99% of all household stains, including demon vomit, rabid badger phlegm and slug goo!   <<Trigger: camera cut to Cleaning Machine>>
+[202.40] KITCHEN FEMALE 2: Yes! Yes! That’s a very fitting punishment. You cleaned up his mess... now he can clean up ours!   <<Excitedly | Trigger: Picks up the Paladin and puts him in the machine>>
+[203.10] KITCHEN FEMALE 1: Well, would you look at that, Val, he’s done it... he’s actually done it!
+[203.20] KITCHEN FEMALE 2: Hmm, perhaps you can be of use elsewhere. Let him through, girls.   <<Shout the ' Let him through girls'  part. >>
+[300.10] GRASS FEMALE 1: We thought a bit of greenery around here would brighten the place up… tea on the lawn, a spot of croquet, you know.   <<Trigger: Player enters the demonic vines area. >>
+[300.20] GRASS FEMALE 2: But that 
+[300.30] GNARL: Play along, Sire, play along... I know it’s undignified... but we must lure this Evil out in the open!   <<Trigger: after cutscene>>
+[301.10] GRASS FEMALE 1: Typical! You give them one    <<tut on the end | These lines are looped while the player still hasn’t mown the grass>>
+[301.20] GRASS FEMALE 2: Get a move on, Evil Overlord 
+[301.30] GRASS FEMALE 1: Look! It’s all growing back now!
+[301.40] GRASS FEMALE 2: We can’t have our tea on 
+[301.50] GRASS FEMALE 1: I want my lawn and I want it 
+[301.60] GRASS FEMALE 2: You’re just not 
+[302.10] GRASS FEMALE 1: Adequate... very   <<Trigger: Player successfully cuts the Vines..>>
+[302.20] GRASS FEMALE 2: Looks like he’s a keeper, Mav.
+[302.30] GRASS FEMALE 1: Could be, could be, let’s see what this Dark creature can do about... the parlour.   <<dramatic silence before ' the parlour'  and after that, dramatic gasps from other women. >>
+[400.10] RATS FEMALE 1: Now how can we sit down for a nice bit of embroidery in a place like    <<Trigger: Player enters rats Puzzle area>>
+[400.20] RATS FEMALE 2: I keep poking them with my knitting needles but they won’t go away!
+[400.30] GNARL: One almost feels sorry for them... the rats and slugs, that is. Consider these to be 
+[401.10] RATS FEMALE 1: Yuck!   <<Trigger: Slug explodes>>
+[401.20] RATS FEMALE 2: Clean that up!
+[401.30] RATS FEMALE 1: Hideous, just hideous!
+[401.40] RATS FEMALE 2: Don’t make me get my knitting needles!
+[401.50] RATS FEMALE 1: That really will 
+[401.60] RATS FEMALE 2: Look at our lovely floor!
+[401.70] RATS FEMALE 1: Multitask man, multitask!
+[401.80] RATS FEMALE 2: Eew, they’re more disgusting dead than alive!   <<Read as Eeeeeeewww.>>
+[402.10] RATS FEMALE 1: Rats! Rats!   <<Trigger: Rats spawn. Ambient, can be looped as required.
+>>
+[402.20] RATS FEMALE 2: Get ‘em, get ‘em!
+[402.30] RATS FEMALE 1: I can’t even look at them, just tell me when they’re dead!
+[402.40] RATS FEMALE 2: That one winked at me!
+[402.50] RATS FEMALE 1: Stop them before they start messing with the furnishings!
+[402.60] RATS FEMALE 2: Squish away, just make sure you clean up afterwards!
+[402.70] RATS FEMALE 1: Nasty things!
+[402.80] RATS FEMALE 2: Ugh, I hate their beady little eyes!   <<Pronounced Urrrrggg!>>
+[403.10] RATS FEMALE 1: I can see you’ve really got the hang of this! But don’t think you’re coming up here without bringing us a present!   <<Trigger: The player successfully cleans the parlour. >>
+[403.20] RATS FEMALE 2: Yes! Yes! Something pretty, that smells nice!
+[403.30] GNARL: I think I have a few old eyeballs in my room, Lord, or I could get Gubbin to dig around in the dung pile?
+[410.10] PLATFORM FEMALE 1: Lovely! That whatshisname thingy beast will be so pleased to see what we’ve done with his Abyss.   <<Trigger: Player enters the females’ platform area with flowers.>>
+[410.20] PLATFORM FEMALE 2: Wait...argh! What have you done? You’ve let them in!
+[410.30] GNARL: Unless you do something, Sire, this place will be spewing out scatter cushions and floral prints!
+[411.5] PLATFORM FEMALE 1: You can’t make me go back up there to wash his socks!   <<Angry | Trigger: These can be used during the fight, oe general ambience>>
+[411.10] PLATFORM FEMALE 2: Look what you’ve done!
+[411.15] PLATFORM FEMALE 3: You’ve let all these nasty undead things in here!
+[411.20] PLATFORM FEMALE 4: Don’t you point your Minions at me!
+[411.25] PLATFORM FEMALE 5: My husband snores, you make me go home and I’ll take a pillow to him, I will!   <<Angry>>
+[411.35] PLATFORM FEMALE 1: He never listens! The eyes are open, but he ain’t listening! Bet you’re just the same.   <<Angry>>
+[411.40] PLATFORM FEMALE 2: You’re messing the place up!
+[411.45] PLATFORM FEMALE 3: That’s not gentlemanly!
+[411.50] PLATFORM FEMALE 4: The smells that come from him... it’s 
+[411.55] PLATFORM FEMALE 5: Oh I’ll slap you silly!
+[500.10] GNARL: Clearly, Sire, the proximity of all these creatures caused the Evil you just witnessed!    <<Trigger: Player enters portal retrieval area. >>
+[500.20] GNARL: Yes, Yes, that’ll be it... definitely, no other explanation for it!
+[501.10] GNARL: There’s the Abyss Stone Sire! Better take it quickly, before the creature those females mentioned comes back.   <<Trigger: Player enters portal stone area after defeating demons.>>
+[501.20] GNARL: Hmmm, was it a creature? Memory like a sheep these days. Perhaps it was a plant, or some kind of giant bee?
+[501.30] GNARL: Sir William and his friends are trying to destroy the Abyss Stone and take control of this Abyss. Stop them at once!   <<Trigger: The Player picks up the Abyss Stone and reaches AREA 1 the stone starts screaming..>>
+[501.40] GNARL: You are Master of the Heaven’s Peak Abyss, Sire... now about those ladies and some insubstantial clothing!   <<Lowers voice – hopeful/plead) after 'Sire…' | Trigger: The player has successfully committed the abyss stone (Note: This stops the enemies spawning)>>
+[501.50] FORGOTTEN GOD: Muahahahaha!   <<Evil Laughter | Trigger: The Abyss Stone is destroyed.>>
+[600.5] MALE CLEANING TOWNSFOLK 1: Thank the Gods you’re here, Master! We were only have a little fun... but they’re so angry with us!   <<Trigger: Player nears a male cleaning peasant.>>
+[600.15] MALE CLEANING TOWNSFOLK 2: Do you think I could get a slug to eat me? It would be doing me a favour.
+[600.20] MALE CLEANING TOWNSFOLK 3: These women are terrifying!
+[600.25] MALE CLEANING TOWNSFOLK 4: They tried to make me wear this little leather outfit, Lord...    <<shiver on the end>>
+[600.35] MALE CLEANING TOWNSFOLK 1: They just keep shouting at us.
+[600.40] MALE CLEANING TOWNSFOLK 2: They’re really angry! Oh, I wish I’d never seen a Succubus!
+[600.45] MALE CLEANING TOWNSFOLK 3: Couldn’t your Minions just carry them off... somewhere a long, long way away?
+[600.50] MALE CLEANING TOWNSFOLK 4: Save us from our female tyrants, oh Dark One!
+[600.60] MALE CLEANING TOWNSFOLK 1: Don’t go near ‘em, they’ve got some 
+[600.65] MALE CLEANING TOWNSFOLK 2: I can’t get up! I think I’m stuck like this!
+[600.70] MALE CLEANING TOWNSFOLK 3: They keep demanding presents! Have you brought them presents, Sire?
+[600.75] MALE CLEANING TOWNSFOLK 4: I only went down that inn for a quick drink.
+[700.10] MALE TOWNSFOLK 1: Oh please come back ladies!   <<Shouting into the Gate>>
+[700.20] MALE TOWNSFOLK 2: We were just being friendly.
+[700.30] MALE TOWNSFOLK 1: You’ll convince them to come back to us, won’t your Sire?
+[700.40] MALE TOWNSFOLK 2: Without her, my feet get cold at night
+[700.50] MALE TOWNSFOLK 1: I haven’t had a home cooked meal in ages.
+[700.60] MALE TOWNSFOLK 2: The house just isn’t the same.
+[800.10] GNARL: That’s it Sire, you’ve subdued them on behalf of all males everywhere!
+[800.20] GNARL: We’ll soon have them out of their evil ways and into something small and insubstantial.   <<Whispers>>
+[800.30] GNARL: Coming Mistress... the kettle’s just boiled!   <<Cheery>>
+[800.40] GNARL: No, No I won’t forget the biscuits!   <<Cheery; (Sound of a bell ringing even louder)(>>
+[800.50] GNARL: Oh drat... it’s off the hook!   <<Surprise; Sound of clicking as if a phone handset has been replaced)>>
+[900.10] MALE TOWNSFOLK 1: Our lovely ladies are back, thank you, Sire.
+[900.20] MALE TOWNSFOLK 2: We’ll look after them better this time, no visiting succubae for us!

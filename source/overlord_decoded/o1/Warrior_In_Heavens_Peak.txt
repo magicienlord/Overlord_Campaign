@@ -1,0 +1,56 @@
+[100.10] PRIEST_WHITE: MMMMMMM MMMMMMMM MMMMMMMMM.   <<Trigger: The player enters the Heaven’s Peak Temple area.>>
+[100.20] GNARL: Oh, he’s speaking too fast. Can’t quite catch it... Either Kahn’s here or his Aunt would like some fresh haddock.
+[.] (unattributed): ---
+[101.10] MALE_TOWNSFOLK_1: Help us! Help us!   <<Trigger: Player nears townsfolk being attacked by Raiders. 
+These can be looped as required.
+>>
+[101.20] MALE_TOWNSFOLK_2: They’re everywhere!   <<Trigger: Player nears townsfolk being attacked by Raiders. 
+These can be looped as required.
+>>
+[101.30] MALE_TOWNSFOLK_3: Those flying things keep spitting them out!   <<Trigger: Player nears townsfolk being attacked by Raiders. 
+These can be looped as required.
+>>
+[101.40] MALE_TOWNSFOLK_4: Do something, Lord!   <<Trigger: Player nears townsfolk being attacked by Raiders. 
+These can be looped as required.
+>>
+[101.50] MALE_TOWNSFOLK_5: We need your protection, Sire!   <<Trigger: Player nears townsfolk being attacked by Raiders. 
+These can be looped as required.
+>>
+[200.10] KAHN: You! I know you! You took her away from me! You make Kahn angry!   <<Bellowing. | Trigger: The player enters the first Kahn area.>>
+[.] (unattributed): ---
+[201.10] KAHN: You hide her for   <<Bellowing. | Trigger: Kahn’s health is down to 66%. >>
+[.] (unattributed): ---
+[.] (unattributed): ---
+[203.10] KAHN: I will crush! Crush you and the old man! I... will... find her!   <<Bellowing. | Trigger: Kahn’s health is down to 33%.>>
+[.] (unattributed): ---
+[204.10] KAHN: I protect! She needs Kahn!   <<Bellowing. | Trigger: Player enters the Brothel Square! >>
+[.] (unattributed): ---
+[205.10] KAHN: Jewel! Jewel!   <<Bellowing in anguish. Pronounced 'Jeeeeeewwwweeeeeeeeeeel!' | Trigger: Kahn is nearly dead. (Cut-scene)>>
+[.] (unattributed): ---
+[206.10] GNARL: Strike, Master! Finish him!   <<Trigger: Kahn cut-scene finishes.>>
+[.] (unattributed): ---
+[207.10] GNARL: Your presence is required! Return to the Tower!   <<(Strangely serious, as if it’s an order not a request) | Trigger: Player kills Kahn. Note: Once the player returns to the Tower this will trigger a Cut-scene and they will be taken to the Wizard fight>>
+[.] (unattributed): ---
+[208.10] MALE_TOWNSFOLK_1: That’s it, I’m moving!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.20] MALE_TOWNSFOLK_2: First the plague, now this!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.30] MALE_TOWNSFOLK_3: He crushed my baker, where am I going to get bread from now?   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.40] MALE_TOWNSFOLK_4: That was some fight!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.50] MALE_TOWNSFOLK_5: Maybe the stink from that body will drive the rest of the zombies away!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.60] MALE_TOWNSFOLK_1: I was rooting for you!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.70] MALE_TOWNSFOLK_2: They’re everywhere!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.80] MALE_TOWNSFOLK_3: I don’t know what we’d do without you and your little friends!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.90] MALE_TOWNSFOLK_4: My home is flattened!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[208.100] MALE_TOWNSFOLK_5: I’m gonna tell my grand-children about this!   <<Trigger: After the player has killed Kahn. Can be used throughout the main city area. These can be looped if needed. 
+>>
+[209.10] GNARL: Your Minions can only attack those creatures from above, Sire. Move them higher!   <<Trigger: Hint to the player what to do>>
+[209.20] GNARL: Attack the creatures from above, Master. Rain chaos down upon them!   <<Trigger: Hint to the player what to do>>
+[209.30] GNARL: Move your Minions higher, lord!   <<Trigger: Hint to the player what to do>>

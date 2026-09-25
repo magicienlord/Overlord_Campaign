@@ -1,0 +1,69 @@
+[100.10] (unattributed): There’s the big Hug-in! Soon as we create some pandemonium in there, the better!
+[100.20] (unattributed): You need to get to that wheel to close the gap. Better find some more wolves, Sire!
+[110.10] (unattributed): You’ll need to find more wolves to get your Browns across to that wheel.
+[110.20] (unattributed): Find your Browns some more wolves and then jump them across to that wheel.
+[120.10] (unattributed): You have enough wolves to get your Browns across to that wheel, Sire.
+[130.10] (unattributed): Furry friends.
+[130.20] (unattributed): Wolfies!
+[140.10] (unattributed): Protect the fluffy ones!
+[140.20] (unattributed): Yuck, clearly the Elves have already brainwashed them!
+[200.10] (unattributed): No! You will not break our peace and tranquillity! Mother Goddess aid us!
+[200.20] (unattributed): It’s an Alpha Wolf, Sire! Cheeky blighter! 
+[200.30] (unattributed): You won’t be able to get into that commune without your mounts.
+[200.40] (unattributed): I fought one once. Just got away alive.
+[200.50] (unattributed): He’s a tough beast and his power over the wolves is even greater than yours!
+[200.60] (unattributed): Can’t be having that now, can we? Get your Reds and make him howl!
+[210.10] (unattributed): Ah, such a pity to see a pelt like that spoilt. 
+[210.20] (unattributed): Never mind, at least you’ve got back control of the wolves.
+[220.10] (unattributed): Hmm, you’ll need to find more wolves.
+[220.20] (unattributed): Master, search for more wolves.
+[PANIC.NM10] (unattributed): He’s inside! He’s inside!
+[PANIC.NM11] (unattributed): He’s trashing our peace!
+[PANIC.NM12] (unattributed): You are not welcome! Um, unless you’re a vegetarian!
+[PANIC.NF10] (unattributed): I don’t want to fight! I’m a pacifist now!
+[PANIC.NF11] (unattributed): Maybe he just needs a hug?
+[PANIC.NF12] (unattributed): Secure the bunnies!
+[PANIC.EM1] (unattributed): Run! Run!
+[PANIC.EM2] (unattributed): The bad vibes are coming!
+[PANIC.EM3] (unattributed): Stay away man, stay away!
+[PANIC.EF1] (unattributed): The party’s over, the party’s over!
+[PANIC.EF2] (unattributed): Protect the fluffy ones!
+[PANIC.EF3] (unattributed): You shall not bring us down!
+[SOLDIER.10] (unattributed): The defiler has arrived!
+[SOLDIER.20] (unattributed): We will defend our paradise!
+[SOLDIER.30] (unattributed): Heathen beast!
+[SOLDIER.40] (unattributed): You’re not invited to our party!
+[SOLDIER.50] (unattributed): We’re not bothering anyone!
+[SOLDIER.60] (unattributed): Let us be free, man, let us be free!
+[PANIC2.NM10] (unattributed): Hug his little creatures, hug ‘em!
+[PANIC2.NM11] (unattributed): Hey, we’re reformed, you know!
+[PANIC2.NM12] (unattributed): Save the vegetables!
+[PANIC2.NM13] (unattributed): Don’t come in here with your evil!
+[PANIC2.NF10] (unattributed): We don’t want anything to do with your violent ways!
+[PANIC2.NF11] (unattributed): Perhaps he just wants to talk!
+[PANIC2.NF12] (unattributed): We’re about peace and love now, man!
+[PANIC2.NF13] (unattributed): Would you like some mint tea?
+[HUNTER.10] (unattributed): Hug him! Hug him!
+[HUNTER.20] (unattributed): Show him the love!
+[HUNTER.30] (unattributed): We’ll help you smell the roses!
+[HUNTER.40] (unattributed): Peace! Peace!
+[HUNTER.50] (unattributed): Show him the love!
+[HUNTER.60] (unattributed): Hug the bunnies!
+[HUNTER.70] (unattributed): Go talk to some plants!
+[HUNTER.80] (unattributed): Spread the love!
+[IGLO.10] (unattributed): He’s trashing our bunker o’love!
+[IGLO.20] (unattributed): We were just getting comfy an’ all!
+[IGLO.30] (unattributed): On no, the love shack!
+[IGLO.40] (unattributed): We’ll have to finish this later!
+[SUBDUE.NM10] (unattributed): I’m with the evil party!
+[SUBDUE.NM11] (unattributed): Fluffy beasts? Kill ‘em all, I say!
+[SUBDUE.NM12] (unattributed): Your humble servant!
+[SUBDUE.NF10] (unattributed): I will do your bidding!
+[SUBDUE.NF11] (unattributed): Nature’s overrated!
+[SUBDUE.NF12] (unattributed): Peace! Yuck! Who needs it!
+[SUBDUE.EM1] (unattributed): Command me, man!
+[SUBDUE.EM2] (unattributed): I’ll fight what you fight, Master!
+[SUBDUE.EM3] (unattributed): The peace must be broken!
+[SUBDUE.EF1] (unattributed): I bask in your greatness!
+[SUBDUE.EF2] (unattributed): I’m yours!
+[SUBDUE.EF3] (unattributed): I will end this peace!

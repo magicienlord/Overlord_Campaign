@@ -1,0 +1,22 @@
+[100.10] GNARL: Hmmm, they’re dead, the serious kind of dead, where you don’t get up and start lurching around!   <<Trigger: The player encounters the first dead refugees at the very start of the sewers.>>
+[100.20] GNARL: No challenge there, Sire.
+[101.10] GNARL: So the priests didn’t escape the plague either.   <<Trigger: The player encounters the first dead white cloak.>>
+[101.20] GNARL: Looks like the Silent Order, Sire. They have a temple within Heaven’s Peak.
+[102.10] GNARL: Now you can see why they’re called the Silent Order.   <<Trigger: The player encounters the first living white cloak. Line spoken after the cut-scene.>>
+[102.20] GNARL: Although having their mouths stitched up doesn’t really give them a choice!
+[103.10] SEWER_REFUGEE_1: You’re going the wrong way! The City’s infested...the priests have shut the temple!   <<Trigger: The player encounters the first living refugees>>
+[103.20] SEWER_REFUGEE_2: And all Sir William does is throw endless parties with that creepy Red Dawn lot!
+[103.30] SEWER_REFUGEE_1: He couldn’t give a rat’s fart about us. We’re making a run for it.
+[103.40] SEWER_REFUGEE_2: Better join us if you don’t want to end up with bits hanging off!
+[104.10] FLEEING_REFUGEE_1: Watch out for those Knights... something’s happened to them!   <<Trigger: The player encounters the first living refugees. Can be looped if needed.
+>>
+[104.20] FLEEING_REFUGEE_2: You’re bloomin’ crazy you are!   <<Trigger: The player encounters the first living refugees. Can be looped if needed.
+>>
+[104.30] FLEEING_REFUGEE_1: Everyone’s dying... but they’re still walking around!   <<Trigger: The player encounters the first living refugees. Can be looped if needed.
+>>
+[104.40] FLEEING_REFUGEE_2: I’m betting there’s a clear path behind you!   <<Trigger: The player encounters the first living refugees. Can be looped if needed.
+>>
+[104.50] FLEEING_REFUGEE_1: Look out for the others!   <<Trigger: The player encounters the first living refugees. Can be looped if needed.
+>>
+[104.60] FLEEING_REFUGEE_2: Am I going the wrong way, or are you?   <<Trigger: The player encounters the first living refugees. Can be looped if needed.
+>>

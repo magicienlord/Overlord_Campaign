@@ -1,0 +1,90 @@
+[100.10] (unattributed): Time to leave the fiery fiords behind; The Minions have prepared a ship for you to sail to the lands of Everlight.
+[100.20] (unattributed): Be careful, the seas are somewhat treacherous thanks to your recent environmental reconditioning. Step on board, Master.
+[100.40] (unattributed): Take some Reds on deck with you, Sire. They’ll provide flaming attacks if the natives get restless!
+[100.50] (unattributed): Strike the drummer to increase the speed. Don’t worry, he loves it really.
+[110.10] (unattributed): Ramming Speed!
+[110.20] (unattributed): Now, find something to ram, Sire!
+[110.30] (unattributed): Ramming speed! Quick ram something!
+[110.40] (unattributed): Now ram something!
+[120.10] (unattributed): Now run ‘em down!
+[120.20] (unattributed): Full speed ahead, Sire!
+[120.30] (unattributed): The ship’s at full speed!
+[120.40] (unattributed): Now chase ‘em down, Master!
+[130.10] (unattributed): The Minions can’t take it anymore, Sire.
+[130.20] (unattributed): The Minions are weakening!
+[130.30] (unattributed): The Minions are slowing. Scurvy Scum!
+[130.40] (unattributed): Gnaah. Your rowers are slowing. Weaklings!
+[140.10] (unattributed): Row, row ‘til your scales bleed!
+[140.20] (unattributed): Hoist the wossname... splice the mainthingie.. .climb the..., sorry Sire got a bit carried away there. 
+[140.30] (unattributed): Keep those oars moving, you bunch of land lubbers.
+[140.40] (unattributed): Wish I could be there, Sire. But the salt water gives me hives.
+[150.10] (unattributed): See how your ship can crush floating objects, Sire? Your Reds can also target enemies from the deck.
+[150.20] (unattributed): Ah, nautical destruction, it’s so bracing!
+[150.30] (unattributed): Sea Mines, Master! The Empire must have left them to defend Nordhaven.
+[150.40] (unattributed): We were lucky this time, but I advise keeping out of the way of  those little explosive tinkers in future!
+[200.10] (unattributed): There he is, the one who burnt Nordberg!
+[200.15] (unattributed): You are drowning the land with your actions.
+[200.20] (unattributed): Where will all the the baby animals go?
+[200.25] (unattributed): I hope the crying of the seals haunts you in your sleep.
+[200.30] (unattributed): Say yes to cute animals. Say no to nasty demons!
+[200.35] (unattributed): Uncool! Uncool!
+[200.40] (unattributed): Relax... relax...why are you all so evil.
+[200.45] (unattributed): Mother Earth is weeping, man, she’s weeping.
+[200.50] (unattributed): Feel the energy of the earth... don’t trash it!
+[200.55] (unattributed): Peace and love that’s what it should be about. Peace and love.
+[200.60] (unattributed): Where is your respect for nature?
+[210.10] (unattributed): Hey look it’s the man...the man’s gonna bring us all down.
+[210.20] (unattributed): Stay back, Everlight doesn’t want your uncool ways!
+[210.30] (unattributed): We don’t want to resort to violence. But the fluffy and the fuzzy need our protection!
+[210.40] (unattributed): Turn back, man, turn back.
+[215.10] (unattributed): Master, we need to find some way of getting rid of these mines… without sailing into them.
+[220.10] (unattributed): No, the little ones! The little ones!
+[220.20] (unattributed): This is why survival of the fluffiest has never caught on, Sire. They’re just too stupid.
+[230.10] (unattributed): Set the sails for Everlight, Minions. You and your Master are on the way to the ancient retreat of the Elves.
+[230.20] (unattributed): And there’s nothing that does my black heart more good then a retreating Elf! Especially if they’re on fire!
+[300.10] (unattributed): This reef helps bar the way to Everlight. The Elves believe it’s Nature’s blessing.
+[300.20] (unattributed): I believe it’s just to keep the wet sops in one place!
+[305.10] (unattributed): Hmm, so the Empire and the Elves have been having some carnage fun without us!
+[305.20] (unattributed): From the looks of things the Empire were winning until the waters started to rise…
+[305.30] (unattributed): Possibly due to, oooohh, a teensy bit of ice melting. 
+[308.10] (unattributed): The wave came... it was so big. 
+[308.20] (unattributed): But we were winning...we were winning!
+[308.30] (unattributed): Don’t leave me for the sharks!
+[308.40] (unattributed): I think something’s eaten my legs!
+[308.50] (unattributed): Save me...save me!
+[308.60] (unattributed): I don’t wanna die out here.
+[310.10] (unattributed): Where did all this crazy water come from?
+[310.20] (unattributed): This is really bringing my day down!
+[310.30] (unattributed): Mother nature doesn’t love us anymore!
+[310.40] (unattributed): Hey... lend a hand to your fellow man.. er man!
+[310.50] (unattributed): If I just lay here, Mother sea will save me!
+[310.60] (unattributed): This is totally...totally uncool!
+[315.10] (unattributed): These are the Gates to Everlight, Lord, and the Elves appear to have left them open in the confusion!
+[315.20] (unattributed): Gnah, those statues must be the gate keys! 
+[315.30] (unattributed): Find and return them, Sire, or you’ll be hanging around on the Elves’ doorstep like a large evil milk bottle!
+[315.40] (unattributed): You need to find a safe place to moor the ship, Sire.
+[320.10] (unattributed): Very good, Dark Master. You’ve returned the first key-statue. Three more to go!
+[325.10] (unattributed): It seems the key-statues can be used to power the elevators. Who would have thought the Elves could be so inventive!
+[330.10] (unattributed): Those Elves are trying to escape with the third key-statue, Sire, after them!
+[330.20] (unattributed): Make sure you take enough Reds with you, Sire. Wouldn’t want Elves going around all not-on-fire, would we?
+[330.30] (unattributed): Their ship is too fast, Master. Use your Reds to burn its sails and slow it down!
+[330.40] (unattributed): Row you scaly seadogs, row! Remember Master, your Minions can only keep up full speed for a short time.
+[335.10] (unattributed): Burn the sails Master, burn them!
+[335.20] (unattributed): Set those sails aflame, Sire!
+[335.30] (unattributed): Hurry Lord, I want to see burning sails!
+[340.10] (unattributed): Row Minions, row!
+[340.20] (unattributed): Full speed!
+[340.30] (unattributed): Quick catch them up!
+[340.40] (unattributed): Board them, Master!
+[345.10] (unattributed): Attack!
+[345.20] (unattributed): Go!
+[345.30] (unattributed): Board! Board!
+[345.40] (unattributed): Take shipie!
+[345.50] (unattributed): Shipie ours!!
+[345.60] (unattributed): Go! Go! Go!
+[350.10] (unattributed): The Key-statue is yours, Sire, as is their ship! 
+[350.20] (unattributed): Hmm, that’s a nice battering ram they’ve got. You never know when something like that may come in handy.
+[355.10] (unattributed): That’s the third in place. One more left!
+[360.10] (unattributed): Look at all those fat fishy females. Oh for two tonnes of chips and a bucket of vinegar!
+[365.10] (unattributed): You did it Magnificent One, the gates are opening!
+[365.20] (unattributed): Now, on to Everlight and on to more Elven extermination!

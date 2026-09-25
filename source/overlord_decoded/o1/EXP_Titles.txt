@@ -1,0 +1,23 @@
+[100.10] JESTER: Master of Evil Culinary Arts!   <<Player cooks some sheep>>
+[100.20] JESTER: Persecutor of Pumpkins!   <<Player Kills the Mother Pumpkin>>
+[100.30] JESTER: Ambassador of the Abyss!   <<Player Conquers the Halfling Abyss>>
+[200.10] JESTER: Wielder of the Paladin Mop!   <<Player has used Sir William to clean the floor>>
+[200.20] JESTER: Pleaser of Ladies!   <<The Player has used William to cut the vines>>
+[200.30] JESTER: Preventer of the Floral Print Menace!   <<Player Conquers Abyss>>
+[300.10] JESTER: Star of the Stage!   <<Player kills Elves on stage>>
+[300.20] JESTER: Rebuilder of the Terror!   <<Player fixes the War machine>>
+[300.30] JESTER: Art Critic!   <<Player Conquers Abyss>>
+[400.10] JESTER: Aggravator of the Angry Beards!   <<Player kills Dwarves>>
+[400.20] JESTER: Slicer of Slugs   <<Player kills a slug>>
+[400.30] JESTER: Golden Warrior!   <<Player Conquers Abyss>>
+[500.10] JESTER: Abuser of the Undead!   <<Player Kills X Undead>>
+[500.20] JESTER: He who laughs in the Face of Death!   <<Player Kills XX Undead>>
+[500.30] JESTER: He whom Death Fears!   <<Player Kills XXX Undead>>
+[600.10] JESTER: Soon... Soon...   <<To be used either instead of a title or after the title. Random triggering. | These should be a little quieter than the shouted out titles.>>
+[600.20] JESTER: It is almost complete!   <<To be used either instead of a title or after the title. Random triggering. | These should be a little quieter than the shouted out titles.>>
+[600.30] JESTER: Tread carefully!   <<To be used either instead of a title or after the title. Random triggering. | These should be a little quieter than the shouted out titles.
+">>
+[600.40] JESTER: ... Overlord... Underlord soon!   <<To be used either instead of a title or after the title. Random triggering. | These should be a little quieter than the shouted out titles.
+">>
+[600.50] JESTER: It’s all going to plan!   <<To be used either instead of a title or after the title. Random triggering. | These should be a little quieter than the shouted out titles.
+">>

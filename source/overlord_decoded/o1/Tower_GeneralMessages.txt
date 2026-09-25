@@ -1,0 +1,364 @@
+[100.10] BROWN_MINION: Browns!   <<Loud shout. | Trigger: Player selects Brown Minions>>
+[100.20] BROWN_MINION: Browns!   <<Longer shout - Brooooooowwwwns. | Trigger: Player selects Brown Minions>>
+[104.10] MINIONS_TOGETHER: All!   <<(Short shout) | Trigger: Player selects All Minions>>
+[104.20] MINIONS_TOGETHER: All!   <<(Longer shout)"Aaaallllll." | Trigger: Player selects All Minions>>
+[200.10] BROWN_MINION: Browns back!   <<(Loud shout) | Trigger: Player calls back Brown Minions.>>
+[200.20] BROWN_MINION: Browns retreat!   <<(Loud shout) | Trigger: Player calls back Brown Minions.>>
+[200.30] BROWN_MINION: To the Overlord!   <<(Loud shout) | Trigger: Player calls back Brown Minions.>>
+[201.10] GNARL: No Browns to call back!   <<Trigger: Player has no Browns to call back.
+These should be recorded with different tone/intonation. 
+>>
+[201.20] GNARL: No Browns to call back!   <<Trigger: Player has no Browns to call back.
+These should be recorded with different tone/intonation. 
+>>
+[203.10] GNARL: No Blues to call back!   <<Trigger: Player has no Blues to call back.
+These should be recorded with different tone/intonation. 
+>>
+[203.20] GNARL: No Blues to call back!   <<Trigger: Player has no Blues to call back.
+These should be recorded with different tone/intonation. 
+>>
+[205.10] GNARL: No Greens to call back!   <<Trigger: Player has no Greens to call back.>>
+[205.20] GNARL: No Greens to call back!   <<Trigger: Player has no Greens to call back.>>
+[207.10] GNARL: No Reds to call back!   <<Trigger: Player has no Reds to call back.>>
+[207.20] GNARL: No Reds to call back!   <<Trigger: Player has no Reds to call back.>>
+[208.10] MINIONS_TOGETHER: All back!   <<(Loud shout)  | Trigger: Player calls back All Minions.>>
+[208.20] MINIONS_TOGETHER: We retreat!   <<Long shout. | Trigger: Player calls back All Minions.>>
+[208.30] MINIONS_TOGETHER: We go back!   <<(Loud shout)  | Trigger: Player calls back All Minions.>>
+[208.40] MINIONS_TOGETHER: To the Overlord!   <<(Loud shout)  | Trigger: Player calls back All Minions.>>
+[209.10] GNARL: No Minions to call back!   <<Trigger: Player has no Minions to call back. These should be recorded with different tone/intonation. >>
+[209.20] GNARL: No Minions to call back!   <<Trigger: Player has no Minions to call back. These should be recorded with different tone/intonation. >>
+[300.10] BROWN_MINION: Browns guard!   <<(Loud shout)  | Trigger: Player sets Brown Minions to guard.>>
+[300.20] BROWN_MINION: Browns will guard.   <<(Longer shout) | Trigger: Player sets Brown Minions to guard.>>
+[304.10] MINIONS_TOGETHER: We guard!   <<Short shout | Trigger: Player Sets Mixed group of Minions to guard>>
+[304.20] MINIONS_TOGETHER: We guard!   <<Longer shout. | Trigger: Player Sets Mixed group of Minions to guard>>
+[400.10] GNARL: You have retrieved a new Fire spell, Sire.   <<Trigger: Fire spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[400.20] GNARL: You have retrieved a new Fire spell, Sire.   <<Trigger: Fire spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[400.30] GNARL: Be a better burner Sire! You have acquired a new Fire spell.   <<Trigger: Fire spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[401.10] GNARL: You have acquired a new Minion spell.   <<Trigger: Minion spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[401.20] GNARL: You have retrieved a new Minion spell.   <<Trigger: Minion spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[401.30] GNARL: Ah, a new Minion spell!   <<Trigger: Minion spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[401.40] GNARL: Ah, a new Minion spell!   <<Trigger: Minion spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[402.10] GNARL: You have retrieved a new Domination spell.   <<Trigger: New Domination spell retrieved. These lines need to be voiced in different ways.
+>>
+[402.20] GNARL: You have acquired a new Domination upgrade.   <<Trigger: New Domination spell retrieved. These lines need to be voiced in different ways.
+>>
+[402.30] GNARL: Congratulations, Sire, you have found a new Domination spell!   <<Trigger: New Domination spell retrieved. These lines need to be voiced in different ways.
+>>
+[403.10] GNARL: You have a new Shield spell, Sire.   <<Trigger: Shield spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[403.20] GNARL: You have a new Shield spell, Sire.   <<Trigger: Shield spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[403.30] GNARL: A new Shield spell, Lord!   <<Trigger: Shield spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[403.40] GNARL: Well done, Master, you have found a new Shield spell!   <<Trigger: Shield spell upgrade retrieved. These lines need to be voiced in different ways.
+>>
+[500.10] GNARL: Ah, now the Flamethrower spell is the Fireball’s older brother.   <<Trigger: Player retrieves the Flamethrower spell >>
+[500.20] GNARL: Just aim it at anything flammable and you’ll have more charcoal than you could ever wish for.
+[501.10] GNARL: Inferno’s a voracious blighter!    <<Trigger: Player retrieves the Inferno spell >>
+[501.20] GNARL: He likes to spread himself around, so he’s particularly good for damaging several enemies at once.
+[502.10] GNARL: The Combustion spell will not harm innocents, Sire.     <<Trigger: Player retrieves the Combustion spell >>
+[502.20] GNARL: It’s a pillar of fire so tall and wide you’d think it could burn the Gods from the sky. Not a bad idea knowing most Gods! 
+[503.10] GNARL: The Shield spell will help you, well,    <<Trigger: Player retrieves the Shield spell >>
+[503.20] GNARL: It’s got a bit of a kick to it too, which’ll send them flying!
+[504.10] GNARL: The Shock Shield works like your normal shield, Lord, only he’s got a bit of a charge to him.   <<Trigger: Player retrieves the Shock Shield spell >>
+[504.20] GNARL: He’ll stun your enemies giving you time to give them a good bashing!
+[505.10] GNARL: This Infernal Shield is very mean. He’ll stun, burn and generally disintegrate everything he can.    <<Trigger: Player retrieves the Infernal Shield spell >>
+[505.20] GNARL: You’ve got to respect that kind of dedication to the kill, Lord.
+[505.30] GNARL: A word of warning, don’t use him near any friendlies, or they won’t be friendly for long!
+[506.10] GNARL: Sanctuary will give you a little peace and quiet!    <<Trigger: Player retrieves the Sanctuary spell >>
+[506.20] GNARL: She won’t hurt enemies, but she will hold them back while you plan your next Evil move!
+[600.10] GNARL: The Anger spell will get your Minions all riled up, Sire, it also increases their health and armor!   <<Trigger: Player retrieves the Anger spell >>
+[601.10] GNARL: Berserk! Good find, Sire. This temporarily raises the health, defense and attack of your Minions!   <<Trigger: Player retrieves the Berserk spell >>
+[601.20] GNARL: However, they have very little self-control and will attack anything they see... animal, vegetable or mineral!
+[602.10] GNARL: Ah, the Legion of Terror Spell!    <<Trigger: Player retrieves the Legion of Terror spell >>
+[602.20] GNARL: Now this works like Berserk, only it comes with the added bonus of inducing fear in foes and friendlies alike.
+[602.30] GNARL: Always good for a giggle, that one!
+[603.10] GNARL: The Legion of Honor spell will boost the defense and attack of your Minions.   <<Trigger: Player retrieves the Legion of Honor spell >>
+[603.20] GNARL: She will also make sure they only attack your enemies and not just, well, you know... everyone and everything!
+[700.10] GNARL: Slow! This spell will slow down advancing enemies, giving you more time to make them very dead!   <<Pronounced 'Slooooowww.' | Trigger: Player retrieves the Slow spell >>
+[701.10] GNARL: The Confusion spell adds a little randomness into battle.    <<Trigger: Player retrieves the Confusion spell >>
+[701.20] GNARL: He won’t necessarily stop enemies attacking you, but they may start attacking each other, or running for the hills!
+[702.10] GNARL: Betrayal, does exactly what it sounds like it does, Master! It makes enemies turn on each other. A joy to watch!   <<Trigger: Player retrieves the Betrayal spell >>
+[703.10] GNARL: Submission makes all nearby enemies as quiet as lambs, giving you a chance to decide how best to turn them into lamb chops!   <<Trigger: Player retrieves the Submission spell >>
+[800.10] GNARL: Master, your Health is dangerously low.   <<Trigger: The player’s Health is <50 points Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[800.20] GNARL: Master, your Health is dangerously low.   <<Trigger: The player’s Health is <50 points Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[800.30] GNARL: Master, your Health is dangerously low.   <<Trigger: The player’s Health is <50 points Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[801.10] GNARL: Your Health is low.   <<Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.>>
+[801.20] GNARL: Your Health is low.   <<Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.>>
+[801.30] GNARL: Your Health is low.   <<Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.>>
+[801.40] GNARL: Your Health is low.   <<Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.>>
+[801.50] GNARL: Your Health is low.   <<Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.>>
+[801.60] GNARL: Your Health is low.   <<Note: Although this is the same line it should be recorded in a number of different ways to avoid complete voice repetition.>>
+[802.10] GNARL: Don’t    <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.20] GNARL: I don’t want to see you die, Sire! Return to the Tower or sacrifice some Minions!   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.30] GNARL: Whoops sorry, wasn’t watching, Health low!   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.40] GNARL: Your Health! Oh pay attention!   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.50] GNARL: Do something about your Health Master! Have you considered a low-fat diet?   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.51] GNARL: Do something about your Health Master! Have you tried cutting out bread?   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.52] GNARL: Do something about your Health Master! You're having to many fatty breakfasts aren't you?   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.53] GNARL: Do something about your Health Master! Looking at you a little exercise wouldn't hurt.   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.54] GNARL: Do something about your Health Master! Ah, its like watching jelly move.   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.55] GNARL: Do something about your Health Master! My oh my, we do like our cake don't we.   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.56] GNARL: Do something about your Health Master! As a general rule, if the food shines don't eat it. Its probably full of fat.   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.60] GNARL: Your Health is waning, Master are you feeling faint?   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[802.70] GNARL: Health, sort it, now!   <<Note: These are fun triggers that should only trigger sporadically for a bit of amusement. (Like the ‘Your dungeon is full of yogurt’ announcements in Dungeon Keeper)>>
+[900.10] GNARL: Oh dear, you appear to be out of Mana, Sire.   <<Trigger: The player is out of Mana/low on Mana.>>
+[900.20] GNARL: No spells for you, Master, you’re out of Mana.   <<Trigger: The player is out of Mana/low on Mana.>>
+[900.30] GNARL: Are you watching your Mana, Sire?   <<Trigger: The player is out of Mana/low on Mana.>>
+[900.40] GNARL: Mana, Sire, Mana!   <<Trigger: The player is out of Mana/low on Mana.>>
+[901.10] GNARL: Your Mana is low.   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.20] GNARL: Your Mana is low.   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.30] GNARL: Your Mana is low, Lord.   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.40] GNARL: Your Mana is low.   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.50] GNARL: Your Mana is low.   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.60] GNARL: Your Mana is low.   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.70] GNARL: Find a Mana Pit, Sire!   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.80] GNARL: Find a Mana Pit, Sire!   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.90] GNARL: Find a Mana Pit, Master!   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[901.100] GNARL: Find a Mana Pit, Lord!   <<Note: Although some of these are the same/similar line they should be recorded in a number of different ways to avoid complete voice repetition.>>
+[1000.10] GNARL: You are out of Minions, Sire.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.20] GNARL: You are out of Minions, Sire.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.30] GNARL: Summon more Minions, Sire.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.40] GNARL: Summon more Minions, Sire.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.50] GNARL: Find a Minion Gate.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.60] GNARL: You must find a Minion Gate.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.70] GNARL: Careful with your Minions.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.80] GNARL: No more Minions. Oh, how sad.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.90] GNARL: No more Minions. Aah, how sad.   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.100] GNARL: Conserve your Minions!   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.110] GNARL: Your Minions are all gone, Sire!   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1000.120] GNARL: Your Minions are all gone, Sire!   <<Trigger: The player is out of Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+
+>>
+[1001.10] GNARL: No more Browns, Sire!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1001.20] GNARL: No more Browns!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1001.30] GNARL: No Browns!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1001.40] GNARL: No Browns!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1001.50] GNARL: Master, you are out of Browns!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1001.60] GNARL: You are out of Browns, Dark One!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1001.70] GNARL: Summon more Browns!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1001.80] GNARL: Summon more Browns!   <<Trigger: The player is out of Brown Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.10] GNARL: No more Reds, Sire!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.20] GNARL: No more Reds!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.30] GNARL: No Reds!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.40] GNARL: No Reds!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.50] GNARL: Master, you are out of Reds!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.60] GNARL: You are out of Reds, Master!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.70] GNARL: Summon more Reds!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1002.80] GNARL: Summon more Reds!   <<Trigger: The player is out of Red Minions. Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.10] GNARL: No more Greens, Sire!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.20] GNARL: No more Greens!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.30] GNARL: No Greens!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.40] GNARL: No Greens!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.50] GNARL: Master, you are out of Greens!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.60] GNARL: You are out of Greens, Master!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.70] GNARL: Summon more Greens!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1003.80] GNARL: Summon more Greens!   <<Trigger: The player is out of Green Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.10] GNARL: No more Blues, Sire!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.20] GNARL: No more Blues!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.30] GNARL: No Blues!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.40] GNARL: No Blues!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.50] GNARL: Master, you are out of Blues!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.60] GNARL: You are out of Blues, Master!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.70] GNARL: Summon more Blues!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1004.80] GNARL: Summon more Blues!   <<Trigger: The player is out of Blue Minions.
+
+Note: Although some of these lines are the same line or similar they should be recorded in a number of different ways to avoid complete voice repetition.
+>>
+[1100.10] GNARL: Master... Master?   <<Trigger: The player’s Health reaches zero and they are  returned to the Tower.  These first three lines should be recorded with different tone/intonation.
+>>
+[1100.20] GNARL: Master... Master?   <<Trigger: The player’s Health reaches zero and they are  returned to the Tower.  These first three lines should be recorded with different tone/intonation.
+>>
+[1100.30] GNARL: Master... Master?   <<Trigger: The player’s Health reaches zero and they are  returned to the Tower.  These first three lines should be recorded with different tone/intonation.
+>>
+[1100.40] GNARL: We’ll have to get another one now!   <<Sighs before line | Trigger: The player’s Health reaches zero and they are returned to the Tower. >>
+[1100.50] GNARL: Oh poo! Bring him back here... maybe we can stuff him.   <<Trigger: The player’s Health reaches zero and they are returned to the Tower. >>
+[1100.60] GNARL: Oh dear... go and scrape him up will you!   <<Trigger: The player’s Health reaches zero and they are returned to the Tower. >>
+[1100.70] GNARL: No more... Overlord!   <<Trigger: The player’s Health reaches zero and they are returned to the Tower. >>
+[1100.80] GNARL: Pah, so much for World Domination!   <<Trigger: The player’s Health reaches zero and they are returned to the Tower. >>
+[1100.90] GNARL: He’s dead! Right I’m going for a snooze. Cheerio.   <<Trigger: The player’s Health reaches zero and they are returned to the Tower. >>
+[1200.10] GNARL: Your Minions are dying!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.20] GNARL: Your Minions are dying!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.30] GNARL: Your Minions are dying!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.40] GNARL: Your Minions are dying!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.50] GNARL: Minions are dying!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.60] GNARL: Minions are dying!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.70] GNARL: Minions are dying!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.80] GNARL: Minion casualties, Sire!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.90] GNARL: Minion casualties, Sire!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.100] GNARL: Careful with your Minions!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1200.110] GNARL: Careful with your Minions!   <<Trigger: Minions are dying. Some of these are the same line, but need to be recorded in different ways.
+
+>>
+[1300.10] GNARL: Your Health has increased!   <<Trigger: Health Object retrieved. These lines need to be voiced in different ways.
+>>
+[1300.20] GNARL: Your Health has increased!   <<Trigger: Health Object retrieved. These lines need to be voiced in different ways.
+>>
+[1300.30] GNARL: Your Health has increased!   <<Trigger: Health Object retrieved. These lines need to be voiced in different ways.
+>>
+[1300.40] GNARL: You Health has increased! I wish mine had!   <<Trigger: Health Object retrieved. These lines need to be voiced in different ways.
+>>
+[1301.10] GNARL: Your Mana has been increased!   <<Trigger: Mana Object retrieved. These lines need to be voiced in different ways.
+>>
+[1301.20] GNARL: Your Mana has been increased!   <<Trigger: Mana Object retrieved. These lines need to be voiced in different ways.
+>>
+[1301.30] GNARL: Your Mana has been increased!   <<Trigger: Mana Object retrieved. These lines need to be voiced in different ways.
+>>
+[1302.10] GNARL: You can control more Minions.   <<Trigger: Minion Cap Object received. These lines need to be voiced in different ways.  Note: In some of the early domains there is dialogue relating to Minion cap upgrades.
+>>
+[1302.20] GNARL: You can control more Minions.   <<Trigger: Minion Cap Object received. These lines need to be voiced in different ways.  Note: In some of the early domains there is dialogue relating to Minion cap upgrades.
+>>
+[1302.30] GNARL: You can summon more Minions.   <<Trigger: Minion Cap Object received. These lines need to be voiced in different ways.  Note: In some of the early domains there is dialogue relating to Minion cap upgrades.
+>>
+[1302.40] GNARL: You can summon more Minions.   <<Trigger: Minion Cap Object received. These lines need to be voiced in different ways.  Note: In some of the early domains there is dialogue relating to Minion cap upgrades.
+>>
+[1302.50] GNARL: Your Maximum Minion Horde has been upgraded.   <<Trigger: Minion Cap Object received. These lines need to be voiced in different ways.  Note: In some of the early domains there is dialogue relating to Minion cap upgrades.
+>>
+[1302.60] GNARL: Your Maximum Minion Horde has been upgraded.   <<Trigger: Minion Cap Object received. These lines need to be voiced in different ways.  Note: In some of the early domains there is dialogue relating to Minion cap upgrades.
+>>
+[1400.10] GNARL: Your Minions are getting restless.   <<Trigger: The player is idle.>>
+[1400.20] GNARL: There’s work to be done, Master.   <<Trigger: The player is idle.>>
+[1400.30] GNARL: Don’t rest for too long, Sire.   <<Trigger: The player is idle.>>
+[1400.40] GNARL: Don’t stop, Sire, your Minions might wander off.   <<Trigger: The player is idle.>>
+[1400.50] GNARL: This is no time to rest, Dark Lord!   <<Trigger: The player is idle.>>
+[1400.60] GNARL: Hello? Hello? Is this thing on?   <<(Referring to the Tower Heart)  | Trigger: The player is idle.>>
+[1401.10] GNARL: You should return to the Tower, Sire.   <<Trigger: Player should return to the tower.>>
+[1401.20] GNARL: You should return to the Tower, Sire.   <<Trigger: Player should return to the tower.>>
+[1401.30] GNARL: Master, you should return to the Tower.   <<Trigger: Player should return to the tower.>>
+[1401.40] GNARL: Master, you should return to the Tower.   <<Trigger: Player should return to the tower.>>
+[1402.10] GNARL: You need more Minions, Master!   <<Trigger: Player should summon some more minions.>>
+[1402.20] GNARL: You need more Minions, Master!   <<Trigger: Player should summon some more minions.>>
+[1402.30] GNARL: Quick, summon more Minions!   <<Trigger: Player should summon some more minions.>>
+[1402.40] GNARL: Quick, summon more Minions!   <<Trigger: Player should summon some more minions.>>
+[1402.50] GNARL: More Minions, Sire, more!   <<Trigger: Player should summon some more minions.>>
+[1402.60] GNARL: More Minions, Sire, more!   <<Trigger: Player should summon some more minions.>>
+[1403.10] GNARL: You have retrieved a smelter, Sire. More forging options are available!   <<Trigger: Smelter retrieved.>>
+[1404.10] GNARL: You have retrieved an Object, Sire!   <<Trigger: General Item retrieved.
+
+These should be recorded with different tone/intonation.
+>>
+[1404.20] GNARL: Ooh an object, I like Objects!   <<Trigger: General Item retrieved.
+
+These should be recorded with different tone/intonation.
+>>
+[1404.30] GNARL: Ooh an object, I like Objects!   <<Trigger: General Item retrieved.
+
+These should be recorded with different tone/intonation.
+>>
+[1404.40] GNARL: You have retrieved an Object, Sire!   <<Trigger: General Item retrieved.
+
+These should be recorded with different tone/intonation.
+>>

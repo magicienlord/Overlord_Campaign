@@ -1,0 +1,147 @@
+[CAMP.S1_1] (unattributed): Oh God, I think I’ve had an accident!
+[CAMP.S2_1] (unattributed): Run for the hills! It’s the Demon Lord!
+[CAMP.S3_1] (unattributed): It’s him! It’s him!
+[CAMP.S4_1] (unattributed): Run, Ruuuuuuuun!
+[CAMP.S5_1] (unattributed): I ain’t staying here to get killed!
+[CAMP.S6_1] (unattributed): He’s flattened everything!
+[CAMP.S1_2] (unattributed): It’s the Evil of Everlight!
+[CAMP.S2_2] (unattributed): Run!
+[CAMP.S3_2] (unattributed): We’ve got to get out of the City!
+[CAMP.S4_2] (unattributed): It’s the Nightmare of Nordberg!
+[CAMP.S5_2] (unattributed): They’ve closed the Palace! They’ve closed the Palace!
+[CAMP.S6_2] (unattributed): That thing from the Arena! The Demon Lord. It’s come back!
+[CAMP.MP1_1] (unattributed): What happened? What happened?
+[CAMP.MP2_1] (unattributed): Who flattened my house?
+[CAMP.MP3_1] (unattributed): It’s that awful demon creature!
+[CAMP.MP4_1] (unattributed): Stop all this running about and shouting!
+[CAMP.MP1_2] (unattributed): What on earth is going on out here?
+[CAMP.MP2_2] (unattributed): Don’t let the Demon Lord kill me! Don’t let him kill me!
+[CAMP.MP3_2] (unattributed): Forget the gold, just run!
+[CAMP.MP4_2] (unattributed): Is it another Cataclysm?
+[CAMP.MS1_1] (unattributed): I’ll rampage with you, Lord!
+[CAMP.MS2_1] (unattributed): Your humble servant!
+[CAMP.MS3_1] (unattributed): I follow where you lead!
+[CAMP.MS4_1] (unattributed): I walk in your name!
+[CAMP.MS1_2] (unattributed): I will defend your mighty visage!
+[CAMP.MS2_2] (unattributed): Your obedient slave!
+[CAMP.MS3_2] (unattributed): You are my Master!
+[CAMP.MS4_2] (unattributed): I bask in your dark glow, Sire!
+[CAMP.FP1_1] (unattributed): Who’s invading? Oh no! Not him!
+[CAMP.FP2_1] (unattributed): Head for the temples!
+[CAMP.FP3_1] (unattributed): Solarius will save us from the Demon Lord!
+[CAMP.FP4_1] (unattributed): He’s going to flatten Empire City!
+[CAMP.FP1_2] (unattributed): He’s a madman!
+[CAMP.FP2_2] (unattributed): Fleeeeeeeeee from the Demon Lord!
+[CAMP.FP3_2] (unattributed): Where are the Sentinels!
+[CAMP.FP4_2] (unattributed): Pull yourself together soldiers and do something!
+[CAMP.FS1_1] (unattributed): In your name!
+[CAMP.FS2_1] (unattributed): Command me, great One!
+[CAMP.FS3_1] (unattributed): I will fight by your side.
+[CAMP.FS4_1] (unattributed): I am a slave to your desires, Lord.
+[CAMP.FS1_2] (unattributed): Use me as you will.
+[CAMP.FS2_2] (unattributed): I am a slave to your darkness!
+[CAMP.FS3_2] (unattributed): I follow in your footsteps, Master!
+[CAMP.FS4_2] (unattributed): You command, I obey!
+[RICH.MP6_1] (unattributed): I don’t know how to fight. I just know how to be rich!
+[RICH.MP7_1] (unattributed): Where are my slaves. They can fight!
+[RICH.MP8_1] (unattributed): I’ve lost everything! Everything!
+[RICH.MP9_1] (unattributed): Take it all! Take it all! It’s not really mine anyway!
+[RICH.MP10_1] (unattributed): Solarius protect us!
+[RICH.MP11_1] (unattributed): Don’t let him get the fine china!
+[RICH.MP12_1] (unattributed): I’m not running! Where’s my sedan chair?
+[RICH.MP13_1] (unattributed): Someone help me save my chaise longue!
+[RICH.MP6_2] (unattributed): Grab what you can and flee!
+[RICH.MP7_2] (unattributed): I’ll give you my slaves. You can kill them if you like!
+[RICH.MP8_2] (unattributed): I can pay you! Just don’t kill me!
+[RICH.MP9_2] (unattributed): Throw some slaves at it or something!
+[RICH.MP10_2] (unattributed): Keep your hands off my things. Other people worked very hard for those!
+[RICH.MP11_2] (unattributed): Ruuuuun! Runnnnn!
+[RICH.MP12_2] (unattributed): Solarius will make you pay, demon!
+[RICH.MP13_2] (unattributed): Is this about the slave girls. I swear I never touched them!
+[RICH.MS6_1] (unattributed): I’m coming looting with you!
+[RICH.MS7_1] (unattributed): Your servant, Master!
+[RICH.MS8_1] (unattributed): I bow to you, Lord!
+[RICH.MS9_1] (unattributed): I follow the Demon Lord!
+[RICH.MS10_1] (unattributed): I obey!
+[RICH.MS11_1] (unattributed): I live to please you, Sire!
+[RICH.MS12_1] (unattributed): You have my protection.
+[RICH.MS13_1] (unattributed): I’ve got your back, Lord!
+[RICH.MS6_2] (unattributed): What do you command?
+[RICH.MS7_2] (unattributed): Let’s burn this place to the ground!
+[RICH.MS8_2] (unattributed): For the Master!
+[RICH.MS9_2] (unattributed): I am a slave to your dark wishes!
+[RICH.MS10_2] (unattributed): Take me with you!
+[RICH.MS11_2] (unattributed): Let’s get Solarius!
+[RICH.MS12_2] (unattributed): I’m on your side, now!
+[RICH.MS13_2] (unattributed): I will do your bidding. Master.
+[RICH.FP6_1] (unattributed): My silk sheets, the Demon Lord’s come for my silk sheets, I know it!
+[RICH.FP7_1] (unattributed): No ravishing! I will not be ravished!
+[RICH.FP8_1] (unattributed): Loot my neighbours! They’ve got much nicer things than me!
+[RICH.FP9_1] (unattributed): Stay away from the paintings!
+[RICH.FP10_1] (unattributed): If you scratch my panelling, I’ll have your hide!
+[RICH.FP11_1] (unattributed): Take my slaves, but don’t kill me!
+[RICH.FP12_1] (unattributed): This kind of thing is meant to happen to poor people. Not us!
+[RICH.FP13_1] (unattributed): Someone carry me!
+[RICH.FP6_2] (unattributed): Did you kill my slaves?
+[RICH.FP7_2] (unattributed): Why do invaders have to be so unkempt?
+[RICH.FP8_2] (unattributed): Get out of my way!
+[RICH.FP9_2] (unattributed): The Demon Lord is here! Quick, hide in the caviar cellar!
+[RICH.FP10_2] (unattributed): You can’t do this. We are Solarius’ chosen ones!
+[RICH.FP11_2] (unattributed): This isn’t the Arena, you know!
+[RICH.FP12_2] (unattributed): The Demon Lord has come for my jewellery!
+[RICH.FP13_2] (unattributed): You’re not having my statues, you demon!
+[RICH.FS6_1] (unattributed): I praise your name. Er what is your name?
+[RICH.FS7_1] (unattributed): I serve you.
+[RICH.FS8_1] (unattributed): I am but a slave by your side!
+[RICH.FS9_1] (unattributed): Let’s loot this place!
+[RICH.FS10_1] (unattributed): I’m a Minion! I’m a Minion!
+[RICH.FS11_1] (unattributed): Make me a tool of darkness!
+[RICH.FS12_1] (unattributed): I’m yours!
+[RICH.FS13_1] (unattributed): Let’s smash the shrines!
+[RICH.FS6_2] (unattributed): None shall stand in your way.
+[RICH.FS7_2] (unattributed): I serve you, Master.
+[RICH.FS9_2] (unattributed): Forget the villa, I’m with you!
+[RICH.FS10_2] (unattributed): What do you wish me to smite!
+[RICH.FS11_2] (unattributed): I am your grovelling peon!
+[RICH.FS12_2] (unattributed): You command, I obey, Sire!
+[RICH.FS13_2] (unattributed): I will lay down my life for you.
+[CITY.MA14_1] (unattributed): For Solarius!
+[CITY.MA15_1] (unattributed): Save the Empire!
+[CITY.MA16_1] (unattributed): His will be done!
+[CITY.MA17_1] (unattributed): I feel like a new man!
+[CITY.MA18_1] (unattributed): I am reborn in his image!
+[CITY.MA14_2] (unattributed): Solarius strengthens me!
+[CITY.MA15_2] (unattributed): You shall not take the Empire!
+[CITY.MA16_2] (unattributed): Flee from our city, demon!
+[CITY.MA17_2] (unattributed): For the Empire!
+[CITY.MA18_2] (unattributed): Take the demon down!
+[CITY.MS14_1] (unattributed): I fight with you.
+[CITY.MS15_1] (unattributed): I follow.
+[CITY.MS16_1] (unattributed): You honor me.
+[CITY.MS17_1] (unattributed): You have blessed me.
+[CITY.MS18_1] (unattributed): I am your slave always, Master.
+[CITY.MS14_2] (unattributed): For the Overlord!
+[CITY.MS15_2] (unattributed): The Netherworld will prevail!
+[CITY.MS16_2] (unattributed): Evil all the way!
+[CITY.MS17_2] (unattributed): Use my strength, Lord!
+[CITY.MS18_2] (unattributed): I am with you!
+[CITY.FA14_1] (unattributed): We shall strike you down!
+[CITY.FA15_1] (unattributed): For Solarius!
+[CITY.FA16_1] (unattributed): We are the blessed ones!
+[CITY.FA17_1] (unattributed): I feel reborn!
+[CITY.FA18_1] (unattributed): Solarius’ light shall blind you, demon!
+[CITY.FA14_2] (unattributed): I fight in his name!
+[CITY.FA15_2] (unattributed): Death to the Demon Lord!
+[CITY.FA16_2] (unattributed): For Empire City!
+[CITY.FA17_2] (unattributed): Tear them apart!
+[CITY.FA18_2] (unattributed): Your sins must be cleansed!
+[CITY.FS14_1] (unattributed): Yours is the true way, Master.
+[CITY.FS15_1] (unattributed): You have blessed me.
+[CITY.FS16_1] (unattributed): Your servant.
+[CITY.FS17_1] (unattributed): Teach me your dark ways.
+[CITY.FS18_1] (unattributed): Death to the Empire!
+[CITY.FS14_2] (unattributed): You are mine and I am yours, Sire.
+[CITY.FS15_2] (unattributed): I serve none but you!
+[CITY.FS16_2] (unattributed): Thank you for your mercy.
+[CITY.FS17_2] (unattributed): None shall harm you.
+[CITY.FS18_2] (unattributed): Crush the citizens!

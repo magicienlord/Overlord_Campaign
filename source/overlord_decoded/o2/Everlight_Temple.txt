@@ -1,0 +1,58 @@
+[100.10] (unattributed): There’s the Green Hive back where it should be in our Spawning Pit.
+[100.20] (unattributed): Now you can summon the Greens whenever you need a bit of good old fashioned back-stabbing action.
+[110.10] (unattributed): These wretched spiders are everywhere.
+[110.20] (unattributed): Yeah, crawling about like they own the place.
+[110.30] (unattributed): They can keep it as far as I’m concerned!
+[110.40] (unattributed): Well... maybe not the beach.
+[110.50] (unattributed): Yeah, obviously not the beach.
+[110.60] (unattributed): The sooner I can get onto a warm towel with a cocktail in my hand, the better!
+[110.70] (unattributed): *hums*
+[110.80] (unattributed): *hums*
+[120.10] (unattributed): Spidies!
+[120.20] (unattributed): Greens love spidies!
+[120.30] (unattributed): Aww, they’re just so very huggable aren’t they, Sire? Hmm, the Greens seem very taken with them.
+[120.40] (unattributed): But these seem more aggressive than normal. Something must be controlling them.
+[130.10] (unattributed): I hate spider cleaning duty!
+[130.20] (unattributed): Horrible blighters.
+[130.30] (unattributed): Cut their legs off!
+[130.40] (unattributed): Yeah!
+[200.10] (unattributed): That’s the spider that sunk your boat! It’s huge. Must be a Queen! I suspect the Elves are using them against the Empire. 
+[200.20] (unattributed): She must be controlling the little ones. You should go deeper into the Temple and investigate, Sire.
+[210.10] (unattributed): More keystones! I don’t know why they can’t use a piece of metal like everyone else. 
+[210.20] (unattributed): Trust Elves to be unnecessarily complicated!
+[220.10] (unattributed): So, you seek to spread your darkness further afield, Scourge of Nature?
+[220.20] (unattributed): You are too late. I have found a new place where all creatures of light magic can exist in safety. The Last Sanctuary.
+[220.30] (unattributed): Please accept my parting gift for we shall not meet again.
+[220.40] (unattributed): Get that keystone and get out of there, Master!
+[230.10] (unattributed): You need that keystone, Sire!
+[230.20] (unattributed): Master, get your Minions to that keystone.
+[230.30] (unattributed): Don’t forget the keystone!
+[300.10] (unattributed): We’ve been looking for this temple for some time, and thanks to you, we’ve found it.
+[300.20] (unattributed): Now we can capture that Spider Queen and get her in the Arena, can’t we boys?
+[300.30] (unattributed): Hmm… maybe you too?
+[310.10] (unattributed): There’s that spider Queen again. It’s going to take more than a rolled up news parchment to deal with her!
+[320.10] (unattributed): Use your Browns to defend your position against the spider waves, Sire!
+[330.10] (unattributed): Old Queenie is making as run for it! Follow that arachnid!
+[340.AMBIENT1] (unattributed): Get her before she tries to liquidise your eyeballs and suck them out through your nostrils!
+[340.LURE1] (unattributed): Use those pods to lure the little ones, Lord!
+[340.WALL1] (unattributed): You’ll never be able to make an effective attack unless you find a way to get her off the walls, Master!
+[340.WALL2] (unattributed): You need a way of luring her away from the wall, Sire!
+[340.PAD1] (unattributed): I wonder what comes out of those grates, Sire.
+[340.PAD2] (unattributed): Bet that water would give Queenie nasty plug-hole flashbacks!
+[400.10] (unattributed): Spidies ours.
+[400.20] (unattributed): Go spidey!
+[400.30] (unattributed): Beautiful spidey.
+[400.40] (unattributed): Pretty leggies.
+[400.50] (unattributed): We go higher now!
+[410.10] (unattributed): Now you’ve killed their Queen those spiders don’t dare attack you. Still they make an adorable combination with your Greens.
+[410.20] (unattributed): With these new mounts your Minions will be able to climb into areas that you can’t reach, Lord.
+[420.10] (unattributed): Strange hydraulics around this place. And they’re still working. Must be some Elven jiggery-pokery!
+[430.10] (unattributed): Maybe our new found friends can help you get out of that pit, Lord!
+[440.10] (unattributed): Return to the Plaza, Sire. With our new Green mounts we can climb over that Gate into Everlight Town.
+[440.20] (unattributed): And we know what’s in there, don’t we.
+[440.30] (unattributed): Yes, trouble!
+[450.10] (unattributed): Try sweeping your Spider mounts onto that wall, Master. 
+[460.10] (unattributed): If you run out of spiders I’m sure you’ll find more in the forest, just waiting to be ridden by a little Green demon!
+[470.10] (unattributed): Even on their mounts Greens will obey your flag commands, Sire! Try halting them on those pressure plates.
+[480.10] (unattributed): On to Everlight Town, Sire. Don’t want to keep the lady waiting do we, now?
+[480.20] (unattributed): I heard that as well!

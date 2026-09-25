@@ -1,0 +1,143 @@
+[ignore.NotEnough01] BROWN_MINION: Not.. Enough…   <<Minions at Work | Said when applying force. Needs to be tension in voice | idem>>
+[ignore.NotEnough02] BROWN_MINION: Not.. Enough…   <<Minions at Work | Said when applying force. Needs to be tension in voice | idem>>
+[ignore.Minion_ChooseAll_01] GNARL: All!
+[ignore.Minion_ChooseAll_02] GNARL: All!
+[ignore.Attack01] BROWN_MINION: Attack!   <<Attacking/Battle Roars | Excited | Linked to Send - Player Actions When sent to enemy.>>
+[ignore.Attack02] BROWN_MINION: Attack!   <<Attacking/Battle Roars | Excited | Linked to Send - Player Actions When sent to enemy.>>
+[ignore.Attack03] BROWN_MINION: Attack!   <<Attacking/Battle Roars | Excited | Linked to Send - Player Actions When sent to enemy.>>
+[ignore.Attack04] BROWN_MINION: Attack!   <<Attacking/Battle Roars | Excited | Linked to Send - Player Actions When sent to enemy.>>
+[ignore.Attack05] BROWN_MINION: Attack!   <<Attacking/Battle Roars | Excited | Linked to Send - Player Actions When sent to enemy.>>
+[ignore.Attack06] BROWN_MINION: Attack!   <<Attacking/Battle Roars | Excited | Linked to Send - Player Actions When sent to enemy.>>
+[ignore.Minion_ChooseBlues_01] GNARL: Blues!
+[ignore.Minion_ChooseBlues_02] GNARL: Blues!
+[ignore.Minion_ChooseBrowns_01] GNARL: Browns!
+[ignore.Minion_ChooseBrowns_02] GNARL: Browns!
+[ignore.Minion_ChooseBrowns_03] GNARL: Browns!
+[ignore.Goblin_Burn_1] BROWN_MINION: Burn!   <<Minion sets something on fire | Excited (can be done with laugh  before 'Burn, Burn!'>>
+[ignore.Minion_BurnBurn] BROWN_MINION: Burn! Burn!   <<Minion sets something on fire | Excited (can be done with laugh  before 'Burn, Burn!'>>
+[ignore.Minion_CantDamage] BROWN_MINION: Can't damage!   <<Creature is too strong for the Minions. | Angry/frustrated>>
+[ignore.Minion_CantPoison] BROWN_MINION: Can't poison!   <<Creature is immune to poison | Angry/frustrated>>
+[ignore.Charge01] BROWN_MINION: Charge!   <<Attacking/Battle Roars | Excited | idem>>
+[ignore.Charge02] BROWN_MINION: Charge!   <<Attacking/Battle Roars | Excited | idem>>
+[ignore.Charge03] BROWN_MINION: Charge!   <<Attacking/Battle Roars | Excited | idem>>
+[ignore.Charge04] BROWN_MINION: Charge!   <<Attacking/Battle Roars | Excited | idem>>
+[ignore.Charge05] BROWN_MINION: Charge!   <<Attacking/Battle Roars | Excited | idem>>
+[ignore.ComingBack01] BROWN_MINION: Coming back!   <<Called Backed | Excited | idem>>
+[ignore.ComingBack02] BROWN_MINION: Coming back!   <<Called Backed | Excited | idem>>
+[ignore.ComingBack03] BROWN_MINION: Coming back!   <<Called Backed | Excited | idem>>
+[ignore.ComingBack04] BROWN_MINION: Coming back!   <<Called Backed | Excited | idem>>
+[ignore.Destroy01] BROWN_MINION: Destroy!   <<When breaking things | Excited | idem>>
+[ignore.Destroy02] BROWN_MINION: Destroy!   <<When breaking things | Excited | idem>>
+[ignore.Minion_FireNoHurt] BROWN_MINION: Fire no hurt it!   <<Minions try to set something on fire, but it is fire immume. | Angry/frustrated>>
+[ignore.ForMe01] BROWN_MINION: For me!?   <<Picking Up Minion Items | Greedy | idem Minion can pick up weapon>>
+[ignore.ForMe02] BROWN_MINION: For me!?   <<Picking Up Minion Items | Greedy | idem Minion can pick up weapon>>
+[ignore.ForMe03] BROWN_MINION: For me!?   <<Picking Up Minion Items | Greedy | idem Minion can pick up weapon>>
+[ignore.ForTheMaster01] BROWN_MINION: For the Master!    <<Sending Minions | Excited>>
+[ignore.ForTheMaster02] BROWN_MINION: For the Master!    <<Sending Minions | Excited>>
+[ignore.ForTheMaster03] BROWN_MINION: For the Master!    <<Sending Minions | Excited>>
+[ignore.ForTheOverlord01] BROWN_MINION: For the Overlord   <<Sending Minions | Excited>>
+[ignore.ForYou01] BROWN_MINION: For you!    <<Handing over Overlord Items | Emphasis on you: for yoooouuuu! (se example sent earlier) | Added to Hand-over Action >>
+[ignore.ForYou02] BROWN_MINION: For you!    <<Handing over Overlord Items | Emphasis on you: for yoooouuuu! (se example sent earlier) | Added to Hand-over Action >>
+[ignore.ForYou03] BROWN_MINION: For you!    <<Handing over Overlord Items | Emphasis on you: for yoooouuuu! (se example sent earlier) | Added to Hand-over Action >>
+[ignore.ForYou04] BROWN_MINION: For you!    <<Handing over Overlord Items | Emphasis on you: for yoooouuuu! (se example sent earlier) | Added to Hand-over Action >>
+[ignore.GotIt01] BROWN_MINION: Got it!   <<Sending Minions | Excited; bit Jar-jar style. >>
+[ignore.GotIt02] BROWN_MINION: Got it!   <<Sending Minions | Excited; bit Jar-jar style. >>
+[ignore.Minion_ChooseGreen_01] GNARL: Greens!
+[ignore.Minion_ChooseGreen_02] GNARL: Greens!
+[ignore.Minion_ChooseGreen_03] GNARL: Greens!
+[ignore.Minion_ChooseGreen_04] GNARL: Greens!
+[ignore.GuardHere01] BROWN_MINION: Guard… here!    <<Guard | Military Style | Linked to Guard - Player Action When sent to empty guard spot>>
+[ignore.GuardHere02] BROWN_MINION: Guard… here!    <<Guard | Military Style | Linked to Guard - Player Action When sent to empty guard spot>>
+[ignore.GuardHere03] BROWN_MINION: Guard… here!    <<Guard | Military Style | Linked to Guard - Player Action When sent to empty guard spot>>
+[ignore.HelpMe01] BROWN_MINION: Help me!   <<In Pain | Fast, high pitched | idem>>
+[ignore.HelpMe02] BROWN_MINION: Help me!   <<In Pain | Fast, high pitched | idem>>
+[ignore.HereIAm01] BROWN_MINION: Here I am   <<Call Back | Military Style | idem>>
+[ignore.HereIAm02] BROWN_MINION: Here I am   <<Call Back | Military Style | idem>>
+[ignore.ItHurts01] BROWN_MINION: It Hurts!   <<In Pain | Fast, high pitched, intense pain | Added to Panic Movement Action When on fire, drowning>>
+[ignore.ItHurts02] BROWN_MINION: It Hurts!   <<In Pain | Fast, high pitched, intense pain | Added to Panic Movement Action When on fire, drowning>>
+[ignore.ItHurts03] BROWN_MINION: It Hurts!   <<In Pain | Fast, high pitched, intense pain | Added to Panic Movement Action When on fire, drowning>>
+[ignore.KillThemAll01] BROWN_MINION: Kill 'em all!   <<Attacking/Battle Roars | Excited>>
+[ignore.KillThemAll02] BROWN_MINION: Kill 'em all!   <<Attacking/Battle Roars | Excited>>
+[ignore.KillThemAll03] BROWN_MINION: Kill 'em all!   <<Attacking/Battle Roars | Excited>>
+[ignore.KillThemAll04] BROWN_MINION: Kill 'em all!   <<Attacking/Battle Roars | Excited>>
+[ignore.KillKilll01] BROWN_MINION: Kill Kill!    <<Attacking/Battle Roars | Excited>>
+[ignore.KillKilll02] BROWN_MINION: Kill Kill!    <<Attacking/Battle Roars | Excited>>
+[ignore.KillKilll03] BROWN_MINION: Kill Kill!    <<Attacking/Battle Roars | Excited>>
+[ignore.KillKilll04] BROWN_MINION: Kill Kill!    <<Attacking/Battle Roars | Excited>>
+[ignore.KillKilll05] BROWN_MINION: Kill Kill!    <<Attacking/Battle Roars | Excited>>
+[ignore.Kill01] BROWN_MINION: Kill!   <<Attacking/Battle Roars | Excited>>
+[ignore.Kill02] BROWN_MINION: Kill!   <<Attacking/Battle Roars | Excited>>
+[ignore.Minion_MagicImmune] BROWN_MINION: Magic immune!   <<Creature is immune to magic. | Angry/frustrated>>
+[ignore.Minion_MagicNoHurt] BROWN_MINION: Magic no hurt it!   <<Creature is immune to magic. | Angry/frustrated>>
+[ignore.Master01] BROWN_MINION: Master!?   <<In Pain | Fast, high pitched | idem>>
+[ignore.Master02] BROWN_MINION: Master!?   <<In Pain | Fast, high pitched | idem>>
+[ignore.Nice01] BROWN_MINION: Niceee!    <<Picking Up Minion Items | idem Minions are not interested in weapon>>
+[ignore.Nice02] BROWN_MINION: Niceee!    <<Picking Up Minion Items | idem Minions are not interested in weapon>>
+[ignore.No01] BROWN_MINION: Nooo!   <<Overlord Death | High reputatoin>>
+[ignore.No02] BROWN_MINION: Nooo!   <<Overlord Death | High reputatoin>>
+[ignore.No03] BROWN_MINION: Nooo!   <<Overlord Death | High reputatoin>>
+[ignore.NothingHere01] BROWN_MINION: Nottin Here   <<Sending Minions | Quick and observant.  | When returning from sne nothing to do.>>
+[ignore.NothingHere02] BROWN_MINION: Nottin Here   <<Sending Minions | Quick and observant.  | When returning from sne nothing to do.>>
+[ignore.NothingHere03] BROWN_MINION: Nottin Here   <<Sending Minions | Quick and observant.  | When returning from sne nothing to do.>>
+[ignore.NothingHere04] BROWN_MINION: Nottin Here   <<Sending Minions | Quick and observant.  | When returning from sne nothing to do.>>
+[ignore.NothingHere05] BROWN_MINION: Nottin Here   <<Sending Minions | Quick and observant.  | When returning from sne nothing to do.>>
+[ignore.Okay01] BROWN_MINION: Okay!    <<Sending Minions | Excited>>
+[ignore.Okay02] BROWN_MINION: Okay!    <<Sending Minions | Excited>>
+[ignore.OnIt01] BROWN_MINION: On it   <<Sending Minions | Excited; bit Jar-jar style. >>
+[ignore.OnIt02] BROWN_MINION: On it   <<Sending Minions | Excited; bit Jar-jar style. >>
+[ignore.Ouch01] BROWN_MINION: Ouch   <<Comments on other Minions | This is Comment (ie not the minion hiimself getting hurt) | idem>>
+[ignore.Ouch02] BROWN_MINION: Ouch   <<Comments on other Minions | This is Comment (ie not the minion hiimself getting hurt) | idem>>
+[ignore.Ouch03] BROWN_MINION: Ouch   <<Comments on other Minions | This is Comment (ie not the minion hiimself getting hurt) | idem>>
+[ignore.Ow01] BROWN_MINION: Ow   <<In Pain | Fast, high pitched | idem>>
+[ignore.Ow02] BROWN_MINION: Ow   <<In Pain | Fast, high pitched | idem>>
+[ignore.Pillage01] BROWN_MINION: Pillage!   <<Attacking/Battle Roars | Excited | idem>>
+[ignore.Pillage02] BROWN_MINION: Pillage!   <<Attacking/Battle Roars | Excited | idem>>
+[ignore.Minion_PoisonNoHurt] BROWN_MINION: Poison no hurt it!   <<Creature is immune to poison | Angry/frustrated>>
+[ignore.PoorMe01] BROWN_MINION: Poor me!   <<Minion sent on suicide task | disgruntled | Linked to Send - Player Actions When Minion is sent to powerful enemy.>>
+[ignore.PoorMe02] BROWN_MINION: Poor me!   <<Minion sent on suicide task | disgruntled | Linked to Send - Player Actions When Minion is sent to powerful enemy.>>
+[ignore.Minion_ChooseReds_01] GNARL: Reds!
+[ignore.Minion_ChooseReds_02] GNARL: Reds!
+[ignore.Minion_ChooseReds_03] GNARL: Reds!
+[ignore.Regroup01] BROWN_MINION: Regroup!    <<Call Back | Military Style | idem>>
+[ignore.Regroup02] BROWN_MINION: Regroup!    <<Call Back | Military Style | idem>>
+[ignore.TakingPosition01] BROWN_MINION: Taking position!   <<Guard | Military Style | idem>>
+[ignore.TakingPosition02] BROWN_MINION: Taking position!   <<Guard | Military Style | idem>>
+[ignore.TakingPosition03] BROWN_MINION: Taking position!   <<Guard | Military Style | idem>>
+[ignore.TakingPosition04] BROWN_MINION: Taking position!   <<Guard | Military Style | idem>>
+[ignore.ThatMustHurt01] BROWN_MINION: That must hurt   <<Comments on other Minions | Sarcastic | idem>>
+[ignore.ThatMustHurt02] BROWN_MINION: That must hurt   <<Comments on other Minions | Sarcastic | idem>>
+[ignore.ThatWasFun01] BROWN_MINION: That was fun.    <<After Battle | Macho>>
+[ignore.ThatWasFun02] BROWN_MINION: That was fun.    <<After Battle | Macho>>
+[ignore.ThatWasFun03] BROWN_MINION: That was fun.    <<After Battle | Macho>>
+[ignore.ThatsMine01] BROWN_MINION: That's mine!   <<Picking Up Minion Items | Greedy | Added to Pickup Action Minion can pick up weapon>>
+[ignore.ThatsMine02] BROWN_MINION: That's mine!   <<Picking Up Minion Items | Greedy | Added to Pickup Action Minion can pick up weapon>>
+[ignore.ThatsMine03] BROWN_MINION: That's mine!   <<Picking Up Minion Items | Greedy | Added to Pickup Action Minion can pick up weapon>>
+[ignore.ThatsMine04] BROWN_MINION: That's mine!   <<Picking Up Minion Items | Greedy | Added to Pickup Action Minion can pick up weapon>>
+[ignore.ThisSpotMine01] BROWN_MINION: This spot - mine!   <<Guard | Greedy | idem>>
+[ignore.ThisSpotMine02] BROWN_MINION: This spot - mine!   <<Guard | Greedy | idem>>
+[ignore.Minion_TooStrong] BROWN_MINION: Too strong!   <<Creature is too strong for the Minions. | Angry/frustrated>>
+[ignore.Treasure01] BROWN_MINION: Treasure!   <<Handing over Overlord Items | idem >>
+[ignore.Treasure02] BROWN_MINION: Treasure!   <<Handing over Overlord Items | idem >>
+[ignore.Treasure03] BROWN_MINION: Treasure!   <<Handing over Overlord Items | idem >>
+[ignore.Treasure04] BROWN_MINION: Treasure!   <<Handing over Overlord Items | idem >>
+[ignore.Treasure05] BROWN_MINION: Treasure!   <<Handing over Overlord Items | idem >>
+[ignore.Treasure06] BROWN_MINION: Treasure!   <<Handing over Overlord Items | idem >>
+[ignore.WeNeedMore01] BROWN_MINION: we need more..   <<Minions at Work | Said when applying force. Needs to be tension in voice | idem>>
+[ignore.WeNeedMore02] BROWN_MINION: we need more..   <<Minions at Work | Said when applying force. Needs to be tension in voice | idem>>
+[ignore.WhatAMess01] BROWN_MINION: What a mess   <<After Battle | Macho | idem>>
+[ignore.WhatAMess02] BROWN_MINION: What a mess   <<After Battle | Macho | idem>>
+[ignore.WhatAMess03] BROWN_MINION: What a mess   <<After Battle | Macho | idem>>
+[ignore.WhatAMess04] BROWN_MINION: What a mess   <<After Battle | Macho | idem>>
+[ignore.WhatAMess05] BROWN_MINION: What a mess   <<After Battle | Macho | idem>>
+[ignore.WhatAMess06] BROWN_MINION: What a mess   <<After Battle | Macho | idem>>
+[ignore.WhyMe01] BROWN_MINION: Why me?    <<Minion sent on suicide task | disgruntled | Linked to Send - Player Actions When Minion is sent to powerful enemy.>>
+[ignore.WhyMe02] BROWN_MINION: Why me?    <<Minion sent on suicide task | disgruntled | Linked to Send - Player Actions When Minion is sent to powerful enemy.>>
+[ignore.Minion_WontBurn] BROWN_MINION: Won't burn!   <<Minions try to set something on fire, but it is fire immume. | Angry/frustrated>>
+[ignore.Minion_WontDie] BROWN_MINION: Won't die!   <<Creature is too strong for the Minions. | Angry/frustrated>>
+[ignore.WontBudge01] BROWN_MINION: won't... budge   <<Minions at Work | Said when applying force. Needs to be tension in voice | Special At Work - not enough Category When assigned to Pushable object with less then required amount of minions. Has start d>>
+[ignore.WontBudge02] BROWN_MINION: won't... budge   <<Minions at Work | Said when applying force. Needs to be tension in voice | Special At Work - not enough Category When assigned to Pushable object with less then required amount of minions. Has start d>>
+[ignore.YesMasta01] BROWN_MINION: Yes Masta   <<Sending Minions | Excited | Regular send action. Timed with repeat delay.>>
+[ignore.YesMasta02] BROWN_MINION: Yes Masta   <<Sending Minions | Excited | Regular send action. Timed with repeat delay.>>
+[ignore.Yes01] BROWN_MINION: Yes!   <<Sending Minions | Excited | Regular send action. Timed with repeat delay.>>
+[ignore.Yes02] BROWN_MINION: Yes!   <<Sending Minions | Excited | Regular send action. Timed with repeat delay.>>
+[ignore.Minion_ChooseAll_03] GNARL: You choose all!

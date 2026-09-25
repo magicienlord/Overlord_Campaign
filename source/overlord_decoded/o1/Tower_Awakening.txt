@@ -1,0 +1,104 @@
+[100.10] NARRATOR: In a distant land…   <<Trigger: Camera flies over barren landscape>>
+[100.20] NARRATOR: An ancient    <<Trigger: The camera flies into dark Tower window>>
+[100.30] BROWN_MINION: Here! This one!   <<Trigger: Inside the darkened room>>
+[100.40] MINIONS_TOGETHER: Eah!   <<Errrrrrrrrraahhhhh!>>
+[100.50] GNARL: It’s him! Rub some acid in his eyes! That’ll freshen him up!   <<Trigger: The Minions look down quizzically. >>
+[100.60] BROWN_MINION: Master! Master! Master!
+[.] (unattributed): ---
+[101.10] GNARL: Master! Evilness truly suits you! Let us go forth! There are nefarious deeds to be done!   <<Trigger: After the Intro ‘Awakening’ FMV has finished. The Overlord is standing in the ‘awakening room’, next to his tomb. He walks into a beam of light shining on the stairs and looks imposing.>>
+[101.20] GNARL: I feel the land quaking with fear already.
+[.] (unattributed): ---
+[102.10] GNARL: The haziness will pass and your muscles will become limber again. You have been asleep for a very long time.   <<Gnarl walks towards the spawning pit. The player can follow him by the light of his staff. The Minion Jester is also present here too, his bells can be heard jangling in the darkness.>>
+[102.20] GNARL: I am Gnarl, Minion Master and devoted Servant of Darkness.
+[102.30] GNARL: Alas, our numbers have dwindled in your absence, and my days of fighting the bad fight are far behind me.
+[.] (unattributed): ---
+[103.10] GNARL: This cavern is the Spawning Pit, Sire, where new Minions are born, and live.   <<Trigger: The player enters the main spawning pit area, along with Gnarl and the Minion Jester. The camera pans around the area.>>
+[103.20] GNARL: Now you are here, you can call forth Minions from this Minion Gate.   <<The camera focuses on the Minion Gate.>>
+[.] (unattributed): ---
+[104.10] MINION_JESTER: Ya haa!   <<Happy Minion emotes. | Trigger: When the player has summoned 3 Brown Minions.>>
+[104.20] GNARL: Ah, look at those keen little Evil faces, ready to loot and pillage at your command!   <<Camera closes in on the Minions.>>
+[104.30] GNARL: Your Minions will follow you wherever you go, Master, unless you give them a task.
+[.] (unattributed): ---
+[105.10] GNARL: Let us continue, follow me if you wish to study the finer points of combat and Minion control.   <<Trigger: Previous non interactive scene ends.>>
+[105.20] GNARL: Of course, if you want to get straight to the smiting, then I shall meet you in the Throne Room upstairs.
+[.] (unattributed): ---
+[106.10] GNARL: Your Minions will follow you wherever you go, Master, unless you give them a task.   <<Trigger: When the player starts moving and the Minions follow him. Camera closes in on the Minions.>>
+[.] (unattributed): ---
+[107.10] GNARL: Are you sure you don’t need any lessons, Master?   <<Trigger: Player heads towards the throne room.>>
+[200.10] GNARL: Being Overlord is more than just throwing a few Fireballs and causing chaos!   <<Trigger: Player enters the outer Tower area.
+Scene starts with a non-interactive camera zoom to a plateau outside the Tower where the player and Gnarl, the Minion jester and the 3 brown Minions are st>>
+[200.30] MINION_JESTER: I think the sleeping beauty’s a little rusty.   <<Pronounced 'rustyyyyyyy'.>>
+[200.40] GNARL: Our Jester, Sire. I really should have nailed him out for the crows long ago!   <<Sighs before line.>>
+[200.50] GNARL: Teach him to respect his Overlord!
+[.] (unattributed): ---
+[201.10] MINION_JESTER: Stop, you’re tickling, you’re tickling!   <<Giggles after line. | Trigger: Player hits Jester Minion.>>
+[201.20] GNARL: Good, now hit him again. Don’t hold back!
+[.] (unattributed): ---
+[202.10] GNARL: Do not be afraid to strike him, Sire, he probably   <<Trigger: Player does not hit the Jester>>
+[300.10] GNARL: See it’s all coming back now. Evil is not something you just forget!   <<Trigger: Player has hit the Jester X times. Jester flies back and the other Minions laugh. >>
+[.] (unattributed): ---
+[301.10] MINION_JESTER: Come on you metal lump... you’re giving Evil a good name!   <<Trigger: The Minion Jester starts running around.>>
+[301.20] GNARL: Look at him run! Focus your energies, Master, and you can hit a moving target with ease!
+[.] (unattributed): ---
+[302.10] GNARL: That’s it, now you’ve got him!   <<Trigger: the player locks the Jester>>
+[.] (unattributed): ---
+[303.10] GNARL: Focusing will improve your strikes, Sire!   <<Trigger: the player hits the jester without target lock on. >>
+[.] (unattributed): ---
+[304.10] GNARL: Hit him, Master,    <<Trigger: Player does not hit the Jester>>
+[400.10] MINION_JESTER: Come on Princess. You move like a dead badger, shame you don’t smell as good!   <<Trigger: The Jester runs over to a Minion Only path.>>
+[400.20] GNARL: He’s out of your reach, Sire, use your Minions to shut his flapping mouth!
+[400.30] MINION_JESTER: Oi tubs, they should call you the Overlard!   <<Sing-song voice>>
+[.] (unattributed): ---
+[401.10] GNARL: Oh it warms my black heart to see them running about the place... trying to rip each other apart.   <<Trigger: The Minions start chasing the Jester. >>
+[500.10] GNARL: Call your Minions back, Master.   <<Trigger: Player has completed sending Minions tutorial.>>
+[.] (unattributed): ---
+[501.10] GNARL: ...all of them!   <<Trigger: One Minion is called back.>>
+[.] (unattributed): ---
+[502.10] MINION_JESTER: Oi Mr Overlord... show me some Evil.   <<Mocking tone. Pronounced 'Eeeevvviiill!' Blows a raspberry after the line. | Trigger: The Jester runs into a place where the player can’t reach him. Camera briefly focuses on him and then back to Inte>>
+[.] (unattributed): ---
+[503.10] GNARL: If you need your Minions to follow a complicated route, then you must sweep them through it!   <<Trigger: Scene becomes Interactive>>
+[.] (unattributed): ---
+[504.10] MINION_JESTER: Call that Evil? Overlord? Over-rated more like!   <<Trigger: Minions reach Minion Jester and Minion Jester runs away again>>
+[504.20] GNARL: Don’t let him get away Sire. Sweep your Minions after him! Bet he’ll widdle himself silly!
+[.] (unattributed): ---
+[505.10] GNARL: Your Minions will not attack without your command, Sire!   <<Trigger: The Player does not sweep Minions.>>
+[.] (unattributed): ---
+[506.10] MINION_JESTER: What! Oh no! That ain’t fair! Waa!   <<Extended 'Waaaaaaa!' | Trigger: The Minions reach the Jester and pick him up like a Tower object.>>
+[506.20] GNARL: Now bring him back and we’ll see if he’s still laughing!
+[.] (unattributed): ---
+[507.10] MINION_JESTER: I yield... I yield... oh see me yielding!   <<Trigger: Minions return the Minion Jester to the Player.>>
+[507.20] MINION_JESTER: You Sire are the Prince of Persecution, the Duke of Damnation... the King of…
+[507.30] GNARL: That’s quite enough, fool!
+[.] (unattributed): ---
+[508.10] GNARL: I think you’re ready, Master. Accompany me to the Throne Room. Evil deeds won’t do themselves!   <<Trigger: The Player has finished the Tutorial. The Jester shuts up and Gnarl turns to the player.
+>>
+[508.20] GNARL: Feel free to beat him further if you wish!
+[600.10] MINION_JESTER: This one’s a dud!   <<Trigger: The player pauses for X amount of time  (designers to decide) when expected to hit the Jester anywhere in the tutorial before the last section. These can be looped as needed.
+>>
+[600.20] MINION_JESTER: You wouldn’t know Evil if it came up and stole ya boots!   <<Trigger: The player pauses for X amount of time  (designers to decide) when expected to hit the Jester anywhere in the tutorial before the last section. These can be looped as needed.
+>>
+[600.30] MINION_JESTER: Where’d you dig this one up from Gnarl?   <<Trigger: The player pauses for X amount of time  (designers to decide) when expected to hit the Jester anywhere in the tutorial before the last section. These can be looped as needed.
+>>
+[600.40] MINION_JESTER: That armor too heavy for you?   <<Trigger: The player pauses for X amount of time  (designers to decide) when expected to hit the Jester anywhere in the tutorial before the last section. These can be looped as needed.
+>>
+[600.50] MINION_JESTER: Come on, I don’t have all day, smite me already!   <<Trigger: The player pauses for X amount of time  (designers to decide) when expected to hit the Jester anywhere in the tutorial before the last section. These can be looped as needed.
+>>
+[.] (unattributed): ---
+[601.10] MINION_JESTER: Leave me alone, Sire! I've gotta heal!   <<Trigger: The player hits the Minion Jester after the tutorial has finished. These can be looped as needed.
+>>
+[601.20] MINION_JESTER: Gaa! I hurt! I hurt!   <<Trigger: The player hits the Minion Jester after the tutorial has finished. These can be looped as needed.
+>>
+[601.30] MINION_JESTER: An Evil Tower needs its Evil Jester, Sire. Please don’t kill me!   <<Trigger: The player hits the Minion Jester after the tutorial has finished. These can be looped as needed.
+>>
+[601.40] MINION_JESTER: You’re Evil, you’re Evil, you’re really, really Evil! I get it, Lord, I get it!   <<Trigger: The player hits the Minion Jester after the tutorial has finished. These can be looped as needed.
+>>
+[601.50] MINION_JESTER: Surely you have better things to do than hit me all day!   <<Trigger: The player hits the Minion Jester after the tutorial has finished. These can be looped as needed.
+>>
+[700.10] GNARL: Are you tiring, Sire?   <<Trigger: The Player pauses for X seconds at any point during the tutorials. These can be looped as needed.
+>>
+[700.20] GNARL: I must insist you continue, Sire.   <<Trigger: The Player pauses for X seconds at any point during the tutorials. These can be looped as needed.
+>>
+[700.30] GNARL: Keep going, Lord, keep going.   <<Trigger: The Player pauses for X seconds at any point during the tutorials. These can be looped as needed.
+>>
+[700.40] GNARL: Do you tire of training?   <<Trigger: The Player pauses for X seconds at any point during the tutorials. These can be looped as needed.
+>>

@@ -1,0 +1,111 @@
+[200.10] (unattributed): Now, time to get down to the business of being evil! Alas, our numbers have been dwindling. 
+[200.20] (unattributed): We require more Lifeforce to support the 100 Minions needed to build up the Netherworld. 
+[200.30] (unattributed): We could also do with a Spell Stone to pep up the Netherworld’s magical energy.
+[200.40] (unattributed): Quaver, our bard, and some Browns are waiting in the ice caves to test your true Overlording potential!
+[100.10] (unattributed): Here he comes!
+[100.20] (unattributed): The Master. Oooohhh The Master! The Master!
+[100.30] (unattributed): We'll see!
+[100.40] (unattributed): That's correct, Rasp, he must be tested as the beetle is tested by the dung pile! 
+[210.10] (unattributed): Those Nordberg winds go right up my nethers, so I’ll stay here. Your helmet will allow me to hear and see what you do!
+[101.10] (unattributed): Follow! Follow!
+[101.20] (unattributed): Follow! Follow!
+[101.30] (unattributed): Follow! Follow!
+[102.10] (unattributed): Fink he smart enough to git it?
+[102.20] (unattributed): Bet maggot he ain't!
+[102.30] (unattributed): Me bet three!
+[103.10] (unattributed): The first test is a test of strength, Oh he who would-be-our-true-Overlording-Master!
+[103.20] (unattributed): We managed to find an old friend of yours. He's been on ice for quite a while.
+[103.30] (unattributed): Bash! Bash! Bash!
+[103.40] (unattributed): Yetis are relatively gentle creatures, and extremely hardy. Nature’s training dummies!  
+[103.50] (unattributed): At your  current level , you can bash him around for hours and he’ll hardly feel a thing!
+[104.10] (unattributed): No room, Quaver!
+[104.20] (unattributed): Find own pit!
+[104.30] (unattributed): Savages! No appreciation of true art!
+[105.10] (unattributed): Yooooohooooo!
+[105.20] (unattributed): We're heeeerrreee!
+[105.30] (unattributed): Master? Masssteeerrr?
+[105.40] (unattributed): Shhh! Don't help 'im!
+[105.50] (unattributed): Come find us!
+[105.60] (unattributed): Hehehehe
+[105.70] (unattributed): Hihihihihi
+[105.80] (unattributed): Find your Minions! Like the er dog finds fleas in his mangy coat!
+[105.90] (unattributed): Call them to you!
+[106.10] (unattributed): We come!
+[106.20] (unattributed): Now, it maybe a touch indelicate, but use your Minions to whack that wall of fur!
+[107.10] (unattributed): He's on the run! Surround the beast!
+[107.20] (unattributed): The cold chill of fear pierces him like an icicle to the earlobe! Or maybe it’s just indigestion.
+[108.10] (unattributed): Sneaky beast! Find a way for your Minions to reach the creature. 
+[108.20] (unattributed): Now sweep them over!
+[108.30] (unattributed): The beast is coming within range!
+[109.10] (unattributed): Surround and savage him, Oh he who would-make-a-most-foreboding-Dark-Master!
+[109.20] (unattributed): Hark the screams and blood and fear. Could our Overlord be here?
+[110.10] (unattributed): Be gone you beast and make it fast. For if you don't we'll kick your aaaaarrrrrrrrrr!
+[110.20] (unattributed): Er Hello? I can't get out. I want to be in the field of battle...the roar of the beasts...the smell of the Minions. Hello? Hello? Anyone?
+[230.10] (unattributed): The test target's wandered, off! You should catch up with him in the Hunting Grounds.
+[230.20] (unattributed): The place is bursting with Lifeforce: both hunters and the hunted. 
+[230.30] (unattributed): You should gather plenty of it to support the Minions needed to build your Dark Tower.
+[111.10] (unattributed): Hey, where'd you come from?
+[111.20] (unattributed): I gotta permit from the Empire to hunt on these lands. This is 
+[111.30] (unattributed): Waaaaa it's still my Yettiiiii 
+[112.10] (unattributed): Welcome to the Test of Lifeforce Gathering!
+[112.20] (unattributed): Yuck!
+[112.30] (unattributed): Fluffy rats!
+[112.40] (unattributed): Stupid eyes!
+[112.50] (unattributed): Nasty! Nasty!
+[112.60] (unattributed): See! Poor fishie!
+[112.70] (unattributed): Now the hunt begins! Show ‘em who’s top of the food chain!
+[113.10] (unattributed): Die smelly furball!
+[113.20] (unattributed): Yay! Kill! Kill!
+[113.30] (unattributed): Yaaaaayy... yaaaaaayyy!
+[235.10] (unattributed): Those glowing orbs are Lifeforce. 
+[235.20] (unattributed): Gather them and they’ll collect in the Netherworld allowing you to summon more Minions from the Gates.
+[240.10] (unattributed): <T=10>
+[240.20] (unattributed): Brown Minion Gate for Master!
+[114.30] (unattributed): Ah, there you are! This is Grubby, Sire. He's a Minion Digger. Diggers can tunnel out of the Netherworld and create Minion Gates in certain areas.
+[114.40] (unattributed): They're drawn to your evil presence, like flies to a festering corpse ahhh!
+[250.10] (unattributed): Ah, new born Minions! Summon enough to fill your maximum Horde size. The rest will start on the construction of your Dark Tower.
+[300.10] (unattributed): Waaaargh!!!
+[300.20] (unattributed): It seems the Yeti is rather fond of those disgusting balls of fluff! You better find a way of discouraging him.
+[300.30] (unattributed): Ah, you can put your training into practice. Make sure you get all the Lifeforce in the area!
+[310.10] (unattributed): You’ll need to harvest all the Lifeforce here, Sire!
+[320.10] (unattributed): Lifeforce equals Minions and we need as much as we can get!
+[330.10] (unattributed): You can replenish your Horde from the Minion Gate, Sire!
+[340.10] (unattributed): Looks like our friend has forged a path ahead!
+[400.10] (unattributed): Look at all that lovely Lifeforce. Hmm, find a way to get into that area!
+[115.10] (unattributed): Awww pretty wolfie!
+[115.20] (unattributed): So playful!
+[115.30] (unattributed): Me ride wolfie!
+[116.10] (unattributed): Flatten those Igloos or you'll be overrun with hunters!
+[116.20] (unattributed): You need more Wolves for your Minions!
+[116.30] (unattributed): Use your Minions on that wheel!
+[117.10] (unattributed): Those wolves are nimble fellows. They can jump your Minions across that gap. 
+[117.20] (unattributed): I'm sure if you’re the true Overlord you'll just... oooh sense what you need to do with that wheel!
+[119.10] (unattributed): What do you think you're doing? Cease this barbaric slaughter, at once!
+[119.20] (unattributed): I am Florian Greenheart and these are the Soldiers of the Sanctuary, valiant protectors of the Sanctuaries and all creatures of magic and nature.
+[119.30] (unattributed): Soldiers, stop this savage! Protect the fluffy ones!
+[500.10] (unattributed): The fluffy ones are friends not fodder!
+[500.20] (unattributed): Perhaps all he needs is a hug?
+[500.30] (unattributed): All creatures of the Mother Goddess are beautiful... especially the cute ones!
+[500.40] (unattributed): You’re just jealous because your creatures aren’t fluffy!
+[500.50] (unattributed): Please, can’t we just talk about this?
+[510.10] (unattributed): Continue to the camp and find out what that yeti’s up to. 
+[510.20] (unattributed): Don’t forget, we still need a Spell Stone to give the Netherworld a bit of a kick in the pants!
+[510.30] (unattributed): Hmmm, those Elves are magical. I wonder if they’ve got something knocking about in their Sanctuary that would do the trick?
+[118.10] (unattributed): Do you remember that place, Sire?
+[118.20] (unattributed): It's Nordberg, the sleepy, snowy little town that was going to hand you over to the Empire!
+[600.10] (unattributed): Hmm, he’s not looking quite so gentle any more! In fact he looks rather peeved!
+[610.10] (unattributed): No! No! Stop this at once!
+[610.20] (unattributed): This noble beast belongs with us. Come here, come here boy!
+[610.30] (unattributed): As if we magical folk didn't have enough problems of our own with the Empire, without the likes of you trying to expunge us! 
+[610.40] (unattributed): Now let us away. Set sail for the Sanctuary!
+[610.50] (unattributed): We should follow them, Sire. If only we had the swimming abilities of the Blue Minions.
+[610.60] (unattributed): Oh well, it looks like we’ll have to find another way into this sanctuary of theirs.
+[120.20] (unattributed): Sanctuary! Sanctuary! Sanctuary!
+[120.30] (unattributed): Hmm you maybe right, Dribble, the Sanctuary that potty Elf mentioned might provide a backdoor for us.
+[121.10] (unattributed): Where trees gone?
+[121.20] (unattributed): Looks like someone has been logging this area, Gloob. I wonder why.
+[122.10] (unattributed): Magical creatures! We've got a breach, men!  Attack! Atttaaacccck!
+[700.10] (unattributed): Your mounts won’t follow you into certain areas, Sire. And like all primitive beasts these wolves are afraid of fires. 
+[700.20] (unattributed): Don’t worry, they’ll still be here when you come back.
+[710.10] (unattributed): Me smell magic!
+[710.20] (unattributed): Ah! Looks like we’ve found our back door, Sire!

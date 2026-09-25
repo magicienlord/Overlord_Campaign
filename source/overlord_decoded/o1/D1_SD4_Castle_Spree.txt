@@ -1,0 +1,32 @@
+[100.10] CASTLE_PEASANT_1: My lady, please hurry, they’re coming.   <<Trigger: As the player nears the areas. Camera zooms towards the door slowly. Voices can be heard. >>
+[100.20] ROSE: Stay back. These people are no threat to you! Put that down!   <<Put that down' said sharply. | Trigger: Sound of a low, threatening hiss>>
+[100.30] ROSE: Okay... let’s...just...    <<Trigger: Hissing gets louder and more threatening. Sound of something catching light (such as burning torch) and more hissing.>>
+[100.40] CASTLE_PEASANT_2: Argh!   <<Aaaaaaaaaaaaaaaaaaaaaaaaaargh! | Trigger: The player hears an anguished male screaming. A moment later a burning peasant (Castle_peasant_2 – Note, they don’t speak in the opening scene so this could a>>
+[100.50] ROSE: Quick, the store room!   <<Trigger: Rose runs out of the same doorway followed by a few other peasants.>>
+[100.60] CASTLE_PEASANT_1: That was... horrible...   <<Trigger: The group runs to the small storage room behind the left doorway. The peasants stand there shuffling their feet.>>
+[100.70] ROSE: Unless you want the horrible following us in here, I suggest you shut the door!
+[101.10] ROSE: Keep those Reds at the back!   <<Trigger: This can be triggered on a per-raider death basis, or a timed basis.>>
+[101.20] ROSE: Set them on fire!   <<Trigger: This can be triggered on a per-raider death basis, or a timed basis.>>
+[101.30] ROSE: Control your Minions, man!   <<Trigger: This can be triggered on a per-raider death basis, or a timed basis.>>
+[102.10] ROSE: Your little creatures are just    <<Trigger: Player kills the last raider>>
+[103.10] ROSE: Have you heard about the Heaven’s Peak plague? It’s nasty,    <<Trigger: This cut-scene initiates when the player approaches Rose. Close up of Rose behind the portcullis.>>
+[103.20] ROSE: I came here to see if this place could shelter the poor lumps that aren’t infected...    <<Shudders after line.>>
+[103.30] ROSE: I need to get out of here, but I can’t leave with these Raiders everywhere and I need my luggage.   <<Lowered voice.>>
+[103.40] ROSE: Could you deal with them and retrieve it for me?
+[200.10] ROSE: Oh, you should probably know, those Raiders had a strange creature with them.   <<Calling out | Trigger: As the player turns the wheel to open the last door.>>
+[200.20] ROSE: It’s bound to be magical...must have helped them get in here!
+[201.10] ROSE: Hmmm, I see you haven’t found my luggage yet! I must've been wrong about you!   <<Trigger: The player returns to Rose without having turned the wheel.>>
+[201.20] ROSE: You need to open the gate to the cellars, come on man, get moving!
+[202.10] ROSE: Those Raiders don’t want me helping the plague victims. They want to create chaos!   <<Lowered voice. | Trigger: The player opens the portcullis in the back of the room (which is on a raised area) and comes back to the big starting hall. Close up of Rose behind the portcullis, she moves>>
+[202.20] ROSE: If that plague gets out of Heaven’s Peak then things will get very    <<Lowered voice.>>
+[300.10] GNARL: Hmm...That creature’s presence explains how these Raiders entered the castle.   <<Notes: When the player enters the last room of the map, he will see the Overseer floating in the back of the room, guarding Rose’s luggage. The Overseer creates a portal and a couple of Ruborian Raide>>
+[301.10] GNARL: Quick Master, position your Reds on high ground to attack the beast!   <<Trigger: After the opening cut-scene>>
+[302.10] GNARL: You must keep it surrounded!   <<Trigger: The Player positions Reds on one side and the Overseer moves.>>
+[303.10] GNARL: That’s it! Now protect them and take it down!   <<Trigger: The Player has positioned Reds on both sides of the Overseer.>>
+[304.10] GNARL: Now bring the luggage to that female creature before she moans the place down!   <<Trigger: The Overseer is dead.>>
+[400.10] ROSE: If you don’t want your skin to rot and drop off, I suggest you find my luggage! Mm... please   <<Trigger: The player opens the portcullis in the back of the room and comes back to trigger the ‘wheel turned’ cut scene, but has returned to the room, without the luggage (i.e. he’s got lost, tried to>>
+[401.10] CASTLE_PEASANT_1: Let’s head for Spree!   <<Trigger: The player returns with Rose’s luggage. Rose opens the gate, and the cleaner peasants rush out.>>
+[401.20] ROSE: My luggage! You and your little Cherubs found it!   <<Impressed. | The peasants run off and Rose approaches the player.>>
+[401.30] BROWN_MINION: Cherubs? Yuck!   <<Yuuuuuuuck!>>
+[401.40] ROSE: I thought you were just the usual run-of-the-mill dungeon fodder, but you’ve surprised me!
+[401.50] ROSE: I think someone like you could use someone like me. Let’s go!

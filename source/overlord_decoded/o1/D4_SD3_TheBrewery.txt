@@ -1,0 +1,26 @@
+[100.10] GNARL: The Brewery runs right through the mountain. Goldo’s stronghold must be on the other side.   <<Trigger: The player enters the Brewery.>>
+[100.20] BROWN_MINION: I smell beer!   <<Pronounced 'beeeeeeeeeer!'>>
+[.] (unattributed): ---
+[101.10] GNARL: This elevator must lead to the lower levels, where they keep the brewing equipment.   <<Trigger: The player nears the elevator wheel and has Rose in their Tower.>>
+[101.20] ROSE: Drunken scoundrels! Obviously too busy swilling beer to keep up proper maintenance!
+[.] (unattributed): ---
+[102.20] VELVET: Beer, fight...beer, fight, Dwarves just have no class, Master. Make those cloddish oafs eat their own beards!   <<Yawns before line.>>
+[.] (unattributed): ---
+[103.10] GNARL: Sire, it’s a spoke... must be from that wheel back at the entrance.   <<Trigger: The player finds a wheel spoke but has not received the repair the wheel quest.>>
+[.] (unattributed): ---
+[104.10] GNARL: The Dwarves only build their houses underground to stop rain getting in their beer!   <<Trigger: The player nears the first closed Dwarf house.>>
+[104.20] GNARL: Judging by those pipes, this one seems to have a constant supply! Perhaps it’s time to sober them up, Sire!
+[.] (unattributed): ---
+[105.10] GNARL: Hah, he’s not happy!   <<Trigger: The player turns off the beer tap and a Dwarf comes out.>>
+[.] (unattributed): ---
+[106.10] GNARL: That’s the heart of the Brewery, Sire.   <<Trigger: When the player reaches the lower level of the Brewery. The door at the end of the room slams shut.>>
+[106.20] GNARL: If you don’t want those Dwarves supping Minion flavored beer, I would advise caution.
+[.] (unattributed): ---
+[107.10] GNARL: The beer kettle! Loot this and you’ll strike a decisive blow against the Dwarves! They can’t cope with sobriety!   <<Trigger: When the player enters the beer machine room and has Rose in their Tower.>>
+[107.20] GNARL: Return it to the Tower and your Minions will get a permanent boost!
+[107.30] ROSE: And they’ll be right terrors to put to bed!   <<Disapprovingly.>>
+[.] (unattributed): ---
+[108.30] VELVET: And they’ll be all over my things with their drunken paws!
+[.] (unattributed): ---
+[109.10] GNARL: It’s ours! Now let’s see if that’s got their attention!   <<Trigger: When the player reaches the SD gate and the kettle disappears back to the Tower.>>
+[.] (unattributed): ---

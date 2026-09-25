@@ -1,0 +1,15 @@
+[100.10] FORGOTTEN GOD: Do you know what it’s like to be forgotten, sub-creature? 
+[100.20] FORGOTTEN GOD: Once my name was spoken in whispers, it brought dread to this land. Now that petulant Goddess wishes my name lost in the mists of time!
+[200.10] FORGOTTEN GOD: Are you seeking to amuse me with your    <<Trigger: Forgotten God is about to unleash Shockwave Head Bash. Can be looped as needed.>>
+[200.30] FORGOTTEN GOD: All that will be remembered is that I destroyed you!
+[200.40] FORGOTTEN GOD: With each death they shall remember me!
+[200.50] FORGOTTEN GOD: Your death will be my rebirth, little one!
+[200.60] FORGOTTEN GOD: My name will once again strike terror in the hearts of all creatures!
+[200.70] FORGOTTEN GOD: My name will be whispered... my name will be 
+[200.80] FORGOTTEN GOD: You do not know the true meaning of 
+[201.10] FORGOTTEN GOD: No... no! They must... remember.   <<weaker | Trigger: Forgotten God drops down>>
+[202.10] FORGOTTEN GOD: Your death... was meant to free me! You want the Infernal Abyss? Take it! May it be your    <<weakly | Trigger: Player has struck the fatal blow against the Forgotten God.>>
+[202.20] GNARL: Hello? Hello, Sire? Are you there... I’m getting some kind of interference. If you can hear me, Master, get to the Abyss Gate!
+[300.10] GNARL: I have seen Evil masters come and go. Exploded. Disintegrated. Immolated... even one time, eaten by a giant weasel! 
+[300.20] GNARL: But, I admit, I had a soft spot for this last one. Ah, he may still find a way to escape the Infernal Abyss, but... we may have to find a 
+[300.30] GNARL: Well… Evil 

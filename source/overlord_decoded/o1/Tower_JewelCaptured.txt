@@ -1,0 +1,12 @@
+[100.10] GNARL: The young lady has been restrained Sire!   <<Trigger: The player returns to the tower after Jewel has been captured.>>
+[100.20] JEWEL: Let me go! Do you know who I am? Do you know who I work for?   <<Raging!>>
+[100.30] GNARL: Spirited creature, a few days in my Iron Maiden will sort that out!
+[100.40] JEWEL: Look...wait, I don’t do pain. The Wizard... he wanted me to pinch the statue. No idea why, he even paid me!
+[100.50] JEWEL: Ha, I would have done it for free! There’s nothing like the rush of the steal!
+[100.60] JEWEL: That’s Kahn! He’s coming for me! I wouldn’t want to be you right now!   <<Suddenly the tower starts to shake and there’s a loud thumping noise and roars.>>
+[100.70] GNARL: That Warrior isn’t happy that you’ve snatched his lady-friend, Lord.
+[100.80] GNARL: He’s attacked Spree! You must stop him before he kills all your worshippers!
+[.] (unattributed): ---
+[101.10] ROSE: She’s certainly impertinent! Like my sister, only with some actual talent!   <<Trigger: After the Kill Kahn/Free Spree Quest has been given. This can play in the background if the player has Rose in their tower.>>
+[.] (unattributed): ---
+[101.20] VELVET: I can’t believe you let her live, darling. Just make sure    <<Alternative Trigger: After the Kill Kahn/Free Spree Quest has been given. This can play in the background if the player has Velvet in their tower.>>

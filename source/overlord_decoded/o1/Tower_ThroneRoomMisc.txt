@@ -1,0 +1,139 @@
+[100.10] GNARL: Now we have the Crane we can start to rebuild your Tower, Sire.   <<Trigger: The player has retrieved a crane for the tower. The area will be full of scaffolding/debris.>>
+[.] (unattributed): -
+[101.10] ROSE: So this is your Tower, hmmm it could use a bit of work.   <<Trigger: The player has retrieved Rose from Castle Spree.
+Note: This triggers the Private Quarters to open.
+Rose emerges from the Portal Gate with the player. Gnarl comes up to greet them 
+>>
+[101.20] GNARL: Greetings Mistress. Sire, we’ve managed to re-open the Private Quarters. I’ve instructed the Minions to take m’Lady’s luggage there.    <<First part to Rose, second to Player. >>
+[101.25] ROSE: If you're heading to Heaven's Peak, perhaps you could investigate what's been causing the plague?   <<To the player | Quest Objective: Find the source of the plague in Heaven's Peak>>
+[101.30] ROSE: I’d better get up there, wouldn’t want those little dears eating my things and getting a tummy ache.
+[101.40] ROSE: Give me a chance to spruce up the place a little, then come on up, I’ll put the kettle on.
+[.] (unattributed): -
+[102.10] GNARL: An Overlord always needs servants...    <<Trigger: The player has retrieved all the servants for Spree quest. A short cut-scene shows the servants in the Tower clustered around Gnarl. 
+>>
+[102.20] GNARL: Now go on, chop, chop there’s work to be done, this Tower gathers dust like you wouldn’t believe. 
+[102.30] GNARL: And if any of you ladies feel like feeding me grapes that'd be just fine. 
+[102.40] GNARL: Ladies?   <<(Slightly sadly) | All the servants run off quickly. >>
+[.] (unattributed): -
+[103.10] SEXY_FEMALE_SERVANT: This outfit is very drafty you know.   <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[103.20] SEXY_FEMALE_SERVANT: If that Gnarl looks at me funny one more time, I’m going to hit him with a poker!   <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[103.30] SEXY_FEMALE_SERVANT: Haven’t you got anything a little more substantial for me to wear?   <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[103.40] SEXY_FEMALE_SERVANT: I hope you’re not going to make me cook. You’ll regret it, you know!   <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[103.50] SEXY_FEMALE_SERVANT: That Gnarl pinched me... that’s sexual harassment you know, and I won’t stand for it!   <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[103.60] SEXY_FEMALE_SERVANT: What exactly do you    <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[103.70] SEXY_FEMALE_SERVANT: If my friends could see me now, working for an Overlord, they’d be so jealous!   <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[103.80] SEXY_FEMALE_SERVANT: They wouldn’t let us dress like this in Spree.   <<Trigger: Player nears a servant (sexy dress). This is written with the assumption that although their bikini outfit is going to change they will still have some kind of sexy tower attire. These can be>>
+[.] (unattributed): -
+[104.10] SEXY_MALE_SERVANT: I don’t think this is exactly me!   <<And for the rare possibility that there maybe sexy male servants. We don’t need to make them camp/gay, in fact it’s funnier if we don’t. Trigger: Player nears a servant (sexy dress).>>
+[104.20] SEXY_MALE_SERVANT: Hmmm, this is strangely liberating!   <<And for the rare possibility that there maybe sexy male servants. We don’t need to make them camp/gay, in fact it’s funnier if we don’t. Trigger: Player nears a servant (sexy dress).>>
+[104.30] SEXY_MALE_SERVANT: This isn’t very practical, you know!   <<And for the rare possibility that there maybe sexy male servants. We don’t need to make them camp/gay, in fact it’s funnier if we don’t. Trigger: Player nears a servant (sexy dress).>>
+[.] (unattributed): -
+[105.10] FEMALE_PEASANT_SERVANT: If that Gnarl looks at me funny one more time, I’m going to hit him with a poker!   <<Trigger: Player nears a servant (peasant dress)>>
+[105.20] FEMALE_PEASANT_SERVANT: I miss Spree!   <<Trigger: Player nears a servant (peasant dress)>>
+[105.30] FEMALE_PEASANT_SERVANT: I hope you’re not going to make me cook. You’ll regret it, you know!   <<Trigger: Player nears a servant (peasant dress)>>
+[105.40] FEMALE_PEASANT_SERVANT: This place is a bit of alright, innit?   <<Trigger: Player nears a servant (peasant dress)>>
+[105.50] FEMALE_PEASANT_SERVANT: The little creatures... what exactly are they for?   <<Trigger: Player nears a servant (peasant dress)>>
+[105.60] FEMALE_PEASANT_SERVANT: That Gnarl pinched me... that’s sexual harassment you know, and I won’t stand for it!   <<Trigger: Player nears a servant (peasant dress)>>
+[105.70] FEMALE_PEASANT_SERVANT: If my friends could see me now, working for an Overlord, they’d be so jealous!   <<Trigger: Player nears a servant (peasant dress)>>
+[.] (unattributed): -
+[106.10] MALE_PEASANT_SERVANT: This sure beats pumpkin farming!   <<Trigger: Player nears a servant (peasant dress)>>
+[106.20] MALE_PEASANT_SERVANT: The plumbing in here’s a disgrace!   <<Trigger: Player nears a servant (peasant dress)>>
+[106.30] MALE_PEASANT_SERVANT: Hey can I join your army?   <<Trigger: Player nears a servant (peasant dress)>>
+[200.10] GNARL: I’m sure there’s some Overlording to be done, Sire... somewhere!   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.20] GNARL: You should be off smiting things, Master!   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.30] GNARL: Always a pleasure to have you around, Lord, but don’t you think you should be elsewhere, you know,    <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.40] GNARL: I’m sure you don’t need me to tell you that there are Evil deeds that need doing!   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.50] GNARL: Don’t dilly dally, Sire, go smite something!   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.60] GNARL: Are you alright, Sire, not feeling scared are you?   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.70] ROSE: You’re not going to get much work done here!   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.80] ROSE: Go on, be off with you! I want to see some proper Evil being done out there!   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.90] ROSE: Don’t you have work to do?   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.100] ROSE: Go on scoot, Mr Overlord, find something to do.   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.110] VELVET: Darling, shouldn’t you be off finding me shiny things?   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.120] VELVET: If you don’t go away, then I can’t welcome you back, can I?   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.130] VELVET: Sire, I’m sure there’s more loot you can bring me, and remember, a girl can    <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[200.140] VELVET: I’m getting bored just watching you, get out there and do some Evil, darling!   <<Trigger: The player lingers in the Throne Room. 
+Note: These lines can be played at any time up to the last return to the Tower but obviously need to be applicable to the character’s present i.e. Gnar>>
+[300.10] GNARL: Ha, that Melvin, eh! What an explosion. I    <<Trigger: The player has conquered the Halfling Domain/Mellow Hills. The point at which conquering is achieved should be set by the designers. Ideally after killing Melvin, however there is still Castl>>
+[300.20] GNARL: Oh, it’s just some entrails... keep them there, it’s a good look! 
+[.] (unattributed): -
+[301.10] GNARL: I’ve rid the world of a good few Elves in my time.    <<Trigger: The player has conquered the Elf Domain. 
+The point at which conquering is achieved should be set by the designers. Ideally after killing Oberon.
+>>
+[301.20] GNARL: Seeing you dispatch Oberon reminded me of the old days, when Evil was young!   <<Sighs after line>>
+[.] (unattributed): -
+[302.10] GNARL: I can’t blame Sir William for his tastes. I knew a Succubus once, Lord, charming girl, charming.    <<Trigger: The player has conquered the Paladin Domain. 
+The point at which conquering is achieved should be set by the designers. Ideally after killing Sir William.
+>>
+[302.20] GNARL: A little high maintenance, but you couldn’t fault her 
+[.] (unattributed): -
+[303.10] GNARL: Goldo Golderson, there’s a name that’s just asking for trouble!    <<Trigger: The player has conquered the Dwarf Domain. 
+The point at which conquering is achieved should be set by the designers. Ideally after killing Goldo Golderson.
+>>
+[303.20] GNARL: Goldie Golddigga, was Goldo’s mother. She always favoured the older Dwarves. 
+[303.30] GNARL: His cousin is Goldon Goldeater... but the Dwarves don’t like to talk about him.
+[.] (unattributed): -
+[304.10] GNARL: There’s sand all over the place, Sire. You’ve brought half the Ruborian desert back with you.    <<Trigger: The player has conquered the Thief Domain. 
+The point at which conquering is achieved should be set by the designers. Ideally after capturing Jewel - up until the end fight.
+>>
+[304.20] GNARL: Think of my crevices, Sire!
+[.] (unattributed): -
+[400.10] GNARL: You appear to have slipped, Sire.   <<Trigger: The player tries the kick/strike Gnarl. 
+These can be looped as required.
+>>
+[400.20] GNARL: Are you displeased with me, Master.   <<Trigger: The player tries the kick/strike Gnarl. 
+These can be looped as required.
+>>
+[400.30] GNARL: Ahhh,    <<Trigger: The player tries the kick/strike Gnarl. 
+These can be looped as required.
+>>
+[400.40] GNARL: Why would you strike Gnarl?   <<Trigger: The player tries the kick/strike Gnarl. 
+These can be looped as required.
+>>
+[.] (unattributed): -
+[401.10] ROSE: That’s quite enough of that!   <<Trigger: The player tries to kick/strike Rose. These can be looped as required. Rose slaps player.
+>>
+[401.20] ROSE: You don’t want to make me angry.   <<Trigger: The player tries to kick/strike Rose. These can be looped as required. Rose slaps player.
+>>
+[401.30] ROSE: That’s not how you treat a lady!   <<Trigger: The player tries to kick/strike Rose. These can be looped as required. Rose slaps player.
+>>
+[.] (unattributed): -
+[402.10] VELVET: I    <<Trigger: The player tries to kick/strike Velvet. VELVET slaps player.
+>>
+[402.20] VELVET: Don’t do that!   <<Trigger: The player tries to kick/strike Velvet. VELVET slaps player.
+>>
+[402.30] VELVET: That’s    <<Trigger: The player tries to kick/strike Velvet. VELVET slaps player.
+>>
+[.] (unattributed): -
+[403.10] MALE_PEASANT_SERVANT: Hey, leave it out, will ya!   <<Trigger: The player tries to kick/strike Male servant. 
+Male servant slaps/punches player
+>>
+[403.20] MALE_PEASANT_SERVANT: Don’t you go oppressing me!   <<Trigger: The player tries to kick/strike Male servant. 
+Male servant slaps/punches player
+>>
+[403.30] MALE_PEASANT_SERVANT: I’m just trying to do my job ‘ere!   <<Trigger: The player tries to kick/strike Male servant. 
+Male servant slaps/punches player
+>>
+[.] (unattributed): -
+[404.10] FEMALE_PEASANT_SERVANT: Hey stop that!   <<Trigger: The player tries to kick/strike Female servant.
+Female servant slaps player
+>>
+[404.20] FEMALE_PEASANT_SERVANT: Don’t you go oppressing me!   <<Trigger: The player tries to kick/strike Female servant.
+Female servant slaps player
+>>
+[404.30] FEMALE_PEASANT_SERVANT: That’s no way to treat your servants!   <<Trigger: The player tries to kick/strike Female servant.
+Female servant slaps player
+>>

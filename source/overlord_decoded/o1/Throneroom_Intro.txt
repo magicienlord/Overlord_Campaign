@@ -1,0 +1,18 @@
+[100.10] GNARL: Your Throne Room, Sire!    <<During initial Pan through Throne Room. | During First Throne Room Entry Cut Scene.
+Announce 45.>>
+[100.20] GNARL: Alas, one cannot be a bastion of Evil these days without wretched heroes lining up to prove themselves!   <<Gnarl walks towards the throne | Announce 46.>>
+[100.30] GNARL: That last lot were particularly bothersome, killing your predecessor like that!   <<Announce 47.>>
+[100.40] GNARL: Still, you’re here now, Sire. Evil will always find a way!   <<Announce 48.>>
+[100.50] GNARL: They also looted and destroyed much of the Tower.       <<Gnarl walks back up towards the portal gate. | Announce 49.>>
+[100.60] GNARL: But it’s merely a setback for the Forces of Darkness, Sire.   <<Announce 50.>>
+[100.70] GNARL: You are our new Overlord!   <<Announce 51.>>
+[100.80] GNARL: Rebuild your Tower, punish those so called heroes and re-establish a Dark Domain!   <<Announce 52.>>
+[100.90] GNARL: This is the Tower Portal Sire. Sadly, it’s missing its power source, the Tower Heart.   <<Gnarl stops at Tower Gate | Announce 53.>>
+[100.100] GNARL: However, there’s still a tiny bit of energy left.   <<Announce 54.>>
+[100.110] GNARL: It’s just enough to transport you to the last known location of the Heart.   <<Announce 55.>>
+[100.120] GNARL: When you’re ready, Sire, step through the Gate. I shall meet you on the other side.   <<Announce 56.>>
+[200.10] GNARL: Do step into the Gate, Master!   <<If player does not go to Halfling Domain.>>
+[200.20] GNARL: Heroes, they’ve never done an indecent day’s work in their lives!
+[200.30] GNARL: We need that Tower Heart, Dark Lord.
+[200.40] GNARL: Are you lost, Sire?
+[200.50] GNARL: Perhaps you should explore a little later, my Lord.

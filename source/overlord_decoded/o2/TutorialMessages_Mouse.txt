@@ -1,0 +1,178 @@
+[MACHINE.S_START] (unattributed): Press [Space] to start the Ship   <<For ships, shows always (not only for tutorial)>>
+[MACHINE.S_DOCK] (unattributed): Press [Space] to dock the Ship   <<For ships, shows always  (not only for tutorial)>>
+[MACHINE.R_START] (unattributed): Press [Space] to use the Raft   <<For rafts, shows always (not only for tutorial)>>
+[MACHINE.C_START] (unattributed): Press [Space] to start the Catapult   <<For catapults, shows always (not only for tutorial)>>
+[MACHINE.B_START] (unattributed): Press [Space] to start the Ballista   <<For ballistas, shows always (not only for tutorial)>>
+[MACHINE.T_START] (unattributed): Press [Space] to start the Siege Tower   <<For Siege Tower, shows always (not only for tutorial)>>
+[MACHINE.T_DOCK] (unattributed): Press [Space] to dock the Siege Tower   <<For Siege Tower, shows always (not only for tutorial)>>
+[MACHINE.R_DOCK] (unattributed): Press [Space] to dock the Raft   <<For rafts, shows always (not only for tutorial)>>
+[POSSESSION.BARRIER] (unattributed): You reached the end of possession range   <<When the player runs into a possession barrier>>
+[SPELL.MINION] (unattributed): Hold [Alt] and press the left mouse button to pick up and charge a Minion. Release [Alt] to throw it forward, or hold on and sacrifice it to regain health and a temporary shield
+[SPELL.HALO] (unattributed): Hold [Alt] and press [A] and [D] to cast the Halo spell. Release to boost your Minion Horde, or hold to create a shockwave. 
+[TOWER.THRONE] (unattributed): Press [Space] to open the Throne interface    <<User Prompt to open the Throne Interface/World Map>>
+[TOWER.MAGIC] (unattributed): Press [Space] to open the Magic interface   <<User Prompt to open the Magic Interface>>
+[TOWER.ARMORY] (unattributed): Press [Space] to view your armor and weapons.    <<User Prompt to open the Armory Interface>>
+[TOWER.BUILDERS] (unattributed): Press [Space] to upgrade your Tower   <<User Prompt to open the Tower Upgrade Interface>>
+[TOWER.BROWNHIVE] (unattributed): Press [Space] to open the Brown Hive interface    <<User Prompt to open the Brown Barrack Interface>>
+[TOWER.REDHIVE] (unattributed): Press [Space] to open the Red Hive interface    <<User Prompt to open the Red Barrack Interface>>
+[TOWER.GREENHIVE] (unattributed): Press [Space] to open the Green Hive interface    <<User Prompt to open the Green Barrack Interface>>
+[TOWER.BLUEHIVE] (unattributed): Press [Space] to open the Blue Hive interface   <<User Prompt to open the Blue Barrack Interface>>
+[TOWER.GRAVEYARD] (unattributed): Press [Space] to open the Graveyard interface   <<User Prompt to open the Resurrection/Graveyard Interface>>
+[TOWER.FORGE] (unattributed): Press [Space] to Forge Items   <<User Prompt to open the Forge Interface>>
+[TOWER.PQBUYABLES] (unattributed): Press [Space] to Customize your Dark Tower   <<User Prompt to open the Private Quarters Upgrade Interface>>
+[TOWER.DUNGEON] (unattributed): Press [Space] to use the Dungeon   <<User Prompt to open the Dungeon Interface>>
+[TOWER.AUDITION] (unattributed): Press [Space] to accept, or click the right mouse button to decline   <<Used to accept or decline audition events, script limitations make this a strange remapping of gamepad buttons>>
+[TOWER.KELDA] (unattributed): Press [Space] to make Kelda your First Mistress   <<User Prompt to select Kelda as your first lady>>
+[TOWER.JUNO] (unattributed): Press [Space] to make Juno your First Mistress   <<User Prompt to select Juno as your first lady>>
+[TOWER.DARK_FAY] (unattributed): Press [Space] to make Dark Fay your First Mistress   <<User Prompt to select Dark Fay as your first lady>>
+[TOWER.GHOST_FAY] (unattributed): Press [Space] to make Ghost Fay your First Mistress   <<User Prompt to select Ghost Fay as your first lady>>
+[TOWER.KELDA_FAVO] (unattributed): Kelda is now your First Mistress   <<Confirmation for selecting Kelda as your first lady>>
+[TOWER.JUNO_FAVO] (unattributed): Juno is now your First Mistress   <<Confirmation for selecting Juno as your first lady>>
+[TOWER.DARK_FAY_FAVO] (unattributed): Dark Fay is now your First Mistress   <<Confirmation for selecting Dark Fay as your first lady>>
+[TOWER.GHOST_FAY_FAVO] (unattributed): Ghost Fay is now your First Mistress   <<Confirmation for selecting Ghost Fay as your first lady>>
+[TOWER.CHOICES] (unattributed): Press [Alt] to choose Kelda, [Q] to choose Fay or click the right mouse button to choose Juno.   <<Buttons for selecting your first lady, script limitations make this a weird remapping of gamepad buttons :(>>
+[BASICS.CAM] (unattributed): Use the mouse to look around   <<Basic Tutorial CK1>>
+[BASICS.MOVE] (unattributed): Use the keyboard [WASD] to move   <<Basic Tutorial CK1>>
+[BASICS.STRIKE1] (unattributed): Press [Space] to strike the other children   <<Basic Tutorial CK1>>
+[BASICS.STRIKE2] (unattributed): Press [Space] to hit the snowmen   <<Basic Tutorial CK1>>
+[BASICS.SPELL] (unattributed): Press [Alt] to cast spell   <<Basic Tutorial CK1>>
+[BASICS.SEND1] (unattributed): Click the left mouse button to send your Minions to the crates   <<Basic Tutorial CK1>>
+[BASICS.SEND2] (unattributed): Send your Minions to chase the children (Left mouse button)   <<Basic Tutorial CK1>>
+[BASICS.DISGUISE] (unattributed): To disguise the Minions, hold [Shift] to lock the hut and send the Minions (Left mouse button)   <<Basic Tutorial CK1>>
+[BASICS.CALLBACK] (unattributed): Click or Hold the right mouse button to call the Minions   <<Basic Tutorial CK1>>
+[BASICS.SWEEP] (unattributed): Hold both mouse buttons and move the mouse to Sweep the Minions onto the ice fort   <<Basic Tutorial CK1>>
+[BASICS.MOUNT] (unattributed): Sweep or send Minions onto Wolves to ride them   <<Basic Tutorial CK1>>
+[BASICS.SWEEPM] (unattributed): Use the mouse to Sweep Wolf Riders into enemies   <<Basic Tutorial CK1>>
+[CATAPULT.ACTIVATE] (unattributed): Send 10 Minions to the Catapult   <<Ballista tutorial (CK1)>>
+[CATAPULT.PLATFORM] (unattributed): Walk to the steering platform   <<Ballista tutorial (CK1)>>
+[CATAPULT.AIMSHOOT] (unattributed): Use the mouse to aim and click the left mouse button to shoot   <<Ballista tutorial (CK1)>>
+[CATAPULT.STOP] (unattributed): Press [Space] to stop shooting   <<Ballista tutorial (CK1)>>
+[100.20] (unattributed): Press [Space] to strike the Yeti   <<Yeti Tutorial Section in CK2>>
+[100.30] (unattributed): Hold [Shift] to lock on the Yeti   <<Yeti Tutorial Section in CK2>>
+[100.40] (unattributed): Click the left mouse button to send Minions to the Yeti   <<Yeti Tutorial Section in CK2>>
+[100.50] (unattributed): Hold both mouse buttons and move the mouse to sweep your Minions to the Yeti   <<Yeti Tutorial Section in CK2>>
+[BASICS.MGATE1] (unattributed): Hold [Shift] to lock onto the Minion Gate…   <<How to TL a Minion Gate>>
+[BASICS.MGATE1] (unattributed): ... and click the right mouse button to summon your Minions!   <<On TL Mgate: Switch to this message>>
+[BASICS.TOWEROBJECT] (unattributed): Minions automatically bring objects to nearby Netherworld Gates   <<Committing objects in CK4>>
+[BASICS.TARGETSPELL1] (unattributed): Hold [Alt] to kill villagers or release it in time to subdue them.   <<Target Spell tutorial in CK4>>
+[BASICS.TARGETSPELL2] (unattributed): To subdue a villager, hold [Alt] and release it when the villager kneels   <<Target Spell tutorial in CK4>>
+[BASICS.TARGETSPELL3] (unattributed): To kill a villager with your spell, hold [Alt] until they die   <<Target Spell tutorial in CK4>>
+[BASICS.BULLY] (unattributed): Target Lock ([Shift]) a villager and send Minions (Left mouse button) to pin them down and stop them from running away   <<Bully tutorial in CK4>>
+[BASICS.LOWMANA] (unattributed): When your Mana is low, find a Mana potion or walk onto a Netherworld Gate to recharge   <<Netherworld Gate Tutorial in CK4>>
+[BASICS.GATE] (unattributed): Walk onto a Netherworld Gate and press [Space] to travel back to the Tower   <<Netherworld Gate Tutorial in CK4>>
+[POSSESSION.END] (unattributed): Press [Alt] to end possession   <<Possession tutorial (CK5)>>
+[FLAG.PLACE] (unattributed): Press [Q] to gather your Reds around a Guard Flag   <<Flag tutorial (CK5)>>
+[FLAG.SWEEP] (unattributed): Lock the Flag and Sweep with the mouse while holding both buttons to position it on the wooden platform   <<Flag tutorial (CK5)>>
+[FLAG.FUNCTION] (unattributed): Minions on a Guard Flag will automatically attack nearby enemies   <<Flag tutorial (CK5)>>
+[FLAG.CALLBACK] (unattributed): Lock a Guard Flag and click the right mouse button to call back a Minion   <<Flag tutorial (CK5)>>
+[FLAG.CALLBACK_ALL] (unattributed): Hold the right mouse button to call back all Minions from Flags and enemies   <<Flag tutorial (CK5)>>
+[MINIONSELECT.SPAWN] (unattributed): Summon some Browns from the Minion Gate   <<Minion select tutorial (CK5)>>
+[MINIONSELECT.SELECTION] (unattributed): Use the [1],[2],[3] or [4] button to select a Minion type…   <<Minion select tutorial (CK5)>>
+[MINIONSELECT.TYPE] (unattributed): ... For instance press [1] to select Browns or [2] to select Reds   <<Minion select tutorial (CK5)>>
+[MINIONSELECT.ALL] (unattributed): Press [`] once to select all Minions   <<Minion select tutorial (CK5)>>
+[BALLISTA.ACTIVATE] (unattributed): Send 5 Minions to power the Ballista   <<Ballista tutorial (CK6)>>
+[BALLISTA.PLATFORM] (unattributed): Walk to the steering platform   <<Ballista tutorial (CK6)>>
+[BALLISTA.AIMSHOOT] (unattributed): Use the mouse to aim and click the left button to shoot   <<Ballista tutorial (CK6)>>
+[BALLISTA.ZOOM] (unattributed): Click the right mouse button to zoom   <<Ballista tutorial (CK6)>>
+[BALLISTA.STOP] (unattributed): Press [Space] to stop shooting   <<Ballista tutorial (CK6)>>
+[SIEGET.ACTIVATE] (unattributed): Send 10 Minions to power the Siege Tower   <<Siege Tower tutorial (CK6)>>
+[SIEGET.PLATFORM] (unattributed): Walk to the highlighted steering platform   <<Siege Tower tutorial (CK6)>>
+[SIEGET.MOVE] (unattributed): Use [W] to accelerate and [S] to decelerate and reverse   <<Siege Tower tutorial (CK6)>>
+[SIEGET.STEER] (unattributed): Use [A] and [D] to steer   <<Siege Tower tutorial (CK6)>>
+[SIEGET.SWEEP] (unattributed): Use the mouse with both mouse buttons pressed to Sweep you Minions whilst steering   <<Siege Tower tutorial (CK6)>>
+[SIEGET.DOCK] (unattributed): Steer to the platform to dock the Siege Tower   <<Siege Tower tutorial (CK6)>>
+[NORDBERG.TCT] (unattributed): Press [Space] to open the Town Hall interface   <<User Prompt to open the Town Hall Interface>>
+[SHIP.ACTIVATE] (unattributed): Send 10 Minions to power the Ship   <<Ship tutorial (CK8)>>
+[SHIP.PLATFORM] (unattributed): Walk to the highlighted steering platform   <<Ship tutorial (CK8)>>
+[SHIP.ACCELERATE] (unattributed): Hold [W] to accelerate to ramming speed   <<Ship tutorial (CK8)>>
+[SHIP.DECELERATE] (unattributed): Hold [S] to decelerate and reverse   <<Ship tutorial (CK8)>>
+[SHIP.BOOST] (unattributed): Click the left mouse button to make your Minions row faster   <<Ship tutorial (CK8)>>
+[SHIP.STEER] (unattributed): Use [A] and [D] to steer the Ship   <<Ship tutorial (CK8)>>
+[SHIP.DOCK] (unattributed): Dock the Ship by steering it sideways against a jetty   <<Ship tutorial (CK8)>>
+[SHIP.BOARD] (unattributed): Board a stationary ship by sailing alongside it   <<Ship tutorial (CK8)>>
+[SHIP.RAM] (unattributed): Use a battering ram at full speed to damage large objects and other ships   <<Ship tutorial (CK8)>>
+[EVERLIGHT.TCT] (unattributed): Press [Space] to open the Town Hall interface   <<User Prompt to open the Town Hall Interface>>
+[DRESS.POSSESSED] (unattributed): Walk into the Legionnaire tent to change the possessed minion's clothes
+[BLUE.RESURRECT] (unattributed): Sweep or send a Blue Minion to a dead Minion to resurrect him   <<Tutorial message in CK13>>
+[BLUE.BLINK] (unattributed): Sweeping or sending Blue Minions to a target will make them Blink through enemies   <<Tutorial message in CK13>>
+[BOMB.ONE] (unattributed): Lock onto a Flower Bomb ([Shift]) and send a Minion to it   <<Bomb Tutorial in Spider Boss map>>
+[BOMB.TWO] (unattributed): Hold [Shift] and sweep the minion to carry the Flower Bomb   <<Bomb Tutorial in Spider Boss map>>
+[BOMB.THREE] (unattributed): Release [Shift] to drop the Flower Bomb   <<Bomb Tutorial in Spider Boss map>>
+[REDMOUNTS.MOUNT] (unattributed): Use your Reds to Mount the Salamanders   <<Red Mount Tutorial (CK17)>>
+[REDMOUNTS.SWEEP] (unattributed): Move the Mounted Salamander on the cliff-side   <<Red Mount Tutorial (CK17)>>
+[REDMOUNTS.RUNGUN] (unattributed): Salamanders will shoot fire whilst moving   <<Red Mount Tutorial (CK17)>>
+[REDMOUNTS.GNOMEHOLE] (unattributed): Send Salamanders into the Gnome Holes to close them   <<Red Mount Tutorial (CK17)>>
+[MP.WATER_CONFLICT] (unattributed): The Water zone is under attack!
+[MP.MOUNTAIN_CONFLICT] (unattributed): The Mountain zone is under attack!
+[MP.ROCK_CONFLICT] (unattributed): The Rock zone is under attack!
+[MP.FOREST_CONFLICT] (unattributed): The Forest zone is under attack!
+[MP.CENTER_CONFLICT] (unattributed): The Center zone is under attack!
+[MP.WATER_ENDS] (unattributed): The Water zone is no longer under attack
+[MP.MOUNTAIN_ENDS] (unattributed): The Mountain zone is no longer under attack
+[MP.ROCK_ENDS] (unattributed): The Rock zone is no longer under attack
+[MP.FOREST_ENDS] (unattributed): The Forest zone is no longer under attack
+[MP.CENTER_ENDS] (unattributed): The central zone is no longer under attack
+[MP.PILLAGE_DEFEND] (unattributed): Leave some Minions behind on the Flags to defend your gold
+[MP.PILLAGE_LOOT] (unattributed): Break into your opponent's vault to steal some of their gold!
+[MP.PILLAGE_BREACH] (unattributed): Your opponent is trying to break into your vault!
+[MP.PILLAGE_NOBREAK] (unattributed): You cannot break into your own vault! Try breaking into your opponent's vault instead!
+[MP.QUEST] (unattributed): Fight your way through the enemy forces to kill the Centurion as quickly as possible!
+[MP.SURVIVAL] (unattributed): To achieve the best time, survive for as long as possible against the waves of enemies
+[MP.DOMINATE] (unattributed): Score by using your Minions to take and hold as many zones on the map as possible!
+[MP.DOM_CAP] (unattributed): Leave some Minions here to take and hold this zone!
+[MP.WATER_YOU] (unattributed): You have captured the Water zone!
+[MP.WATER_HIM] (unattributed): Your enemy has taken the Water zone!
+[MP.MOUNTAIN_YOU] (unattributed): You have captured the Mountain zone!
+[MP.MOUNTAIN_HIM] (unattributed): Your enemy has taken the Mountain zone!
+[MP.ROCK_YOU] (unattributed): You have captured the Rock zone!
+[MP.ROCK_HIM] (unattributed): Your enemy has taken the Rock zone!
+[MP.FOREST_YOU] (unattributed): You have captured the Forest zone!
+[MP.FOREST_HIM] (unattributed): Your enemy has taken the Forest zone!
+[MP.CENTER_YOU] (unattributed): You have captured the Center zone!
+[MP.CENTER_HIM] (unattributed): Your enemy has taken the Center zone!
+[MP.WATER_LOST] (unattributed): You've lost control of the Water zone!
+[MP.MOUNTAIN_LOST] (unattributed): You've lost control of the Mountain zone!
+[MP.ROCK_LOST] (unattributed): You've lost control of the Rock zone!
+[MP.FOREST_LOST] (unattributed): You've lost control of the Forest zone!
+[MP.CENTER_LOST] (unattributed): You've lost control of the Center zone!
+[MP.PILLAGE] (unattributed): Gather as much gold as you can! Killing the other Overlord will cause them to lose gold!
+[MP.PILLAGE_VAULT] (unattributed): This is your vault, where your gold is kept
+[100.4] (unattributed): Use the mouse to look around
+[100.5] (unattributed): Use the keyboard [WASD] to walk.
+[100.10] (unattributed): Hold [Shift] to lock onto the Minion Gate…
+[100.15] (unattributed): ... and click the right mouse button to summon Minions!
+[100.60] (unattributed): Click the right mouse button to call a Minion back
+[100.70] (unattributed): You can center the camera behind you by pressing [F].
+[100.80] (unattributed): Hold the right mouse button to recall ALL Minions
+[100.90] (unattributed): You can change the camera view by moving the mouse.
+[300.10] (unattributed): Use the [1], [2], [3] or [4] key to select a Minion type…
+[300.20] (unattributed): … and press [2] to select Red Minions
+[300.40] (unattributed): Press [`] once to select all Minions
+[300.50] (unattributed): Select your Reds and move them towards the vantage point
+[300.60] (unattributed): Set Reds in position and press [Q]
+[300.70] (unattributed): Press [2] to select your Red Minions.
+[200.40] (unattributed): To summon Minions, face the Brown Gate.  Lock using [Shift] then hold the right mouse button.
+[200.50] (unattributed): Harvest Lifeforce. Use the left mouse button to send Minions, the right mouse button to call back Minions.
+[200.60] (unattributed): Destroy the vases and pickup weapons by Sweeping your Minions forward with the mouse, while keeping both mouse buttons pressed. Minions can be upgraded with all kind of weapons throughout the game!
+[200.110] (unattributed): To release Minions from the object: Face the Object, hold the [Shift] and hit or hold the right mouse button.
+[200.150] (unattributed): Minions don't like water. Minions following you will avoid water! Be careful when Sweeping and Sending.
+[200.170] (unattributed): To strike, press [Space]
+[200.180] (unattributed): To use magic, press [Alt]
+[200.190] (unattributed): To Sacrifice a Minion and Heal, face the Blood Pit. Lock using [Shift] then click the left mouse button.
+[500.10] (unattributed): Click the left mouse button to send a Minion to the Poison Pod
+[500.20] (unattributed): Hold [Shift] to lock onto the Poison Pod
+[500.40] (unattributed): Release [Shift] to drop the Poison Pod
+[400.60] (unattributed): Press [space] to Return to Tower   <<KM - new. Onscreen msg to use waypoint>>
+[700.10] (unattributed): Use the mouse to look around
+[800.10] (unattributed): Press [Tab] to view your Quests and Status   <<press back button to see your stats + outstanding quests>>
+[900.10] (unattributed): Target Lock   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.20] (unattributed): Send Minions   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.30] (unattributed): Call Back Minions   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.40] (unattributed): Strike   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.50] (unattributed): Sweep Minions   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.60] (unattributed): Move Overlord   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.70] (unattributed): Camera Snap   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.80] (unattributed): Pause   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.90] (unattributed): Display Controls   <<For use in Demo. Duplicated The Controls in the manual>>
+[1000.10] (unattributed): Click the left mouse button to send Minions   <<Tutorial message to be displayed intermittently>>
+[1000.20] (unattributed): Hold down both mouse buttons and use the mouse to sweep Minions   <<Tutorial message to be displayed intermittently>>

@@ -1,0 +1,74 @@
+[130.10] (unattributed): Now, Sire, you must rise to the challenge and conquer Nordberg! World domination won’t just come to you!
+[130.20] (unattributed): Hmmm the situation is grave. We don’t want these tin heads to dig through to our dark domain.  
+[130.30] (unattributed): We must retrieve the Reds from the Sanctuary  and remove those barriers!
+[140.10] (unattributed): Master we must find the Reds in the Nordberg Sanctuary so we can remove those fire barriers!
+[140.20] (unattributed): Quick, Master head over the bridge and get to the Sanctuary! Find our Reds!
+[100.10] (unattributed): Halt! Don’t think you can find refuge in our Sanctuary…
+[100.30] (unattributed): But.. Uh, what was that? Come, Soldiers, I think I hear the sound of a mildly distressed badger!
+[100.40] (unattributed): Terrible Elf... well, that’s what happens when you spend too much time hugging, things Sire.
+[100.50] (unattributed): Don’t bother with him, you must take your revenge on Nordberg!
+[110.20] (unattributed): Fire!
+[110.30] (unattributed): Retreat to the Sanctuary!
+[200.10] (unattributed): Ah, that Netherworld shard over there is pulsing at your Evil presence, Lord.
+[200.20] (unattributed): It may allow you even greater access to your dark powers.
+[200.30] (unattributed): That looks like a Possession Gate. It will allow you to commit all kinds of dark deeds. Send your Minions to it! 
+[200.40] (unattributed): I think you should give it a bit of a magical nudge.
+[200.50] (unattributed): I await you, Master.
+[200.60] (unattributed): I’m yours, Master.
+[200.70] (unattributed): Take me, Master, take me!
+[200.80] (unattributed): Maaaaassssssttterrrrr!
+[210.10] (unattributed): You’re...you’re... in the body of a Minion, Sire. How unseemly...  I hope no one’s looking.
+[210.20] (unattributed): ...still Minions are smaller than you, Lord, so perhaps you can use your new found form to sneak up on that Dryad!
+[210.30] (unattributed): Good, Sire. Now whilst she’s healing herself... that pod is undefended!  Now’s your chance. Destroy it!
+[210.40] (unattributed): Now the way is clear for your imposing magnificence to enter!
+[300.10] (unattributed): Hmmm too many creatures of Light magic here for my liking. That’s the good kind. Not like yours at all. 
+[300.20] (unattributed): Light magic occurs when the magical energy that’s all around us is absorbed into nice creatures. 
+[300.30] (unattributed): Ones who use it for noble pursuits like saving things and tinkling and shining and baking lentil cookies!
+[300.40] (unattributed): We don’t take kindly to your type here!
+[300.50] (unattributed): You just make trouble. Throwing fireballs and scaring the wild life! Just like those little red devils!
+[300.60] (unattributed): Come on, Petunia let’s leave this riff-raff!
+[300.70] (unattributed): I doubt you’ll get such a...warm welcome from the other creatures here!
+[310.10] (unattributed): Yaaaaaggg! Help!
+[320.10] (unattributed): Seal them off Dryads!
+[320.20] (unattributed): Stay back dark creature!
+[320.30] (unattributed): It’s no good, Lord; that second Dryad is protecting the pod whilst the other heals! You’ll have to find another way through.
+[400.10] (unattributed): Beware the pointy hats of DOOM!
+[400.20] (unattributed): They’re eating my legs. They’re eating my legs!
+[400.30] (unattributed): Little things... little things everywhere!
+[410.10] (unattributed): More Gnomes! Get ‘em, Sire. 
+[410.20] (unattributed): Gnomes, they’re just so fiddly, always having to peel them off your boots!
+[420.10] (unattributed): Your Browns can’t follow. Sire. Just leave them behind and they’ll return to the Netherworld for a little downtime.
+[430.10] (unattributed): It’s our Reds!
+[430.20] (unattributed): Master!
+[430.30] (unattributed): Yaaaaaaaaaay!
+[430.40] (unattributed): We burn for the Master!
+[430.50] (unattributed): He’s come!
+[430.60] (unattributed): Burn! Burn! Master.
+[430.70] (unattributed): Ah, look at the little burninators!
+[430.80] (unattributed): You still need to find and return the Red Hive, to the Netherworld, Sire. Only then can you spawn more Reds outside the Sanctuary.
+[440.10] (unattributed): There’s the Red Hive, Master!
+[450.10] (unattributed): Now you have the Reds, Sire, those Dryads can’t stand in your way.
+[450.20] (unattributed): Roast those jumped-up vegetables!
+[500.10] (unattributed): It’s you! You don’t belong here! Get out this minute or you’ll incur the wrath of our wondrous Queen Fay!
+[504.10] (unattributed): Careful, Sire, Red Minions are not as tough as Browns. 
+[504.20] (unattributed): Sweep your Browns in first to soften up the enemy then use the Reds to barbeque them!
+[507.10] (unattributed): Lookout for Elves on lower platforms. Gain the height advantage and you can rain down fiery death upon them.
+[510.10] (unattributed): Let’s leave all this bad karma behind us, man!
+[510.20] (unattributed): Our bodies may descend but our minds rise to a higher spiritual plane.
+[520.10] (unattributed): You and your barbaric creatures may have trampled our village, but you will respect our holy shrine! 
+[520.20] (unattributed): The crystal it holds protects all life in this sanctuary.
+[520.30] (unattributed): That crystal contains great power; Power that a certain Evil Overlord could use. 
+[530.10] (unattributed): Aggg it’s the black fairy!
+[530.20] (unattributed): Save us from the fair folk!
+[530.30] (unattributed): The tinkling... the tinkling...always the tinkling.
+[530.40] (unattributed): Aggg the fairies are coming.
+[530.50] (unattributed): Oh God...Don’t make me dance around toadstools!
+[530.60] (unattributed): I wanna go hoooooome.
+[540.10] (unattributed): Hmmm that Fay’s a nice looking wench... pity she’s a fairy!
+[550.10] (unattributed): Yuck it’s covered in light magic fairy nonsense. Show it a bit of Evil Presence, Sire and bring it over to the dark side!
+[560.10] (unattributed): You have angered Queen Fay! Don’t say I didn’t warn you!
+[560.20] (unattributed): You have stolen our spell stone intruder and defiled this shrine, bringing darkness into a place of light. Suffering be upon you!
+[570.10] (unattributed): Find a way out of this awful place and return the hive to the Netherworld, Dark One!
+[580.10] (unattributed): You’ll need the hive if you wish to summon Reds, Sire!
+[580.20] (unattributed): Aren’t we forgetting something Master. Like ooohh the HIVE!
+[580.30] (unattributed): Now Lord, don’t go forgetting the Red Hive.

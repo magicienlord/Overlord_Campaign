@@ -1,0 +1,79 @@
+[N.M1] (unattributed): Did they kick you out too?
+[N.M2] (unattributed): They said I slept with the Senator’s daughter... I never! ... I slept with his wife!
+[N.M3] (unattributed): I swear I’m not infected!
+[N.M4] (unattributed): I only said that the shrines should be free to everyone!
+[N.M5] (unattributed): Never cross a Sentinel! If you’re lucky you’ll live to regret it!
+[N2.M1] (unattributed): Least this place is peaceful... well, until someone mutates!
+[N2.M2] (unattributed): Well at least I have my freedom.
+[N2.M3] (unattributed): Those things of yours, are they mutants?
+[N2.M4] (unattributed): That Juno, she’s the reason I’m here! Still, I don’t regret a thing!
+[N2.M5] (unattributed): They say that the Arena Games was the best ever this year. And I missed it!
+[N.F1] (unattributed): I’d rather mutants any day to some of those Senators!
+[N.F2] (unattributed): They say some very peculiar things happened in this place.
+[N.F3] (unattributed): This place gives me the creeps!
+[N.F4] (unattributed): I think there’s something very funny going on with Solarius’ shrines.
+[N.F5] (unattributed): Did they say you were infected too?
+[N2.F1] (unattributed): This place has a very odd history, you know.
+[N2.F2] (unattributed): I don’t like the way the rocks just float about. 
+[N2.F3] (unattributed): I hear you were the only one to ever escape the Empire Arena alive!
+[N2.F4] (unattributed): Well you definitely look mutated!
+[N2.F5] (unattributed): I don’t trust those shrines!
+[NORD.M1] (unattributed): I hear there’s not much left of Nordberg anymore!
+[NORD.M2] (unattributed): I daren’t go back to Nordberg.
+[NORD.M3] (unattributed): ’Ere, you’re not the one they call the Demon lord of Nordberg, are ya?
+[EL.F1] (unattributed): The Evil of Everlight, it’s come here!
+[EL.F2] (unattributed): Everlight’s got worse troubles than us, I hear!
+[EL.F3] (unattributed): I hear something nasty happened to the Governess of Everlight!
+[ARENA.M2] (unattributed): I hear you were the only person to have ever survived the Arena!
+[ARENA.M4] (unattributed): Weren’t you in the Arena?
+[ARENA.M5] (unattributed): They say that someone actually broke the Arena!
+[H.M1] (unattributed): Did the empire send you?
+[H.M2] (unattributed): What’s the matter with you?
+[H.M3] (unattributed): Are you crazy?
+[H.M4] (unattributed): We’re no threat!
+[H.M5] (unattributed): This is outrageous!
+[H2.M1] (unattributed): Look we ain’t done nothing to you!
+[H2.M2] (unattributed): Leave us alone.
+[H2.M3] (unattributed): You are the Evil of Everlight, aren’t you?
+[H2.M4] (unattributed): And I thought being kicked out of Empire City was bad!
+[H2.M5] (unattributed): Are you some kind of ooze creature?
+[H.F1] (unattributed): Hey stop it!
+[H.F2] (unattributed): You are a mutant!
+[H.F3] (unattributed): Why us?
+[H.F4] (unattributed): Stop! Stop!
+[H.F5] (unattributed): It’s the evil!
+[H2.F1] (unattributed): He’s come from the ooze!
+[H2.F2] (unattributed): You’re worse than the mutants!
+[H2.F3] (unattributed): Just leave us in peace!
+[H2.F4] (unattributed): Go back to where you came from!
+[H2.F5] (unattributed): You’re a real abomination!
+[S.M1] (unattributed): I’d walk into the ooze for you.
+[S.M2] (unattributed): I’m yours.
+[S.M3] (unattributed): My Master.
+[S.M4] (unattributed): What do you wish of me?
+[S.M5] (unattributed): Your loyal subject.
+[S2.M1] (unattributed): I will die for you!
+[S2.M2] (unattributed): Can I be your Minion too?
+[S2.M3] (unattributed): Lead me.
+[S2.M4] (unattributed): Let me worship you.
+[S2.M5] (unattributed): Command me.
+[S.F1] (unattributed): Your devoted Servant.
+[S.F2] (unattributed): I’m yours, Sire!
+[S.F3] (unattributed): I give my life to you.
+[S.F4] (unattributed): Let me follow you.
+[S.F5] (unattributed): Your servant.
+[S2.F1] (unattributed): I bow to you!
+[S2.F2] (unattributed): Do you wish me to crawl into the ooze for you?
+[S2.F3] (unattributed): You’re my Master.
+[S2.F4] (unattributed): I shall protect you.
+[S2.F5] (unattributed): Nothing will harm you.
+[M.M1] (unattributed): I feel very strange.
+[M.M2] (unattributed): I can’t control it!
+[M.M3] (unattributed): Kill me! Kill me!
+[M.M4] (unattributed): Aggg, what’s happening?!
+[M.M5] (unattributed): It’s coming! It’s coming!
+[M.F1] (unattributed): Help me!
+[M.F2] (unattributed): It’s taking me over!
+[M.F3] (unattributed): Noooooooo!
+[M.F4] (unattributed): Save me.
+[M.F5] (unattributed): Run. Ruuuuuuun!

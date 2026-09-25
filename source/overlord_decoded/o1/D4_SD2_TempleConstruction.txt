@@ -1,0 +1,42 @@
+[100.10] GNARL: Ah, there's the statue! Judging by that walking cliff-face down there, the Dwarves are expecting trouble. Don’t disappoint them, Master.   <<Trigger: The player reaches the edge of the construction site and can see the rock giant stomping around at the end of the site. The statue is visible behind it.>>
+[101.10] GNARL: These beasts only seem deadly if you get in their way... so don’t!   <<Trigger: The player encounters the first rolling beast.>>
+[102.10] CONSTRUCTION_ELF: We are the first born! We were not meant to do hard labor!   <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[102.20] CONSTRUCTION_ELF: We are to build a temple for our stolen statue! This is the greatest indignity!   <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[102.30] CONSTRUCTION_ELF: Please release us from this shame!   <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[102.40] CONSTRUCTION_ELF: Don’t let us die serving the Dwarves!   <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[102.50] CONSTRUCTION_ELF: They can destroy our numbers, enslave us, we will never believe the Mother Goddess is Dwarven!   <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[102.60] CONSTRUCTION_ELF: All these rocks... where are the birds... the trees?   <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[102.70] CONSTRUCTION_ELF: The Mother Goddess would not want this for her first born race.   <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[102.80] CONSTRUCTION_ELF: Our Mother Goddess is Elven... how can they    <<Trigger: The Elves plead to be freed. Note: these can be looped as required.>>
+[103.10] CONSTRUCTION_ELF: Mother Goddess watch over you.   <<Trigger: The Player sets the Elves free. Note: these can be looped as required. The Elves run off after each line.>>
+[103.20] CONSTRUCTION_ELF: I must return to Evernight.   <<Trigger: The Player sets the Elves free. Note: these can be looped as required. The Elves run off after each line.>>
+[103.30] CONSTRUCTION_ELF: Thanks and farewell, friend.   <<Trigger: The Player sets the Elves free. Note: these can be looped as required. The Elves run off after each line.>>
+[103.40] CONSTRUCTION_ELF: I must see the trees again!   <<Trigger: The Player sets the Elves free. Note: these can be looped as required. The Elves run off after each line.>>
+[103.50] CONSTRUCTION_ELF: The Mother Goddess has not forsaken us!   <<Trigger: The Player sets the Elves free. Note: these can be looped as required. The Elves run off after each line.>>
+[103.60] CONSTRUCTION_ELF: There is still hope for our kind!   <<Trigger: The Player sets the Elves free. Note: these can be looped as required. The Elves run off after each line.>>
+[103.70] CONSTRUCTION_ELF: Praise the Mother Goddess!   <<Trigger: The Player sets the Elves free. Note: these can be looped as required. The Elves run off after each line.>>
+[104.10] CONSTRUCTION_ELF: What Evil are you?   <<Trigger: The player attacks the freed Elves. Note: these can be looped as required.>>
+[104.20] CONSTRUCTION_ELF: You free us only to kill us?   <<Trigger: The player attacks the freed Elves. Note: these can be looped as required.>>
+[104.30] CONSTRUCTION_ELF: Keep your creatures away.   <<Trigger: The player attacks the freed Elves. Note: these can be looped as required.>>
+[104.40] CONSTRUCTION_ELF: Stop this brutality you monster!   <<Trigger: The player attacks the freed Elves. Note: these can be looped as required.>>
+[104.50] CONSTRUCTION_ELF: No, please, no!   <<Trigger: The player attacks the freed Elves. Note: these can be looped as required.>>
+[104.60] CONSTRUCTION_ELF: Halt your creatures!   <<Trigger: The player attacks the freed Elves. Note: these can be looped as required.>>
+[105.10] CONSTRUCTION_ELF: Rolling demons!   <<Trigger: The freed Elves encounter the rolling beastsNote: these can be looped as required.>>
+[105.20] CONSTRUCTION_ELF: Moving rocks!   <<Trigger: The freed Elves encounter the rolling beastsNote: these can be looped as required.>>
+[105.30] CONSTRUCTION_ELF: They will crush us... they will crush us!   <<Hysterical. | Trigger: The freed Elves encounter the rolling beastsNote: these can be looped as required.>>
+[105.40] CONSTRUCTION_ELF: Keep away! Keep away!   <<Trigger: The freed Elves encounter the rolling beastsNote: these can be looped as required.>>
+[200.10] GNARL: Ha, as I suspected it’s the creature from the Elf temple, Sire. Jewel, that thieving female is still after the statue!   <<Trigger: The Overseer cut-scene finishes.>>
+[201.10] GNARL: Don’t forget my cunning plan, Sire!   <<Trigger: The player tries to leave the quarry before killing the rock-giant.>>
+[201.20] GNARL: You must get to that statue, Sire.   <<Trigger: The player tries to leave the quarry before killing the rock-giant.>>
+[202.10] BROWN_MINION: Ooh, Mama!   <<In awe. With an extended 'oooooooh' | Trigger: The player has killed the rock giant. Non-Interactive: A shot on the mother goddess in all her voluptuous glory. After line scene becomes interactive.>>
+[202.20] GNARL: Masterful work, Sire! Now, we come to the critical phase in my cunning plan.
+[202.30] GNARL: Sweep Brown Minions onto the statue and see what happens.
+[202.40] BROWN_MINION: Hello?   <<Echoey 'Helllooooo?'>>
+[202.50] GNARL: Ah ha! So the old rumors were true, the statue is hollow!
+[203.10] GNARL: Good! I’m sure that Jewel will be back once she sees the coast is clear.   <<Trigger: The player has a total of 5 Brown Minions inside the statue.>>
+[203.20] GNARL: I doubt 
+[203.30] GNARL: When they arrive in her Domain, your Minions will creep out and start looking for a Gate.
+[203.40] GNARL: Let us leave this place, give her a chance to do her dirty work in peace!
+[204.10] GNARL: More Minions, Sire,    <<Trigger: The player doesn’t have enough Minions in the statue>>
+[205.10] GNARL: There they go! The Minions will contact me when they have activated a Gate for you.   <<Trigger: The player exits the sub-domain.>>
+[205.20] GNARL: Then you may spread your Evil Domain even further, Sire. Won’t that be nice

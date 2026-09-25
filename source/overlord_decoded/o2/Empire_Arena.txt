@@ -1,0 +1,403 @@
+[100.10] (unattributed): Yuck, what are you doing in the slums?
+[100.20] (unattributed): We should try to keep his Magnificence a little lower profile for now!
+[100.30] (unattributed): And you can’t get much lower than this place!
+[100.40] (unattributed): We need to get you to the Arena Dungeons and find your Blues.
+[100.50] (unattributed):  The underground slums is the quickest and safest route, Lord.
+[110.20] (unattributed): Oh fine, then! Close your eyes, hold your nose and go through the slums!
+[120.10] (unattributed): Much of the City is protected by an anti-magic shield, Sire. This prevents use of any magic, including yours!
+[120.20] (unattributed): However, it seems that the shield covering the Arena and the Slums nearby has been turned off! 
+[120.30] (unattributed): Grubby’s currently searching for an area to dig a Gate.
+[130.10] (unattributed): Such poverty, such filth! Just... ignore it. Like everyone else does!
+[SLUM_N.M1] (unattributed): Hey, are you a gladiator?
+[SLUM_N.M2] (unattributed): I hear some of the folks further on have had nasty frog problems!
+[SLUM_N.M3] (unattributed): You’re new ain’t you?
+[SLUM_N.M4] (unattributed): My Mistress is making some very unreasonable demands of me!
+[SLUM_N.M5] (unattributed): I wish I were hunting seals back in Nordberg.
+[SLUM_N.M6] (unattributed): Don’t get yourself thrown in the Arena!
+[SLUM_N.M7] (unattributed): I hate this place.
+[SLUM_N.M8] (unattributed): I’m so sick. But they won’t let folks like us near those shrines.
+[SLUM_N.F1] (unattributed): Oooh look, a lovely strong Gladiator.
+[SLUM_N.F2] (unattributed): I wanna go back to Nordberg!
+[SLUM_N.F3] (unattributed): I wish I could see the Arena Games.
+[SLUM_N.F4] (unattributed): Hey, you ain’t seen any large frogs have you? Nasty!
+[SLUM_N.F5] (unattributed): What’s a gladiator doing down here in the slums?
+[SLUM_N.F6] (unattributed): They’re so fond of baths. All that sitting around in your own filth. It’s unhygienic!
+[SLUM_N.F7] (unattributed): Where did you come from?
+[SLUM_N.F8] (unattributed): Hmmm... don’t I recognise you. 
+[SLUM_H.M1] (unattributed): Why’re you causing trouble?
+[SLUM_H.M2] (unattributed): We’re slaves, we’re no good to ya!
+[SLUM_H.M3] (unattributed): We’ve got enough problems, okay!
+[SLUM_H.M4] (unattributed): Stop that!
+[SLUM_H.M5] (unattributed): You wanna throw your weight about? Do it in the Arena!
+[SLUM_H.M6] (unattributed): Did the Emperor send you?
+[SLUM_H.M7] (unattributed): Are you one of them Sentinels?
+[SLUM_H.M8] (unattributed): Noooo! Stop! Stop!
+[SLUM_H.F1] (unattributed): Help! Heeeeeeeellllp!
+[SLUM_H.F2] (unattributed): We’re slaves! Don’t you think we’ve suffered enough?
+[SLUM_H.F3] (unattributed): You’re a monster!
+[SLUM_H.F4] (unattributed): You can’t go around doing that!
+[SLUM_H.F5] (unattributed): Save it for the Arena!
+[SLUM_H.F6] (unattributed): Stay back! Stay back!
+[SLUM_H.F7] (unattributed): Please don’t hurt us!
+[SLUM_H.F8] (unattributed): I bet he’s in league with the Sentinels!
+[SLUM_S.M1] (unattributed): I will protect the Master!
+[SLUM_S.M2] (unattributed): I will fight for you and you alone!
+[SLUM_S.M3] (unattributed): I am happy being your slave, Master!
+[SLUM_S.M4] (unattributed): No one shall even dirty your helmet, Lord!
+[SLUM_S.M5] (unattributed): I will protect you against the unbelievers!
+[SLUM_S.M6] (unattributed): Where you go, I follow.
+[SLUM_S.M7] (unattributed): All shall bow before you, Lord!
+[SLUM_S.M8] (unattributed): Command me, Master!
+[SLUM_S.F1] (unattributed): I am your loyal slave!
+[SLUM_S.F2] (unattributed): I shall protect you!
+[SLUM_S.F3] (unattributed): I will fight in your name!
+[SLUM_S.F4] (unattributed): None shall hurt you!
+[SLUM_S.F5] (unattributed): I’ve never had a Master like you before.
+[SLUM_S.F6] (unattributed): You complete me, Master!
+[SLUM_S.F7] (unattributed): All shall know the might of my Lord!
+[SLUM_S.F8] (unattributed): I am yours!
+[140.10] (unattributed): There’s the entrance to the Arena Dungeons!
+[140.20] (unattributed): Who wants free passes to the Arena Games?
+[140.30] (unattributed): Witness the splendor of the games from very close up!
+[140.40] (unattributed): Just come inside and we’ll escort you to your own VIP quarters!
+[140.50] (unattributed): Agggg! What is it?
+[140.60] (unattributed): Demons!
+[140.70] (unattributed): Ah, thank you Grubby! You’d better find a way to reach it, Sire.
+[FROG.M2] (unattributed): I hope you’re here to do something about those frogs.
+[FROG.M3] (unattributed): Some of the others went to deal with those beasts, but we ain’t seen hide nor hair of them.
+[FROG.M4] (unattributed): Those creatures give me the creeps.
+[FROG.M5] (unattributed): It ain’t natural, I tell you.
+[FROG.M6] (unattributed): I wonder if they’ve escaped from the Arena Dungeons.
+[FROG.F2] (unattributed): I don’t know how they grew so large!
+[FROG.F3] (unattributed): I hope my husband comes back soon.
+[FROG.F4] (unattributed): Well you look pretty capable!
+[FROG.F5] (unattributed): Please do something about those creatures.
+[FROG.F6] (unattributed): Solarius doesn’t care what happens in the slums.
+[150.M7_1] (unattributed): Watch it!
+[150.M8_1] (unattributed): We’re the last line of defence!
+[150.M6_1] (unattributed): You don’t wanna go no further.
+[150.M7_2] (unattributed): Them beasts will have you for lunch.
+[150.M8_2] (unattributed): We’ve gotta hold them back!
+[160.M7_1] (unattributed): What are you doing?
+[160.M8] (unattributed): They’ll overrun us now!
+[160.M6] (unattributed): We ain’t hanging around to deal with them!
+[160.M7_2] (unattributed): You’re crazy!
+[170.10] (unattributed): Hmmm, strange things you find in the slums, aside from the locals, that is!
+[180.10] (unattributed): There’s the Blue Hive, Master. 
+[180.20] (unattributed): You can use that raft to reach it, but you’ll have to find some Blue Minions to push it. Only they can swim!
+[180.30] (unattributed): Although the other Minions are terribly good at drowning!
+[180.40] (unattributed): Find another way into the Dungeons and locate our damp little friends.
+[200.10] (unattributed): You’ll have to go alone from here. Don’t worry, your Minions will retire to the Spawning Pit for a game of ‘Whose scabby body part is this'?
+[200.20] (unattributed): And with any luck you will find our Blues inside.
+[210.10] (unattributed): The Empire’s gathered creatures from all over the lands here! They’re headed for the Arena above. 
+[210.20] (unattributed): Hmmm seems most of their magical energy has been removed!
+[220.10] (unattributed): Stinking Empire cowards! 
+[220.20] (unattributed): I like a good hunt, a nice bit of bloodshed. But it should be fair; as nature intended. Otherwise where’s the fun?
+[230.20] (unattributed): Right, you lot, out you come. Get some exercise. 
+[230.30] (unattributed): Don’t want you dead before the Arena do we?
+[230.40] (unattributed): We can’t let our Blues go to the Arena, Sire.
+[230.50] (unattributed):  Although they’re magical and can swim and resurrect other Minions, they’re not skilled fighters.
+[230.60] (unattributed): They’ll be a pool of blue mush in minutes!
+[240.10] (unattributed): Unicorns, yuck! Some people have no standards!
+[250.10] (unattributed): Did you hear something? A noise?
+[250.20] (unattributed): Remember, orders from the Centurion. We’re not supposed to hear anything today!
+[250.30] (unattributed): Oh, er, yeah right! Noise, what noise?
+[260.10] (unattributed): Can’t wait to see this magical scum in the Arena!
+[260.20] (unattributed): I reckon those Blue thingies will be fun to watch die!
+[260.30] (unattributed): These creatures give me the creeps. Sooner they’re dead the better!
+[260.40] (unattributed): Get ready for the arena you magical scum!
+[260.50] (unattributed): Dungeon duty stinks. I’m not gonna see a thing!
+[260.60] (unattributed): I hate it down here!
+[265.10] (unattributed): They’ve shut up the Blues in these containers! Find some more and free them!
+[270.10] (unattributed): Never trust things that go around tinkling!
+[270.20] (unattributed): Yuck, a Fairy!
+[270.30] (unattributed): Hmm, you don’t want to free one of those, Sire!
+[270.40] (unattributed): Ugly creature!
+[270.50] (unattributed): Nasty little tinkler!
+[275.10] (unattributed): Squash it!
+[275.20] (unattributed): You don’t want a Gnome army, Sire!
+[275.30] (unattributed): That’s no Minion!
+[275.40] (unattributed): A Gnome! Ewwwww!
+[275.50] (unattributed): We want Minions, not Gnomes, Sire!
+[280.10] (unattributed): You can open one of the Blue Minion prisons now, Lord! You can also return here if you run out of Blues.
+[285.10] (unattributed): New orders. We’re moving this thing!
+[285.20] (unattributed): Quick, Sire! Follow that Hive!
+[300.10] (unattributed): They’re taking the Hive into the Palace, I wonder why!
+[300.20] (unattributed): The Palace is usually heavily guarded. 
+[300.30] (unattributed): But with so much extra security being used for the Arena Games, it might be a little easier to get into now!
+[310.10] (unattributed): You should know, Great One that the Blues have a unique blink ability that allows them to become briefly invisible when they’re being swept!
+[310.20] (unattributed): You can use this to blink them past the guards and gain access to wheels or switches.
+[310.30] (unattributed): Use your Blues’ blink ability and sweep them past those guards! As long as you keep them moving, they won’t be spotted!
+[315.10] (unattributed): Oh dear he appears to have died. Never mind, Sire, your Blues also have resurrection skills! 
+[315.20] (unattributed): Sweep one towards the fallen Minion.
+[315.30] (unattributed): Bring the little dead fellow back to life with one of your Blues Sire. Just sweep a Blue up to his carcass!
+[315.40] (unattributed): Get him back in the land of the living, Sire!
+[315.50] (unattributed): Dead! Lazy blighter! Resurrect him, Lord.
+[320.10] (unattributed): There’s the Arena! Ooooh, I’m going to really miss seeing the Games.
+[320.20] (unattributed): Oh, don’t worry I’m sure they’ll be plenty of haughty, smug harpies there, to make up for your absence!
+[330.10] (unattributed): Hmmm this area doesn’t appear to be covered by the anti-magic shield either!
+[330.20] (unattributed): The Hive is being prepared for absorption into the vat oh Great Emperor Solarius!
+[330.30] (unattributed): Now, time for your daily...er reinvigoration! Don’t worry, I will take care of the rest.
+[330.40] (unattributed): I see our special guest has arrived, I knew you’d follow the Hive!
+[330.50] (unattributed): Guards, activate the shield and surround him!
+[330.60] (unattributed): Master....Mast...M
+[330.70] (unattributed): You will make a superb opening act at the Arena Games!
+[400.10] (unattributed): All hail the great Emperor Solarius, who has healed his people and this land with his divine blessing!
+[400.20] (unattributed): And it is with great pleasure that I, Marius, as the Emperor’s official spokesperson, and my good lady wife, declare these Arena Games open!
+[400.30] (unattributed): Now, for our opening act we have a real treat for you!
+[400.40] (unattributed): He’s a vile magic user.
+[400.50] (unattributed): A mass murderer.
+[400.60] (unattributed): Ladies and gentlemen... he is the enemy of everything you hold sacred and dear!
+[410.10] (unattributed): He’s the Demon Lord of Nordberg!
+[410.15] (unattributed): This despicable creature who hails from the bowels of the earth itself, murdered my own dear brother Borius!
+[410.20] (unattributed): This despicable creature who hails from the bowels of the earth itself, enslaved my own dear brother Borius!
+[410.25] (unattributed): And killed our most noble Governess of Everlight!
+[410.30] (unattributed): And subjugated our most noble Governess of Everlight!
+[410.35] (unattributed): He is responsible for the Great Cataclysm and the magical plague!
+[410.40] (unattributed): But here in this Arena, ladies and gentlemen, the Demon Lord of Nordberg will face the consequences of his actions!
+[410.45] (unattributed): However, we are not unsporting, ladies and gentlemen. 
+[410.50] (unattributed): We’ll even let him use his magic to serve as a warning about this diabolical practice!
+[410.55] (unattributed): Much good may that do him!
+[410.60] (unattributed): Now, let’s rile him up a bit, there’s nothing more amusing than an angry savage! Bring in his little imp friends!
+[420.10] (unattributed): Just gives us more to kill!
+[420.20] (unattributed): Don’t look at his demonic practices, citizens, or they will burn your eyes out!
+[420.30] (unattributed): See how he flouts the rules of life and death. Heathen!
+[420.40] (unattributed): He may pull them back from death, but we will push them back again!
+[420.50] (unattributed): A cheap demon trick!
+[430.10] (unattributed): Foul barbarian magic!
+[430.15] (unattributed): Kill the magic user!
+[430.20] (unattributed): Hideous! Hideous!
+[430.25] (unattributed): Magic belongs to the old world!
+[430.30] (unattributed): See that’s why they ban magic, it’s unnatural!
+[430.35] (unattributed): Ewwwweeeee!
+[430.40] (unattributed): That was just horrible!
+[430.45] (unattributed): The cheating scum! 
+[430.50] (unattributed): I call it disgusting!
+[430.55] (unattributed): That won’t save the barbarian!
+[500.10] (unattributed): Now for round one! Fresh from the Slums, we show you what happens to bad slaves!
+[500.20] (unattributed): Slaves wearing out, ladies and gentlemen, throw ‘em in the Arena!
+[500.30] (unattributed): Your slaves will die in the ultimate service for their Empire!
+[500.40] (unattributed): Don’t forget we are always looking for new slaves as fodder...I mean soldiers for the Arena!
+[510.10] (unattributed): Here!
+[510.20] (unattributed): Make with the barbarian magic!
+[510.30] (unattributed): Let’s see some sparks fly!
+[510.40] (unattributed): Drink up, Demon!
+[520.10] (unattributed): ’Ere, got a bet on you!
+[520.20] (unattributed): Don’t die yet!
+[520.30] (unattributed): Gotta make this last longer.
+[520.40] (unattributed): Take this!
+[ARENA_A.M1] (unattributed): I really don’t wanna do this!
+[ARENA_A.M2] (unattributed): Sorry, but it’s you or me!
+[ARENA_A.M3] (unattributed): One of us is gonna die!
+[ARENA_A.M4] (unattributed): Yaaaaaaaaaagggggh!
+[ARENA_A.M5] (unattributed): I’ll fight for my freedom!
+[ARENA_A.F1] (unattributed): What am I doing here?
+[ARENA_A.F2] (unattributed): I don’t wanna hurt ya, but I will!
+[ARENA_A.F3] (unattributed): Sorry about this! Naaaaggg!
+[ARENA_A.F4] (unattributed): I wanna go back to the slums!
+[ARENA_A.F5] (unattributed): Please don’t hurt me!
+[ARENA_S.M1] (unattributed): I’m yours!
+[ARENA_S.M2] (unattributed): I’ll fight beside you!
+[ARENA_S.MA1] (unattributed): Only the weak minded submit to his demonic ways.
+[ARENA_S.M3] (unattributed): Let’s fight together!
+[ARENA_S.M4] (unattributed): You’re my Master!
+[ARENA_S.MA2] (unattributed): Soon the Demon Barbarian of Nordberg will grovel before Emperor Solarius!
+[ARENA_S.F1] (unattributed): I’ll protect you!
+[ARENA_S.F2] (unattributed): Don’t worry, I’ll stand by ya!
+[ARENA_S.MA3] (unattributed): Those slaves don’t need a new Master, they need death!
+[ARENA_S.F3] (unattributed): Command me!
+[ARENA_S.MA4] (unattributed): He is a coward, ladies and gentlemen! He cannot just kill them!
+[ARENA_G.MA1] (unattributed): See how his savage ways cannot be contained!
+[ARENA_G.MA2] (unattributed): The Demon Lord of Nordberg seeks a new challenge!
+[ARENA_G.MA3] (unattributed): See how this former Nordberg witch-boy cannot control himself!
+[ARENA_G.MA4] (unattributed): He thinks that will save him, ha!
+[ARENA_G.MA5] (unattributed): Ha! He cannot tell where the Arena begins and ends!
+[ARENA_G.MA6] (unattributed): See how the savage lusts for the kill, like a primitive beast.
+[ARENA_G.S10] (unattributed): We’re not part of the show!
+[ARENA_G.S11] (unattributed): Don’t fight us!
+[ARENA_G.S12] (unattributed): Are you starting something?
+[ARENA_G.S13] (unattributed): Get back in the Arena!
+[ARENA_G.S14] (unattributed): Stop it!
+[ARENA_G.S15] (unattributed): No, not us!
+[TAUNT_G.10] (unattributed): Pray that the savage doesn’t die too fast ladies and gentlemen!
+[TAUNT_G.20] (unattributed): See what happens to those who oppose the Glorious Empire!
+[TAUNT_G.30] (unattributed): His death will be a lesson to all!
+[TAUNT_G.40] (unattributed): I ask you good citizens, what kind of creature is protected by... vermin?
+[TAUNT_G.50] (unattributed): Watch his pathetic struggle against the forces of our great Emperor Solarius!
+[TAUNT_G.60] (unattributed): All Nordbergians are good for is fighting and dying! The Demon Lord is no better!
+[TAUNT_G.70] (unattributed): His puny magic is nothing here! Nothing!
+[TAUNT_G.80] (unattributed): Well, he can summon all the rats he wants but it won’t do him any good, will it?
+[TAUNT_F.10] (unattributed): See how he falters!
+[TAUNT_F.20] (unattributed): He willows to the Empire! And bows to Solarius!
+[TAUNT_F.30] (unattributed): Pay close attention ladies and gentlemen, soon he will be grovelling on the ground!
+[TAUNT_F.40] (unattributed): The savage and his vermin army are finished!
+[TAUNT_F.50] (unattributed): See how he weakens good Citizens!
+[TAUNT_F.60] (unattributed): The Demon Lord is not long for this world!
+[TAUNT_W.10] (unattributed): Do not fear, Citizens. His victories will not last long!
+[TAUNT_W.20] (unattributed): At least he’s making it a proper fight. Not for much longer, I guarantee!
+[TAUNT_W.30] (unattributed): Victory is fleeting... at least for him!
+[TAUNT_W.40] (unattributed): We have plenty more surprises for him, mark my words!
+[TAUNT_W.50] (unattributed): Do not change your bets ladies and gentlemen. Anything could happen!
+[TAUNT_W.60] (unattributed): He actually thinks he’s winning!
+[TAUNT_GR.M1] (unattributed): This one should be good!
+[TAUNT_GR.M2] (unattributed): I’ve got 50 gold on you so don’t die!
+[TAUNT_GR.M3] (unattributed): He’s the Evil of Everlight!
+[TAUNT_GR.M4] (unattributed): Show me some blood!
+[TAUNT_GR.M5] (unattributed): Bah, I want to see the dancing Yetis!
+[TAUNT_GR.F1] (unattributed): Ohh, I like the look of him!
+[TAUNT_GR.F2] (unattributed): They say he’s the Nightmare of Nordberg!
+[TAUNT_GR.F3] (unattributed): Hope he lasts longer than the last lot!
+[TAUNT_GR.F4] (unattributed): I’ve got 100 gold against you, so die anytime you like!
+[TAUNT_GR.F5] (unattributed): I paid good money for these tickets, I want to see entrails!
+[TAUNT_FR.M1] (unattributed): He’ll soon be finished!
+[TAUNT_FR.M2] (unattributed): Come on! Fight!
+[TAUNT_FR.M3] (unattributed): Don’t die yet!
+[TAUNT_FR.M4] (unattributed): He’s rubbish!
+[TAUNT_FR.M5] (unattributed): Fight! Fight!
+[TAUNT_FR.F1] (unattributed): Hmpf, some opening act!
+[TAUNT_FR.F2] (unattributed): Get on with it!
+[TAUNT_FR.F3] (unattributed): You can do better than that!
+[TAUNT_FR.F4] (unattributed): Barbarian scum!
+[TAUNT_FR.F5] (unattributed): Don’t know what all the fuss was about!
+[TAUNT_WR.M1] (unattributed): I thought these savages were meant to be tough!
+[TAUNT_WR.M2] (unattributed): Hurry up and die!
+[TAUNT_WR.M3] (unattributed): Come on!
+[TAUNT_WR.M4] (unattributed): Get it over with!
+[TAUNT_WR.M5] (unattributed): Is it too late to change my bet?
+[TAUNT_WR.F1] (unattributed): He’s pretty good, isn’t he?
+[TAUNT_WR.F2] (unattributed): This’ll be over soon!
+[TAUNT_WR.F3] (unattributed): Come on barbarian, fight!
+[TAUNT_WR.F4] (unattributed): You get ‘em!
+[TAUNT_WR.F5] (unattributed): Kill! Kill! Kill!
+[600.10] (unattributed): Right! Round two! Let’s add some vile magical beasts to the proceedings! 
+[600.20] (unattributed): Perhaps they can bring down the Demon Lord of Nordberg!
+[610.10] (unattributed): See how the magical beasts lust for the fight!
+[610.20] (unattributed): Their magic cannot save them!
+[610.30] (unattributed): The Empire is the only winner here!
+[ROUND2.M1] (unattributed): Funny looking creatures!
+[ROUND2.M2] (unattributed): Don’t like the look of those horns!
+[ROUND2.M3] (unattributed): They’ll do some damage!
+[ROUND2.M4] (unattributed): Ooh, it’s going to get good!
+[ROUND2.M5] (unattributed): Ugh! Filthy magical beasts!
+[ROUND2.F1] (unattributed): I can’t look. I can’t look!
+[ROUND2.F2] (unattributed): Awww I quite like unicorns!
+[ROUND2.F3] (unattributed): That's where all magical beasts should be, in the Arena.
+[ROUND2.F4] (unattributed): Hope they do better than the slaves!
+[ROUND2.F5] (unattributed): I hope this goes the distance. My ticket was so expensive!
+[700.10] (unattributed): Round three! Let’s step things up a bit and bring some serious muscle into the Arena. 
+[700.20] (unattributed): It’s the pride of the Empire! It’s the champion of the Arena! It’s the Gargantuan!
+[710.10] (unattributed): Do not fear, ladies and gentlemen you are perfectly safe. He isn’t!
+[710.20] (unattributed): Hold onto your seats good people! This is going to get bloody!
+[710.30] (unattributed): Gargantuan souvenirs will be available outside the main Arena doors!
+[ROUND3.M1] (unattributed): My, what a brute!
+[ROUND3.M2] (unattributed): Those are tough looking things!
+[ROUND3.M3] (unattributed): Well, that’s them finished!
+[ROUND3.M4] (unattributed): They’ll squash the lot of them!
+[ROUND3.M5] (unattributed): I’m really starting to enjoy this!
+[ROUND3.F1] (unattributed): Now that’s what a real man looks like!
+[ROUND3.F2] (unattributed): Wow, look at those things!
+[ROUND3.F3] (unattributed): Come on, you can take ‘em!
+[ROUND3.F4] (unattributed): Yes! Yes! Now comes the crushing!
+[ROUND3.F5] (unattributed): Tear their heads off!
+[800.10] (unattributed): Hmmm... still alive? Still alive? Well, um send in the next lot. Finish him!
+[810.10] (unattributed): The Demon Lord will not leave this Arena alive!
+[810.20] (unattributed): Ha! He thinks he could actually win this!
+[810.30] (unattributed): He cannot face down the Empire’s finest!
+[ROUND4.M1] (unattributed): They’re throwing everything at them!
+[ROUND4.M2] (unattributed): Break their bones!
+[ROUND4.M3] (unattributed): You’re for it now, lad!
+[ROUND4.M4] (unattributed): They’re putting up a hell of a fight!
+[ROUND4.M5] (unattributed): It’s going to be a bloodbath! Goodie!
+[ROUND4.F1] (unattributed): Things should get really interesting now!
+[ROUND4.F2] (unattributed): Smash ‘em!
+[ROUND4.F3] (unattributed): They can’t stand up to that lot, can they?
+[ROUND4.F4] (unattributed): There’s no surviving an attack like that!
+[ROUND4.F5] (unattributed): Finish them! Finish them!
+[900.5] (unattributed): What! WHAT? You should be dead! Right... this will definitely finish you off. Bring in the Yeti!
+[900.10] (unattributed): There he is! There he is! I was very worried about you.
+[900.20] (unattributed): No you weren’t, you just went off to paint your nails! I -
+[900.30] (unattributed): We were all very worried, Sire!... But we’ve got you back now. Hmmm looks like you’ve found our old friend.
+[900.40] (unattributed): Maybe he can be useful to you, if you use your Evil Presence spell!
+[900.40B] (unattributed): Maybe he can be useful to you!
+[910.10] (unattributed): Crush the Demon Lord! Crush him at once!
+[910.20] (unattributed): I demand his death!
+[910.30] (unattributed): That creature should be tearing him apart!
+[ROUND5.M1] (unattributed): Will you look at the size of that creature!
+[ROUND5.M2] (unattributed): I thought those things didn’t exist!
+[ROUND5.M3] (unattributed): My money’s on the Yeti!
+[ROUND5.M4] (unattributed): Ohhh, I’ve been looking forward to this part!
+[ROUND5.M5] (unattributed): That thing’ll make mincemeat out of him!
+[ROUND5.F1] (unattributed): Oh my god!
+[ROUND5.F2] (unattributed): What is that thing!
+[ROUND5.F3] (unattributed): Is it real?
+[ROUND5.F4] (unattributed): Where did they find that beast?
+[ROUND5.F5] (unattributed): Tell me when it’s over!
+[920.10] (unattributed): Yeti’s are hugely strong and this one seems even bigger than normal! 
+[920.20] (unattributed): Fighting him by hand will be useless Sire, but maybe your Evil Presence spell can bring him down to size!
+[930.10] (unattributed): The beast is broken! Bring in the seals! Get him fired up!
+[940.10] (unattributed): See how the true nature of the beast is revealed!
+[940.20] (unattributed): That’s it! That’s it!
+[940.30] (unattributed): I want to see him ripping things apart! Especially the Demon Lord of Nordberg!
+[950.10] (unattributed): Keep him angry! More seals! More seals!
+[R5PANIC.M1] (unattributed): Noooo! Noooooo!
+[R5PANIC.M2] (unattributed): You’re not meant to kill your audience, idiot!
+[R5PANIC.M3] (unattributed): Aggg I don’t like audience participation!
+[R5PANIC.M4] (unattributed): Yes! Kill ‘em! Kill ‘em!
+[R5PANIC.M5] (unattributed): I say, I paid good money for this seat!
+[R5PANIC.F1] (unattributed): Don’t kill me!
+[R5PANIC.F2] (unattributed): Not us!
+[R5PANIC.F3] (unattributed): Guards! Help! He’s out of control!
+[R5PANIC.F4] (unattributed): What are you doing?
+[R5PANIC.F5] (unattributed): Get back in the Arena barbarian!
+[R5SUB.M1] (unattributed): I’m with you!
+[R5SUB.M2] (unattributed): Always wanted to be in the Arena!
+[R5SUB.M3] (unattributed): I’ll fight with you!
+[R5SUB.M4] (unattributed): All yours, Master!
+[R5SUB.M5] (unattributed): Take me with you!
+[R5SUB.F1] (unattributed): I am your humble slave!
+[R5SUB.F2] (unattributed): I’m on your side!
+[R5SUB.F3] (unattributed): My Master!
+[R5SUB.F4] (unattributed): I want to cause chaos with you!
+[R5SUB.F5] (unattributed): Command me! Command me!
+[960.10] (unattributed): Quick, Emperor Solarius, back to the palace!
+[960.20] (unattributed): Guards power up the shield!
+[960.30] (unattributed): Grubby’s managed to dig a new Gate into the Arena, Sire. But it won’t stay open once that shield goes up!
+[970.10] (unattributed): That beast is in the way of the hive! But now he’s back to normal size subdue him or kill him outright.
+[R5FLEE.M1] (unattributed): What a show! What a show!
+[R5FLEE.M2] (unattributed): I’m going to hide under my bed!
+[R5FLEE.M3] (unattributed): Run! Run!
+[R5FLEE.M4] (unattributed): That was amazing!
+[R5FLEE.M5] (unattributed): The whole place is falling apart!
+[R5FLEE.F1] (unattributed): That was worth the price of a ticket!
+[R5FLEE.F2] (unattributed): He’s escaping, he’s escaping!
+[R5FLEE.F3] (unattributed): I’m going to hide under my bed!
+[R5FLEE.F4] (unattributed): Solarius save us; he’s coming for us all!
+[R5FLEE.F5] (unattributed): Runnnnnnnnnnn!
+[980.10] (unattributed): Hurry, Sire. The shield is going up!
+[980.20] (unattributed): You need to get the Hive and find Grubby’s Gate!
+[980.30] (unattributed): The Gate won’t hold once the shield goes back up!
+[990.10] (unattributed): Get that Blue Hive!
+[990.20] (unattributed): Blue Hive, Sire, now!
+[995.10] (unattributed): Well, not the most inconspicuous infiltration I’ve seen, but at least we’ve got our hive back!
+[995.20] (unattributed): And it seems you’ve a flair for the stage, Sire.
+[995.30] (unattributed): Now the Blues are back in the Evil family fold, you should return to the Wastelands and continue to retrieve those Towerheart shards!
+[MP.1] (unattributed): Right send in the next wave!
+[MP.2] (unattributed): Hmm, you want some more do you, send in the next lot!
+[MP.3] (unattributed): Let’s make this a little more interesting!
+[MP.4] (unattributed): Still alive? Right let’s see if the next batch fairs any better.
+[MP.5] (unattributed): Come on step things up a bit. Let’s see how you deal with the next round!
+[MP.6] (unattributed): Got the taste for battle have you? Send in the next batch!
+[MP.7] (unattributed): Don’t keep the audience waiting, bring on the next round!
+[MP.8] (unattributed): Seems you can’t get enough slaughter. Right line up the next lot!
+[MP.9] (unattributed): Not dead yet? Well, you soon will be! Next!
+[MP.10] (unattributed): Open the gates for the next round!
+[MP.11] (unattributed): Do hurry up and die, will you? Send in the next lot!
+[MP.12] (unattributed): Let’s keep things going. Get the next batch in there!
+[MP.13] (unattributed): Hungry for more? Don’t worry we’ve got plenty to throw at you. Next!
+[MP.14] (unattributed): You knock ‘em down and I’ll just line them up again! Next wave!
+[MP.15] (unattributed): Right next lot, get moving!
+[MP.16] (unattributed): Don’t go thinking you’ve won yet! Send in the next lot!
+[MP.17] (unattributed): Well, they were easy. Just softening you up! Next!
+[MP.18] (unattributed): I can do this all day, you know! Next round!
+[MP.19] (unattributed): You’re bound to die sooner or later! Right, next wave, get in there!
+[MP.20] (unattributed): Next round! Come on! Come on!

@@ -1,0 +1,24 @@
+[100.10] ELF_MINE_SLAVE_1: Praise the Mother Goddess!   <<Trigger: As the player breaks down the barrier to the mine.>>
+[100.20] ELF_MINE_SLAVE_2: We haven’t had a breath of fresh air for days.
+[100.30] ELF_MINE_SLAVE_3: Search for the others, they still might be alive.
+[.] (unattributed): ---
+[101.10] VELVET: Get that gold back my darling Lord, and buy me some pretty things!   <<Trigger: After the giant slug cut-scene if the player has Velvet in their tower.>>
+[.] (unattributed): ---
+[102.10] ROSE: Poor creature’s going to get a stomach ache, Sire. Best to put it out of its misery!   <<Trigger: After the giant slug cut-scene if the player has Rose in their tower.>>
+[.] (unattributed): ---
+[103.10] GNARL: All Evil domains need funding, Master. This should do very nicely!   <<Trigger: The player kills the first giant slug.>>
+[200.10] ELF_MINE_SLAVE_4: If it’s gold you seek, there is plenty deeper in the mine.   <<Trigger: the player passes through the gate which opened after he killed the slugs. There are Elf slaves on the other side.>>
+[200.20] ELF_MINE_SLAVE_5: I’d rather die in a slug’s belly than let Goldo have it. His greed has cost too many lives.
+[.] (unattributed): ---
+[201.10] ELF_MINE_SLAVE_6: Help us...help us!   <<Note: At the end, the player finds the remaining elves locked behind a gate next to a large room that contains the last cart and two giant slugs.  Trigger: Player enters area.
+>>
+[201.20] ELF_MINE_SLAVE_7: The gold is yours, we don’t want it.   <<Trigger: Player enters area.>>
+[201.30] ELF_MINE_SLAVE_6: Slay those beasts and free us.   <<Trigger: Player enters area.>>
+[201.40] ELF_MINE_SLAVE_7: The air in here is so foul... let us return to the Forest.   <<Trigger: Player enters area.>>
+[.] (unattributed): ---
+[202.10] ELF_MINE_SLAVE_6: No! No!   <<2nd time as 'Nooooooooooooo!' Followed by screams and gurgling noises. | Trigger: Slugs start to attack the Elves>>
+[.] (unattributed): ---
+[203.10] ELF_MINE_SLAVE_6: Blessings be upon you! We must find the others!   <<Trigger: Player frees the Elves.>>
+[.] (unattributed): ---
+[204.10] GNARL: Everyone likes gold, Sire. But this King Goldo seems obsessed with it!   <<Trigger: As the player is moving the last mine cart.>>
+[204.20] GNARL: Hmm. There’s nothing to buy around here... I wonder what he’s doing with it.

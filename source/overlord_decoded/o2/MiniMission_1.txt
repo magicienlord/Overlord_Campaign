@@ -1,0 +1,55 @@
+[100.10] (unattributed): There’s the ship! It’s frozen in the ice.
+[100.20] (unattributed): It’s him!
+[100.30] (unattributed): Quick, let’s get out of here!
+[110.10] (unattributed): Get him!
+[110.15] (unattributed): Attack!
+[110.20] (unattributed): Bash! Bash!
+[110.25] (unattributed): Let’s be having ya!
+[110.30] (unattributed): Yaaaaaaaah!
+[110.35] (unattributed): Bring him down!
+[110.40] (unattributed): Quickly, get him!
+[110.45] (unattributed): Come on!
+[110.50] (unattributed): Crush the Midwinter demons!
+[110.55] (unattributed): Attack! Attack!
+[110.60] (unattributed): Get ‘em!
+[110.65] (unattributed): Smash ‘em to pieces!
+[110.70] (unattributed): I’ll kill the lot of ya!
+[110.75] (unattributed): Aaatttaaaccck!
+[110.80] (unattributed): Come on! Bash the demons!
+[120.10] (unattributed): Black gloopy stuff is tar, Sire. Highly flammable! And look, Gnomes, the perfect firelighters! 
+[120.20] (unattributed): Try getting your Reds to target them!
+[130.10] (unattributed): See how the ice melts, Sire. It’s your own personal steam bath!
+[200.10] (unattributed): It’s him! The witch-boy! I mean man... I mean thing!
+[200.20] (unattributed): Run! Run!
+[200.30] (unattributed): Wait! Perhaps he is not without mercy.
+[200.40] (unattributed): Sorry for the fuss, Sire. Folks around here are a little allergic to death.
+[200.50] (unattributed): Perhaps with a little persuasion they can help you in your quest. Maybe by doing this…
+[210.10] (unattributed): What did Mother Earth ever do to you, man? Why must you choose this path of destruction?
+[220.10] (unattributed): No! No! Don’t light that near the oil well you foolish human!
+[220.20] (unattributed): Seems like a sure...fire solution for melting ice quickly, Lord!
+[230.10] (unattributed): Look at all that oil, Sire; just spraying into the air waiting to be made into pretty fountains of pain and destruction!
+[240.10] (unattributed): Ah, that’s some evil Overlording right there, Master!
+[240.20] (unattributed): Look, the ship is breaking free from the ice! I’ll get the Minions to make it seaworthy for you.
+[250.10] (unattributed): I hope my prattling does not offend your ears Lord, but the ship is free from ice now. 
+[250.20] (unattributed): It needs some repairs, but we, your loyal servants, will take care of this. 
+[250.30] (unattributed): We'll let you know when she’s ready, Lord.
+[P.M9] (unattributed): Agg no! We didn’t mean it, we didn’t mean it!
+[P.M10] (unattributed): Agggg, we weren’t really gonna go through with it.
+[P.M11] (unattributed): Enslave me, enslave me, just don’t kill me!
+[P.M12] (unattributed): The darkness approaches!
+[P.M13] (unattributed): We’re for it now!
+[P.F9] (unattributed): It weren’t my idea!
+[P.F10] (unattributed): I wasn’t in on it, honestly!
+[P.F11] (unattributed): Please don’t kill me!
+[P.F12] (unattributed): I’m sorry! I’m sorry!
+[P.F13] (unattributed): What are you going to do to me?
+[S.M9] (unattributed): I will aid you, Lord.
+[S.M10] (unattributed): Your wish is my command.
+[S.M11] (unattributed): I will clear the path.
+[S.M12] (unattributed): I will melt the ice.
+[S.M13] (unattributed): I live to serve you.
+[S.F9] (unattributed): I will burn for you.
+[S.F10] (unattributed): No ice shall stand in your way.
+[S.F11] (unattributed): I bow before you.
+[S.F12] (unattributed): I will clear the path.
+[S.F13] (unattributed): I will obey.

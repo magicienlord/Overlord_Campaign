@@ -1,0 +1,25 @@
+[100.10] GNARL: The Viridian Caverns! The Green Minions must have made their home here. You must follow them, Master!   <<Trigger: After the Viridian Caverns cut-scene has played.>>
+[100.20] BROWN_MINION: Follow! Follow!   <<Excitedly.>>
+[.] (unattributed): ---
+[101.10] GNARL: Be wary, Dark Lord, there are rumoured to be creatures in these caverns far deadlier than those blooms.   <<Trigger: Once the player has entered the Viridian Caverns>>
+[.] (unattributed): ---
+[102.10] GNARL: Being an observant Lord, I’m sure you’ve noticed that our Green friends are immune to all kinds of poisons.   <<Trigger: First trigger point in the level (designer to decide.) Note: These three description chunks about the Greens can be triggered at various points during the level. Important Note: All these mus>>
+[102.15] GNARL: They can also destroy the plants that produce these noxious fumes.
+[102.20] GNARL: The Greens are also the sneakiest Minions. They can back-stab faster than a Halfling at a family reunion.   <<Trigger: Second trigger point in the level (designer to decide.)>>
+[102.30] GNARL: Greens are also known for their poor hygiene. Look at this place! Pah, even Evil creatures should have standards!   <<Trigger: Third trigger point in the level (designer to decide.)>>
+[.] (unattributed): ---
+[103.10] GNARL: Master, use the Greens to pick up the Green Hive! We will need it to summon more of them!   <<Trigger: The player leaves the Tower Object area without picking up the Tower object.>>
+[.] (unattributed): ---
+[104.10] GNARL: Aren’t you forgetting something, Sire?   <<Trigger: The player leaves the Viridian Caverns without picking up the Tower object. This will be after the troll encounter... which may only trigger if you’ve got the Green Minions with you anyway.>>
+[.] (unattributed): ---
+[105.10] GNARL: Ah, a wild Troll!  Time to test the Greens’ ambushing skills!   <<Trigger: Towards the end of the Viridian Caverns a troll will lumber into it and the player will need to use the Green Minions on its back.>>
+[.] (unattributed): ---
+[106.10] GNARL: A wild Troll! Quick, direct the Greens onto its back. They have a furious back-stab attack!   <<Trigger: Towards the end of the Viridian Caverns a troll will lumber into it and the player will need to use the Green Minions on its back. ALTERNATE LINE>>
+[106.20] BROWN_MINION: Stab it! Stab it! Stab it!   <<Excited.>>
+[.] (unattributed): ---
+[107.10] GNARL: Ah, this is Green Lifeforce, Sire. Use it to summon Green Minions to your side.   <<Trigger: The first time the player picks up / is given Green Lifeforce.
+
+>>
+[108.10] GNARL: Sweep your Greens into those vile weeds, Sire. They will clear them for you.   <<Trigger: The player encounters a poison bloom barrier after he has acquired Green Minions.>>
+[109.10] GNARL: Master, your Greens like a bit of discipline. When you place them on a Guard Marker they will grow in power and become almost invisible to enemies...   <<Trigger: The player has killed the Troll.>>
+[109.20] GNARL: Well apart from their permanent odour of rotting flesh and fish-heads!   <<Trigger: The player has killed the Troll.>>

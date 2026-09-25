@@ -1,0 +1,160 @@
+[100.10] GNARL: All hail the return of the Overlord. The one true Evil!   <<Trigger: The player enters the Tower after he has been ordered back by Gnarl. At this point the player will not be able to leave the Tower area for the rest of the game. Gnarl shuffles up to the playe>>
+[100.20] GNARL: Oh no, not you, the    <<Shot on the Player.>>
+[100.30] GNARL: I’ve always been loyal to Evil. I don’t ask questions. Evil is as Evil does.   <<Camera glides up over Gnarl’s head and reveals the WIZARD sitting on the Player’s throne. The Mistresses either side of him.
+1) If the player spurned Velvet then she will be standing next to the Wizar>>
+[100.40] GNARL: Welcome back, Sire.   <<Gnarl reaches the WIZARD’S Throne. (To the Wizard) 
+>>
+[100.50] WIZARD: I am home... Even if I did have to hitch a ride inside this wizened and weary body.   <<The Wizard acknowledges Gnarl with a small ‘it was nothing’ hand gesture. >>
+[200.10] WIZARD: I believe you’ve met my daughters... Velvet.   <<Trigger: Continues from introduction cut-scene if the player chose Rose at the Citadel.>>
+[200.20] VELVET: I barely recall him Daddy.   <<Camera cuts to Velvet who looks slightly bored.>>
+[200.30] WIZARD: She has been most useful to me. And then there’s Rose. Sadly, she has not been so cooperative.   <<Camera cuts back to the Wizard.>>
+[200.40] ROSE: As if I could side with someone that thinks my sister is useful   <<Camera cuts to Velvet who looks agitated.>>
+[300.10] WIZARD: I believe you’ve met my daughters... Rose.   <<Trigger: Continues from introduction cut-scene if the player chose Velvet at the Citadel.>>
+[300.20] ROSE: As if I’d let you get away with ditching me for that harpy in black lace!   <<Camera cuts to Rose who looks angry.>>
+[300.30] WIZARD: She has been most useful to me. And then there’s Velvet. I don’t think she’s quite made up her mind, yet.   <<Camera cuts back to the Wizard.>>
+[300.40] VELVET: Well, a girl has to keep her options open, my darling!   <<Camera cuts to Velvet who looks slightly bored. >>
+[400.10] WIZARD: You thought you’d killed me, didn’t you? You and your hero friends!   <<Trigger: Continues on from the end of either Scenario 1 or Scenario 2 above. The WIZARD smiles smugly>>
+[400.20] WIZARD: But I’d planned a little trip, you see... really get under Good’s skin... literally!
+[400.30] WIZARD: That fool Wizard thought he’d won, until I purged his very soul and became one with his mortal
+[400.40] GNARL: Now    <<Cuts to Gnarl>>
+[400.50] WIZARD: One by one the others fell to my corrupting influence!
+[400.60] WIZARD: Those walls of    <<Cut to Velvet who yawns and looks at her nails.>>
+[400.70] WIZARD: And as for you...You fell and they left you behind in their desperation to become heroes.   <<Heroes' pronounced in a disgusted tone.>>
+[400.80] WIZARD: I gave you a second chance... a different path. You were of use to me, but now you’re just in my way!
+[400.90] WIZARD: Minions!   <<Calling out.>>
+[400.100] GUARD_MINION: Master!   <<The Minion Guards/Jester run towards the Wizard. >>
+[400.110] GUARD_MINION_1: Master!
+[400.120] MINION_JESTER: We are your Minions, Sire, he was nothing compared to    <<Sycophantic.>>
+[400.130] WIZARD: I believe you’ve been borrowing    <<Smug>>
+[400.140] WIZARD: Now I shall eliminate your    <<The Wizard extends a hand, a blast of energy/electricity shoots towards the player, bounces off and into the Wizard.
+The wizard stands up purposefully. After the line the wizard appears to be summonin>>
+[500.10] ROSE: Master, while you still have power left, I can speak directly to you.   <<Trigger: Continues from the end of Exposition Scene 1 if Rose is the player's Mistress. Note: This needs to be given a slight effect so it’s obvious that this is happening in the player’s head (as wit>>
+[500.20] ROSE: There must be a way to stop him... I’ve got it, the Tower Heart!
+[500.30] WIZARD: Rose! Where are you going? Don’t make me kill you!   <<Trigger in scene - Rose runs off into the spawning pit. The Wizard breaks out of his spell. After line the wizard teleports off.>>
+[600.10] VELVET: Hey, sweet metal cheeks, while you still have power left, I can speak directly to you.   <<Trigger: Continues from the end of Exposition Scene 1 if Velvet is the player's Mistress. Note: This needs to be given a slight effect so it’s obvious that this is happening in the player’s head (as w>>
+[600.20] VELVET: There must be a way to stop him... I’ve got it, the Tower Heart!
+[600.30] WIZARD: Velvet! Where are you going?  Don’t make me kill you!   <<Trigger in scene - Velvet runs off into the spawning pit. The Wizard breaks out of his spell. After line the wizard teleports off.>>
+[700.10] WIZARD: Foolish girl, you have damaged the Tower Heart! Hmm you always were the smart one. If only you’d joined   <<Trigger: The player enters the spawning pit area. The Tower Heart is floating above the spawning pit, flickering and flashing. This should cause the odd rumble and shake. Scenario 1 Rose went after th>>
+[700.20] WIZARD: No matter, once I absorb your energy, I will restore it to its full power! Minions!   <<After line the wizard calls his evil minions.>>
+[.] (unattributed): ---
+[701.10] WIZARD: Foolish girl, you have damaged the Tower Heart. Never trust family!   <<Trigger: The player enters the spawning pit area. The Tower Heart is floating above the spawning pit, flickering and flashing. This should cause the odd rumble and shake. Scenario 2 if Velvet went aft>>
+[701.20] WIZARD: No matter, once I absorb your energy, I will restore it to its full power! Minions!   <<After line the wizard calls his evil minions.>>
+[800.10] WIZARD: You could have been a hero... just look at you now!   <<Cut-scene structured as follows: 1)The wizard flees the area and his warp spell causes an explosion opening up the second spawning put area and leaving all his spells behind. 
+2)The player is shown mo>>
+[.] (unattributed): ---
+[801.10] ROSE: I think I’ve managed to weaken the Tower Heart! You need to go after him    <<Continues from the cut-scene where the player retrieves their spells. Scenario 1 If Rose is the player’s Mistress>>
+[801.20] ROSE: Get your Minions back, that’s the only way you’ll stand a chance.
+[801.30] VELVET: Yuck! That room is full of beetles, they’re getting stuck in my boots!
+[801.40] GNARL: Nothing like a little snack with your entertainment!   <<Licking his lips. | After dialogue Velvet, Rose and Gnarl will separate into different areas of this first spawning pit. They shouldn’t be targetable, but the player will get ambient dialogue from the>>
+[.] (unattributed): ---
+[802.10] VELVET: I’ve weakened the Tower Heart, darling. Now you need to go after    <<Continues from the cut-scene where the player retrieves their spells. Scenario 2 If Velvet is the player’s Mistress>>
+[802.20] VELVET: Get your Minions back, that’s the only way you’ll stand a chance.
+[802.30] ROSE: There are bugs in there! Does no one sweep up around here?
+[802.40] GNARL: Nothing like a little snack with your entertainment!   <<Licking his lips. | After dialogue Velvet, Rose and Gnarl will separate into different areas of this first spawning pit. They shouldn’t be targetable, but the player will get ambient dialogue from the>>
+[900.10] ROSE: He may look like him, but that’s not my father.   <<Trigger: The player nears Rose and she IS his chosen Mistress. Note this line should trigger first.>>
+[900.20] ROSE: My father was the Wizard...the    <<Trigger: The player nears Rose and she IS his chosen Mistress. >>
+[900.30] ROSE: He was the one who sent those Raiders after me back in Castle Spree. He wanted me to   <<Trigger: The player nears Rose and she IS his chosen Mistress. >>
+[900.40] ROSE: I think you can definitely take him... probably... well, maybe.   <<Trigger: The player nears Rose and she IS his chosen Mistress. >>
+[900.50] ROSE: Don’t let him take my little Cherubs! The Minions are ours now!   <<Trigger: The player nears Rose and she IS his chosen Mistress. >>
+[900.60] ROSE: You can’t let him take this Tower, I was just making it comfy!   <<Trigger: The player nears Rose and she IS his chosen Mistress. >>
+[.] (unattributed): ---
+[901.10] ROSE: I’m going to help my father bring order to the world.   <<Trigger: The player nears Rose and she is NOT his chosen Mistress.>>
+[901.20] ROSE: Evil knows how to get things done! Good only knows how to find Evil!   <<Trigger: The player nears Rose and she is NOT his chosen Mistress.>>
+[901.30] ROSE: You chose my sister... my sister!    <<Trigger: The player nears Rose and she is NOT his chosen Mistress.>>
+[901.40] ROSE: I know how Evil should    <<Trigger: The player nears Rose and she is NOT his chosen Mistress.>>
+[901.50] ROSE: Father’s a little different now... but at least he’s around!   <<Trigger: The player nears Rose and she is NOT his chosen Mistress.>>
+[901.60] ROSE: I’m not one for revenge… my father will do it for me!   <<Trigger: The player nears Rose and she is NOT his chosen Mistress.>>
+[1000.10] VELVET: Sorry, Sweetie, he just barged in, with that prissy ice maiden in tow!   <<Trigger: The player nears Velvet and she IS his chosen Mistress.>>
+[1000.20] VELVET: I don’t go with losers, my darling, so prove yourself!   <<Trigger: The player nears Velvet and she IS his chosen Mistress.>>
+[1000.30] VELVET: If you win... I’m all yours. If you don’t, well, you won’t mind, will you?!   <<Trigger: The player nears Velvet and she IS his chosen Mistress.>>
+[1000.40] VELVET: He looks like Daddy... I’d say that was reason enough to kill him!   <<Trigger: The player nears Velvet and she IS his chosen Mistress.>>
+[1000.50] VELVET: I thought we’d seen the last of my sister, but she’s always turning up where she’s not wanted!   <<Trigger: The player nears Velvet and she IS his chosen Mistress.>>
+[1000.60] VELVET: Don’t be too hard on Gnarl! The grotesque beast was only doing his job.   <<Trigger: The player nears Velvet and she IS his chosen Mistress.>>
+[.] (unattributed): ---
+[1001.10] VELVET: Old Daddy never had time for us before, always off smiting Evil, somewhere. New Daddy sees my potential!   <<Trigger: The player nears Velvet and she is NOT his chosen Mistress. Note this line should trigger first.>>
+[1001.20] VELVET: You chose her...    <<Trigger: The player nears Velvet and she is NOT his chosen Mistress. >>
+[1001.30] VELVET: You really backed the wrong horse, didn’t you Rose?   <<Trigger: The player nears Velvet and she is NOT his chosen Mistress. >>
+[1001.40] VELVET: Hmmm, this Tower reeks! That ugly old pixie can go for a start!   <<Trigger: The player nears Velvet and she is NOT his chosen Mistress. >>
+[1001.50] VELVET: Daddy’s going to buy me all the presents I want... especially the shiny ones!   <<Trigger: The player nears Velvet and she is NOT his chosen Mistress. >>
+[1001.60] VELVET: I’m sorry, who are you again?   <<Trigger: The player nears Velvet and she is NOT his chosen Mistress. >>
+[1100.10] GNARL: You were a decent Overlord, I might even miss you.   <<Trigger: The player nears Gnarl. These lines can be looped as required.>>
+[1100.20] GNARL: He’s been Overlord a lot longer than you. But you’re a fast learner.   <<Trigger: The player nears Gnarl. These lines can be looped as required.>>
+[1100.30] GNARL: Don’t be too despondent. You did quite well.   <<Trigger: The player nears Gnarl. These lines can be looped as required.>>
+[1100.40] GNARL: If you defeat him... I’ll gladly have you back... I mean    <<Trigger: The player nears Gnarl. These lines can be looped as required.>>
+[1100.50] GNARL: I must confess, you did impress me... you livened the place up.   <<Trigger: The player nears Gnarl. These lines can be looped as required.>>
+[1100.60] GNARL: I’ve grown quite fond of you... so try not to die.   <<Trigger: The player nears Gnarl. These lines can be looped as required.>>
+[1200.10] BROWN_MINION: Master? ... Master! MASTER!   <<Trigger: The Brown Minion Gate is activated by the player entering the Awakening room. Some Brown Minions run towards the Player.>>
+[.] (unattributed): ---
+[1201.10] WIZARD: Did you have fun killing off your old friends? Don’t you remember... how they left you for dead?   <<Trigger: The player enters Spawning Pit area 2. Note the Wizard’s voice echoes around the player as if he’s talking to him through the Tower.
+>>
+[1201.20] WIZARD: The Tower remembers. It has absorbed their whinings... their betrayal of you, listen to them!
+[1201.30] SIR_WILLIAM: Is he dead? Surely, no one could have survived that fall!   <<Player can hear the disembodied voices of the heroes all around him like past echoes.  
+
+>>
+[1201.40] OBERON: We must help him! He fought beside us. There may still be a chance.
+[1201.50] KAHN: No! We gotta go, take what we can and get outta here!
+[1201.60] SIR_WILLIAM: He’s right. We’ve vanquished the Evil. He has earned his rest. Leave him!
+[1201.70] WIZARD: Then my Minions found you, healed you; made you ready to become my successor...
+[1300.10] ROSE: A Minion Hive! That’s it, Sire, now find the others!   <<Trigger: The player finds the first Minion hive (this is regardless of colour) and ROSE is his mistress.>>
+[.] (unattributed): ---
+[1301.10] VELVET: It’s one of those Pixie Hive thingies... I think they’re important! Maybe you can find more!   <<Trigger: The player finds the first Minion hive (this is regardless of colour) and VELVET is his mistress.>>
+[1400.10] WIZARD: The    <<Trigger: The player enters the Dungeon. The Wizard is waiting for him.
+>>
+[.] (unattributed): ---
+[1401.10] WIZARD: Have another roast pig Melvin...have two... you’re a hero now.   <<Evil laugh after line. | Trigger: Can be used throughout the fight. Possibly when the Wizard is initiating an attack. Can be looped as needed
+>>
+[1401.20] WIZARD: I think she likes you Sir William, if you want to slip away with her, I won’t tell anyone!   <<Trigger: Can be used throughout the fight. Possibly when the Wizard is initiating an attack. Can be looped as needed
+>>
+[1401.30] WIZARD: That Jewel had everything, it turned out what she wanted   <<Trigger: Can be used throughout the fight. Possibly when the Wizard is initiating an attack. Can be looped as needed
+>>
+[1401.40] WIZARD: Have a rest Oberon, heroes need their rest.   <<Evil laugh before line. | Trigger: Can be used throughout the fight. Possibly when the Wizard is initiating an attack. Can be looped as needed
+>>
+[1401.50] WIZARD: Hard to see what you love taken away, isn’t it Kahn? When reason is gone, nothing is left but madness!   <<Trigger: Can be used throughout the fight. Possibly when the Wizard is initiating an attack. Can be looped as needed
+>>
+[1401.60] WIZARD: Goldo you can have all the gold you’ve ever wanted, my friend! No one would refuse a hero.   <<Trigger: Can be used throughout the fight. Possibly when the Wizard is initiating an attack. Can be looped as needed
+>>
+[.] (unattributed): ---
+[1402.10] WIZARD: The Good, they don’t know how close to Evil they really are.   <<Trigger: The player has delivered the killing blow to the wizard.>>
+[1500.10] GNARL: And so the Evil Overlord defeated the other Evil Overlord. And the land rejoiced...   <<In a fairly cutesy fairy-tale voice. | Trigger: The Wizard has exploded. Note: The player’s corruption level/stats/choices are stored at this point. The Player is lifted up as the evil energy from the>>
+[.] (unattributed): ---
+[1501.10] GNARL: His domain flourished.   <<Trigger: Start of corruption sequence, over shot of the Tower outside.>>
+[.] (unattributed): ---
+[1502.10] GNARL: The people were in awe of their great leader!   <<Ending Cut-Scene 1
+Moving: Shot of peasant in a rural area of the Halfling domain leaving gifts by a portal gate, with Minions. Peasants bow and scrape. Static: Static shot of peasants mid-bow leaving>>
+[.] (unattributed): ---
+[1503.10] GNARL: His Minions went forth and multiplied!   <<Ending Cut-Scene 2
+
+Moving: Pregnant woman in Heaven’s peak holding hands with Minion. Minion pats woman’s full tummy. The both smile.
+
+Static: Shot of Minion and pregnant woman in front of town house>>
+[.] (unattributed): ---
+[1504.10] GNARL: Evil became a part of everyday life!   <<Ending Cut-Scene 3
+
+Moving: Minions are shown in Spree riding around on the backs of peasants. Minion swinging on Inn Sign in background.
+
+Static: Static shot of a couple of Minions riding peasants. M>>
+[.] (unattributed): ---
+[1505.10] GNARL: The very land itself bore the mark of his Corruption!   <<Ending Cut-Scene 4
+
+Moving: A corrupted part of the Elf domain. A ghost elf cries sadly and is skewered by a bloody unicorn!
+
+Static: Static view of corrupted Elf domain. Ghost Elf shown mourning, blo>>
+[.] (unattributed): ---
+[1506.10] GNARL: The people lived in fear. They spoke his name in whispers!   <<Ending Cut-Scene 5
+ 
+Moving: Burning houses in Heaven’s Peak. People running, screaming. White priest holding their arms up as if calling out to their ‘Silent God’
+
+Static: Static show of burning hous>>
+[.] (unattributed): ---
+[1507.10] GNARL: He killed, pillaged and destroyed without mercy!   <<Ending Cut-Scene 6
+
+Moving: Gnarl stands in the dungeon of Heaven’s Peak. Several peasants are being tortured by Minions. 
+>>
+[1507.20] GNARL: He became Evil incarnate!   <<Close up on Gnarl who grins a huge horrible, evil grin.>>
+[1600.10] GNARL: He, his Mistress and all their little Minions lived happily ever after…   <<Sarcastic voice for '..happily ever after'. | Note: There will have to be two versions of this, one with ROSE in and one with VELVET in.
+
+Trigger: After the corruption sequences have ended. 
+
+Overlord>>
+[1600.20] GNARL: But Evil will    <<The sky darkens, red lightening flashes across the sky. Cut to the dungeon where the Minion Jester is kneeling in the middle of a circle of candles, mystic runes/pentagram surround him.
+The ground sha>>

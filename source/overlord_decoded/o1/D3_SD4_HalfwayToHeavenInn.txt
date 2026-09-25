@@ -1,0 +1,42 @@
+[100.10] WAITRESS_1: Welcome, Sire. It may be hell on earth out there, but at our inn the drinks are still cold.   <<Trigger: On entering the Halfway to heaven Inn for the first time.>>
+[100.20] WAITRESS_1: Our beer will take you halfway to Heaven. And I’m sure you will find something in here to show you the rest of the way.
+[100.30] MALE_DRINKER_1: Come on wench! We’re dying of thirst here!
+[101.10] MALE_DRINKER_1: I need something stronger.   <<Trigger: The player wanders around in the inn. Note:  These lines can be mixed up and played in any order, they should loop in different patterns and be played over both floors of the Inn. There shoul>>
+[101.20] MALE_DRINKER_2: Hey, you! I can take you... yes... yes I can!   <<Slurred, hiccup after 'Hey you!'. | Trigger: The player wanders around in the inn.>>
+[101.30] FEMALE_DRINKER_1: You wouldn’t think a Paladin would come here, but William’s a regular!   <<Trigger: The player wanders around in the inn.>>
+[101.40] MALE_DRINKER_1: They say that he summoned her... to satisfy his, well, you know!   <<Trigger: The player wanders around in the inn.>>
+[101.50] FEMALE_DRINKER_1: There are some strange things going on downstairs... and at the Citadel.   <<Trigger: The player wanders around in the inn.>>
+[101.60] MALE_DRINKER_2: You won’t take ‘em, they’re ours, they love us. They    <<Hiccup after 'em', sniff after 1st 'they love us'. Slurred. | Trigger: The player wanders around in the inn.>>
+[101.70] FEMALE_DRINKER_1: I remember when Sir William first came here, such a sweet man.   <<Trigger: The player wanders around in the inn.>>
+[101.80] MALE_DRINKER_1: I’d go and take a look myself, but my wife would kill me!   <<Trigger: The player wanders around in the inn.>>
+[101.90] FEMALE_DRINKER_1: I heard the plague started around here.   <<Trigger: The player wanders around in the inn.>>
+[101.100] MALE_DRINKER_2: You wanna fight huh? Do you? Well do you?   <<Trigger: The player wanders around in the inn.>>
+[102.10] MALE_DRINKER_2: Oh you want some, huh? You want a piece of me?   <<Drunkenly | Trigger: When the player hits a drinker or lady of the night.>>
+[200.10] RED_PRIEST_1: You’re not coming in here with your little goblins. We don’t cater for    <<Trigger: The player tries to go through the door with Minions and a metal gate drops down blocking his way. He hears a disembodied voice.>>
+[200.20] ROSE: Who’d want to get mixed up in    <<Lowered voice - half to herself>>
+[201.10] RED_PRIEST_1: Welcome to the Order of the Red Dawn. Do enjoy your stay.   <<Trigger: Player approaches the open door with no Minions and the door stays open.>>
+[202.10] RED_PRIEST_1: No goblins! For the last time, this isn’t that kind of establishment!   <<Trigger: The Minions try and go through the door, door closes.>>
+[203.10] FEMALE_TOWNSFOLK: Spoilsport!   <<Trigger: The player bashes down door 1. There’s the sound of a female screaming in surprise and a female peasant and two male peasants run out of the room. Spoken to the player.
+>>
+[204.10] BROWN_MINION: Bad sheepie!   <<Shocked. | Trigger: The player bashes down door 2. A sheep runs out of the door... shortly afterwards two male peasants run out after it.
+>>
+[300.10] RED_PRIEST_2: Help! She’s gone mad, she’s...   <<Trigger: Player enters area in which lots of male and female red cloaks are milling around. A red priest comes running out of the door.
+>>
+[300.20] RED_PRIEST_2: My...lady...   <<There’s a loud wailing scream and a succubus’ seduction attack (the line of flying kisses) comes through the door and hits the priest. He turns around looking love struck and walks back in.>>
+[300.40] RED_PRIEST_1: Please remember that the party at the Citadel is strictly by invitation only!
+[300.50] RED_PRIEST_1: No stragglers, no pleaders, no beggars, no blubbers, no exceptions!
+[301.10] GNARL: So William the Paladin has fallen from grace with a Succubus Queen, eh?   <<Trigger: following non interactive cut-scene.>>
+[301.20] ROSE: So she wasn’t enough...she won’t be happy about that!
+[301.30] GNARL: Fidelity is not a strong point in Succubae. I suspect we’ve found the source of the plague.
+[302.10] MALE_RED_PRIEST: Oh I hope her Majesty chooses me next!   <<Trigger: General ambient dialogue for red cloaks in this area. These can be looped as required.>>
+[302.20] MALE_RED_PRIEST: He didn't deserve such blessings!   <<Trigger: General ambient dialogue for red cloaks in this area. These can be looped as required.>>
+[302.30] MALE_RED_PRIEST: Maybe I’ll get invited to one of the parties at the Citadel!   <<Trigger: General ambient dialogue for red cloaks in this area. These can be looped as required.>>
+[302.40] MALE_RED_PRIEST: Oh, she is the beauteous one!   <<Trigger: General ambient dialogue for red cloaks in this area. These can be looped as required.>>
+[302.50] MALE_RED_PRIEST: We worship and adore her!   <<Trigger: General ambient dialogue for red cloaks in this area. These can be looped as required.>>
+[302.60] MALE_RED_PRIEST: Together we will herald an age of peace and love...   <<Trigger: General ambient dialogue for red cloaks in this area. These can be looped as required.>>
+[303.10] MALE_RED_PRIEST: Stop! Our Queen does not wish to see you!   <<Trigger: Player targets Minions on the black wheel, causing the red cloaks to attack.>>
+[303.20] MALE_RED_PRIEST: She must have peace to prepare for the party!
+[304.10] GNARL: This door can only be operated from the other side. It must lead straight to the Citadel, Sire.   <<Trigger: The player nears the area where Sir William the Black exited the room (the player cannot leave this way).>>
+[305.10] ROSE: Sire that girl William the Paladin was going to marry. Well... she’s my sister, Velvet.   <<Trigger: The player has killed the troll guard – As the player is making his way out.>>
+[305.20] ROSE: We don’t speak. Speaking usually means she’s got herself into some kind of trouble 
+[305.30] ROSE: Judging by this place, Velvet’s in it up to her silly little neck.

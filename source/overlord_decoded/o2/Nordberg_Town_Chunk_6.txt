@@ -1,0 +1,100 @@
+[100.10] (unattributed): Marius! My brother! Where did you suddenly come from?
+[100.20] (unattributed): Emperor Solarius is very concerned, brother, that you allowed Nordberg to be most violently raided by a magical barbarian! 
+[100.30] (unattributed): Er, the situation is under control, Marius! My men are rooting out the source!
+[100.40] (unattributed): Well they better had do! You were sent here to prove yourself as a governor!
+[100.50] (unattributed): And show you’ve got a backbone beneath that blubber!
+[100.60] (unattributed): He hasn’t. It’s blubber all the way through!
+[100.70] (unattributed): Ouuuch!
+[100.80] (unattributed): Silence, slave or I may find myself in need of the scrubbing brush again!
+[110.10] (unattributed): The situation is grave, Master. We don’t want these tin heads to dig through to our dark domain. 
+[110.20] (unattributed): We must retrieve the Reds from the Sanctuary  and remove those barriers!
+[113.10] (unattributed): Master we must find the Reds in the Nordberg Sanctuary so we can remove those fire barriers. 
+[113.20] (unattributed): Quick, Master head over the Bridge and get to the Sanctuary! Find our Reds!
+[116.10] (unattributed): Our Reds will have those barriers down in no time. Revenge will soon be yours, Master.
+[120.10] (unattributed): Now you have the Reds you can remove this barrier.
+[200.10] (unattributed): You’ll never be able to take down that Legion with that great wooden spike thrower of theirs.
+[200.20] (unattributed): It’ll skewer your Minions like cocktail sausages!
+[200.30] (unattributed): Right men, form up, form up! Let’s see those backbones!
+[200.40] (unattributed): Like Minions the brains of these humans appear easy to manipulate! Their leader is the key... take him out!
+[210.10] (unattributed): Look at them! Ha! They make headless chickens look composed! They should be much easier to pick off now.
+[210.20] (unattributed): You’re not strong enough to hack your way through that legion yet, Sire, especially not with that machine of theirs backing them up.
+[210.30] (unattributed): That legion is strong, but with that wooden spike launcher giving them cover, they’re invincible!
+[220.10] (unattributed): Fiiiiiiiire!
+[220.20] (unattributed): If you can remove this blockage, maybe you can find a way to get to that great wooden beast of theirs.
+[220.30] (unattributed): Seems very unfair to let the Empire have all the skewering fun!
+[220.40] (unattributed): I wonder where those tracks lead.
+[300.10] (unattributed): I expect your Reds and those explosive barrels would get on like a house on fire... or a soldier on fire! 
+[310.10] (unattributed): They’re not down there, they’re up here!
+[310.20] (unattributed): It’s the rebels!
+[310.30] (unattributed): There they are!
+[310.40] (unattributed): Rebels, over there!
+[310.50] (unattributed): It’s the barbarians!
+[310.60] (unattributed): Look, the rebels!
+[310.70] (unattributed): Hey look! It’s them!
+[310.80] (unattributed): Over there! It’s the barbarians!
+[310.90] (unattributed): Look alert men, we’ve got company!
+[320.10] (unattributed): Most humans can’t stand to see other humans on fire... it’s the smell you see. Use your Reds and get cooking!
+[320.20] (unattributed): If you can’t reach their leader, inflicting maximum carnage will still get them running!
+[330.10] (unattributed): A slathering wolf looking at you like you’re a giant ham can cause the most fearless of creatures to run for the hills!
+[330.20] (unattributed): Mount up your Browns!
+[340.10] (unattributed): Their shields are protecting them! Take out their leader or get your wolves up to speed and charge into the back of the formation.
+[340.20] (unattributed): It’s the weakest part!
+[340.30] (unattributed): Sire, those shields of theirs are protecting them from damage. 
+[340.40] (unattributed): Try taking down their leader or finding some wolf mounts to charge them with!
+[340.50] (unattributed): You’ve weakened them, Sire. But wolf mounts would help you bring them down even quicker!
+[350.10] (unattributed): Your Minions can push objects like those mine carts. 
+[350.20] (unattributed): The explosives in them could come in handy for a little selective destruction, eh?
+[400.10] (unattributed): Careful, Master, it’s very difficult to spread fear and mayhem with a large pointy stick through your stomach!
+[410.10] (unattributed): Try sending your Minions into that machine!
+[420.10] (unattributed): See if you can skewer several soldiers at once, Sire!
+[420.20] (unattributed): Shoot the barrels!
+[420.30] (unattributed): Now clear the way to that Netherworld gate!
+[430.10] (unattributed): Right, get out of that thing and get back to reclaiming Nordberg, Master!
+[490.10] (unattributed): So, what these peasants say is true... the Witch-boy’s back! Well, don’t think you’re getting in here!
+[490.20] (unattributed): My Empire troops will have a nice bit of sport cutting down you and your rat army!
+[490.30] (unattributed): This maybe a god-forsaken backwater, but it’s my god forsaken backwater! Do you hear me? Mine!
+[500.10] (unattributed): You know what to do, Sire. First crush the formation, then crush the town! 
+[510.10] (unattributed): Use your Reds, Dark One.
+[510.20] (unattributed): Now sweep in your wolves!
+[520.10] (unattributed): Head for the Town Hall, Sire!
+[530.10] (unattributed): I see the situation is well under control, brother!
+[530.20] (unattributed): It’s simply a...er...um...a trap. Yes, a trap to lull their tiny barbarian brains into a false sense of security!
+[530.30] (unattributed): Execute the, er, secret plan of attack!
+[530.40] (unattributed): The what?
+[530.50] (unattributed): The secret plan! The one we talked about.
+[530.60] (unattributed): Oh, that plan, right! Very well, Governor, very well.
+[530.70] (unattributed): Form into your regiments and spread out, men! Quickly, quickly now!
+[540.10] (unattributed): If I can’t see blood in the Arena, then I’ll see it in Nordberg.
+[540.20] (unattributed): The Emperor isn’t going to be happy about this!
+[540.30] (unattributed): Witch-boy, Witch-boy is it really you?
+[540.40] (unattributed): Crush him! Crush him! It’s almost time for my lunchtime bath!
+[540.50] (unattributed): Honestly, Borius, I thought you could handle Governorship of one tiny town!
+[540.60] (unattributed): You came back!
+[540.70] (unattributed): This is my town! And I am not at home to demons!
+[540.80] (unattributed): Get me out of here, before he makes me start scrubbing again!
+[550.10] (unattributed): Find a way up to those archers.
+[550.20] (unattributed): Ah ha! That siege tower looks just like what we need.
+[550.30] (unattributed): Jump onboard, get your Minions inside and head back to the Town Hall!
+[560.10] (unattributed): That’s it run ‘em down!
+[560.20] (unattributed): *Chuckle*
+[560.30] (unattributed): Minion Power!
+[560.40] (unattributed): Flee! Flee!
+[560.50] (unattributed): *Chuckle*
+[570.10] (unattributed): Brother, you were the one who sent me here, weren’t you?
+[570.20] (unattributed): I don’t know what you mean, Borius. 
+[570.30] (unattributed): You did! Just because you knew Solarius favoured me!
+[570.40] (unattributed): You blubbery fool. No wonder mama left!
+[570.50] (unattributed): Don’t you bring mama into this! That’s it I’m not speaking to you!
+[570.60] (unattributed): Fine!
+[570.70] (unattributed): Fine!
+[575.10] (unattributed): What! How dare you! You have insulted the Emperor... and my family! This will not go unpunished, mark my words!
+[575.20] (unattributed): Hmmm, considering the Empire condemns magic... that looked awfully magical to me!
+[580.10] (unattributed): Agg get me out of here, slave. Get me out at once!
+[580.20] (unattributed): No way! Even your crevices have crevices! Yuck!
+[580.30] (unattributed): What are you going to do with this ball of lard, Sire?
+[585.10] (unattributed): Ha! That’s what you get for imposing!
+[585.20] (unattributed): Hmmm. Think we can steal his shoes?
+[585.30] (unattributed): I was once crushed by a big statue, you know... back in the day... not completely, obviously.
+[590.10] (unattributed): I knew you’d return someday. I knew it! Thank you for freeing me. I should have put a hunting knife in his fat stomach long ago!
+[590.20] (unattributed): You know, I want to see bits of the world that aren’t covered in snow. How about you and I get reacquainted?
+[590.30] (unattributed): Perfect!

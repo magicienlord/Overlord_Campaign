@@ -1,0 +1,19 @@
+[100.10] (unattributed): <T=10>
+[100.20] (unattributed): A new Overlord you say…
+[100.30] (unattributed): This is the last hope for Evil? He’s a little short…
+[100.40] (unattributed): <T=10>
+[100.50] (unattributed): Destroyed an entire legion? Bodies... screams... Minion carnage... that *is* good news!
+[100.60] (unattributed): Yayyy!
+[100.70] (unattributed): Fire up the dragon!, That’ll melt him out of there!
+[200.10] (unattributed): The boy needs a proper evil upbringing!
+[200.20] (unattributed): And whilst Evil was nurtured in the bowels of the earth…
+[200.30] (unattributed): in its absence, came the rise of a new age; a new power. And thus began the reign of the Glorious Empire!
+[200.40] (unattributed): Everyone was happy. 
+[200.50] (unattributed): And those who weren’t, were killed, enslaved, or had other nasty things done to them!
+[200.60] (unattributed): But now it’s your time, Master. Time to crash the party... time to crush the Empire!
+[200.70] (unattributed): ...time to bring back the black!
+[200.80] (unattributed): Usher in the Dark Ages!
+[200.90] (unattributed): Let loose the Minions of war!
+[300.10] (unattributed): Because Evil always finds a way!
+[300.20] (unattributed): Now with 100% extra evil -More Minions - more Mistresses and more fluffy animals. 
+[300.30] (unattributed): ...to kill! 

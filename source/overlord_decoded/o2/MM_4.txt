@@ -1,0 +1,79 @@
+[RUN.M1] (unattributed): Hey wait for us!
+[RUN.M2] (unattributed): It’s leaving! It’s leaving!
+[RUN.M3] (unattributed): I don’t want to be on vacation any more.
+[RUN.M4] (unattributed): Don’t go without us.
+[RUN.M5] (unattributed): Stop! Stop!
+[RUN.M6] (unattributed): I’m still here! I’m still here!
+[RUN.M1B] (unattributed): I have to get to the docks!
+[RUN.M2B] (unattributed): Wait! Wait!
+[RUN.M3B] (unattributed): Stop the ship! I need to get on!
+[RUN.F1] (unattributed): We’re too late!
+[RUN.F2] (unattributed): Hurry! Hurry!
+[RUN.F3] (unattributed): Wait for me!
+[RUN.F4] (unattributed): Hurry! Hurry!
+[RUN.F5] (unattributed): They’re beasts, how could they leave me behind?
+[RUN.F6] (unattributed): I was not meant to run!
+[RUN.F1B] (unattributed): Don’t leave me behind.
+[RUN.F2B] (unattributed): I want to go home!
+[HOSTILE.M1] (unattributed): Agg no, he’s here! He’s here!
+[HOSTILE.M2] (unattributed): Just let me get to the ship!
+[HOSTILE.M3] (unattributed): Quick! Quick! Run!
+[HOSTILE.M4] (unattributed): Help! Heeeeeellp!
+[HOSTILE.M5] (unattributed): He’s trying to stop us leaving.
+[HOSTILE.M6] (unattributed): No stars, I’m giving this place no stars do you hear me?
+[HOSTILE.F1] (unattributed): Oh god, it’s him!
+[HOSTILE.F2] (unattributed): Let me by, you lout!
+[HOSTILE.F3] (unattributed): Ruuuuunnnn!
+[HOSTILE.F4] (unattributed): Don’t you try and stop me!
+[HOSTILE.F5] (unattributed): See, this is what happens when you run a resort badly!
+[HOSTILE.F6] (unattributed): We must get to the ships!
+[SAILED.M1] (unattributed): No! No! Stop!
+[SAILED.M2] (unattributed): I’m still here! I’m still here!
+[SAILED.M3] (unattributed): You’ve forgotten me!
+[SAILED.M4] (unattributed): Come back, you blighters!
+[SAILED.F1] (unattributed): I was just doing my hair!
+[SAILED.F2] (unattributed): You can’t go without me!
+[SAILED.F3] (unattributed): Turnaround at once!
+[SAILED.F4] (unattributed): Wait! Wait!
+[SOLDIER.10] (unattributed): Stand back, I’ll handle this!
+[SOLDIER.15] (unattributed): We’ll protect you!
+[SOLDIER.20] (unattributed): Don’t hassle the tourists!
+[SOLDIER.25] (unattributed): Just let ‘em get home!
+[SOLDIER.30] (unattributed): Oh you’re asking for it now!
+[SOLDIER.35] (unattributed): Don’t you touch ‘em!
+[SOLDIER.40] (unattributed): You’re not going to go any further!
+[SOLDIER.45] (unattributed): This is where it ends!
+[SOLDIER.50] (unattributed): Keep back, civilians.
+[SOLDIER.55] (unattributed): Let the muscle handle this!
+[500.10] (unattributed): They’ve blocked off the harbour, Master. You need to find something that’ll help you break through.
+[500.20] (unattributed): More Empire soldiers! They’re trying to dock their ships. Sink ‘em before they get a chance to, Sire!
+[500.30] (unattributed): Right, now get yourself a ship, Master. 
+[500.40] (unattributed): Chase down those tourists and teach them what happens when you try to run from an Overlord!
+[BLOCK.10] (unattributed): That ain’t yours!
+[BLOCK.15] (unattributed): Stay away from that ship!
+[BLOCK.20] (unattributed): I’ll scalp your little rats!
+[BLOCK.25] (unattributed): That belongs to the Empire!
+[BLOCK.30] (unattributed): You ain’t gonna follow them!
+[BLOCK.35] (unattributed): No ship for you!
+[BLOCK.40] (unattributed): That’s enough!
+[BLOCK.45] (unattributed): Oh, so somebody wants a rumble!
+[BLOCK.50] (unattributed): Oh no you don’t!
+[BLOCK.55] (unattributed): I'll kill the lot of you!
+[600.10] (unattributed): Now get after those flouters!
+[600.20] (unattributed): There it is and they’re stuck! 
+[600.30] (unattributed): The fate of their puny little cocktail guzzling lives is in your hands, Master.
+[600.40] (unattributed): You could ram ‘em and sink the thing... 
+[600.50] (unattributed): Or maybe just commandeer it and bring them back to the vacation home they love so much.
+[DES.M1] (unattributed): Aggg I can’t swim!
+[DES.M2] (unattributed): We’re sinking!
+[DES.M3] (unattributed): The swine!
+[DES.F1] (unattributed): The seawater will ruin my hair!
+[DES.F2] (unattributed): Swim for it!
+[DOM.M1] (unattributed): No! I don't want to go back with you!
+[DOM.M2] (unattributed): I don’t want to vacation on your island anymore!
+[DOM.M3] (unattributed): Damn, I thought we’d got away from him!
+[DOM.M4] (unattributed): Just let us go home, you swine!
+[DOM.F1] (unattributed): I don’t want to go back to Everlight!
+[DOM.F2] (unattributed): He’s taking us back to his island of darkness!
+[DOM.F3] (unattributed): I don’t want to go back to that place! Bad things happen there! 
+[DOM.F4] (unattributed): Beast! I’ve had enough of the tropics!

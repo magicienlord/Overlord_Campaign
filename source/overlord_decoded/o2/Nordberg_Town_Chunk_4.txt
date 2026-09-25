@@ -1,0 +1,121 @@
+[100.5] (unattributed): Do hurry up.  I have a warm oil bath and a large plate of quails' eyeballs to attend to!
+[100.10] (unattributed): Of course, Borius. I thought you'd like to meet some of the brave men who secured the magical creatures from the um... area.
+[100.15] (unattributed): And these are the lucky ones.
+[100.20] (unattributed): What’s up with you, Maximus?
+[100.25] (unattributed): No! I want you to call me Miss Trixiebelle Buttercup Fairy.
+[100.30] (unattributed): Er...um, are you serious?
+[100.35] (unattributed): And you can all come and visit me when I move ... er...into my mushroom house!
+[100.40] (unattributed): SIC Species Identity Crisis... It's a terrible thing.
+[100.45] (unattributed): We have no idea what this is. But it was well guarded.
+[100.50] (unattributed): Well, make sure it doesn't eat anyone and then bring it to my Town Hall!
+[100.55] (unattributed): Foolish fat human, that’s a Spell Stone, Sire. 
+[100.60] (unattributed): It unlocks the magical potential of any who possess it. Better not let it fall into Borius' pudgy hands!
+[200.5] (unattributed): You must find a Gate and send the Spell Stone back to the Netherworld, Lord!
+[200.10] (unattributed): Then we'll see what kind of power it contains!
+[200.15] (unattributed): Get that Spell Stone back to the Netherworld, Dark One.
+[200.20] (unattributed): It's not safe to keep carrying that Spell Stone around, Lord! Find a Gate!
+[201.5] (unattributed): This looks like a shard of Netherworld rock! Perhaps it will become active once the Netherworld accepts you as its true Overlord.
+[202.5] (unattributed): Welcome to the sanctuary, creature of magic.
+[202.10] (unattributed): No! Do not let this barbarian in, Dryad. He is an enemy to all that is fluffy and adorable, like this poor fellow here.
+[202.13] (unattributed): Just look at what happened when his little red demons got into the Sanctuary!
+[202.15] (unattributed): Don’t worry Lord, I’m sure you’ll find a way to by-pass that pesky plant person!
+[202.20] (unattributed): We need to get our Reds back!
+[210.10] (unattributed): Don’t know what happened here, but their loss is our gain! Quick, pick up that Spell Stone.
+[210.20] (unattributed): As soon as Grubby can build a Gate, you can send it back to the Netherworld.
+[210.30] (unattributed): Don’t worry you can return for the Reds later.
+[203.5] (unattributed): You’ll have to find a way to reach that wheel, Lord.
+[300.5] (unattributed): *Angrily squeeks in Gnomish* 
+[300.10] (unattributed): He says that Spell Stone we stole... belongs to the Gnomes.
+[300.15] (unattributed): *Squeeks in Gnomish* 
+[300.20] (unattributed): Er... now...He’s either declaring war... or he wants to marry you to his pet dormouse.
+[300.25] (unattributed): That's clearly an act of aggression Sire! It cannot be tolerated. Exterminate those squeakers!
+[310.10] (unattributed): Ah Nordberg. Nearly thirteen winters have passed since you were last there, Sire!
+[310.20] (unattributed): Soon you will return. Once more on the feasting of Midwinter’s Eve, to finish what you started!
+[310.30] (unattributed): Revenge is a dish best served cold... and screaming! 
+[301.5] (unattributed): Stop disturbing our Midwinter's feast you mutts!
+[301.10] (unattributed): This fire'll send you runnin'!
+[301.15] (unattributed): We'll burn the fleas off your backs!
+[301.20] (unattributed): They'll be no demons this Midwinter's Eve!
+[301.25] (unattributed): Roast those howling demons!
+[301.30] (unattributed): We'll give 'em something to howl about!
+[302.5] (unattributed): Another demon! Well you can burn too!
+[302.10] (unattributed): Stay away from our Midwinter's feast!
+[302.15] (unattributed): We've just got used to the Empire! We don't need the likes of you messing things up!
+[302.20] (unattributed): Has the demon Witch Boy returned?!
+[303.5] (unattributed): Ah ha, Grubby has managed to bring you a Netherworld Gate, Master. 
+[303.10] (unattributed): This will allow your Minions to transport the Spell Stone straight to the Netherworld.
+[320.10] (unattributed): You must restrain yourself, Master. The peons have set fires outside Nordberg to ward off their Midwinter’s demon! 
+[320.20] (unattributed): We’ll need to find our Red Minions before we can enter. Then we’ll really give ‘em something to fear!
+[400.5] (unattributed): Look at all that Evil energy surging into you, Lord.
+[400.10] (unattributed): I don’t quite know what spell it’s unlocked within you, Sire. If you run into some townsfolk, do feel free to use them as test subjects.
+[400.15] (unattributed): Consider this a warm up to your sweet revenge, Sire.
+[401.5] (unattributed): We've just got used to the Empire, don't you start messing things up!
+[401.10] (unattributed): Hey, don't he look a bit like that old Witch-boy?! 
+[401.15] (unattributed): The Empire'll protect us from demons like you!!
+[401.20] (unattributed): Don't you go spoiling our Midwinter's Eve!
+[402.5] (unattributed): Ahhh grovelling! Clearly the stone has unlocked the Evil Presence spell!
+[402.10] (unattributed): They’re now bound to your evil will, but if you’d held the spell for longer you’d have killed them outright!
+[402.15] (unattributed): Enslavement or Death, domination or destruction, these are the great Overlording choices, Sire. 
+[410.10] (unattributed): Ah, see them shrivel to dust! Clearly the stone has unlocked the Evil Presence spell!
+[410.20] (unattributed): If you had released the spell earlier they would’ve grovelled and submitted to your evil will!
+[410.30] (unattributed): Enslavement or Death, domination or destruction, these are the great Overlording choices, Sire. 
+[420.10] (unattributed): Anyone can swing a weapon, Sire; with the exception of the armless ‘Kicka’ Tribe of the southern islands. But you can cast spells too!
+[420.20] (unattributed): Is your spell hand sore, Lord? Don’t forget to use your magic. ...oh go on, give it a go!
+[420.30] (unattributed): You have creatures to do the hitting for you Lord. Don’t wade in when you have a fresh spell all ready.
+[430.10] (unattributed): Don’t forget your magic, Master! You don’t always have to get your hands dirty!
+[430.20] (unattributed): An Overlord always has a handy spell up their Gauntlet! Don’t forget about them, now.
+[430.30] (unattributed): You mustn’t forget to spread a little magical mayhem now and again, Lord. Just for the look of things, you know?
+[440.10] (unattributed): They’ll follow you obediently, Sire. Like Minions. But if you get bored you can always kill them!
+[440.20] (unattributed): Ah nothing like a bit of cannon fodder, Lord! If they get too annoying don’t be afraid to just smite them!
+[440.30] (unattributed): If your new subjects bother you, Master, a quick bit of carnage and no more problem!
+[450.10] (unattributed): If you need to swell your ranks, Sire, you can release your Evil Presence spell earlier and subdue these peons instead.
+[450.20] (unattributed): You can use these humans to your advantage, Lord. Release your Evil Presence spell earlier and they’ll become your slaves, instead of piles of dust!
+[450.30] (unattributed): You can create your own human shield, Master if you subdue the peasants rather than killing them. Just don’t channel your Evil Presence spell for so long.
+[403.5] (unattributed): Yes! Yes! Nothing like a bolt of lightning to get someone’s attention!
+[403.10] (unattributed): Now break the spell to subdue the peasant.
+[403.15] (unattributed): Or just keep on channelling it to turn the target into a pile of ashes! Ah, just like the bad old days.
+[500.5] (unattributed): And Governor Borius said he wanted stuffed widgeon at the Midwinter's feast. 
+[500.10] (unattributed): I said to the wife 'What the hell is a widgeon?!'
+[500.15] (unattributed): Oh that's posh stuff. I think it's maybe some kind of... small bear.
+[500.20] (unattributed): Do you think if we put a wolf skin on a pig, Borius would notice?
+[500.25] (unattributed): Well, he eats so fast anyway I doubt his eyes get a chance to focus! 
+[500.30] (unattributed): Yeah, they'll be no feast for the rest of us! He's a bigger pain than wolves and Yetis put together.
+[500.35] (unattributed): Yeah, but you know... at least we've got folks watching over us!
+[500.40] (unattributed): Watching over us while we starve, you mean!
+[500.45] (unattributed): Hmmpf, yeah bet there no good eating on a widgeon anyway!
+[500.50] (unattributed): *Hums*
+[500.55] (unattributed): *Whistles*
+[501.5] (unattributed): Yaaaaaahhhh sound the alarm!
+[501.10] (unattributed): Run for the gates!
+[502.5] (unattributed): Hey, wait for us!
+[502.10] (unattributed): Don't leave us out here on Midwinter's Eve!
+[502.15] (unattributed): The demons are out here!
+[502.20] (unattributed): I don't wanna miss the feast! Don't close the gates!
+[502.25] (unattributed): Let us in!
+[502.30] (unattributed): Stop! Stop!
+[502.35] (unattributed): Nooooo! Nooooo! We're not demons!
+[502.40] (unattributed): You've forgotten us!
+[502.45] (unattributed): Seems the locals are just lining up to try out your Evil Presence spell, Sire!
+[503.5] (unattributed): That wheel appears to control the gate, Master. Perhaps you could use your wolves to reach it.
+[504.5] (unattributed): Bash the intruders!
+[504.10] (unattributed): Let's be having you!
+[504.15] (unattributed): Don't let 'em in!
+[600.5] (unattributed): Savages... always running around shouting about something!
+[600.10] (unattributed): Don't they know I'm trying to prepare my statue for unveiling at the Midwinter's Feast?
+[600.15] (unattributed): My statue must impose over them!
+[600.20] (unattributed): When they think Midwinter I want them to think Borius!
+[600.25] (unattributed): What do you think, my barbarian slave?
+[600.30] (unattributed): My name is Kelda! And yes, that's certainly the most imposing stomach I've ever seen!
+[600.35] (unattributed): But I don't think they got your chin right... there's only two of them!
+[600.40] (unattributed): Don't get cheeky with me, wench. I know your history... associating with Witch-boy demons!
+[600.45] (unattributed): Come on, to the Town Hall, I need bathing!
+[601.5] (unattributed): Snap out of it, Master! Time to show Nordberg that there's a new breed of Evil in town.
+[601.10] (unattributed): Tear down that blustering bloater's statue and show these peasants how an Overlord does things!
+[602.5] (unattributed): Do you think that's imposing?
+[602.10] (unattributed): Oh yes, I'd say so, very imposing!
+[602.15] (unattributed): I imposed like that, you know, back in the day…
+[800.5] (unattributed): You've spoilt my Midwinter’s Eve! Well, we'll see what Emperor Solarius has to say about this!
+[800.10] (unattributed): In the meantime this slave and I are going to get down to some serious scrubbing!
+[801.5] (unattributed): You've obtained a Command Upgrade, Sire!
+[801.10] (unattributed): The Netherworld! It's awakening! It's accepted you as its true master!
+[801.15] (unattributed):  Return at once! We must begin your Overlord inauguration immediately!

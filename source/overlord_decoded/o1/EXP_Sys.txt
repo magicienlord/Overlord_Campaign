@@ -1,0 +1,11 @@
+[100.10] GNARL: What’s that, Sire? It looks like a piece of the Forge.   <<The player nears the Axe of Confusion>>
+[100.20] GNARL: Ah, of course, it’s a mold! This will allow you to create a unique item in your Forge, Sire. Won’t that be nice?   <<The player picks up the Axe of Confusion>>
+[100.30] GNARL: Oh, it’s a mold for the Axe of Confusion, my Lord. Strike with this weapon and you have a random chance of spreading a little extra panic and mayhem amongst your enemies.   <<The player commits the Axe of Confusion>>
+[200.10] GNARL: That’s a mold for a particularly nasty looking sword, Master! Commit it to your Tower and let Gnarl take a look.   <<The player picks up the Sword of Life Stealing>>
+[200.20] GNARL: It’s the Sword of Life-Stealing! Oh, that’s one of my favorite weapons, that is. Hurt your foes with it and it heals you... deliciously    <<The player commits the Sword of Life Stealing>>
+[300.10] GNARL: That looks like a mold for a new Helmet!   <<The player nears the Harvesting Helmet mould>>
+[300.20] GNARL: You can now create the Harvesting Helmet, Lord. Put that on your head and you’ll be able to harvest more Lifeforce!   <<The player commits the Harvesting Helmet mould>>
+[400.10] GNARL: It appears to be a mace mold, Dark Master!   <<The player nears the Mace of Doom mould>>
+[400.20] GNARL: You can now create the    <<The player commits the Mace of Doom mould>>
+[500.10] GNARL: A new mold, Sire. It’s for some armor. Bring it back to the Tower and I’ll throw a few Minions on the Forge, get it warmed up.   <<The player nears the Armour of Fire mould>>
+[500.20] GNARL: You can now forge the Armor of Fire, Master! When your enemies hit you and you’re wearing this they can randomly burst into flames! I almost burst into flames once... actually let’s not go there...   <<The player  commits the Armour of Fire>>

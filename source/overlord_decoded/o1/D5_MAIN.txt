@@ -1,0 +1,86 @@
+[100.10] GNARL: The Minions have found a secluded Gate, Sire. I believe this is the Ruborian Desert.   <<Trigger: On entering the domain for the first time.
+Short shot of the 5 Minions that found the gate.
+>>
+[100.20] GNARL: Watch the sand...it gets in all your crevices! Jewel must have her hideout around here.
+[.] (unattributed): ---
+[101.10] GNARL: Blaster Bugs! Careful, Master, they’re powerful. The clue’s in the name!   <<Trigger: Player nears the first Blaster Bug. >>
+[.] (unattributed): ---
+[102.10] BROWN_MINION: Bug fall down go boom!   <<Pronounced 'Booooooommmmmm!' Evil chuckle after the line. | Trigger: First Blaster Bug is dead.>>
+[102.20] GNARL: Minions clearly don’t know the difference between secluded and safe! Apologies Sire, their brains are 
+[.] (unattributed): ---
+[103.10] GNARL: Be wary, Master, no doubt that guard will alert his friends.   <<Trigger: Raider Scout is spotted and runs off.>>
+[.] (unattributed): ---
+[104.10] GNARL: These beasts are extremely tough, Dark One. Avoidance is the best tactic.   <<Trigger: The Raider is eaten by a Sandworm.>>
+[104.20] GNARL: Prolonged motion on the sand seems to agitate them.
+[.] (unattributed): ---
+[105.10] ROSE: Be careful with my little poppets, Sire!   <<Trigger: The first time a Minion is eaten by a Sandworm and the player has Rose in their tower.>>
+[.] (unattributed): ---
+[106.10] VELVET: Are you sure a pixie army is wise, Sweetie? Almost    <<Trigger: A Sandworm snatches a Minion and the player has Velvet in their tower.
+>>
+[.] (unattributed): ---
+[107.10] GNARL: It’s the bugs’ breeding grounds!   <<Trigger: The player nears the Blaster Bug nest area.>>
+[.] (unattributed): ---
+[108.10] GNARL: Ah, I wish my old bones were as tough as these, Sire.   <<Trigger: Player tries to attack the bone barrier himself, or with Minions. The barrier won’t break.>>
+[108.20] GNARL: You’ll need something with a little more kick to break through them!
+[.] (unattributed): ---
+[109.10] GNARL: Good work! Make sure you keep your Minions away from the blast radius.   <<Trigger: the first time the player uses a Blaster Bug to blow up a bone barrier.>>
+[.] (unattributed): ---
+[110.10] GNARL: Splendid, Sire! That’s Evil thinking! Another mouthful like that and they’ll be nothing but pretty sand patterns!   <<Trigger: The first time the player lures a Blaster Bug onto the sand and it gets eaten by a Sandworm (Sandworm will take damage). Note it will take two Blaster Bug bursts to kill a Sandworm.)>>
+[200.10] JEWEL: You and you, over there! You two stay here.   <<Trigger: The player enters the valley again and sees Jewel and the Raiders.>>
+[200.20] JEWEL: Why fight when you can pay others to do it for you? Everyone has a price!   <<Jewel sees the Overlord and hops up onto a ledge out of the player’s way.>>
+[.] (unattributed): ---
+[201.10] ROSE: She’s barely left the crib! That young lady needs a smacked bottom!   <<Trigger: After the cut-scene if the player has Rose in their tower.>>
+[.] (unattributed): ---
+[202.10] VELVET: Girls these days! No glamour, no poise! It’s so sad.
+[.] (unattributed): ---
+[203.10] GNARL: I have a suggestion, Sire. When you find Jewel    <<Trigger: All the Raiders are dead and the player has Rose in their tower.>>
+[203.20] ROSE: What?
+[203.30] GNARL: That little flibberty gibbet knows much of these lands.
+[.] (unattributed): ---
+[204.10] GNARL: I have a suggestion, Sire. When you find Jewel    <<Trigger: All the Raiders are dead and the player has Velvet in their tower. NOTE: Dupe of 203@10>>
+[204.20] VELVET: What?
+[204.30] GNARL: That little flibberty gibbet knows much of these lands.   <<Note: dupe of 203@30>>
+[.] (unattributed): ---
+[205.10] GNARL: Master, you must keep moving.   <<Trigger: The player moves to the first stone island.>>
+[.] (unattributed): ---
+[206.10] GNARL: It’s the Inn sign! Ha, she doesn’t care what she steals!   <<Trigger: The player encounters the Happy Mule Inn sign>>
+[.] (unattributed): ---
+[207.10] GNARL: It's so nice to see new places... meet new people... and kill them!   <<Trigger: The player encounters their first Raider caravan.>>
+[207.20] BROWN_MINION: New sheepies!   <<(In wonderment)"New sheeeepiiies!">>
+[300.10] JEWEL: What better object to steal than the one everyone wants? Can’t imagine why, it’s an    <<Giggles after line. | Trigger: The player enters Jewel's village. (None in script). After line Jewel backflips off the statue and runs off. Scene becomes interactive.>>
+[.] (unattributed): ---
+[301.10] GNARL: I’ve managed to increase the energy of that Tower Gate. But not for long...   <<Trigger: previous cut-scene has ended.>>
+[301.20] GNARL: If you can drive her across the Gate I will transport her to your Tower. No place to run there!   <<Evil chuckle after line.>>
+[.] (unattributed): ---
+[302.10] GNARL: Use your Minions to block her escape, Master!   <<Trigger: Jewel flees an area. These can be looped
+
+>>
+[302.30] GNARL: Head her off with your Minions, Sire!   <<Trigger: Jewel flees an area. These can be looped
+
+>>
+[302.40] JEWEL: Kahn’ll come after you, and that old Wizard, I’m his favorite!   <<Trigger: Jewel flees an area. These can be looped
+
+>>
+[302.50] GNARL: Drive her towards the Tower Gate!   <<Trigger: Jewel flees an area. These can be looped
+
+>>
+[.] (unattributed): ---
+[303.10] JEWEL: What? Aagh!   <<Screams! | Triggers: When Jewel gets near to the Portal Gate. Brief cut-scene shows Jewel running across the gate. Vanishes after line.
+
+>>
+[303.20] GNARL: Good! Our guards are currently incarcerating her.
+[303.30] GNARL: Return when you wish to begin ahhhh.. Speaking, to our prisoner.
+[.] (unattributed): ---
+[304.10] ELF_GHOST: I beg you, bring the statue hither so that it may be returned to Evernight.   <<Trigger: when Jewel capture cut-scene has finished if the player has Rose in their tower. Suddenly a second Portal Gate opens up next to the one Jewel vanished into. Scene becomes interactive and an E>>
+[304.20] ROSE: So much trouble, just to give it away?
+[304.30] GNARL: It would make a rather splendid Tower ornament, Sire. I’m sure Mistress Rose is desperate to give it a good dust!
+[.] (unattributed): ---
+[305.20] VELVET: That statue would look just divine in our Private Quarters, Sire.
+[305.30] VELVET: Get rid of those depressing Elves and bring me that statue!
+[.] (unattributed): ---
+[306.10] ELF_GHOST: You have done the Elves a great service. We will not forget this.   <<Trigger: The player returns the statue to the Elf portal (Note: there needs to be a proximity trigger for this.) >>
+[.] (unattributed): ---
+[307.10] ELF_GHOST: To you it is just a trophy, to us it is everything!   <<Angry! | Trigger: The player returns the statue to the tower portal (Note: there needs to be a proximity trigger for this)>>
+[.] (unattributed): ---
+[308.40] GNARL: If you must give the statue back, Sire, just walk next to the platform and let your Minions put the statue on it.   <<Trigger: If the player don’t know what to do for some time.>>
+[400.10] BROWN_MINION: Water? Water?    <<Said weakly. Minions are crawling along a desert floor and have travelled a long way without food / drink >>

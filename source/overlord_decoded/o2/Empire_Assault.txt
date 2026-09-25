@@ -1,0 +1,81 @@
+[100.10] (unattributed): This is as close as Grubby could get to the City’s anti-magic shield.  
+[100.20] (unattributed): You’ll need to bring the Tower Heart closer to be able to do any lasting damage. 
+[100.30] (unattributed): And that’s the best kind of damage.
+[100.40] (unattributed): With the help of Giblet the Minions have managed to build three catapults.
+[100.50] (unattributed): There are three nearby hills that would make good spots to use them. 
+[100.60] (unattributed): You’ll need to wipe out the Empire forces nearby and bring the Tower Heart onto the hill so  I can send Grubby in with the catapults. 
+[100.70] (unattributed): Ah, I can practically smell the carnage, Sire!
+[110.10] (unattributed): Order your Minions to pick up the Tower Heart.
+[110.20] (unattributed): Don’t forget the Tower Heart, Sire. You won’t get very far without that.
+[110.31] (unattributed): If you’re feeling a little low on mana yourself, Sire, you can always re-charge from the Tower Heart. 
+[110.32] (unattributed): Don’t worry there’s plenty to go around.
+[113.10] (unattributed): Careful, Sire, that anti magic shield is powerful, even getting too close to it can be hazardous.
+[113.20] (unattributed): Stay close to the Tower Heart, it will protect you.
+[116.10] (unattributed): Return to the Tower Heart, Sire.
+[116.20] (unattributed): Quick return to the safety of the Tower Heart.
+[120.10] (unattributed): My wolves are ready to help you rip out a few Empire throats! Good luck, dearest.
+[120.11] (unattributed): Make Solarius pay for bringing Borius and his crevices... to Nordberg!
+[120.20] (unattributed): The spiders are ready for you and your Greens.
+[120.21] (unattributed): Good luck, dearest. Make Empire City pay for trying to have me thrown in the Arena...oh... and all that taking over the land business.
+[120.30] (unattributed): My Salamanders await you. 
+[120.31] (unattributed): May darkness prevail and may Solarius feel the pain of every single creature he had cleansed and the fear of all he had sent to the Arena!
+[120.32] (unattributed): Crush him! Crush him!
+[120.40] (unattributed): My Salamanders await you, Dark One. 
+[120.41] (unattributed): May you use them wisely, I would not wish for more creatures than are necessary, to suffer, as I have suffered.
+[130.10] (unattributed): Ah, slaves, Sire... fancy a spot of carnage or a spot of domination?
+[200.10] (unattributed): There’s the first hill!
+[200.20] (unattributed): Deal with the Empire troops and then get your Minions and the Tower Heart onto it!
+[210.10] (unattributed): Where’s the Tower Heart, Sire? Don’t leave it behind!
+[210.20] (unattributed): It might fall into the wrong hands. That’s any other hands than yours!
+[220.10] (unattributed): Use the catapult to flatten the Empire forces!
+[220.20] (unattributed): Make sure you also take out those guard towers, Sire!
+[230.10] (unattributed): Hmm, I wonder if I could use one of those things for hunting!
+[230.20] (unattributed): Hmmm, I wonder if I can get a jewel encrusted one of those things.
+[230.30] (unattributed): That’s it! Crush them! Crush them all!
+[230.40] (unattributed): It must be done. They must sacrifice as I have sacrificed.
+[240.10] (unattributed): Good work, Sire! Pick up the Tower Heart and continue onto the next hill!
+[300.10] (unattributed): You need to stop those enemies from spawning, Master.
+[300.20] (unattributed): They’ll keep on coming unless you stop them spawning, Sire!
+[310.10] (unattributed): These are tough brutes, Lord. 
+[310.20] (unattributed): Perhaps you should find a way around them. No need for unnecessary dying!
+[320.10] (unattributed): Master, destroy the barracks!
+[320.20] (unattributed): Bring those barracks down around their ears, Lord!
+[330.10] (unattributed): Where’s the Tower Heart, Sire?
+[340.10] (unattributed): Grubby’s deployed the second catapult. You know what to do, Great One!
+[340.20] (unattributed): They’re practically lining up to be squashed!
+[340.30] (unattributed): Siege Towers! Take them out before they reach you!
+[340.40] (unattributed): They’re too close, Sire. Get out and defend the catapult!
+[340.60] (unattributed): The towers are down! Retreat and regroup men!
+[400.10] (unattributed): Onwards to the next hill, Lord... um unfortunately the Empire appears to have built a fort on top of it. 
+[400.20] (unattributed): Nothing you can’t handle, I’m sure!
+[410.10] (unattributed): Handy flammable fields there, Sire!
+[420.10] (unattributed): Aggg you idiots! You idiots! The tower’s stuck! Quick! Soldiers, forward!
+[430.10] (unattributed): Hmmm, I’m sure those wolves of mine would be useful for getting into that fort!
+[430.20] (unattributed): Ooohhh, I bet you could use those spiders I gave you to get into that fort!
+[430.30] (unattributed): My salamanders will help you gain access to this place and destroy the Empire inside!
+[430.40] (unattributed): My salamanders will be of great aid to you, here. 
+[430.50] (unattributed): To think that such magnificent beasts would be used for such an ends…
+[440.10] (unattributed): You’re not coming in here!
+[440.20] (unattributed): Go away... there’s er... no one home!
+[440.30] (unattributed): We’re safe in here! Aren't we?
+[440.40] (unattributed): That’s the Demon Lord of Nordberg isn’t it?
+[440.50] (unattributed): Leave us alone!
+[440.60] (unattributed): Move on! Move on! No one to kill here!
+[450.10] (unattributed): Unless you’ve discovered a new way to breach that shield, Sire, I suggest you get that Tower Heart!
+[460.10] (unattributed): Grubby’s deployed the Catapult. You’re in range of the shield and he’s loaded in the Tower Heart. 
+[460.20] (unattributed): Aim it at the City... it’s that big thing with all the buildings in…
+[460.30] (unattributed): Weeeeeeeeeeeeee heeeee hee!
+[460.40] (unattributed): The shield’s coming down, Sire. My, my what a light show!
+[470.10] (unattributed): You've lanced the suppurating boil of the Empire, Sire... now you have to deal with the pus!
+[470.20] (unattributed): Ah, Giblet has just provided some new ammo for your catapult. Explosive charges!
+[480.10] (unattributed): You must squash those troops before you enter the city!
+[480.20] (unattributed): Don’t neglect the power of a great big squashing thing, Sire!
+[500.10] (unattributed): Fool! Do you really think you can defeat the Great Emperor Solarius? 
+[500.20] (unattributed): Even now his shrines are recapturing the magical energy released  from the Tower Heart... 
+[500.30] (unattributed): To add to our *ahem* collection from the rest of these lands.
+[500.40] (unattributed): That must be what that enormous vat in the palace was for, Sire! They must be storing the magic in there. 
+[500.50] (unattributed): So much for their cleansing programme. Thieving programme, more like!
+[500.60] (unattributed): We had thought the power was lost. So considerate of you to bring it straight to us!
+[500.70] (unattributed): Solarius will be waiting for you Witch-boy!
+[500.80] (unattributed): You must hurry, Sire, if Solarius recaptures that magical energy that is floating about this place, there’s no telling how much power he might wield! 
+[500.90] (unattributed): It may be...even greater than yours.

@@ -1,0 +1,16 @@
+[100.10] GNARL: More Flamethrowers, Lord. Goldo must have sent them here to clear out the slugs.   <<Trigger: The player encounters the first flame throwers in the mine
+
+>>
+[101.10] GNARL: Master, these levers control the furnaces below.   <<Trigger: The player nears the first fire switch.>>
+[102.10] GNARL: Good! Return it to the Tower and we will make you something suitably befitting.   <<Trigger: The player reaches the Arcanium smelter.>>
+[102.20] GNARL: However that smelter isn’t built for a quick getaway, Master. You must search out a route for it.
+[103.10] ROSE: That’s just not hygienic! There’s never a cart-load of salt around when you need one!   <<Trigger: The player encounters the Mother slug sub-boss and has Rose in their Tower. >>
+[104.10] VELVET: That’s what’s producing those things? I can’t look! Hit it, hit it until it stops! Yuck!   <<Trigger: The player encounters the first big slugs in the Arcanium mine and has Velvet in their Tower.>>
+[105.10] GNARL: It’s too narrow, Sire!   <<Trigger: The player nears a too narrow walkway with a Tower object. These can be looped as needed.
+>>
+[105.20] GNARL: It won’t fit, Sire!   <<Trigger: The player nears a too narrow walkway with a Tower object. These can be looped as needed.
+>>
+[105.30] GNARL: Please hone your spatial awareness, Master!   <<Trigger: The player nears a too narrow walkway with a Tower object. These can be looped as needed.
+>>
+[105.40] GNARL: The object is too big, and the space is too small. Oh do concentrate, Sire!   <<Trigger: The player nears a too narrow walkway with a Tower object. These can be looped as needed.
+>>

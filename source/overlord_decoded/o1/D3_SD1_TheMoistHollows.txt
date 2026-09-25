@@ -1,0 +1,37 @@
+[103.10] GNARL: As you can see, Lord, the Blues are not adept fighters!   <<Trigger: The first Blue Minion is killed by the Boombo bird.>>
+[103.20] GNARL: But they can resurrect fallen Minions!   <<The Boombo bird leaves. Another Blue Minion comes running up and resurrects the dead Blue.>>
+[103.30] GNARL: Quick, follow them!   <<The two Blues start leading the player further along the path.
+
+>>
+[106.10] GNARL: There’s the Blue Hive. Return it to the Tower and bring our boys home.   <<Trigger: The player nears the Blue Hive area.>>
+[107.10] GNARL: Only Blues can cross water, Sire. We    <<Trigger: Player tries to leave Area B without the Blue Hive.>>
+[108.10] GNARL: Those Blues need your help Sire, before they’re turned into bird food.   <<Trigger: Player nears the trapped Blue Minion area.>>
+[108.20] GNARL: Use the eggs to lure those birds away.
+[109.10] GNARL: Blues are magic immune, my Lord.   <<Trigger: Player attacks wisp with Browns/Reds/Greens/or himself. Wisp is undamaged by Browns/Reds and Greens, and lures some away.
+>>
+[109.20] GNARL: They are also the only Minions that can deal damage to magical beings, like this wisp.
+[110.10] GNARL: The wisps are trying to drown your Minions. Use your Blues, quickly!   <<Trigger: The player enters the wisp ambush area, several wisps appear and start luring your Minions into the water.>>
+[111.10] GNARL: Overgrown newt! Crush it at once!   <<Trigger: The player encounters the area with the Minions on islands>>
+[112.10] GNARL: Like all creatures it has a soft spot between its ears! Target its head, Master!   <<Trigger: Minions start attacking the water serpent.>>
+[113.10] GNARL: Use your Blues on those drowning Minions!   <<Trigger: Browns and Greens are shaken off the water serpent’s head and start to drown in the water.>>
+[114.10] GNARL: Gather up your Minions and get that Hive out of there! My feet feel soggy just watching you!   <<Trigger: The first water serpent is dead.>>
+[115.10] GNARL: More Blues are available at the Gate, Sire!   <<Trigger: More Blues are spawned if the player does not have enough to complete a task. They will jump into the gate. Note: these can be looped as required.
+>>
+[115.20] GNARL: Some extra Blues are at the Gate.   <<Trigger: More Blues are spawned if the player does not have enough to complete a task. They will jump into the gate. Note: these can be looped as required.
+>>
+[115.30] GNARL: More Blues have entered the Minion Gate. You’re getting quite a reputation here, Master!   <<Trigger: More Blues are spawned if the player does not have enough to complete a task. They will jump into the gate. Note: these can be looped as required.
+>>
+[116.10] GNARL: As you can see, Sire, Blues can cross water. You will need their skills to retrieve that Hive.   <<Trigger: The Blues jump into the Blue Gate. The Blues lead the way to an island with the Blue Hive and a Blue Gate. They cross the water and jump into the Gate.
+>>
+[117.10] GNARL: These Blues will help carry the Blue Hive back to the Tower!   <<Trigger: The saved Blues join the Overlord. >>
+[118.10] GNARL: It’s too narrow, Sire!   <<Trigger: Player tries to steer the Hive down a path that is too narrow.>>
+[118.20] GNARL: It won’t fit Sire!   <<Trigger: Player tries to steer the Hive down a path that is too narrow.>>
+[118.30] GNARL: Please hone your spatial awareness, Master!   <<Trigger: Player tries to steer the Hive down a path that is too narrow.>>
+[118.40] GNARL: The object is too big, and the space is too small, do concentrate, Sire!   <<Trigger: Player tries to steer the Hive down a path that is too narrow.>>
+[119.10] GNARL: Blue Lifeforce, Sire! I don’t think I need to tell you what that is good for!   <<Trigger: The player finds blue life force. Note: This could be from the Boombo birds or the blue beetles.
+
+>>
+[120.10] GNARL: Master, the geyser field looks rather dangerous! Use your Guard Marker ability to carefully guide your Minions through.   <<Trigger: The player enters the geyser field area. 
+
+>>
+[120.20] GNARL: Boiled Minions are no good to anyone!

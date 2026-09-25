@@ -1,0 +1,171 @@
+[100.10] GUARD_MINION_1: Good day, Sire!   <<Trigger: The player approaches the private Quarters after it has been opened up (After Rose comes to the Tower).>>
+[.] (unattributed): ---
+[101.10] ROSE: Ah, there you are! This place isn’t what I’m normally used to, but one has to make best of things, I suppose.   <<Trigger: Player enters private quarters.>>
+[101.20] ROSE: Let me show you around.
+[101.30] ROSE: Not much to look at here, but nothing that a really good dust wouldn’t cure.   <<Rose walks to the hall.>>
+[101.40] ROSE: Now this could be a great space... a bedroom, a banqueting area, even your own private interrogation room!   <<Rose points to the right.>>
+[101.50] ROSE: I think that this area would make an adorable treasure vault!   <<Rose walks left.>>
+[101.60] ROSE: I think the lighting would set off your riches wonderfully. You do have riches, don’t you?   <<Tutorial message relating to how the player checks their gold level on the interface needed here.
+>>
+[101.70] ROSE: Now this is the nerve-centre of your Evil Domain.
+[101.80] ROSE: I’ve created a scale model of your Tower out of bits and bobs I found lying around. I’m very resourceful!
+[200.10] ROSE: Don’t forget inside, Sire!   <<Trigger: The player buys a Rose-related exterior item. These can be looped
+>>
+[200.20] ROSE: Very nice! I approve!   <<Trigger: The player buys a Rose-related exterior item. These can be looped
+>>
+[200.30] ROSE: Good, the Tower has to send out the right Evil message.   <<Trigger: The player buys a Rose-related exterior item. These can be looped
+>>
+[.] (unattributed): ---
+[201.10] ROSE: Can never have too many of those!   <<Trigger: The player buys a Rose-related interior item. These can be looped
+>>
+[201.20] ROSE: I think you have a flair for this!   <<Trigger: The player buys a Rose-related interior item. These can be looped
+>>
+[201.30] ROSE: Now don’t go spending all your money, Lord!   <<Trigger: The player buys a Rose-related interior item. These can be looped
+>>
+[201.40] ROSE: I’ve always wanted one of those!   <<Trigger: The player buys a Rose-related interior item. These can be looped
+>>
+[.] (unattributed): ---
+[202.10] ROSE: That’s very sweet of you, Sire.   <<Trigger: The player buys a Rose-related Private Quarters Item. These can be looped
+>>
+[202.20] ROSE: Glad to see you think about your Mistress’s needs!   <<Trigger: The player buys a Rose-related Private Quarters Item. These can be looped
+>>
+[202.30] ROSE: That will brighten the place up!   <<Trigger: The player buys a Rose-related Private Quarters Item. These can be looped
+>>
+[.] (unattributed): ---
+[203.10] ROSE: Ah, just what we need!   <<Trigger: The player buys a Rose-related banner item. These can be looped
+>>
+[203.20] ROSE: That’ll show those peasants who’s boss around here!   <<Trigger: The player buys a Rose-related banner item. These can be looped
+>>
+[300.10] VELVET: I don’t care what they say. What you look like on the outside is   <<Trigger: The player buys a Velvet-related exterior item. These can be looped
+
+>>
+[300.20] VELVET: Now what good is that to me?   <<Trigger: The player buys a Velvet-related exterior item. These can be looped
+
+>>
+[300.30] VELVET: Now don’t forget to buy a few things for your Mistress!   <<Trigger: The player buys a Velvet-related exterior item. These can be looped
+
+>>
+[.] (unattributed): ---
+[301.10] VELVET: I hope you don’t expect me to clean that?   <<Trigger: The player buys a Velvet-related interior item. These can be looped
+>>
+[301.20] VELVET: An excellent choice, Darling!   <<Trigger: The player buys a Velvet-related interior item. These can be looped
+>>
+[301.30] VELVET: What’s the fun in having gold if you don’t spend it?   <<Trigger: The player buys a Velvet-related interior item. These can be looped
+>>
+[301.40] VELVET: I’ve always wanted one of those!   <<Trigger: The player buys a Velvet-related interior item. These can be looped
+>>
+[.] (unattributed): ---
+[302.10] VELVET: Oh you remembered me, Sire!   <<Trigger: The player buys a Velvet-related Private Quarters Item. These can be looped
+>>
+[302.20] VELVET: For little me?   <<Trigger: The player buys a Velvet-related Private Quarters Item. These can be looped
+>>
+[302.30] VELVET: Oh you dark romantic fool!   <<Trigger: The player buys a Velvet-related Private Quarters Item. These can be looped
+>>
+[.] (unattributed): ---
+[303.10] VELVET: Oh! Lovely!   <<Trigger: The player buys a Velvet-related banner Item.>>
+[303.20] VELVET: That’ll show those dirty peasants who’s boss around here!   <<Trigger: The player buys a Velvet-related banner Item.>>
+[400.10] GNARL: Mistress Velvet requests the pleasure of your company in your Private Quarters, Sire.   <<Trigger: The player has chosen Velvet and bought enough of the Mistress buyables/beautification upgrades to be rewarded with the VELVET cut-scene and is in the Tower.>>
+[.] (unattributed): ---
+[401.10] GNARL: Mistress Velvet is not a lady to be kept waiting!   <<Trigger: The player tries to use the portal gate without going to see Velvet.
+>>
+[.] (unattributed): ---
+[402.10] VELVET: There you are my darling! Now, the first thing we have to do is get you out of that heavy armor.   <<Trigger: The player walks to the door of the private quarters and has chosen Velvet. The door is guarded by two brown Minions.>>
+[402.15] VELVET: Oh, Sire!
+[402.20] GUARD_MINION_1: Let me see!   <<The door is slammed shut. The Guard Minions standing at the sides of the door look at each other...there’s a brief pause, and then they dash to look in the keyhole. >>
+[402.30] GUARD_MINION: Stop pushin’!
+[402.35] VELVET: Oh, Sire!
+[402.40] VELVET: Well... that    <<The Minion guards scuffle with each other. Then there is a huge rumble intensifying for about 10 seconds, with the following shots
+• Shot on door shaking with Minions peeking. 
+• Shot on Tower Shaking>>
+[500.10] GNARL: Mistress Rose requests that you join her in your Private Quarters, Sire.   <<Trigger: The player has chosen Rose and bought enough of the Mistress buyables/beautification upgrades to be rewarded with the ROSE cut-scene and is in the Tower.>>
+[.] (unattributed): ---
+[501.10] GNARL: Mistress Rose is not a lady to be kept waiting!   <<Trigger: The player tries to use the portal gate without going to see Rose.>>
+[.] (unattributed): ---
+[502.10] ROSE: Sire, I think the time has come to tell you about the finer points of running an Evil Domain.   <<Trigger: The player walks to the door of the private quarters and has chosen Rose. The door is guarded by two brown Minions.>>
+[502.20] ROSE: I have diagrams, charts and a pot of tea on. Do come in.
+[502.30] GUARD_MINION_1: Let me see!   <<The door is slammed shut. The Guard Minions standing at the sides of the door look at each other...there’s a brief pause, and then they dash to look in the keyhole. >>
+[502.40] GUARD_MINION: Stop pushin’!
+[502.50] ROSE: Now you take the... and some of... and you squeeze...  total annihilation... get something sharp... right in the... pincer maneuver!   <<The Minion guards scuffle with each other. Then there is this huge rumble intensifying for about 10 seconds, with the following shots. During this we could have the player hearing snatches of Rose’s l>>
+[502.60] ROSE: And that’s how you do it, Sire! Good luck!   <<• Shot on door shaking with Minions peeking. 
+• Shot on Tower Shaking (A Minion guard looks around in panic, what’s coming)
+• Shot on Tower Exterior.
+The guard Minion that got to look through the keyh>>
+[600.10] ROSE: Those little Cherubs of yours, they’re precious aren’t they?   <<Trigger: Player enters Private quarters with Rose in at the start of the game. Can be looped
+>>
+[600.20] ROSE: I hope you’re taking care of your Cherubs, Sire.   <<Trigger: Player enters Private quarters with Rose in at the start of the game. Can be looped
+>>
+[600.30] ROSE: This Tower’s a little drafty. I don’t want the Cherubs to catch a chill.   <<Trigger: Player enters Private quarters with Rose in at the start of the game. Can be looped
+>>
+[.] (unattributed): ---
+[601.10] ROSE: You’re doing well Sire. There’s hope for you yet!   <<Trigger: Player enters Private quarters with Rose in the middle of the game. Can be looped
+>>
+[601.20] ROSE: You know, I don’t think these heroes are doing a very good job of being Evil...no planning, no strategy!   <<Trigger: Player enters Private quarters with Rose in the middle of the game. Can be looped
+>>
+[601.30] ROSE: I do hate to see my little babies dying out there. Please use them wisely.   <<Trigger: Player enters Private quarters with Rose in the middle of the game. Can be looped
+>>
+[.] (unattributed): ---
+[602.10] ROSE: You saw through my sister, Sire, most men fall at the first hurdle...her cleavage!   <<Trigger: Player enters Private quarters with Rose at the end of the game. Can be looped
+
+>>
+[602.20] ROSE: This Tower is looking so much better, Lord.   <<Trigger: Player enters Private quarters with Rose at the end of the game. Can be looped
+
+>>
+[602.30] ROSE: Good... Evil... I don’t mind as long as it’s done well. I hate shoddy work!   <<Trigger: Player enters Private quarters with Rose at the end of the game. Can be looped
+
+>>
+[.] (unattributed): ---
+[603.10] ROSE: I can see you’re thinking carefully about your actions, Sire. No sense just rushing into things!   <<Trigger: Player enters Private quarters with Rose and a low corruption rating.>>
+[603.20] ROSE: You’re very tidy for an Overlord, not too much blood, or bodies... I like things neat!   <<Trigger: Player enters Private quarters with Rose and a low corruption rating.>>
+[603.30] ROSE: Killing isn’t the only way to get things done and I can see that you understand that.   <<Trigger: Player enters Private quarters with Rose and a low corruption rating.>>
+[.] (unattributed): ---
+[604.10] ROSE: You’re really getting into the swing of being Evil, Sire. Hard work, isn’t it?   <<Trigger: Player enters Private quarters with Rose and a medium corruption rating. Can be looped
+>>
+[604.20] ROSE: I hope you’re not getting too carried away killing things, Lord?  Living people are so much more generous than dead ones!   <<Trigger: Player enters Private quarters with Rose and a medium corruption rating. Can be looped
+>>
+[604.30] ROSE: You’re making me very proud, Sire. Tactics, that’s what it’s all about, tactics!   <<Trigger: Player enters Private quarters with Rose and a medium corruption rating. Can be looped
+>>
+[.] (unattributed): ---
+[605.10] ROSE: I think all this killing, looting and pillaging might be going to your head, Sire. Maybe I should get you a nice cup of tea.   <<Trigger: Player enters Private quarters with Rose and a high corruption rating. Can be looped
+>>
+[605.20] ROSE: I know we’re in the business of Evil here but that doesn’t mean killing, looting or burning everything you see.   <<Trigger: Player enters Private quarters with Rose and a high corruption rating. Can be looped
+>>
+[605.30] ROSE: I think that perhaps you’re being a little mean towards your subjects, Sire. No one likes Mr. Grabby!   <<Trigger: Player enters Private quarters with Rose and a high corruption rating. Can be looped
+>>
+[605.40] ROSE: I understand that you need respect, Sire. Respect is everything. But do leave some things    <<Trigger: Player enters Private quarters with Rose and a high corruption rating. Can be looped
+>>
+[700.10] VELVET: This is a little pokey... but at least I have my bed, and you’re welcome to visit any time, Lord.   <<Trigger: Player enters Private quarters with Velvet in the middle of the game. 
+>>
+[700.20] VELVET: Ewww, my sister’s been here, oh well... Do you have any disinfectant?   <<Trigger: Player enters Private quarters with Velvet in the middle of the game. 
+>>
+[700.30] VELVET: My sister’s the kind of person that always has a piece of string or a bandage or sensible shoes!  She’s...what’s the word? Boring.   <<Trigger: Player enters Private quarters with Velvet in the middle of the game. 
+>>
+[.] (unattributed): ---
+[701.10] VELVET: Darling, you're so Evil! It’s delicious! You make me all tingly... although that could be Gnarl’s soup.   <<Pronounced 'soooooo'. | Trigger: Player enters Private quarters with Velvet at the end of the game. Can be looped
+>>
+[701.20] VELVET: There’s always time to do a bit of shopping, Master. Even Evil needs time off.   <<Trigger: Player enters Private quarters with Velvet at the end of the game. Can be looped
+>>
+[701.30] VELVET: I think your Pixies need some kind of visual motif, something eye-catching. Any black lace around here?   <<Trigger: Player enters Private quarters with Velvet at the end of the game. Can be looped
+>>
+[.] (unattributed): ---
+[702.10] VELVET: I was hoping to see a little more... blood, Sire.... you are Evil after all! But you know best, I’m sure.   <<Trigger: Enters Private quarters with Velvet and has a low corruption rating. Note: Velvet is inclined towards much more open displays of Evil than Rose is, so I’d like that to be represented in their>>
+[702.20] VELVET: I know you’re being cautious, Darling, but don’t you ever just want to hack them all to pieces?   <<Trigger: Enters Private quarters with Velvet and has a low corruption rating. Note: Velvet is inclined towards much more open displays of Evil than Rose is, so I’d like that to be represented in their>>
+[702.30] VELVET: I’m going to have to get a white dress if you keep this up... and one of those pointy princess hats!   <<Trigger: Enters Private quarters with Velvet and has a low corruption rating. Note: Velvet is inclined towards much more open displays of Evil than Rose is, so I’d like that to be represented in their>>
+[702.40] VELVET: Remember darling, carrot and stick, carrot and stick! And remember carrots are no fun to watch...whereas stick on the other hand...   <<Trigger: Enters Private quarters with Velvet and has a low corruption rating. Note: Velvet is inclined towards much more open displays of Evil than Rose is, so I’d like that to be represented in their>>
+[.] (unattributed): ---
+[703.10] VELVET: Those heroes, yuck, they couldn’t put an Evil outfit together if their lives depended on it!   <<Trigger: Enters Private quarters with Velvet and has a medium corruption rating. Can be looped
+>>
+[703.20] VELVET: I don’t like that Jewel...kill her and bring me her shiny things!   <<Trigger: Enters Private quarters with Velvet and has a medium corruption rating. Can be looped
+>>
+[703.30] VELVET: Oh Sire, you know I’ve always had a thing for bad boys.   <<Trigger: Enters Private quarters with Velvet and has a medium corruption rating. Can be looped
+>>
+[703.40] VELVET: You’re definitely getting the right look, Lord. Evil is the new black!   <<Trigger: Enters Private quarters with Velvet and has a medium corruption rating. Can be looped
+>>
+[.] (unattributed): ---
+[704.10] VELVET: Oh my, look how Evil you’ve become, do you want to  stretch me on the rack for a bit?   <<Giggles before 'stretch'. | Trigger: Enters Private quarters with Velvet and has a high corruption rating. Can be looped
+>>
+[704.20] VELVET: Big and Evil, I love it! Corruption looks good on you.   <<Trigger: Enters Private quarters with Velvet and has a high corruption rating. Can be looped
+>>
+[704.30] VELVET: The way you handle those pixies, darling, it quite amazes me.   <<Trigger: Enters Private quarters with Velvet and has a high corruption rating. Can be looped
+>>
+[704.40] VELVET: Please don’t get any blood on my clothes, darling, you are being a bit messy.   <<Trigger: Enters Private quarters with Velvet and has a high corruption rating. Can be looped
+>>

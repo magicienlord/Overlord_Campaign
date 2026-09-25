@@ -1,0 +1,67 @@
+[100.10] SIR_WILLIAM: You! You? Didn’t we leave you for dead in that godforsaken Tower?   <<Trigger: The player enters the entrance room.>>
+[100.20] SIR_WILLIAM: You certainly should not be turning up at 
+[101.10] SIR_WILLIAM: At least you’re good for a little entertainment! I do hope you can stay the distance, peon!   <<Trigger: As the player enters the ballroom.>>
+[102.10] SIR_WILLIAM: Ha! I can’t believe I spent so long defending the right and the just! I thought    <<Trigger: The Paladin runs from the ballroom to the dining room.>>
+[103.10] SIR_WILLIAM: I can’t tell you how good it feels to throw off the shackles of morality and antiquated dogma!   <<Trigger: As the player enters the dining room.>>
+[104.10] SIR_WILLIAM: Hmmmm, you have a little skill, peasant!  But do not overestimate it... I have more!   <<Trigger: The Paladin runs from the dining room to the private quarters.>>
+[105.10] SIR_WILLIAM: The Wizard taught me how to seek my freedom. I won’t let you take it, you uncouth lout... never!   <<Trigger: The player enters the private quarters.>>
+[106.10] SIR_WILLIAM: There can be beauty in pain, you know... even in death!   <<Trigger: To be linked to certain battle moves (designer to choose.) Can be looped if required
+>>
+[106.20] SIR_WILLIAM: I have done things you could never dream of, little man!   <<Trigger: To be linked to certain battle moves (designer to choose.) Can be looped if required
+>>
+[106.30] SIR_WILLIAM: The Wizard is watching... he is    <<Trigger: To be linked to certain battle moves (designer to choose.) Can be looped if required
+>>
+[106.40] SIR_WILLIAM: There are no pleasures greater than those of the flesh.   <<Trigger: To be linked to certain battle moves (designer to choose.) Can be looped if required
+>>
+[106.50] SIR_WILLIAM: A bloody and violent death... now that’s the way to start a party!   <<Trigger: To be linked to certain battle moves (designer to choose.) Can be looped if required
+>>
+[106.60] SIR_WILLIAM: I may have fallen, muck dweller, but what a ride!   <<Trigger: To be linked to certain battle moves (designer to choose.) Can be looped if required
+>>
+[107.10] SIR_WILLIAM: They die to give me pleasure!   <<Trigger: The Paladin reacts to the player killing a red cloak.
+Can be looped if required
+>>
+[107.20] SIR_WILLIAM: Do not kill    <<Trigger: The Paladin reacts to the player killing a red cloak.
+Can be looped if required
+>>
+[107.30] SIR_WILLIAM: Why do you stop to kill cattle?   <<Trigger: The Paladin reacts to the player killing a red cloak.
+Can be looped if required
+>>
+[107.40] SIR_WILLIAM: What is life without a little pain?   <<Trigger: The Paladin reacts to the player killing a red cloak.
+Can be looped if required
+>>
+[200.10] VELVET: I'm in here! And tell that greedy Dwarf King that he can’t have his wedding presents back!   <<Here spoken as 'heeeeeeeeeere!' | Trigger: Player kills the Paladin>>
+[200.20] VELVET: If I’m not going to have a wedding, I at least want presents!
+[200.30] ROSE: That’s Velvet...   <<Sighs before speaking.>>
+[201.10] VELVET: Well hello... dark stranger. The rumors do not do you justice.   <<Velvet cut-scene triggered when you enter the bedchamber. Velvet can be seen draped on the bed seductively>>
+[201.20] VELVET: You’ve brought me a gift...some little    <<Velvet looks at the minions. >>
+[201.30] VELVET: Next time make it something shiny    <<Minions can be seen standing closely to bed totally absorbed by Velvet
+
+>>
+[201.40] ROSE: She’s obviously fine... She can find her own way out!
+[201.50] GNARL: Ooh! She’s quite the tasty treat, Sire.
+[201.60] ROSE: Gnarl! Go to your corner. I’m going down there to sort this out!   <<Sound of Gnarl being slapped before the line.>>
+[201.70] GNARL: Sire, the Tower can only accommodate one Mistress, unfortunately.   <<Rose marches into the room. Note the door shuts behind her and the player will need to turn a wheel next to it to opening it again (the mechanic for choosing Rose)>>
+[202.10] VELVET: Come to play the concerned big sister? Come to spoil my fun, have you?   <<Important Notes: The following Dialogue is interactive and played according to where the player is standing in relation to the two mistresses.>>
+[202.20] VELVET: And just as my rescuer and I were about to become better acquainted.   <<Giggles before 'acquainted'.>>
+[202.30] ROSE: Sir William summoned an over-sexed demon, started a city-wide plague and now he’s dead.
+[202.40] ROSE: I can see
+[202.50] VELVET: Him? Oh, he was overcompensating... believe me. I was about to walk out on him when he locked me up in here.
+[202.60] VELVET: And now you’ve come along... my black knight mmmmm.
+[203.10] ROSE: You should know Sire, that while you were out, I found a way to strengthen your Brown and Blue Minions.   <<Trigger: The player comes near Velvet>>
+[203.20] VELVET: Common bribery, Rose? I thought that was beneath you!
+[204.10] VELVET: You know,   <<Trigger: The player comes close to Rose>>
+[204.20] VELVET: And I could do so much    <<Giggling. 'So' read as soooooo.>>
+[204.30] ROSE: Don’t listen to her...never listen to her, that’s people’s first mistake! Turn this door wheel and let’s go!
+[205.10] VELVET: You’re not going to let a poor girl just lie here are you?   <<Trigger: The player has been given the choice objective. These lines should trigger regardless of where the player is in the room. Can be looped
+
+>>
+[205.20] ROSE: Can’t you see through her, Sire?   <<Trigger: The player has been given the choice objective. These lines should trigger regardless of where the player is in the room. Can be looped
+
+>>
+[205.30] VELVET: I don’t want to leave without this bed... it’s so comfy and inviting.   <<Trigger: The player has been given the choice objective. These lines should trigger regardless of where the player is in the room. Can be looped>>
+[205.40] ROSE: I really don’t think there’s a choice here!   <<Trigger: The player has been given the choice objective. These lines should trigger regardless of where the player is in the room. Can be looped>>
+[206.10] VELVET: Mmmmm, the obvious choice! Better pack your bags sister.   <<Trigger: The player picks up the bed. This is a Velvet choice.
+Not this really needs to be non-interactive so the player can’t change their mind.>>
+[206.20] ROSE: And I thought you had a brain somewhere beneath that armor!
+[207.10] VELVET: You’ll be sorry. She’ll nag you to death!   <<Shouting from the other room. 'Sorry' spoken as 'sooooooorry'. | Trigger: The player uses the wheel and walks out of the room. This is a Rose choice.>>
+[207.20] ROSE: I appreciate your loyalty, Sire! Pay no attention to her, she’s all talk.

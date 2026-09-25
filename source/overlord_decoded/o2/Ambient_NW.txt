@@ -1,0 +1,227 @@
+[PQM.10] (unattributed): We’re very discreet. 
+[PQM.15] (unattributed): We don’t peek, Master.
+[PQM.20] (unattributed): We no tell no one.
+[PQM.25] (unattributed): We serve your First Mistress.
+[PQM.30] (unattributed): I live to sew, Master.
+[PQM.35] (unattributed): I no say nothing.
+[PQM.40] (unattributed): Don’t mind me, Master.
+[PQM.45] (unattributed): We tend the pretty things.
+[PQM.50] (unattributed): You can trust us.
+[PQM.55] (unattributed): We make things pretty.
+[PQM.60] (unattributed): You want something dusted, Master?
+[PQJAIL.K1] (unattributed): Come on Witch-boy, what are you playing at!
+[PQJAIL.K2] (unattributed): She won’t last! I on the other hand have stamina!
+[PQJAIL.K3] (unattributed): Are you still under her spell?
+[PQJAIL.K4] (unattributed): She’s not fit to be First Mistress! She doesn’t know you like I do.
+[PQJAIL.K5] (unattributed): I don’t like her bossing me around!
+[PQJAIL.K6] (unattributed): She doesn’t know how to be a proper First Mistress!
+[PQJAIL.K7] (unattributed): You need me. I’m sure you’ll see that soon.
+[PQJAIL.K8] (unattributed): It can be like it was again, Witch-boy! Just you and me.
+[PQJAIL.J1] (unattributed): I really should be First Mistress! I have so much Mistress experience!
+[PQJAIL.J2] (unattributed): Are you feeling better now. More clear headed?
+[PQJAIL.J3] (unattributed): She won’t do for you what I can!
+[PQJAIL.J4] (unattributed): I don’t want her telling me what to do!
+[PQJAIL.J5] (unattributed): Take me back and all will be forgiven!
+[PQJAIL.J6] (unattributed): Really, what were you thinking making her First Mistress!
+[PQJAIL.J7] (unattributed): Can’t you see that she’s just awful!
+[PQJAIL.J8] (unattributed): You don’t know what you’re missing making her First Mistress!
+[PQJAIL.DF1] (unattributed): I’m sure you didn’t mean to make me angry!
+[PQJAIL.DF2] (unattributed): You created me. It is I who should be First mistress!
+[PQJAIL.DF3] (unattributed): She does not have the lust for dark power that you and I share!
+[PQJAIL.DF4] (unattributed): Her soul is so fragile… and I could break it so easily!
+[PQJAIL.DF5] (unattributed): I had thought better of you, Dark One!
+[PQJAIL.DF6] (unattributed): She will never understand you!
+[PQJAIL.DF7] (unattributed): I know you’ll change your mind soon!
+[PQJAIL.DF8] (unattributed): We share something you and I! We could share more.
+[PQJAIL.GF1] (unattributed): The spirit world is displeased with your choice!
+[PQJAIL.GF2] (unattributed): I will pray that you realize the error of your ways!
+[PQJAIL.GF3] (unattributed): She cannot do for you what I can.
+[PQJAIL.GF4] (unattributed): I will outlast her mortal form!
+[PQJAIL.GF5] (unattributed): This… this human is not fit for you!
+[PQJAIL.GF6] (unattributed): I can take you to a higher level, Dark One. Can she?
+[PQJAIL.GF7] (unattributed): Why this betrayal, Dark One?
+[PQJAIL.GF8] (unattributed): Let our worlds join together, Dark One!
+[PQK.ANY1] (unattributed): I remember where they found you outside the Gates of Nordberg. I was just a little thing, back then.
+[PQK.ANY2] (unattributed): Do you remember the other kids? I hated them. Bunch of cowards!
+[PQK.ANY3] (unattributed): So many people support the Empire, I just don’t understand it!
+[PQK.ANY4A] (unattributed): People were so frightened of magic after the Great Cataclysm and the magical plague! 
+[PQK.ANY4B] (unattributed): No wonder they love Solarius!
+[PQK.ANY5] (unattributed): Hmm, do you think there’s something around here I can hunt. How fast does Gnarl run?
+[PQK.ANY6] (unattributed): I knew you’d come back some day and punish them for what they did to you! You just had that look in your eyes.
+[PQK.ANY7A] (unattributed): This place is amazing! I wish I’d known it was under Nordberg. 
+[PQK.ANY7B] (unattributed): I would have dug down to it myself to get away from there!
+[PQK.ANY8] (unattributed): I’m so glad you got me out of Nordberg! It was so cold, all the time! This place is nice and cosy.
+[PQK.ANY9] (unattributed): Nordberg needs a strong leader, and one who isn’t that weirdo Solarius!
+[PQK.ANY10] (unattributed): Yuck, that Borius! I may never be able to look at a scrubbing brush again! Thank you for dealing with him.
+[PQK.ANY11] (unattributed): I bet you could to do anything with that army of yours. I bet you will too!
+[PQK.ANY12A] (unattributed): I should take some of your Minions hunting. I reckon they’d be great retrievers. 
+[PQK.ANY12B] (unattributed): Or get them to dress up in deer skin and run real fast.
+[PQK.ALONE1] (unattributed): Just you and me Witch-boy... well, you, me and several hundred scaly demon creatures.
+[PQK.ALONE2] (unattributed): I’m really getting used to this place! I think I’m a born Mistress.
+[PQK.ALONE3] (unattributed): I’d love to be out there on the battlefield with you, Sire. But Gnarl’s very protective!
+[PQK.ALONE4] (unattributed): I hope you’re not thinking of getting any more Mistresses in here, are you! Wouldn’t want things getting crowded.
+[PQK.J1] (unattributed): That Juno, did you bring her in as some kind of decorative object? That’s all she’s good for!
+[PQK.J2] (unattributed): We’re trying to fight the Empire! Not invite them home for tea!
+[PQK.J3] (unattributed): Just keep Juno in the Private Quarters. Don’t let her get in my way!
+[PQK.J4] (unattributed): That Juno doesn’t look very tough. She looks like a hair puller!
+[PQK.DF1] (unattributed): That thing gives me the creeps! Whatever it is, I don’t like it.
+[PQK.DF2] (unattributed): Fay might have got down with her bad self, but she should still stay away from me!
+[PQK.DF3] (unattributed): That Dark Fay thinks she’s so tough, but I know her type! All talk and no action!
+[PQK.DF4] (unattributed): Don't take any notice of Dark Fay. She’s just a attention seeker. All that former fairy fallout.
+[PQK.GF1] (unattributed): Why did you bring that ghost in here, witch-boy! She gives me the creeps floating around the place.
+[PQK.GF2] (unattributed): Why do you need a ghost when you’ve got a real woman?
+[PQK.GF3] (unattributed): That ghost better not try throwing the furniture about or smashing plates!
+[PQK.GF4] (unattributed): Fay is even more annoying dead than she was alive. Sanctimonious spirit!
+[PQK.GOOD1] (unattributed): You’ve been very kind to me, Witch-boy!
+[PQK.GOOD2] (unattributed): You know how to give a girl a gift, Witch-boy. At least a girl like me!
+[PQK.GOOD3] (unattributed): You seem to know exactly what I want, Witch-boy! Now I wonder what you want?
+[PQK.GOOD4] (unattributed): You’ve bought me some great gifts. I really must give you a proper thank you soon.
+[PQK.BAD1] (unattributed): I’m feeling a bit neglected!
+[PQK.BAD2] (unattributed): Don't forget about me, Witch-boy! Aren’t you going to buy me a few things too?
+[PQK.BAD3] (unattributed): Aren’t you going to buy me a few things too?
+[PQK.BAD4] (unattributed): I hope you’re going to show your appreciation of me, as well, Witch-boy!
+[PQK.TRIO1] (unattributed): We did get on, a little. But don’t go thinking it’s all pillow fights and painting each others’ nails now!
+[PQK.TRIO2] (unattributed): Just because we all got along that time, doesn’t mean I’m going to start braiding anyone’s hair!
+[PQK.TRIO3] (unattributed): Gnarl keeps giving me these funny looks and winking! It’s very disconcerting.
+[PQJ.ANY1] (unattributed): Okay, so this place isn’t a villa. But maybe with a bit of work we can make it a little more respectable!
+[PQJ.ANY2] (unattributed): Next time I go shopping. Could I have a couple of your creatures to carry my bags?!
+[PQJ.ANY3] (unattributed): I’m really not sure about Emperor Solarius! Why does he get Marius to speak for him?
+[PQJ.ANY4] (unattributed): Nothing says I’m an evil gentleman like a nice present for your Mistress, Master!
+[PQJ.ANY5] (unattributed): Marius runs the Sentinels you know. Him and that wife of his.
+[PQJ.ANY6] (unattributed): You should really conquer Empire City, then I could go shopping there again!
+[PQJ.ANY7] (unattributed): If only my friends could see me now, Mistress to an Overlord!
+[PQJ.ANY8] (unattributed): Hmmm I wonder if your Battle rock will be as much fun as the Empire’s arena.
+[PQJ.ANY9] (unattributed): That Gnarl really needs a make-over. Face pack... bit of rouge. It’d take decades off him!
+[PQJ.ANY10] (unattributed): You’re really working that evil look.
+[PQJ.ANY11] (unattributed): Who’s been at all the black velvet... Mortis?
+[PQJ.K1] (unattributed): I can’t believe you made me come in here with that Nordbergian creature. We have nothing in common!
+[PQJ.K2] (unattributed): What do you see in Kelda? Does she amuse you? She certainly amuses me!
+[PQJ.K3] (unattributed): Kelda better not start pinching my dresses. None of them will fit her for a start! Those hips!
+[PQJ.K4] (unattributed): You don’t expect me and Kelda to actually get on, do you? Please, we come from different worlds.
+[PQJ.DF1] (unattributed): What is that Fay creature? She has no style. Anyone can look good in black!
+[PQJ.DF2] (unattributed): That Dark Fay is really weird. And I thought Queen Fay was bad enough!
+[PQJ.DF3] (unattributed): Dark Fay actually thinks she’s better than me. Me! Now better than Kelda, I can understand!
+[PQJ.DF4] (unattributed): Dark Fay’s just a big show off! Well she isn’t a Queen any more. Especially not in here!
+[PQJ.GF1] (unattributed): I don’t trust that Ghost! I can see right through her!
+[PQJ.GF2] (unattributed): If I wake up in the night and see that Fay floating over me one more time, I’m going to exorcise her!
+[PQJ.GF3] (unattributed): Can’t you get rid of that spirit? She’s so depressing.
+[PQJ.GF4] (unattributed): Now I know Fay is dead and everything, but she’s not getting my sympathy vote!
+[PQJ.GOOD1] (unattributed): You’ve bought me some wonderful gifts! Please don’t stop.
+[PQJ.GOOD2] (unattributed): You certainly know how to treat a lady. And that’s often!
+[PQJ.GOOD3] (unattributed): You know the way to an Empire girl’s heart! And that’s straight through your wallet.
+[PQJ.GOOD4] (unattributed): You are very generous! I can be very generous too. Just you see.
+[PQJ.BAD1] (unattributed): I think you might be forgetting about Juno! I’m not quite sure how that’s possible!
+[PQJ.BAD2] (unattributed): What about some pretty things for me?
+[PQJ.BAD3] (unattributed): How about you try buying my affections too?
+[PQJ.BAD4] (unattributed): And where are my gifts?
+[PQJ.TRIO1] (unattributed): I liked it when we all got along. Do you think we can all get along again soon?
+[PQJ.TRIO2] (unattributed): Maybe, they’re not so bad! Hmmm what am I saying? They’re awful!
+[PQJ.TRIO3] (unattributed): I feel so much more relaxed now!
+[PQDF.ANY1] (unattributed): I’m so glad to be away from those Sanctuaries. Light magic is so dull!
+[PQDF.ANY2] (unattributed): I have spent too long trying to create. Now I wish to destroy!
+[PQDF.ANY3] (unattributed): The Sanctuaries... so many stupid creatures in so little space! Hmm, here isn’t that different.
+[PQDF.ANY4] (unattributed): I can feel your darkness flowing through my veins. I like it!
+[PQDF.ANY5] (unattributed): Why did you allow these lesser beings into your home, Dark One?
+[PQDF.ANY6] (unattributed): The destruction of the Empire pleases me greatly!
+[PQDF.ANY7] (unattributed): I feel so very at home in this dark, evil place! It is where I belong.
+[PQDF.ANY8] (unattributed): The creatures of the Sanctuaries are deluded fools! They should all be destroyed for their own good!
+[PQDF.ANY9] (unattributed): I cannot wait to see you crush the Empire, Dark One and make Solarius crawl before you!
+[PQDF.ANY10] (unattributed): All that being noble and nice! I was just so boring as her!
+[PQDF.J1] (unattributed): That Empire creature is pretty, but she has no real substance!
+[PQDF.J2] (unattributed): Juno is full of bitterness; I can feel it within her. But she does not have the capacity for true evil!
+[PQDF.J3] (unattributed): Why would you allow Empire in here? They are nothing but a plague upon this land.
+[PQDF.J4] (unattributed): That Juno is just a silly girl! You should have let her die in the Arena!
+[PQDF.K1] (unattributed): I know you’ve known Kelda for a long time. But sometimes you just have to let go of the past, Dark One!
+[PQDF.K2] (unattributed): That Nordbergian snow rat displeases me!
+[PQDF.K3] (unattributed): Uggg, Kelda. Such a low-born creature is an affront to my eyes!
+[PQDF.K4] (unattributed): Kelda likes to talk tough, but I doubt she has any real backbone! Perhaps I should try to find out.
+[PQDF.GOOD1] (unattributed): You have pleased me with your generous gifts!
+[PQDF.GOOD2] (unattributed): Do not think that your honoring of me has gone unnoticed, Dark One!
+[PQDF.GOOD3] (unattributed): I shall reward you for your generosity in time, Dark One!
+[PQDF.GOOD4] (unattributed): It is pleasing to see that you know how to treat your Dark Mistress!
+[PQDF.BAD1] (unattributed): Do you not wish to please me as well?
+[PQDF.BAD2] (unattributed): I do not take kindly to being neglected, Dark One!
+[PQDF.BAD3] (unattributed): I see you favor the others, Dark One. Believe me I can show thanks much better than they can.
+[PQDF.BAD4] (unattributed): Do I not deserve presents too, Dark One?
+[PQDF.TRIO1] (unattributed): Sometimes it can be pleasing to share.
+[PQDF.TRIO2] (unattributed): Juno and Kelda. I see now they have their uses. I may let them live...
+[PQDF.TRIO3] (unattributed): Evil can be all kinds of fun, can’t it, Dark One?
+[PQGF.ANY1] (unattributed): I am happy that the spirit world has allowed me to watch over you, Dark One.
+[PQGF.ANY2] (unattributed): It is rumored that no one has ever seen Solarius’ face; that it's hideously deformed beneath that mask. I pray for his soul…
+[PQGF.ANY3] (unattributed): This place is very different from the Sanctuaries.
+[PQGF.ANY4] (unattributed): The other ladies, they seem strangely hostile! Poor little mammals.
+[PQGF.ANY5] (unattributed): I was once a magical being, Dark One. You didn’t think I’d just disappear, did you?
+[PQGF.ANY6] (unattributed): I may not have a solid form, but I can be as much of a Mistress as those other creatures!
+[PQGF.ANY7] (unattributed): If you do destroy the Empire, then my sacrifice will not have been in vain.
+[PQGF.ANY8] (unattributed): I wonder what causes Solarius to persecute magic users with such hostility.
+[PQGF.ANY9] (unattributed): The Empire should be cleansed... cleansed with your dark fires!
+[PQGF.ANY10] (unattributed): You have created quite a realm here. A Dark Sanctuary. It is not unpleasing to me.
+[PQGF.J1] (unattributed): That Empire creature needs more help than I can give her!
+[PQGF.J2] (unattributed): Not even the spirit world could help Juno, although I’d be willing to send her there, just to try!
+[PQGF.J3] (unattributed): Juno thinks she is a Queen. But she is merely a slave to her own vanity.
+[PQGF.J4] (unattributed): Does Juno serve any purpose, Dark One. Or is she merely taking up oxygen?
+[PQGF.K1] (unattributed): Kelda does not know what true sacrifice is! She knows so little of the world.
+[PQGF.K2] (unattributed): Is Kelda a comfort to you, Dark One? I too could be such a comfort.
+[PQGF.K3] (unattributed): Why do you keep Kelda here. You do not wish to break with the past, Dark One?
+[PQGF.K4] (unattributed): The spirits do not understand Kelda. What is she for exactly?
+[PQGF.GOOD1] (unattributed): You have shown me kindness. In time there are things I will show you.
+[PQGF.GOOD2] (unattributed): You have gladdened my un-beating heart with your gifts, Dark One!
+[PQGF.GOOD3] (unattributed): You have given me so much. I’m sure I will find a way to do the same for you.
+[PQGF.GOOD4] (unattributed): I am grateful for the manner in which you honor me.
+[PQGF.BAD1] (unattributed): Do you not think fondly of me, Dark One?
+[PQGF.BAD2] (unattributed): Why must the others have all the pretty things?
+[PQGF.BAD3] (unattributed): I wish to have pretty things, please, Dark One. Even if I cannot touch, I still wish to look upon them.
+[PQGF.BAD4] (unattributed): You have given the others so much, but why not me, Dark One? I would be just as grateful!
+[PQGF.TRIO1] (unattributed): It is uplifting that we could all join and get on with one another.
+[PQGF.TRIO2] (unattributed): Seldom does one get to experience such a union in life, Dark One, let alone in death.
+[PQGF.TRIO3] (unattributed): I feel so refreshed, Dark One. I never felt this alive, even when I was!
+[G.ANY1] (unattributed): Ahh, it’s so nice to see the Minions back in the field fighting and dying like the bad old days!
+[G.ANY2] (unattributed): Hmmmm...I wonder what Quaver’s cooking for lunch.
+[G.ANY3] (unattributed): I remember when I was a young Minion, out in the field! Oh the things I put on my head!
+[G.ANY4] (unattributed): You’re doing very well, Master! But there’s always more evil to be done.
+[G.ANY5] (unattributed): The Empire is tough, Sire. But everything has their weak spot!
+[G.ANY6] (unattributed): You’re really getting the hang of this Overlording, Sire!
+[G.ANY7] (unattributed): We were very sad to leave the Old Tower, Sire, but we couldn’t stay without a Master.
+[G.ANY8] (unattributed): Try not to get yourself locked in an Infernal Abyss, Sire! Just saying, you know, for the record.
+[G.ANY9] (unattributed): Giblet, don’t chew that!
+[G.ANY10] (unattributed): I don’t trust that Empire, they’re far too shiny!
+[G.K1] (unattributed): That Nordbergian wench could be a handful! Several. 
+[G.K2] (unattributed): That Kelda looks like she’s seen a bit of rough and tumble...I’d like a bit of..rou – Oh I think I’d better have a lie down!
+[G.K3] (unattributed): Mistress Kelda does a wonderful foot rub, you know!
+[G.K4] (unattributed): Ah Kelda, I approve of a woman that likes a bit of bloodshed! And even more of one that can cause it!
+[G.J1] (unattributed): Ah, Mistress Juno, I just want to stuff her and suspend her in oil and just look at her...!
+[G.J2] (unattributed): That Juno looks like a demanding lady. I’m quite hoping she makes demands of me!
+[G.J3] (unattributed): Be careful of Empire ladies, Sire! They’ve got a way of making all your gold disappear!
+[G.J4] (unattributed): That Juno makes my little black heart all fluttery!
+[G.DF1] (unattributed): It’s an honor to have a truly evil mistress around the place!
+[G.DF2] (unattributed): Dark Fay is a formidable lady! Quite the destructive streak too.
+[G.DF3] (unattributed): I think Dark Fay maybe a little unstable, Sire! Still sanity has never been a required trait in evil beings.
+[G.DF4] (unattributed): Dark Fay is somewhat of a traditionalist in the attire department, but she wears the black very well, Lord!
+[G.GF1] (unattributed): I don’t like the way that Fay ghost floats up behind you. I swear she pinched me on my... Gnarl’s-special-place!
+[G.GF2] (unattributed): I’m not sure what we can do about that Ghost, Sire. She doesn’t seem to want to leave!
+[G.GF3] (unattributed): You have to be careful when you kill magical beings, Lord. Sometimes they just won’t stop moaning about it!
+[G.GF4] (unattributed): Being a ghost does seem to have given Fay a new lease of... er life, Sire!
+[G.DOM1] (unattributed): Good to see so many folks bowing to your evil demands, Sire!
+[G.DOM2] (unattributed): I’ve always said, if there’s no one left alive to fear you, what’s the point?
+[G.DOM3] (unattributed): Glad to see you’ve got the whole domination thing working for you, Master.
+[G.DOM4] (unattributed): Domination is the thinking Overlord’s choice of chaos, Sire!
+[G.DOM5] (unattributed): I’m very impressed by your subduing tactics, Sire. Domination is so much fun.
+[G.DOM6] (unattributed): I can see you’ve been following my ‘Don’t Hesitate – Dominate!’ Overlording guide, Sire. 
+[G.DES1] (unattributed): I can see you enjoy leaving a trail of carnage and chaos in your wake, Sire! Just as long as I don’t have to tidy it up!
+[G.DES2] (unattributed): It’s a real pleasure to see you going out and destroying things, Sire!
+[G.DES3] (unattributed): I always say, if there’s no one left alive, there’s no one to get in your way!
+[G.DES4] (unattributed): You do like a good dollop of destruction, don’t you, Sire? You remind me very much of one of my old Masters.
+[G.DES5] (unattributed): Sometimes it’s nice to build things, and sometimes it’s nice to just rip them all down and watch ‘em burn, eh Sire?
+[G.DES6] (unattributed): The Minions are very happy about all the destruction and carnage fun they’re getting to do! I’m quite nostalgic.
+[GUARD.M1_1] (unattributed): Master!
+[GUARD.M2_1] (unattributed): Master!
+[GUARD.M3_1] (unattributed): Master!
+[GUARD.M1_2] (unattributed): Greetings Master!
+[GUARD.M2_2] (unattributed): He comes!
+[GUARD.M3_2] (unattributed): Hail the Dark One!
+[GUARD.M1_3] (unattributed): The Overlord!
+[GUARD.M2_3] (unattributed): The Overlord!
+[GUARD.M3_3] (unattributed): The Overlord!
+[GUARD.M1_4] (unattributed): Hail!
+[GUARD.M2_4] (unattributed): The Master approaches!
+[GUARD.M3_4] (unattributed): Hail the Great One!

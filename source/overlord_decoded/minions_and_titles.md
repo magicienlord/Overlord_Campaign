@@ -1,0 +1,1516 @@
+# Minions, Jester and titles: canon voice
+
+Minion-speak, the Jester/Minstrel title announcements, Giblet at the Forge, canon Minion names and causes of death. Use for Quaver, Giblet the Sixth, Gristle, Blister, Grubbison Jr and Mortis.
+
+
+## O1 · D1_MAIN
+
+- [O1 D1_MAIN 303.20] Kill! Kill! Kill!
+- [O1 D1_MAIN 1200.20] Blues, swim like fishies!
+- [O1 D1_MAIN 1300.30] Ohhhh, more sheepies!
+
+## O1 · D1_SD3_MelvinsKitchen
+
+- [O1 D1_SD3_MelvinsKitchen 102.10] Yuck!
+
+## O1 · D1_SD4_Castle_Spree
+
+- [O1 D1_SD4_Castle_Spree 401.30] Cherubs? Yuck!
+
+## O1 · D2_MAIN
+
+- [O1 D2_MAIN 201.60] Blood... blood... wooo hooo!
+- [O1 D2_MAIN 300.20] Aaaaahh horsie wanna play!
+- [O1 D2_MAIN 600.60] Oooohhhhhh!
+- [O1 D2_MAIN 601.40] So... Sad...
+- [O1 D2_MAIN 700.20] Greens smell! Greens smell! Poooooo!
+- [O1 D2_MAIN 702.20] Blues, swim like fishes!
+- [O1 D2_MAIN 800.40] Yaaaaaaawwwwnnn!
+- [O1 D2_MAIN 801.70] Sheepies... sheepies, where’s sheepies?
+
+## O1 · D2_SD1_TheViridianCaverns
+
+- [O1 D2_SD1_TheViridianCaverns 100.20] Follow! Follow!
+- [O1 D2_SD1_TheViridianCaverns 106.20] Stab it! Stab it! Stab it!
+
+## O1 · D3_MAIN
+
+- [O1 D3_MAIN 300.20] Ooohhh come here sheepie sheepies!
+- [O1 D3_MAIN 403.40] We don’t like to swim... Blues like to swim!
+- [O1 D3_MAIN 801.30] Sheepies... sheepies, where sheepies?
+
+## O1 · D3_SD4_HalfwayToHeavenInn
+
+- [O1 D3_SD4_HalfwayToHeavenInn 204.10] Bad sheepie!
+
+## O1 · D4_SD2_TempleConstruction
+
+- [O1 D4_SD2_TempleConstruction 202.10] Ooh, Mama!
+- [O1 D4_SD2_TempleConstruction 202.40] Hello?
+
+## O1 · D4_SD3_TheBrewery
+
+- [O1 D4_SD3_TheBrewery 100.20] I smell beer!
+
+## O1 · D4_SD5_TheRoyalHalls
+
+- [O1 D4_SD5_TheRoyalHalls 200.20] Phhrrrt!
+
+## O1 · D5_MAIN
+
+- [O1 D5_MAIN 102.10] Bug fall down go boom!
+- [O1 D5_MAIN 207.20] New sheepies!
+- [O1 D5_MAIN 400.10] Water? Water?
+
+## O1 · EXP_Titles
+
+- [O1 EXP_Titles 100.10] Master of Evil Culinary Arts!
+- [O1 EXP_Titles 100.20] Persecutor of Pumpkins!
+- [O1 EXP_Titles 100.30] Ambassador of the Abyss!
+- [O1 EXP_Titles 200.10] Wielder of the Paladin Mop!
+- [O1 EXP_Titles 200.20] Pleaser of Ladies!
+- [O1 EXP_Titles 200.30] Preventer of the Floral Print Menace!
+- [O1 EXP_Titles 300.10] Star of the Stage!
+- [O1 EXP_Titles 300.20] Rebuilder of the Terror!
+- [O1 EXP_Titles 300.30] Art Critic!
+- [O1 EXP_Titles 400.10] Aggravator of the Angry Beards!
+- [O1 EXP_Titles 400.20] Slicer of Slugs
+- [O1 EXP_Titles 400.30] Golden Warrior!
+- [O1 EXP_Titles 500.10] Abuser of the Undead!
+- [O1 EXP_Titles 500.20] He who laughs in the Face of Death!
+- [O1 EXP_Titles 500.30] He whom Death Fears!
+- [O1 EXP_Titles 600.10] Soon... Soon...
+- [O1 EXP_Titles 600.20] It is almost complete!
+- [O1 EXP_Titles 600.30] Tread carefully!
+- [O1 EXP_Titles 600.40] ... Overlord... Underlord soon!
+- [O1 EXP_Titles 600.50] It’s all going to plan!
+
+## O1 · End_Tower_Battle_Narrative
+
+- [O1 End_Tower_Battle_Narrative 400.120] We are your Minions, Sire, he was nothing compared to
+- [O1 End_Tower_Battle_Narrative 1200.10] Master? ... Master! MASTER!
+
+## O1 · Minion_-_General_Speech
+
+- [O1 Minion_-_General_Speech ignore.NotEnough01] Not.. Enough…
+- [O1 Minion_-_General_Speech ignore.NotEnough02] Not.. Enough…
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseAll_01] All!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseAll_02] All!
+- [O1 Minion_-_General_Speech ignore.Attack01] Attack!
+- [O1 Minion_-_General_Speech ignore.Attack02] Attack!
+- [O1 Minion_-_General_Speech ignore.Attack03] Attack!
+- [O1 Minion_-_General_Speech ignore.Attack04] Attack!
+- [O1 Minion_-_General_Speech ignore.Attack05] Attack!
+- [O1 Minion_-_General_Speech ignore.Attack06] Attack!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseBlues_01] Blues!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseBlues_02] Blues!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseBrowns_01] Browns!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseBrowns_02] Browns!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseBrowns_03] Browns!
+- [O1 Minion_-_General_Speech ignore.Goblin_Burn_1] Burn!
+- [O1 Minion_-_General_Speech ignore.Minion_BurnBurn] Burn! Burn!
+- [O1 Minion_-_General_Speech ignore.Minion_CantDamage] Can't damage!
+- [O1 Minion_-_General_Speech ignore.Minion_CantPoison] Can't poison!
+- [O1 Minion_-_General_Speech ignore.Charge01] Charge!
+- [O1 Minion_-_General_Speech ignore.Charge02] Charge!
+- [O1 Minion_-_General_Speech ignore.Charge03] Charge!
+- [O1 Minion_-_General_Speech ignore.Charge04] Charge!
+- [O1 Minion_-_General_Speech ignore.Charge05] Charge!
+- [O1 Minion_-_General_Speech ignore.ComingBack01] Coming back!
+- [O1 Minion_-_General_Speech ignore.ComingBack02] Coming back!
+- [O1 Minion_-_General_Speech ignore.ComingBack03] Coming back!
+- [O1 Minion_-_General_Speech ignore.ComingBack04] Coming back!
+- [O1 Minion_-_General_Speech ignore.Destroy01] Destroy!
+- [O1 Minion_-_General_Speech ignore.Destroy02] Destroy!
+- [O1 Minion_-_General_Speech ignore.Minion_FireNoHurt] Fire no hurt it!
+- [O1 Minion_-_General_Speech ignore.ForMe01] For me!?
+- [O1 Minion_-_General_Speech ignore.ForMe02] For me!?
+- [O1 Minion_-_General_Speech ignore.ForMe03] For me!?
+- [O1 Minion_-_General_Speech ignore.ForTheMaster01] For the Master!
+- [O1 Minion_-_General_Speech ignore.ForTheMaster02] For the Master!
+- [O1 Minion_-_General_Speech ignore.ForTheMaster03] For the Master!
+- [O1 Minion_-_General_Speech ignore.ForTheOverlord01] For the Overlord
+- [O1 Minion_-_General_Speech ignore.ForYou01] For you!
+- [O1 Minion_-_General_Speech ignore.ForYou02] For you!
+- [O1 Minion_-_General_Speech ignore.ForYou03] For you!
+- [O1 Minion_-_General_Speech ignore.ForYou04] For you!
+- [O1 Minion_-_General_Speech ignore.GotIt01] Got it!
+- [O1 Minion_-_General_Speech ignore.GotIt02] Got it!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseGreen_01] Greens!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseGreen_02] Greens!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseGreen_03] Greens!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseGreen_04] Greens!
+- [O1 Minion_-_General_Speech ignore.GuardHere01] Guard… here!
+- [O1 Minion_-_General_Speech ignore.GuardHere02] Guard… here!
+- [O1 Minion_-_General_Speech ignore.GuardHere03] Guard… here!
+- [O1 Minion_-_General_Speech ignore.HelpMe01] Help me!
+- [O1 Minion_-_General_Speech ignore.HelpMe02] Help me!
+- [O1 Minion_-_General_Speech ignore.HereIAm01] Here I am
+- [O1 Minion_-_General_Speech ignore.HereIAm02] Here I am
+- [O1 Minion_-_General_Speech ignore.ItHurts01] It Hurts!
+- [O1 Minion_-_General_Speech ignore.ItHurts02] It Hurts!
+- [O1 Minion_-_General_Speech ignore.ItHurts03] It Hurts!
+- [O1 Minion_-_General_Speech ignore.KillThemAll01] Kill 'em all!
+- [O1 Minion_-_General_Speech ignore.KillThemAll02] Kill 'em all!
+- [O1 Minion_-_General_Speech ignore.KillThemAll03] Kill 'em all!
+- [O1 Minion_-_General_Speech ignore.KillThemAll04] Kill 'em all!
+- [O1 Minion_-_General_Speech ignore.KillKilll01] Kill Kill!
+- [O1 Minion_-_General_Speech ignore.KillKilll02] Kill Kill!
+- [O1 Minion_-_General_Speech ignore.KillKilll03] Kill Kill!
+- [O1 Minion_-_General_Speech ignore.KillKilll04] Kill Kill!
+- [O1 Minion_-_General_Speech ignore.KillKilll05] Kill Kill!
+- [O1 Minion_-_General_Speech ignore.Kill01] Kill!
+- [O1 Minion_-_General_Speech ignore.Kill02] Kill!
+- [O1 Minion_-_General_Speech ignore.Minion_MagicImmune] Magic immune!
+- [O1 Minion_-_General_Speech ignore.Minion_MagicNoHurt] Magic no hurt it!
+- [O1 Minion_-_General_Speech ignore.Master01] Master!?
+- [O1 Minion_-_General_Speech ignore.Master02] Master!?
+- [O1 Minion_-_General_Speech ignore.Nice01] Niceee!
+- [O1 Minion_-_General_Speech ignore.Nice02] Niceee!
+- [O1 Minion_-_General_Speech ignore.No01] Nooo!
+- [O1 Minion_-_General_Speech ignore.No02] Nooo!
+- [O1 Minion_-_General_Speech ignore.No03] Nooo!
+- [O1 Minion_-_General_Speech ignore.NothingHere01] Nottin Here
+- [O1 Minion_-_General_Speech ignore.NothingHere02] Nottin Here
+- [O1 Minion_-_General_Speech ignore.NothingHere03] Nottin Here
+- [O1 Minion_-_General_Speech ignore.NothingHere04] Nottin Here
+- [O1 Minion_-_General_Speech ignore.NothingHere05] Nottin Here
+- [O1 Minion_-_General_Speech ignore.Okay01] Okay!
+- [O1 Minion_-_General_Speech ignore.Okay02] Okay!
+- [O1 Minion_-_General_Speech ignore.OnIt01] On it
+- [O1 Minion_-_General_Speech ignore.OnIt02] On it
+- [O1 Minion_-_General_Speech ignore.Ouch01] Ouch
+- [O1 Minion_-_General_Speech ignore.Ouch02] Ouch
+- [O1 Minion_-_General_Speech ignore.Ouch03] Ouch
+- [O1 Minion_-_General_Speech ignore.Ow01] Ow
+- [O1 Minion_-_General_Speech ignore.Ow02] Ow
+- [O1 Minion_-_General_Speech ignore.Pillage01] Pillage!
+- [O1 Minion_-_General_Speech ignore.Pillage02] Pillage!
+- [O1 Minion_-_General_Speech ignore.Minion_PoisonNoHurt] Poison no hurt it!
+- [O1 Minion_-_General_Speech ignore.PoorMe01] Poor me!
+- [O1 Minion_-_General_Speech ignore.PoorMe02] Poor me!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseReds_01] Reds!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseReds_02] Reds!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseReds_03] Reds!
+- [O1 Minion_-_General_Speech ignore.Regroup01] Regroup!
+- [O1 Minion_-_General_Speech ignore.Regroup02] Regroup!
+- [O1 Minion_-_General_Speech ignore.TakingPosition01] Taking position!
+- [O1 Minion_-_General_Speech ignore.TakingPosition02] Taking position!
+- [O1 Minion_-_General_Speech ignore.TakingPosition03] Taking position!
+- [O1 Minion_-_General_Speech ignore.TakingPosition04] Taking position!
+- [O1 Minion_-_General_Speech ignore.ThatMustHurt01] That must hurt
+- [O1 Minion_-_General_Speech ignore.ThatMustHurt02] That must hurt
+- [O1 Minion_-_General_Speech ignore.ThatWasFun01] That was fun.
+- [O1 Minion_-_General_Speech ignore.ThatWasFun02] That was fun.
+- [O1 Minion_-_General_Speech ignore.ThatWasFun03] That was fun.
+- [O1 Minion_-_General_Speech ignore.ThatsMine01] That's mine!
+- [O1 Minion_-_General_Speech ignore.ThatsMine02] That's mine!
+- [O1 Minion_-_General_Speech ignore.ThatsMine03] That's mine!
+- [O1 Minion_-_General_Speech ignore.ThatsMine04] That's mine!
+- [O1 Minion_-_General_Speech ignore.ThisSpotMine01] This spot - mine!
+- [O1 Minion_-_General_Speech ignore.ThisSpotMine02] This spot - mine!
+- [O1 Minion_-_General_Speech ignore.Minion_TooStrong] Too strong!
+- [O1 Minion_-_General_Speech ignore.Treasure01] Treasure!
+- [O1 Minion_-_General_Speech ignore.Treasure02] Treasure!
+- [O1 Minion_-_General_Speech ignore.Treasure03] Treasure!
+- [O1 Minion_-_General_Speech ignore.Treasure04] Treasure!
+- [O1 Minion_-_General_Speech ignore.Treasure05] Treasure!
+- [O1 Minion_-_General_Speech ignore.Treasure06] Treasure!
+- [O1 Minion_-_General_Speech ignore.WeNeedMore01] we need more..
+- [O1 Minion_-_General_Speech ignore.WeNeedMore02] we need more..
+- [O1 Minion_-_General_Speech ignore.WhatAMess01] What a mess
+- [O1 Minion_-_General_Speech ignore.WhatAMess02] What a mess
+- [O1 Minion_-_General_Speech ignore.WhatAMess03] What a mess
+- [O1 Minion_-_General_Speech ignore.WhatAMess04] What a mess
+- [O1 Minion_-_General_Speech ignore.WhatAMess05] What a mess
+- [O1 Minion_-_General_Speech ignore.WhatAMess06] What a mess
+- [O1 Minion_-_General_Speech ignore.WhyMe01] Why me?
+- [O1 Minion_-_General_Speech ignore.WhyMe02] Why me?
+- [O1 Minion_-_General_Speech ignore.Minion_WontBurn] Won't burn!
+- [O1 Minion_-_General_Speech ignore.Minion_WontDie] Won't die!
+- [O1 Minion_-_General_Speech ignore.WontBudge01] won't... budge
+- [O1 Minion_-_General_Speech ignore.WontBudge02] won't... budge
+- [O1 Minion_-_General_Speech ignore.YesMasta01] Yes Masta
+- [O1 Minion_-_General_Speech ignore.YesMasta02] Yes Masta
+- [O1 Minion_-_General_Speech ignore.Yes01] Yes!
+- [O1 Minion_-_General_Speech ignore.Yes02] Yes!
+- [O1 Minion_-_General_Speech ignore.Minion_ChooseAll_03] You choose all!
+
+## O1 · Tower_Awakening
+
+- [O1 Tower_Awakening 100.30] Here! This one!
+- [O1 Tower_Awakening 100.40] Eah!
+- [O1 Tower_Awakening 100.60] Master! Master! Master!
+- [O1 Tower_Awakening 104.10] Ya haa!
+- [O1 Tower_Awakening 200.30] I think the sleeping beauty’s a little rusty.
+- [O1 Tower_Awakening 201.10] Stop, you’re tickling, you’re tickling!
+- [O1 Tower_Awakening 301.10] Come on you metal lump... you’re giving Evil a good name!
+- [O1 Tower_Awakening 400.10] Come on Princess. You move like a dead badger, shame you don’t smell as good!
+- [O1 Tower_Awakening 400.30] Oi tubs, they should call you the Overlard!
+- [O1 Tower_Awakening 502.10] Oi Mr Overlord... show me some Evil.
+- [O1 Tower_Awakening 504.10] Call that Evil? Overlord? Over-rated more like!
+- [O1 Tower_Awakening 506.10] What! Oh no! That ain’t fair! Waa!
+- [O1 Tower_Awakening 507.10] I yield... I yield... oh see me yielding!
+- [O1 Tower_Awakening 507.20] You Sire are the Prince of Persecution, the Duke of Damnation... the King of…
+- [O1 Tower_Awakening 600.10] This one’s a dud!
+- [O1 Tower_Awakening 600.20] You wouldn’t know Evil if it came up and stole ya boots!
+- [O1 Tower_Awakening 600.30] Where’d you dig this one up from Gnarl?
+- [O1 Tower_Awakening 600.40] That armor too heavy for you?
+- [O1 Tower_Awakening 600.50] Come on, I don’t have all day, smite me already!
+- [O1 Tower_Awakening 601.10] Leave me alone, Sire! I've gotta heal!
+- [O1 Tower_Awakening 601.20] Gaa! I hurt! I hurt!
+- [O1 Tower_Awakening 601.30] An Evil Tower needs its Evil Jester, Sire. Please don’t kill me!
+- [O1 Tower_Awakening 601.40] You’re Evil, you’re Evil, you’re really, really Evil! I get it, Lord, I get it!
+- [O1 Tower_Awakening 601.50] Surely you have better things to do than hit me all day!
+
+## O1 · Tower_Dungeon
+
+- [O1 Tower_Dungeon 200.10] Good evening Minions. Welcome to fight time! Yeah!
+- [O1 Tower_Dungeon 200.20] It’s dreary, dark and dank here in the Dungeon, just how we like it.
+- [O1 Tower_Dungeon 200.30] Now, put your claws together for... the Overlord!
+- [O1 Tower_Dungeon 201.10] Here he is, the Duke of Domination, the Prince of Persecution, the one, the only, the... Overlord!
+- [O1 Tower_Dungeon 201.20] You know him, you love 'im, it’s the... Overlord!
+- [O1 Tower_Dungeon 201.30] He’s the leader of the pack, he’s the big daddy, he’s... the Overlord!
+- [O1 Tower_Dungeon 201.40] Browns, Reds, Blues, Greens, lets hear some noise for the Overlord!
+- [O1 Tower_Dungeon 201.50] Clap your claws and shake your ears for the Overlord!
+- [O1 Tower_Dungeon 202.10] He is triumphant!
+- [O1 Tower_Dungeon 202.20] He is triumphant!
+- [O1 Tower_Dungeon 202.30] The Overlord reigns supreme!
+- [O1 Tower_Dungeon 202.40] The Overlord reigns supreme!
+- [O1 Tower_Dungeon 202.50] Chalk one up for Evil!
+- [O1 Tower_Dungeon 202.60] Chalk one up for Evil!
+- [O1 Tower_Dungeon 202.70] Overlord wins!
+- [O1 Tower_Dungeon 202.80] Overlord wins!
+- [O1 Tower_Dungeon 203.10] Ohhh I can’t watch!
+- [O1 Tower_Dungeon 203.20] Ohhh I can’t watch!
+- [O1 Tower_Dungeon 203.30] It’s a massacre out there!
+- [O1 Tower_Dungeon 203.40] It’s a massacre out there!
+- [O1 Tower_Dungeon 203.50] And there are bits of Minion everywhere!
+- [O1 Tower_Dungeon 203.60] And there are bits of Minion everywhere!
+- [O1 Tower_Dungeon 203.70] It’s not looking good for the Overlord!
+- [O1 Tower_Dungeon 203.80] It’s not looking good for the Overlord!
+- [O1 Tower_Dungeon 204.10] And he’s down!
+- [O1 Tower_Dungeon 204.20] And he’s down!
+- [O1 Tower_Dungeon 204.30] He’s out for the count!
+- [O1 Tower_Dungeon 204.40] He’s out for the count!
+- [O1 Tower_Dungeon 204.50] And he’s outta there!
+- [O1 Tower_Dungeon 204.60] And he’s outta there!
+- [O1 Tower_Dungeon 204.70] And the Overlord bites the dust! That’s all Minions!
+- [O1 Tower_Dungeon 204.80] And the Overlord bites the dust! That’s all Minions!
+
+## O1 · Tower_Forge
+
+- [O1 Tower_Forge 100.10] Your Minions have opened the Tower Forge! The smelter is being taken there.
+- [O1 Tower_Forge 100.20] Visit the Forge, Dark One, and create weapons and armor truly worthy of an Overlord!
+- [O1 Tower_Forge 101.10] Do inspect your Forge, Sire, I wouldn’t want to see you crushed by something heavy!
+- [O1 Tower_Forge 101.20] Visit your Forge, Sire, before your Minions start using it to roast some enemies.
+- [O1 Tower_Forge 101.30] Sire, do not forget to inspect your Forge!
+- [O1 Tower_Forge 102.10] Now, Sire, you won’t get much smiting done with that weapon! Visit the Forge at once!
+- [O1 Tower_Forge 102.20] Master, do forge yourself a new weapon. You don’t want the peasants laughing at you.
+- [O1 Tower_Forge 102.30] That weapon does not do you justice, Lord, visit your Forge immediately!
+- [O1 Tower_Forge 103.10] That armor is looking a bit rusty, Sire! Visit your Forge and upgrade it.
+- [O1 Tower_Forge 103.20] That old armor wouldn’t stop a sneeze, let alone a charging Troll. Visit your Forge at once!
+- [O1 Tower_Forge 103.30] You really need some new armor, Master. I can see the cracks in that one from here! Visit the Forge!
+- [O1 Tower_Forge 104.10] Sire, you might as well be wearing a bucket on your head for all the protection that helmet is providing! Go to the Forge and create a new one!
+- [O1 Tower_Forge 105.10] Sire, there are special Forge recipes available to you!
+- [O1 Tower_Forge 105.20] Master you can create magical items with special Forge recipes.
+- [O1 Tower_Forge 105.30] Sire, there are new recipes at your Forge! Oh! Why not try crafting something a little more exciting.
+- [O1 Tower_Forge 106.10] The Durium smelter, Sire! This can produce a much sturdier metal, which can hold more Minion sacrifices!
+- [O1 Tower_Forge 106.20] Visit your Forge to find out what new recipes are available to you.
+- [O1 Tower_Forge 107.10] It’s the Arcanium smelter. The smelter of smelters, Sire!  It will allow you to create some truly superior weaponry and armor.
+- [O1 Tower_Forge 200.10] Ah, the Forge, Sire!  This place has brought forth weapons that could slay Troll Kings, and armor that could stop a dragon’s breath.
+- [O1 Tower_Forge 200.20] Giblet has been promoted to Forge Master, he will show you around.
+- [O1 Tower_Forge 201.10] The smelter is heating, Sire. Please follow Giblet to the Forge chamber.
+- [O1 Tower_Forge 202.10] Here you can forge new items and upgrade existing ones!
+- [O1 Tower_Forge 203.10] You can create three types of items: weapons, helmets and armor.
+- [O1 Tower_Forge 204.10] This is where you can select the material type, Sire. It’s dependant on the types of smelters you have in your Forge.
+- [O1 Tower_Forge 205.10] The lives of your Minions can be used to imbue items. The more you sacrifice the more powerful the item!
+- [O1 Tower_Forge 205.20] Cost and the maximum number of Minions you can sacrifice are determined by item and material type.
+- [O1 Tower_Forge 205.30] Don’t get too carried away, Sire, remember Minions are your deadliest weapons. So don’t leave home without them!
+- [O1 Tower_Forge 206.10] Your item is ready to be forged, Master.
+- [O1 Tower_Forge 207.10] Follow Forge Master Giblet, Sire.
+- [O1 Tower_Forge 207.20] Giblet will show you around your Forge, Sire.
+- [O1 Tower_Forge 207.30] Follow Giblet, Master.
+- [O1 Tower_Forge 208.10] This is your armory, Sire, where you can store your armor and weapons.
+- [O1 Tower_Forge 300.10] Welcome to your Forge, Sire.
+- [O1 Tower_Forge 300.20] Your Minions are waiting to be embraced by the flames.
+- [O1 Tower_Forge 300.30] The smelter needs feeding, Master.
+- [O1 Tower_Forge 300.40] A little forging is restful for the mind, Sire. Helps clear your head for the Evil deeds ahead.
+- [O1 Tower_Forge 300.50] Giblet, see to the Master’s needs.
+- [O1 Tower_Forge 300.60] Giblet wake up, there’s forging to be done!
+
+## O1 · Tower_GeneralMessages
+
+- [O1 Tower_GeneralMessages 100.10] Browns!
+- [O1 Tower_GeneralMessages 100.20] Browns!
+- [O1 Tower_GeneralMessages 104.10] All!
+- [O1 Tower_GeneralMessages 104.20] All!
+- [O1 Tower_GeneralMessages 200.10] Browns back!
+- [O1 Tower_GeneralMessages 200.20] Browns retreat!
+- [O1 Tower_GeneralMessages 200.30] To the Overlord!
+- [O1 Tower_GeneralMessages 208.10] All back!
+- [O1 Tower_GeneralMessages 208.20] We retreat!
+- [O1 Tower_GeneralMessages 208.30] We go back!
+- [O1 Tower_GeneralMessages 208.40] To the Overlord!
+- [O1 Tower_GeneralMessages 300.10] Browns guard!
+- [O1 Tower_GeneralMessages 300.20] Browns will guard.
+- [O1 Tower_GeneralMessages 304.10] We guard!
+- [O1 Tower_GeneralMessages 304.20] We guard!
+
+## O1 · Tower_MistressChoice
+
+- [O1 Tower_MistressChoice 100.40] Ar!
+- [O1 Tower_MistressChoice 100.60] Aw!
+- [O1 Tower_MistressChoice 200.40] No sheepie?
+
+## O1 · Tower_Titles
+
+- [O1 Tower_Titles GREETING_1.JES] Hail
+- [O1 Tower_Titles GREETING_2.JES] Greetings
+- [O1 Tower_Titles GREETING_3.JES] Welcome
+- [O1 Tower_Titles GREETING_4.JES] Salutations
+- [O1 Tower_Titles D1_WORLDSTONE.JES] Savior of the Tower Heart
+- [O1 Tower_Titles D1_GETROSE.JES] Rescuer of the Distressed Damsel
+- [O1 Tower_Titles D1_REDMINIONS.JES] Leader of the Fire Starters
+- [O1 Tower_Titles D2S1_GREENHIVE.JES] Ruler of the Stealth Army
+- [O1 Tower_Titles D3S1_BLUEHIVE.JES] Warrior of the Watery Ones
+- [O1 Tower_Titles D1_FORGE.JES] Wielder of Steel
+- [O1 Tower_Titles D3_FORGE.JES] Forger of Durium
+- [O1 Tower_Titles D4_ARCANIUM.JES] Master of Arcanium Weaponry
+- [O1 Tower_Titles FULL_DURIUM.JES] Leader of the Minion Army
+- [O1 Tower_Titles FULL_ARCANIUM.JES] Great and Mighty Overlord
+- [O1 Tower_Titles ULTIMATE_STEEL.JES] Wielder of Mighty Weapons
+- [O1 Tower_Titles ULTIMATE_DURIUM.JES] Wielder of Arcane Weapons
+- [O1 Tower_Titles ULTIMATE_ARCANIUM.JES] Impenetrable One
+- [O1 Tower_Titles D1_FOOD.JES] Gluttonous Overlard
+- [O1 Tower_Titles D1_FOOD.ALT] Merciful Quietener of the Grumbling Stomachs
+- [O1 Tower_Titles D2_GROVE.JES] Desecrator of the Sacred Grove
+- [O1 Tower_Titles D2_GROVE.ALT] Friend to the Flowers and Trees
+- [O1 Tower_Titles D3S5_MISTRESSES.JES] Appreciator of Voluptuous Assets
+- [O1 Tower_Titles D3S5_MISTRESSES.ALT] Loyal Lord!
+- [O1 Tower_Titles D4_FEMALE_ELVES.JES] Destroyer of Elvenkind
+- [O1 Tower_Titles D4_FEMALE_ELVES.ALT] Elf Lover!
+- [O1 Tower_Titles D5_RETRIEVESTATUE.JES] Pincher of Sacred Relics
+- [O1 Tower_Titles D5_RETRIEVESTATUE.ALT] Blessed of the Elves
+- [O1 Tower_Titles TRAITORS_FATE.JES] Executioner of Traitors
+- [O1 Tower_Titles TRAITORS_FATE.ALT] Forgiving Lord
+- [O1 Tower_Titles D1_MELVIN.JES] Exploder of Melvin Underbelly
+- [O1 Tower_Titles D2_OBERON.JES] Rude Awakener
+- [O1 Tower_Titles D3_WILLIAM.JES] Purger of the Perverted Paladin
+- [O1 Tower_Titles D4_GOLDO.JES] Grinder of Goldo and Ravager of Rollie
+- [O1 Tower_Titles D5_CAPTUREJEWEL.JES] Apprehender of Thieves
+- [O1 Tower_Titles D3_KAHN.JES] Giant Slayer
+- [O1 Tower_Titles TOWER_WIZARD.JES] The One True Overlord
+- [O1 Tower_Titles MINION_KILLS_1000.JES] Reckless Orchestrator of Minion Deaths
+- [O1 Tower_Titles MINION_KILLS_10000.JES] Mass Minion Murderer
+- [O1 Tower_Titles HARVEST_10.JES] Harvester of Lifeforce
+- [O1 Tower_Titles HARVEST_250.JES] Force Feeder
+- [O1 Tower_Titles HARVEST_1000.JES] Amasser of Armies
+- [O1 Tower_Titles HARVEST_10000.JES] Forceful One
+- [O1 Tower_Titles BEAT_JESTER1.JES] Bully of Jesters
+- [O1 Tower_Titles BEAT_JESTER2.JES] Suppressor of Free Jester Speech
+- [O1 Tower_Titles BEAT_JESTER3.JES] Vanquisher of the Funny
+- [O1 Tower_Titles HALF_DUNGEON.JES] Dungeon Dabbler
+- [O1 Tower_Titles FULL_DUNGEON.JES] Master of the Dungeon
+- [O1 Tower_Titles VELVET_BEDROOM.JES] Lord of Lust and Lechery
+- [O1 Tower_Titles ROSE_BEDROOM.JES] Most Knowledgeable Master of Minions
+- [O1 Tower_Titles PEASANT_KILLS_1.JES] Peasant Punisher
+- [O1 Tower_Titles PEASANT_KILLS_20.JES] Man Mangler
+- [O1 Tower_Titles FEMALE_KILLS_10.JES] Wenchbane
+- [O1 Tower_Titles PEASANT_KILLS_100.JES] Enemy of Man
+- [O1 Tower_Titles PEASANT_KILLS_500.JES] Enemy of Mankind
+- [O1 Tower_Titles ELF_KILLS_10.JES] Destroyer of Elves
+- [O1 Tower_Titles PEASANT_FLAMED_1.JES] Peasant Toaster
+- [O1 Tower_Titles PEASANT_FLAMED_20.JES] Peasant Pyromaniac
+- [O1 Tower_Titles ZOMBIE_KILLS_100.JES] Bane of the Undead
+- [O1 Tower_Titles TOWER_INIT.JES] Keeper of the Ruined Tower
+- [O1 Tower_Titles D1_CRANE.JES] Restorer of the Dark Tower
+- [O1 Tower_Titles TOWER_UPGRADE_1.JES] Unspeakable Decorator of the Dark Tower
+- [O1 Tower_Titles TOWER_UPGRADE_2.JES] Cosy Lord of Evil Homeliness
+- [O1 Tower_Titles CORRUPTED_LVL_1.JES] Dabbler in the Evil Arts
+- [O1 Tower_Titles CORRUPTED_LVL_2.JES] Scion of Darkness
+- [O1 Tower_Titles CORRUPTED_LVL_3.JES] Patron of Evil
+- [O1 Tower_Titles CORRUPTED_LVL_4.JES] Enemy of the Light
+- [O1 Tower_Titles CORRUPTED_LVL_5.JES] Infernal Majesty
+- [O1 Tower_Titles CORRUPTED_LVL_6.JES] Demon of Death and Destruction
+- [O1 Tower_Titles CORRUPTED_LVL_7.JES] Most High Lord of Chaos
+- [O1 Tower_Titles UNCORRUPTED_LVL_1.JES] Watchful Guardian
+- [O1 Tower_Titles UNCORRUPTED_LVL_2.JES] Cautious Crusader
+- [O1 Tower_Titles UNCORRUPTED_LVL_3.JES] Peasant Protector
+- [O1 Tower_Titles UNCORRUPTED_LVL_4.JES] Mindful Warrior
+- [O1 Tower_Titles UNCORRUPTED_LVL_5.JES] Duke of Deviousness
+- [O1 Tower_Titles UNCORRUPTED_LVL_6.JES] Military Mastermind
+- [O1 Tower_Titles UNCORRUPTED_LVL_7.JES] Supreme Lord of Honor
+- [O1 Tower_Titles TUTORIAL_COMPLETE.JES] Most Wise Master
+- [O1 Tower_Titles TUTORIAL_COMPLETE.ALT] Most Overconfident Master
+- [O1 Tower_Titles D2S3_TOMBPLUNDERER.JES] Defiler of the Elven Temple
+- [O1 Tower_Titles HARRASS_PEASANTS.JES] Harasser of Humans
+- [O1 Tower_Titles SUPRESS_SPREE.JES] Suppressor of Spree
+- [O1 Tower_Titles TRASH_HOMES.JES] Homewrecker
+- [O1 Tower_Titles TRASH_TOWNS.JES] Town Trasher
+- [O1 Tower_Titles SLUG_FEEDER.JES] Fattener of Slugs
+- [O1 Tower_Titles SILENT_ORDER.JES] New God of the Mumblers
+- [O1 Tower_Titles D1_SERVANTS.JES] Servant Snatcher
+- [O1 Tower_Titles BAR_FIGHT.JES] Bar Room Brawler
+
+## O1 · Warrior_In_Spree
+
+- [O1 Warrior_In_Spree 101.20] Naughty, naughty! Those are Minions’ sheepies!
+
+## O2 · MinionCausesOfDeath
+
+- [O2 MinionCausesOfDeath MCODCHAR.Gnome] Death by pointy hat
+- [O2 MinionCausesOfDeath MCODCHAR.Legionnaire] Battle fodder
+- [O2 MinionCausesOfDeath MCODCHAR.Emp_Vil] Smacked by a Citizen
+- [O2 MinionCausesOfDeath MCODCHAR.Nord_Vil] Nobbled by a Nordbergian
+- [O2 MinionCausesOfDeath MCODCHAR.Elf_Vil] Hugged to death
+- [O2 MinionCausesOfDeath MCODCHAR.Hunter] Clubbed by a Hunter
+- [O2 MinionCausesOfDeath MCODCHAR.Yeti] Squashed by hairy toes
+- [O2 MinionCausesOfDeath MCODCHAR.Yeti_Berserker] Squashed by giant hairy toes
+- [O2 MinionCausesOfDeath MCODCHAR.Empire_Centurion] Smashed by a Centurion
+- [O2 MinionCausesOfDeath MCODCHAR.Alpha_Salamander] Roasted by the Salamander King
+- [O2 MinionCausesOfDeath MCODCHAR.Alpha_Spider] Eaten by the Spider Queen
+- [O2 MinionCausesOfDeath MCODCHAR.Circle_Member] Drained by a Sentinel
+- [O2 MinionCausesOfDeath MCODCHAR.Colossus] Devoured by the Devourer
+- [O2 MinionCausesOfDeath MCODCHAR.Dryad] Death by Dryad
+- [O2 MinionCausesOfDeath MCODCHAR.Eradicator] Cleansed by an Eradicator
+- [O2 MinionCausesOfDeath MCODCHAR.Forest_Troll] Trounced by a Troll
+- [O2 MinionCausesOfDeath MCODCHAR.Imperial_Guard] Shot down by an Imperial Guard
+- [O2 MinionCausesOfDeath MCODCHAR.Killer Panda] Pulverized by a Panda
+- [O2 MinionCausesOfDeath MCODCHAR.Mermaid] Murdered by a Mermaid
+- [O2 MinionCausesOfDeath MCODCHAR.Mutant_Minion] Killed by his brother Minion
+- [O2 MinionCausesOfDeath MCODCHAR.Unicorn] Got the horn
+- [O2 MinionCausesOfDeath MCODCHAR.Storm_Trooper] Flattened by a Gargantuan
+- [O2 MinionCausesOfDeath MCODCHAR.Slugs] Slimed to death
+- [O2 MinionCausesOfDeath MCODCHAR.Wild_Wolves] Wolf's chew toy
+- [O2 MinionCausesOfDeath MCODCHAR.Wild_Spiders] Spider's snack
+- [O2 MinionCausesOfDeath MCODCHAR.Wild_Salamanders] Lit up by a Salamander
+- [O2 MinionCausesOfDeath MCODDEFAULT.UNKNOWN] Casualty of war
+- [O2 MinionCausesOfDeath MCODDEFAULT.DROWNED] Sent to a watery grave
+- [O2 MinionCausesOfDeath MCODDEFAULT.GIBBED] Gibbed out
+- [O2 MinionCausesOfDeath MCODDEFAULT.SACRIFICED] Died for the Master
+- [O2 MinionCausesOfDeath MCODHAZARD.Poison_Hazards] Poison victim
+- [O2 MinionCausesOfDeath MCODHAZARD.Fire_Hazards] Burnt to a cinder
+- [O2 MinionCausesOfDeath MCODHAZARD.Hazard_Generic] Killed in the line of duty
+- [O2 MinionCausesOfDeath MCODCHAR.ElvenWarrior] Ended by an Elf
+- [O2 MinionCausesOfDeath MCODCHAR.ElvenPriest] Punished by a Priestess
+
+## O2 · Minion_Names
+
+- [O2 Minion_Names BROWN.] Gloob
+- [O2 Minion_Names BROWN.] Grot
+- [O2 Minion_Names BROWN.] Scabies
+- [O2 Minion_Names BROWN.] Rasp
+- [O2 Minion_Names BROWN.] Dribble
+- [O2 Minion_Names BROWN.] Maaka
+- [O2 Minion_Names BROWN.] Grunt
+- [O2 Minion_Names BROWN.] Gurk
+- [O2 Minion_Names BROWN.] Lumpy
+- [O2 Minion_Names BROWN.] Nub
+- [O2 Minion_Names BROWN.] Husk
+- [O2 Minion_Names BROWN.] Grit
+- [O2 Minion_Names BROWN.] Moldy
+- [O2 Minion_Names BROWN.] Grinder
+- [O2 Minion_Names BROWN.] Clot
+- [O2 Minion_Names BROWN.] Drag
+- [O2 Minion_Names BROWN.] Grout
+- [O2 Minion_Names BROWN.] Gnash
+- [O2 Minion_Names BROWN.] Maggot
+- [O2 Minion_Names BROWN.] Grump
+- [O2 Minion_Names BROWN.] Krug
+- [O2 Minion_Names BROWN.] Buba
+- [O2 Minion_Names BROWN.] Pounder
+- [O2 Minion_Names BROWN.] Lug
+- [O2 Minion_Names BROWN.] Grotty
+- [O2 Minion_Names BROWN.] Scuz
+- [O2 Minion_Names BROWN.] Gubbin
+- [O2 Minion_Names BROWN.] Loob
+- [O2 Minion_Names BROWN.] Frothmouth
+- [O2 Minion_Names BROWN.] Basher
+- [O2 Minion_Names BROWN.] Grub
+- [O2 Minion_Names BROWN.] Crusher
+- [O2 Minion_Names BROWN.] Scrunge
+- [O2 Minion_Names BROWN.] Drak
+- [O2 Minion_Names BROWN.] Striker
+- [O2 Minion_Names BROWN.] Trog
+- [O2 Minion_Names BROWN.] Ache
+- [O2 Minion_Names BROWN.] Clums
+- [O2 Minion_Names BROWN.] Smasher
+- [O2 Minion_Names BROWN.] Musher
+- [O2 Minion_Names BROWN.] Klutts
+- [O2 Minion_Names BROWN.] Klepto
+- [O2 Minion_Names BROWN.] Flakes
+- [O2 Minion_Names BROWN.] Goober
+- [O2 Minion_Names BROWN.] Lud
+- [O2 Minion_Names BROWN.] Pimples
+- [O2 Minion_Names BROWN.] Drongo
+- [O2 Minion_Names BROWN.] Stomper
+- [O2 Minion_Names BROWN.] Pants
+- [O2 Minion_Names BROWN.] Drot
+- [O2 Minion_Names BROWN.] Thug
+- [O2 Minion_Names BROWN.] Flint
+- [O2 Minion_Names BROWN.] Itchy
+- [O2 Minion_Names BROWN.] Sloot
+- [O2 Minion_Names BROWN.] Trudge
+- [O2 Minion_Names BROWN.] Strut
+- [O2 Minion_Names BROWN.] Fury
+- [O2 Minion_Names BROWN.] Pummel
+- [O2 Minion_Names BROWN.] Pus
+- [O2 Minion_Names BROWN.] Wrinkle
+- [O2 Minion_Names BROWN.] Flummox
+- [O2 Minion_Names BROWN.] Drob
+- [O2 Minion_Names BROWN.] Clank
+- [O2 Minion_Names BROWN.] Bumps
+- [O2 Minion_Names BROWN.] Murk
+- [O2 Minion_Names BROWN.] Gribble
+- [O2 Minion_Names BROWN.] Headcase
+- [O2 Minion_Names BROWN.] Mac
+- [O2 Minion_Names BROWN.] Glottis
+- [O2 Minion_Names BROWN.] Lumber
+- [O2 Minion_Names BROWN.] Groan
+- [O2 Minion_Names BROWN.] Slasher
+- [O2 Minion_Names BROWN.] Loafer
+- [O2 Minion_Names BROWN.] Blunt
+- [O2 Minion_Names BROWN.] Clunk
+- [O2 Minion_Names BROWN.] Dirt
+- [O2 Minion_Names BROWN.] Krump
+- [O2 Minion_Names BROWN.] Belch
+- [O2 Minion_Names BROWN.] Brash
+- [O2 Minion_Names BROWN.] Gnarf
+- [O2 Minion_Names BROWN.] Havoc
+- [O2 Minion_Names BROWN.] Warts
+- [O2 Minion_Names BROWN.] Rocky
+- [O2 Minion_Names BROWN.] Trundle
+- [O2 Minion_Names BROWN.] Cackle
+- [O2 Minion_Names BROWN.] Crash
+- [O2 Minion_Names BROWN.] Nutter
+- [O2 Minion_Names BROWN.] Nails
+- [O2 Minion_Names BROWN.] Claws
+- [O2 Minion_Names BROWN.] Drub
+- [O2 Minion_Names BROWN.] Loony
+- [O2 Minion_Names BROWN.] Grockle
+- [O2 Minion_Names BROWN.] Flaky
+- [O2 Minion_Names BROWN.] Sores
+- [O2 Minion_Names BROWN.] Sporker
+- [O2 Minion_Names BROWN.] Lumper
+- [O2 Minion_Names BROWN.] Flange
+- [O2 Minion_Names BROWN.] Colon
+- [O2 Minion_Names BROWN.] Nutts
+- [O2 Minion_Names BROWN.] Trug
+- [O2 Minion_Names BROWN.] Thump
+- [O2 Minion_Names BROWN.] Wobber
+- [O2 Minion_Names BROWN.] Smoosh
+- [O2 Minion_Names BROWN.] Clout
+- [O2 Minion_Names BROWN.] Plunk
+- [O2 Minion_Names BROWN.] Scars
+- [O2 Minion_Names BROWN.] Sprocket
+- [O2 Minion_Names BROWN.] Rubble
+- [O2 Minion_Names BROWN.] Scabby
+- [O2 Minion_Names BROWN.] Mangle
+- [O2 Minion_Names BROWN.] Snub
+- [O2 Minion_Names BROWN.] Thresher
+- [O2 Minion_Names BROWN.] Shaktor
+- [O2 Minion_Names BROWN.] Grabber
+- [O2 Minion_Names BROWN.] Knobbly
+- [O2 Minion_Names BROWN.] Grug
+- [O2 Minion_Names BROWN.] Crusty
+- [O2 Minion_Names BROWN.] Swat
+- [O2 Minion_Names BROWN.] Sloth
+- [O2 Minion_Names BROWN.] Nibbles
+- [O2 Minion_Names BROWN.] Ruttle
+- [O2 Minion_Names BROWN.] Slab
+- [O2 Minion_Names BROWN.] Whacker
+- [O2 Minion_Names BROWN.] Tubbs
+- [O2 Minion_Names BROWN.] Gruff
+- [O2 Minion_Names BROWN.] Knotty
+- [O2 Minion_Names BROWN.] Flub
+- [O2 Minion_Names BROWN.] Whammy
+- [O2 Minion_Names BROWN.] Reggie
+- [O2 Minion_Names BROWN.] Slog
+- [O2 Minion_Names BROWN.] Cribble
+- [O2 Minion_Names BROWN.] Stout
+- [O2 Minion_Names BROWN.] Wrangle
+- [O2 Minion_Names BROWN.] Brawn
+- [O2 Minion_Names BROWN.] Muckle
+- [O2 Minion_Names BROWN.] Maul
+- [O2 Minion_Names BROWN.] Mud
+- [O2 Minion_Names BROWN.] Clobber
+- [O2 Minion_Names BROWN.] Groat
+- [O2 Minion_Names BROWN.] Crivice
+- [O2 Minion_Names BROWN.] Conk
+- [O2 Minion_Names BROWN.] Bellow
+- [O2 Minion_Names BROWN.] Bones
+- [O2 Minion_Names BROWN.] Dave
+- [O2 Minion_Names BROWN.] Wallop
+- [O2 Minion_Names BROWN.] Ravage
+- [O2 Minion_Names BROWN.] Punchy
+- [O2 Minion_Names BROWN.] Chewy
+- [O2 Minion_Names BROWN.] Gusto
+- [O2 Minion_Names BROWN.] Stubby
+- [O2 Minion_Names BROWN.] Shabby
+- [O2 Minion_Names BROWN.] Drivel
+- [O2 Minion_Names BROWN.] Tricks
+- [O2 Minion_Names BROWN.] Shub
+- [O2 Minion_Names BROWN.] Ricket
+- [O2 Minion_Names BROWN.] Brunt
+- [O2 Minion_Names BROWN.] Ramshackle
+- [O2 Minion_Names BROWN.] Bloat
+- [O2 Minion_Names BROWN.] Pug
+- [O2 Minion_Names BROWN.] Brick
+- [O2 Minion_Names BROWN.] Spasm
+- [O2 Minion_Names BROWN.] Flumber
+- [O2 Minion_Names BROWN.] Dweeb
+- [O2 Minion_Names BROWN.] Tank
+- [O2 Minion_Names BROWN.] Fidget
+- [O2 Minion_Names BROWN.] Fleas
+- [O2 Minion_Names BROWN.] Ears
+- [O2 Minion_Names BROWN.] Zinger
+- [O2 Minion_Names BROWN.] Gunk
+- [O2 Minion_Names BROWN.] Lard
+- [O2 Minion_Names BROWN.] Weedle
+- [O2 Minion_Names BROWN.] Muck
+- [O2 Minion_Names BROWN.] Weevil
+- [O2 Minion_Names BROWN.] Duh
+- [O2 Minion_Names BROWN.] Smear
+- [O2 Minion_Names BROWN.] Blob
+- [O2 Minion_Names BROWN.] Scrum
+- [O2 Minion_Names BROWN.] Scrub
+- [O2 Minion_Names BROWN.] Scrunch
+- [O2 Minion_Names BROWN.] Crunchy
+- [O2 Minion_Names BROWN.] Scroop
+- [O2 Minion_Names BROWN.] Stump
+- [O2 Minion_Names BROWN.] Thrum
+- [O2 Minion_Names BROWN.] Thwack
+- [O2 Minion_Names BROWN.] Heabag
+- [O2 Minion_Names BROWN.] Graves
+- [O2 Minion_Names BROWN.] Nug
+- [O2 Minion_Names BROWN.] Hobble
+- [O2 Minion_Names BROWN.] Squat
+- [O2 Minion_Names BROWN.] Gobble
+- [O2 Minion_Names BROWN.] Goulash
+- [O2 Minion_Names BROWN.] Clog
+- [O2 Minion_Names BROWN.] Dookie
+- [O2 Minion_Names BROWN.] Crank
+- [O2 Minion_Names BROWN.] Boog
+- [O2 Minion_Names BROWN.] Scrod
+- [O2 Minion_Names BROWN.] Muggins
+- [O2 Minion_Names BROWN.] Lobe
+- [O2 Minion_Names BROWN.] Cliffy
+- [O2 Minion_Names BROWN.] Nork
+- [O2 Minion_Names BROWN.] Nud
+- [O2 Minion_Names BROWN.] Omph
+- [O2 Minion_Names BROWN.] Wook
+- [O2 Minion_Names BROWN.] Tombs
+- [O2 Minion_Names BROWN.] Frack
+- [O2 Minion_Names BROWN.] Crot
+- [O2 Minion_Names BROWN.] Blump
+- [O2 Minion_Names BROWN.] Rootle
+- [O2 Minion_Names BROWN.] Thrutch
+- [O2 Minion_Names BROWN.] Fatso
+- [O2 Minion_Names BROWN.] Clod
+- [O2 Minion_Names BROWN.] Tack
+- [O2 Minion_Names BROWN.] Clogg
+- [O2 Minion_Names BROWN.] Podge
+- [O2 Minion_Names BROWN.] Runt
+- [O2 Minion_Names BROWN.] Welch
+- [O2 Minion_Names BROWN.] Welt
+- [O2 Minion_Names BROWN.] Len
+- [O2 Minion_Names BROWN.] Knud
+- [O2 Minion_Names BROWN.] Limp
+- [O2 Minion_Names BROWN.] Spod
+- [O2 Minion_Names BROWN.] Dringe
+- [O2 Minion_Names BROWN.] Glob
+- [O2 Minion_Names BROWN.] Grapple
+- [O2 Minion_Names BROWN.] Grime
+- [O2 Minion_Names BROWN.] Hog
+- [O2 Minion_Names BROWN.] Drogan
+- [O2 Minion_Names BROWN.] Widdle
+- [O2 Minion_Names BROWN.] Puke
+- [O2 Minion_Names BROWN.] Daft
+- [O2 Minion_Names BROWN.] Flibble
+- [O2 Minion_Names BROWN.] Bonce
+- [O2 Minion_Names BROWN.] Murf
+- [O2 Minion_Names BROWN.] Lestek
+- [O2 Minion_Names BROWN.] Skum
+- [O2 Minion_Names BROWN.] Stomped
+- [O2 Minion_Names BROWN.] Chuckles
+- [O2 Minion_Names BROWN.] Burly
+- [O2 Minion_Names BROWN.] Vash
+- [O2 Minion_Names BROWN.] Bitey
+- [O2 Minion_Names BROWN.] Zod
+- [O2 Minion_Names BROWN.] Widget
+- [O2 Minion_Names BROWN.] Wrath
+- [O2 Minion_Names BROWN.] Midge
+- [O2 Minion_Names BROWN.] Snort
+- [O2 Minion_Names BROWN.] Wolf
+- [O2 Minion_Names BROWN.] Trok
+- [O2 Minion_Names BROWN.] Daks
+- [O2 Minion_Names BROWN.] Nubbin
+- [O2 Minion_Names BROWN.] Louse
+- [O2 Minion_Names BROWN.] Scuzzy
+- [O2 Minion_Names BROWN.] Krudster
+- [O2 Minion_Names BROWN.] Yuck
+- [O2 Minion_Names BROWN.] Scum
+- [O2 Minion_Names BROWN.] Pigpen
+- [O2 Minion_Names BROWN.] Crummy
+- [O2 Minion_Names BROWN.] Krumb
+- [O2 Minion_Names BROWN.] Straggle
+- [O2 Minion_Names BROWN.] Pudge
+- [O2 Minion_Names BROWN.] Sores
+- [O2 Minion_Names BROWN.] vex
+- [O2 Minion_Names BROWN.] Sulks
+- [O2 Minion_Names BROWN.] Huffy
+- [O2 Minion_Names BROWN.] Scrunt
+- [O2 Minion_Names BROWN.] Scrot
+- [O2 Minion_Names BROWN.] Sins
+- [O2 Minion_Names BROWN.] Bracket
+- [O2 Minion_Names BROWN.] Hinge
+- [O2 Minion_Names BROWN.] Bandit
+- [O2 Minion_Names BROWN.] Mite
+- [O2 Minion_Names BROWN.] Tick
+- [O2 Minion_Names BROWN.] Pest
+- [O2 Minion_Names BROWN.] Termite
+- [O2 Minion_Names BROWN.] Kenny
+- [O2 Minion_Names BROWN.] Nip
+- [O2 Minion_Names BROWN.] Rat
+- [O2 Minion_Names BROWN.] Grouch
+- [O2 Minion_Names BROWN.] Splitter
+- [O2 Minion_Names BROWN.] Skull
+- [O2 Minion_Names BROWN.] Squabble
+- [O2 Minion_Names BROWN.] Squib
+- [O2 Minion_Names BROWN.] Tonk
+- [O2 Minion_Names BROWN.] Tombstone
+- [O2 Minion_Names BROWN.] Howler
+- [O2 Minion_Names BROWN.] Gnat
+- [O2 Minion_Names BROWN.] Worm
+- [O2 Minion_Names BROWN.] Squiggle
+- [O2 Minion_Names BROWN.] Wags
+- [O2 Minion_Names BROWN.] Boxer
+- [O2 Minion_Names BROWN.] Brawly
+- [O2 Minion_Names BROWN.] Rumpus
+- [O2 Minion_Names BROWN.] Curly
+- [O2 Minion_Names BROWN.] Scraps
+- [O2 Minion_Names BROWN.] Scuffle
+- [O2 Minion_Names BROWN.] Clash
+- [O2 Minion_Names BROWN.] Flunk
+- [O2 Minion_Names BROWN.] Mugsy
+- [O2 Minion_Names BROWN.] kniff
+- [O2 Minion_Names BROWN.] Herc
+- [O2 Minion_Names BROWN.] Cleft
+- [O2 Minion_Names BROWN.] Sleaver
+- [O2 Minion_Names BROWN.] Chops
+- [O2 Minion_Names BROWN.] Frothmouth
+- [O2 Minion_Names BROWN.] Moxy
+- [O2 Minion_Names BROWN.] Raider
+- [O2 Minion_Names BROWN.] Sug
+- [O2 Minion_Names BROWN.] Dusty
+- [O2 Minion_Names BROWN.] Bark
+- [O2 Minion_Names BROWN.] Stonk
+- [O2 Minion_Names BROWN.] Gonk
+- [O2 Minion_Names BROWN.] Hooter
+- [O2 Minion_Names BROWN.] Duggs
+- [O2 Minion_Names BROWN.] Smidge
+- [O2 Minion_Names BROWN.] Nubbage
+- [O2 Minion_Names BROWN.] Mooker
+- [O2 Minion_Names BROWN.] Cribbage
+- [O2 Minion_Names BROWN.] Snurt
+- [O2 Minion_Names BROWN.] Boot
+- [O2 Minion_Names BROWN.] Skritch
+- [O2 Minion_Names BROWN.] Steve
+- [O2 Minion_Names BROWN.] Nudge
+- [O2 Minion_Names BROWN.] Nit
+- [O2 Minion_Names BROWN.] Lacky
+- [O2 Minion_Names BROWN.] Murry
+- [O2 Minion_Names BROWN.] Huso
+- [O2 Minion_Names BROWN.] Hunt
+- [O2 Minion_Names BROWN.] Rabid
+- [O2 Minion_Names BROWN.] Berserk
+- [O2 Minion_Names BROWN.] Smirk
+- [O2 Minion_Names BROWN.] Frenzy
+- [O2 Minion_Names BROWN.] Raw
+- [O2 Minion_Names BROWN.] Clay
+- [O2 Minion_Names BROWN.] McGee
+- [O2 Minion_Names BROWN.] Snubbly
+- [O2 Minion_Names BROWN.] Chaff
+- [O2 Minion_Names BROWN.] Ludz
+- [O2 Minion_Names BROWN.] Canis
+- [O2 Minion_Names BROWN.] Snelp
+- [O2 Minion_Names BROWN.] Cheese
+- [O2 Minion_Names BROWN.] Scrappings
+- [O2 Minion_Names BROWN.] Grody
+- [O2 Minion_Names BROWN.] Flarbic
+- [O2 Minion_Names BROWN.] Blurp
+- [O2 Minion_Names BROWN.] Frebb
+- [O2 Minion_Names BROWN.] Blurt
+- [O2 Minion_Names BROWN.] Spink
+- [O2 Minion_Names BROWN.] Aches
+- [O2 Minion_Names BROWN.] Cragg
+- [O2 Minion_Names BROWN.] Knotts
+- [O2 Minion_Names BROWN.] Spoon
+- [O2 Minion_Names BROWN.] Crawb
+- [O2 Minion_Names BROWN.] Egg
+- [O2 Minion_Names BROWN.] Bill
+- [O2 Minion_Names BROWN.] Manny
+- [O2 Minion_Names BROWN.] Beef
+- [O2 Minion_Names BROWN.] Brute
+- [O2 Minion_Names BROWN.] Stones
+- [O2 Minion_Names BROWN.] Twig
+- [O2 Minion_Names BROWN.] Grimm
+- [O2 Minion_Names BROWN.] Odd
+- [O2 Minion_Names BROWN.] Bogus
+- [O2 Minion_Names BROWN.] Rags
+- [O2 Minion_Names BROWN.] Deek
+- [O2 Minion_Names BROWN.] Doog
+- [O2 Minion_Names BROWN.] Riggs
+- [O2 Minion_Names BROWN.] Knuckles
+- [O2 Minion_Names BROWN.] Slain
+- [O2 Minion_Names BROWN.] Fearless
+- [O2 Minion_Names BROWN.] Meph
+- [O2 Minion_Names BROWN.] Azi
+- [O2 Minion_Names BROWN.] Bedlam
+- [O2 Minion_Names BROWN.] Lix
+- [O2 Minion_Names BROWN.] Moloch
+- [O2 Minion_Names BROWN.] Ziz
+- [O2 Minion_Names BROWN.] Cyst
+- [O2 Minion_Names BROWN.] Footrot
+- [O2 Minion_Names BROWN.] Schlump
+- [O2 Minion_Names BROWN.] Feral
+- [O2 Minion_Names BROWN.] Manky
+- [O2 Minion_Names BROWN.] Soiled
+- [O2 Minion_Names BROWN.] Snotter
+- [O2 Minion_Names BROWN.] Musty
+- [O2 Minion_Names BROWN.] Loon
+- [O2 Minion_Names BROWN.] Stoop
+- [O2 Minion_Names BROWN.] Toady
+- [O2 Minion_Names BROWN.] Skank
+- [O2 Minion_Names BROWN.] Bruise
+- [O2 Minion_Names BROWN.] Chunk
+- [O2 Minion_Names BROWN.] Rascal
+- [O2 Minion_Names BROWN.] Gobbler
+- [O2 Minion_Names BROWN.] Toth
+- [O2 Minion_Names BROWN.] Numpty
+- [O2 Minion_Names BROWN.] Grockle
+- [O2 Minion_Names BROWN.] Groak
+- [O2 Minion_Names BROWN.] Lash
+- [O2 Minion_Names BROWN.] Psycho
+- [O2 Minion_Names BROWN.] Drozz
+- [O2 Minion_Names BROWN.] Fiend
+- [O2 Minion_Names BROWN.] Hurtle
+- [O2 Minion_Names BROWN.] Orl
+- [O2 Minion_Names BROWN.] Migs
+- [O2 Minion_Names BROWN.] Stig
+- [O2 Minion_Names BROWN.] Raglam
+- [O2 Minion_Names BROWN.] Khan
+- [O2 Minion_Names BROWN.] Bobba
+- [O2 Minion_Names RED.] Flare
+- [O2 Minion_Names RED.] Blotch
+- [O2 Minion_Names RED.] Blaze
+- [O2 Minion_Names RED.] Rudd
+- [O2 Minion_Names RED.] Sulphur
+- [O2 Minion_Names RED.] Scorch
+- [O2 Minion_Names RED.] Burnie
+- [O2 Minion_Names RED.] Cinders
+- [O2 Minion_Names RED.] Sizzle
+- [O2 Minion_Names RED.] Twinge
+- [O2 Minion_Names RED.] Spit
+- [O2 Minion_Names RED.] Toast
+- [O2 Minion_Names RED.] Soot
+- [O2 Minion_Names RED.] Pyro
+- [O2 Minion_Names RED.] Ashes
+- [O2 Minion_Names RED.] Igminy
+- [O2 Minion_Names RED.] Coalface
+- [O2 Minion_Names RED.] Smoky
+- [O2 Minion_Names RED.] Singe
+- [O2 Minion_Names RED.] Flammer
+- [O2 Minion_Names RED.] Inferno
+- [O2 Minion_Names RED.] Fries
+- [O2 Minion_Names RED.] Hitch
+- [O2 Minion_Names RED.] Simmer
+- [O2 Minion_Names RED.] Boils
+- [O2 Minion_Names RED.] Tinder
+- [O2 Minion_Names RED.] Burns
+- [O2 Minion_Names RED.] Twitch
+- [O2 Minion_Names RED.] Lava
+- [O2 Minion_Names RED.] Scold
+- [O2 Minion_Names RED.] Ember
+- [O2 Minion_Names RED.] Rust
+- [O2 Minion_Names RED.] Melts
+- [O2 Minion_Names RED.] Twang
+- [O2 Minion_Names RED.] Crackle
+- [O2 Minion_Names RED.] Roast
+- [O2 Minion_Names RED.] Smot
+- [O2 Minion_Names RED.] Smelt
+- [O2 Minion_Names RED.] Sparks
+- [O2 Minion_Names RED.] Glowy
+- [O2 Minion_Names RED.] Char
+- [O2 Minion_Names RED.] Smut
+- [O2 Minion_Names RED.] Grime
+- [O2 Minion_Names RED.] Grill
+- [O2 Minion_Names RED.] Baste
+- [O2 Minion_Names RED.] Potroast
+- [O2 Minion_Names RED.] Steamer
+- [O2 Minion_Names RED.] Poach
+- [O2 Minion_Names RED.] Griddle
+- [O2 Minion_Names RED.] Deepfry
+- [O2 Minion_Names RED.] Flaps
+- [O2 Minion_Names RED.] Grumble
+- [O2 Minion_Names RED.] Flout
+- [O2 Minion_Names RED.] Growly
+- [O2 Minion_Names RED.] Chuckie
+- [O2 Minion_Names RED.] Hodder
+- [O2 Minion_Names RED.] Fume
+- [O2 Minion_Names RED.] Scoop
+- [O2 Minion_Names RED.] Bristle
+- [O2 Minion_Names RED.] Brunt
+- [O2 Minion_Names RED.] Razzle
+- [O2 Minion_Names RED.] Hurl
+- [O2 Minion_Names RED.] Chuck
+- [O2 Minion_Names RED.] Trouble
+- [O2 Minion_Names RED.] Pop
+- [O2 Minion_Names RED.] Jinx
+- [O2 Minion_Names RED.] Snarl
+- [O2 Minion_Names RED.] Draggle
+- [O2 Minion_Names RED.] Cyn
+- [O2 Minion_Names RED.] Chitter
+- [O2 Minion_Names RED.] Lobber
+- [O2 Minion_Names RED.] Snapper
+- [O2 Minion_Names RED.] Chard
+- [O2 Minion_Names RED.] Lobber
+- [O2 Minion_Names RED.] Jape
+- [O2 Minion_Names RED.] Splode
+- [O2 Minion_Names RED.] Twisted
+- [O2 Minion_Names RED.] Flames
+- [O2 Minion_Names RED.] Braze
+- [O2 Minion_Names RED.] Weld
+- [O2 Minion_Names RED.] Sear
+- [O2 Minion_Names RED.] Luzz
+- [O2 Minion_Names RED.] Fling
+- [O2 Minion_Names RED.] Lobbly
+- [O2 Minion_Names RED.] Wither
+- [O2 Minion_Names RED.] Hubble
+- [O2 Minion_Names RED.] Simmer
+- [O2 Minion_Names RED.] Seethe
+- [O2 Minion_Names RED.] Bake
+- [O2 Minion_Names RED.] Smolder
+- [O2 Minion_Names RED.] Pitch
+- [O2 Minion_Names RED.] Iggy
+- [O2 Minion_Names RED.] Brand
+- [O2 Minion_Names RED.] Torch
+- [O2 Minion_Names RED.] Blinder
+- [O2 Minion_Names RED.] Yelp
+- [O2 Minion_Names RED.] Bonfire
+- [O2 Minion_Names RED.] Smiter
+- [O2 Minion_Names RED.] Dynamite
+- [O2 Minion_Names RED.] Blast
+- [O2 Minion_Names RED.] Chimney
+- [O2 Minion_Names RED.] Flayer
+- [O2 Minion_Names RED.] Grimes
+- [O2 Minion_Names RED.] Smudge
+- [O2 Minion_Names RED.] Wick
+- [O2 Minion_Names RED.] Sweats
+- [O2 Minion_Names RED.] Fritzel
+- [O2 Minion_Names RED.] Fumes
+- [O2 Minion_Names RED.] Broil
+- [O2 Minion_Names RED.] Spittoon
+- [O2 Minion_Names RED.] Boom
+- [O2 Minion_Names RED.] Rash
+- [O2 Minion_Names RED.] Crispy
+- [O2 Minion_Names RED.] Parch
+- [O2 Minion_Names RED.] Raze
+- [O2 Minion_Names RED.] Grate
+- [O2 Minion_Names RED.] Hoarse
+- [O2 Minion_Names RED.] Swark
+- [O2 Minion_Names RED.] Fever
+- [O2 Minion_Names RED.] Swelter
+- [O2 Minion_Names RED.] Smirch
+- [O2 Minion_Names RED.] Stew
+- [O2 Minion_Names RED.] Mull
+- [O2 Minion_Names RED.] Flinter
+- [O2 Minion_Names RED.] Blixter
+- [O2 Minion_Names RED.] Fuse
+- [O2 Minion_Names RED.] Dyno
+- [O2 Minion_Names RED.] Frizzle
+- [O2 Minion_Names RED.] Pellet
+- [O2 Minion_Names RED.] Tang
+- [O2 Minion_Names RED.] Hockle
+- [O2 Minion_Names RED.] Smoky
+- [O2 Minion_Names RED.] Frazzle
+- [O2 Minion_Names RED.] Flash
+- [O2 Minion_Names RED.] Bandy
+- [O2 Minion_Names RED.] Sling
+- [O2 Minion_Names RED.] Fleet
+- [O2 Minion_Names RED.] Prickle
+- [O2 Minion_Names RED.] Ruddy
+- [O2 Minion_Names RED.] Scabs
+- [O2 Minion_Names RED.] Chitter
+- [O2 Minion_Names RED.] Haze
+- [O2 Minion_Names RED.] Fritz
+- [O2 Minion_Names RED.] Burnburn
+- [O2 Minion_Names RED.] Stoke
+- [O2 Minion_Names RED.] Gizzard
+- [O2 Minion_Names RED.] Matches
+- [O2 Minion_Names RED.] Errupt
+- [O2 Minion_Names RED.] Shax
+- [O2 Minion_Names RED.] Acrid
+- [O2 Minion_Names RED.] Jeep
+- [O2 Minion_Names RED.] Dog
+- [O2 Minion_Names RED.] Beetle
+- [O2 Minion_Names RED.] Mantis
+- [O2 Minion_Names RED.] Taint
+- [O2 Minion_Names RED.] Quibble
+- [O2 Minion_Names RED.] Canker
+- [O2 Minion_Names RED.] Flibble
+- [O2 Minion_Names RED.] Damar
+- [O2 Minion_Names RED.] Mike
+- [O2 Minion_Names RED.] Snit
+- [O2 Minion_Names RED.] Frick
+- [O2 Minion_Names RED.] Tar
+- [O2 Minion_Names RED.] Sweaty
+- [O2 Minion_Names RED.] Glown
+- [O2 Minion_Names RED.] Wilt
+- [O2 Minion_Names RED.] Log
+- [O2 Minion_Names RED.] Toaster
+- [O2 Minion_Names RED.] Blaster
+- [O2 Minion_Names RED.] Shatter
+- [O2 Minion_Names RED.] Kaboom
+- [O2 Minion_Names RED.] Discharge
+- [O2 Minion_Names RED.] Molten
+- [O2 Minion_Names RED.] Igniot
+- [O2 Minion_Names RED.] Slinger
+- [O2 Minion_Names RED.] Fritter
+- [O2 Minion_Names RED.] Flambé
+- [O2 Minion_Names RED.] Blurr
+- [O2 Minion_Names RED.] Screech
+- [O2 Minion_Names RED.] Cough
+- [O2 Minion_Names RED.] Splutter
+- [O2 Minion_Names RED.] Flinker
+- [O2 Minion_Names RED.] Frtiz
+- [O2 Minion_Names RED.] Hothead
+- [O2 Minion_Names RED.] Volcano
+- [O2 Minion_Names RED.] Pyre
+- [O2 Minion_Names RED.] Explosive
+- [O2 Minion_Names RED.] Flammable
+- [O2 Minion_Names RED.] Hock
+- [O2 Minion_Names RED.] Sizz
+- [O2 Minion_Names RED.] Dingy
+- [O2 Minion_Names RED.] Gnger
+- [O2 Minion_Names RED.] Kipper
+- [O2 Minion_Names RED.] Malik
+- [O2 Minion_Names RED.] Molten
+- [O2 Minion_Names RED.] Hives
+- [O2 Minion_Names RED.] Ashwrath
+- [O2 Minion_Names RED.] Sparky
+- [O2 Minion_Names RED.] Marv
+- [O2 Minion_Names RED.] Remco
+- [O2 Minion_Names RED.] Trella
+- [O2 Minion_Names RED.] Taradan
+- [O2 Minion_Names RED.] Henk
+- [O2 Minion_Names RED.] Rhemrev
+- [O2 Minion_Names RED.] Jaap
+- [O2 Minion_Names RED.] Joost
+- [O2 Minion_Names RED.] Farley
+- [O2 Minion_Names RED.] Rosie
+- [O2 Minion_Names RED.] Boemlau
+- [O2 Minion_Names RED.] Hilly
+- [O2 Minion_Names RED.] Cabe
+- [O2 Minion_Names RED.] Nick
+- [O2 Minion_Names RED.] Onno
+- [O2 Minion_Names RED.] Pascal
+- [O2 Minion_Names RED.] Cheeth
+- [O2 Minion_Names RED.] Schram
+- [O2 Minion_Names RED.] Roel
+- [O2 Minion_Names RED.] Roy
+- [O2 Minion_Names GREEN.] Bletch
+- [O2 Minion_Names GREEN.] Stench
+- [O2 Minion_Names GREEN.] Sprout
+- [O2 Minion_Names GREEN.] Knives
+- [O2 Minion_Names GREEN.] Ooze
+- [O2 Minion_Names GREEN.] Snipe
+- [O2 Minion_Names GREEN.] Blot
+- [O2 Minion_Names GREEN.] Snake
+- [O2 Minion_Names GREEN.] Sneak
+- [O2 Minion_Names GREEN.] Slither
+- [O2 Minion_Names GREEN.] Shredder
+- [O2 Minion_Names GREEN.] Sting
+- [O2 Minion_Names GREEN.] Swipe
+- [O2 Minion_Names GREEN.] Scratches
+- [O2 Minion_Names GREEN.] Ripper
+- [O2 Minion_Names GREEN.] Dice
+- [O2 Minion_Names GREEN.] Whisper
+- [O2 Minion_Names GREEN.] Pounce
+- [O2 Minion_Names GREEN.] Slither
+- [O2 Minion_Names GREEN.] Pinch
+- [O2 Minion_Names GREEN.] Sneeb
+- [O2 Minion_Names GREEN.] Pong
+- [O2 Minion_Names GREEN.] Vermin
+- [O2 Minion_Names GREEN.] Jab
+- [O2 Minion_Names GREEN.] Lurkie
+- [O2 Minion_Names GREEN.] Stabby
+- [O2 Minion_Names GREEN.] Slid
+- [O2 Minion_Names GREEN.] Hiss
+- [O2 Minion_Names GREEN.] Shadow
+- [O2 Minion_Names GREEN.] Slicw
+- [O2 Minion_Names GREEN.] Wound
+- [O2 Minion_Names GREEN.] Thrash
+- [O2 Minion_Names GREEN.] Thrash
+- [O2 Minion_Names GREEN.] Nipper
+- [O2 Minion_Names GREEN.] Slimy
+- [O2 Minion_Names GREEN.] Cutty
+- [O2 Minion_Names GREEN.] Guts
+- [O2 Minion_Names GREEN.] Schleb
+- [O2 Minion_Names GREEN.] Pustule
+- [O2 Minion_Names GREEN.] Rent
+- [O2 Minion_Names GREEN.] Snotty
+- [O2 Minion_Names GREEN.] Gaff
+- [O2 Minion_Names GREEN.] Seepage
+- [O2 Minion_Names GREEN.] Stash
+- [O2 Minion_Names GREEN.] Filth
+- [O2 Minion_Names GREEN.] Chopper
+- [O2 Minion_Names GREEN.] Devo
+- [O2 Minion_Names GREEN.] Dagger
+- [O2 Minion_Names GREEN.] Edge
+- [O2 Minion_Names GREEN.] Nix
+- [O2 Minion_Names GREEN.] Sleeth
+- [O2 Minion_Names GREEN.] Gunk
+- [O2 Minion_Names GREEN.] Stain
+- [O2 Minion_Names GREEN.] Creep
+- [O2 Minion_Names GREEN.] Jeeper
+- [O2 Minion_Names GREEN.] Stank
+- [O2 Minion_Names GREEN.] Mucus
+- [O2 Minion_Names GREEN.] Honk
+- [O2 Minion_Names GREEN.] Stung
+- [O2 Minion_Names GREEN.] Virus
+- [O2 Minion_Names GREEN.] Bile
+- [O2 Minion_Names GREEN.] Plague
+- [O2 Minion_Names GREEN.] Bug
+- [O2 Minion_Names GREEN.] Sap
+- [O2 Minion_Names GREEN.] Cabbage
+- [O2 Minion_Names GREEN.] Haemorrhage
+- [O2 Minion_Names GREEN.] Shrub
+- [O2 Minion_Names GREEN.] Snatchy
+- [O2 Minion_Names GREEN.] Fungus
+- [O2 Minion_Names GREEN.] Gouge
+- [O2 Minion_Names GREEN.] Taint
+- [O2 Minion_Names GREEN.] Grunge
+- [O2 Minion_Names GREEN.] Gulch
+- [O2 Minion_Names GREEN.] Ick
+- [O2 Minion_Names GREEN.] Mulch
+- [O2 Minion_Names GREEN.] Muss
+- [O2 Minion_Names GREEN.] Shred
+- [O2 Minion_Names GREEN.] Snitch
+- [O2 Minion_Names GREEN.] Snout
+- [O2 Minion_Names GREEN.] Razor
+- [O2 Minion_Names GREEN.] Isamu
+- [O2 Minion_Names GREEN.] Scythe
+- [O2 Minion_Names GREEN.] Grunush
+- [O2 Minion_Names GREEN.] Trap
+- [O2 Minion_Names GREEN.] Rupture
+- [O2 Minion_Names GREEN.] Sinomi
+- [O2 Minion_Names GREEN.] Hamstring
+- [O2 Minion_Names GREEN.] Seed
+- [O2 Minion_Names GREEN.] Prowl
+- [O2 Minion_Names GREEN.] Sai
+- [O2 Minion_Names GREEN.] Kukri
+- [O2 Minion_Names GREEN.] Rank
+- [O2 Minion_Names GREEN.] Reaper
+- [O2 Minion_Names GREEN.] Vile
+- [O2 Minion_Names GREEN.] Aphid
+- [O2 Minion_Names GREEN.] Rotten
+- [O2 Minion_Names GREEN.] Crawler
+- [O2 Minion_Names GREEN.] Sludge
+- [O2 Minion_Names GREEN.] Slug
+- [O2 Minion_Names GREEN.] Sliver
+- [O2 Minion_Names GREEN.] Clawn
+- [O2 Minion_Names GREEN.] Pickle
+- [O2 Minion_Names GREEN.] Talon
+- [O2 Minion_Names GREEN.] Weasel
+- [O2 Minion_Names GREEN.] Chitlin
+- [O2 Minion_Names GREEN.] Toad
+- [O2 Minion_Names GREEN.] Gassy
+- [O2 Minion_Names GREEN.] Wretch
+- [O2 Minion_Names GREEN.] Flex
+- [O2 Minion_Names GREEN.] Mottle
+- [O2 Minion_Names GREEN.] Si
+- [O2 Minion_Names GREEN.] Marek
+- [O2 Minion_Names GREEN.] Moz
+- [O2 Minion_Names GREEN.] Neil
+- [O2 Minion_Names GREEN.] Lice
+- [O2 Minion_Names GREEN.] Decay
+- [O2 Minion_Names GREEN.] Rancid
+- [O2 Minion_Names GREEN.] Funk
+- [O2 Minion_Names GREEN.] Dagger
+- [O2 Minion_Names GREEN.] Spike
+- [O2 Minion_Names GREEN.] Crabs
+- [O2 Minion_Names GREEN.] Guffin
+- [O2 Minion_Names GREEN.] Mildew
+- [O2 Minion_Names GREEN.] Stabbit
+- [O2 Minion_Names GREEN.] Jagged
+- [O2 Minion_Names GREEN.] Jabber
+- [O2 Minion_Names GREEN.] Scrabble
+- [O2 Minion_Names GREEN.] Slink
+- [O2 Minion_Names GREEN.] Fade
+- [O2 Minion_Names GREEN.] Vanish
+- [O2 Minion_Names GREEN.] Snaps
+- [O2 Minion_Names GREEN.] Stale
+- [O2 Minion_Names GREEN.] Plesh
+- [O2 Minion_Names GREEN.] Fetid
+- [O2 Minion_Names GREEN.] Putrid
+- [O2 Minion_Names GREEN.] Orkin
+- [O2 Minion_Names GREEN.] Shank
+- [O2 Minion_Names GREEN.] Shiv
+- [O2 Minion_Names GREEN.] Ant
+- [O2 Minion_Names GREEN.] Flitter
+- [O2 Minion_Names GREEN.] Danko
+- [O2 Minion_Names GREEN.] Blade
+- [O2 Minion_Names GREEN.] Vert
+- [O2 Minion_Names GREEN.] Rake
+- [O2 Minion_Names GREEN.] Scrape
+- [O2 Minion_Names GREEN.] Sharpie
+- [O2 Minion_Names GREEN.] Stiletto
+- [O2 Minion_Names GREEN.] Traps
+- [O2 Minion_Names GREEN.] Pitfall
+- [O2 Minion_Names GREEN.] Wouter
+- [O2 Minion_Names GREEN.] Timb
+- [O2 Minion_Names GREEN.] Dang
+- [O2 Minion_Names GREEN.] Deedee
+- [O2 Minion_Names GREEN.] Wellsy
+- [O2 Minion_Names GREEN.] Tyc
+- [O2 Minion_Names GREEN.] Kinzett
+- [O2 Minion_Names GREEN.] Ynzen
+- [O2 Minion_Names GREEN.] S'Tom
+- [O2 Minion_Names GREEN.] Sikbok
+- [O2 Minion_Names GREEN.] Mazrok
+- [O2 Minion_Names GREEN.] Maarten
+- [O2 Minion_Names GREEN.] Maurits
+- [O2 Minion_Names GREEN.] Bitesback
+- [O2 Minion_Names GREEN.] Rick
+- [O2 Minion_Names GREEN.] Tezer
+- [O2 Minion_Names BLUE.] Plunge
+- [O2 Minion_Names BLUE.] Splodge
+- [O2 Minion_Names BLUE.] Puddle
+- [O2 Minion_Names BLUE.] Drizzle
+- [O2 Minion_Names BLUE.] Sogs
+- [O2 Minion_Names BLUE.] Paddle
+- [O2 Minion_Names BLUE.] Croak
+- [O2 Minion_Names BLUE.] Drip
+- [O2 Minion_Names BLUE.] Rain
+- [O2 Minion_Names BLUE.] Clam
+- [O2 Minion_Names BLUE.] Moat
+- [O2 Minion_Names BLUE.] Gurgle
+- [O2 Minion_Names BLUE.] Soggy
+- [O2 Minion_Names BLUE.] Pondly
+- [O2 Minion_Names BLUE.] Crawly
+- [O2 Minion_Names BLUE.] Crabby
+- [O2 Minion_Names BLUE.] Sponge
+- [O2 Minion_Names BLUE.] Sucker
+- [O2 Minion_Names BLUE.] Slurt
+- [O2 Minion_Names BLUE.] Eel
+- [O2 Minion_Names BLUE.] Dreg
+- [O2 Minion_Names BLUE.] Splat
+- [O2 Minion_Names BLUE.] Damper
+- [O2 Minion_Names BLUE.] Splatter
+- [O2 Minion_Names BLUE.] Spray
+- [O2 Minion_Names BLUE.] Dredge
+- [O2 Minion_Names BLUE.] Hoser
+- [O2 Minion_Names BLUE.] Gflood
+- [O2 Minion_Names BLUE.] Resso
+- [O2 Minion_Names BLUE.] Shark
+- [O2 Minion_Names BLUE.] Founder
+- [O2 Minion_Names BLUE.] Moist
+- [O2 Minion_Names BLUE.] Heals
+- [O2 Minion_Names BLUE.] Flop
+- [O2 Minion_Names BLUE.] Fins
+- [O2 Minion_Names BLUE.] Rotgill
+- [O2 Minion_Names BLUE.] Storm
+- [O2 Minion_Names BLUE.] Plug
+- [O2 Minion_Names BLUE.] Aquatis
+- [O2 Minion_Names BLUE.] Phishy
+- [O2 Minion_Names BLUE.] Drain
+- [O2 Minion_Names BLUE.] Dribble
+- [O2 Minion_Names BLUE.] Ditch
+- [O2 Minion_Names BLUE.] Soaker
+- [O2 Minion_Names BLUE.] Sploat
+- [O2 Minion_Names BLUE.] Ducker
+- [O2 Minion_Names BLUE.] Splash
+- [O2 Minion_Names BLUE.] Slippery
+- [O2 Minion_Names BLUE.] Wallow
+- [O2 Minion_Names BLUE.] Bilge
+- [O2 Minion_Names BLUE.] Floater
+- [O2 Minion_Names BLUE.] Drrol
+- [O2 Minion_Names BLUE.] Stagnant
+- [O2 Minion_Names BLUE.] Sniff
+- [O2 Minion_Names BLUE.] Dribbly
+- [O2 Minion_Names BLUE.] Clammy
+- [O2 Minion_Names BLUE.] Snuffle
+- [O2 Minion_Names BLUE.] Sprinkle
+- [O2 Minion_Names BLUE.] Floom
+- [O2 Minion_Names BLUE.] Snorky
+- [O2 Minion_Names BLUE.] Flotsam
+- [O2 Minion_Names BLUE.] Jetsam
+- [O2 Minion_Names BLUE.] Phlegm
+- [O2 Minion_Names BLUE.] Squelch
+- [O2 Minion_Names BLUE.] Bung
+- [O2 Minion_Names BLUE.] Coot
+- [O2 Minion_Names BLUE.] Plerp
+- [O2 Minion_Names BLUE.] Finnder
+- [O2 Minion_Names BLUE.] Beaks
+- [O2 Minion_Names BLUE.] Sleet
+- [O2 Minion_Names BLUE.] Burble
+- [O2 Minion_Names BLUE.] Bung
+- [O2 Minion_Names BLUE.] Dirge
+- [O2 Minion_Names BLUE.] Dollop
+- [O2 Minion_Names BLUE.] Gush
+- [O2 Minion_Names BLUE.] Woad
+- [O2 Minion_Names BLUE.] Plop
+- [O2 Minion_Names BLUE.] Splunker
+- [O2 Minion_Names BLUE.] Splurge
+- [O2 Minion_Names BLUE.] Squirm
+- [O2 Minion_Names BLUE.] Waddle
+- [O2 Minion_Names BLUE.] Slush
+- [O2 Minion_Names BLUE.] Squid
+- [O2 Minion_Names BLUE.] Moldy
+- [O2 Minion_Names BLUE.] Newt
+- [O2 Minion_Names BLUE.] Splug
+- [O2 Minion_Names BLUE.] Spong
+- [O2 Minion_Names BLUE.] Squirt
+- [O2 Minion_Names BLUE.] Flounder
+- [O2 Minion_Names BLUE.] Cork
+- [O2 Minion_Names BLUE.] Drake
+- [O2 Minion_Names BLUE.] Sneeze
+- [O2 Minion_Names BLUE.] Leaky
+- [O2 Minion_Names BLUE.] Trickle
+- [O2 Minion_Names BLUE.] Splurt
+- [O2 Minion_Names BLUE.] Sloop
+- [O2 Minion_Names BLUE.] Silt
+- [O2 Minion_Names BLUE.] Dunk
+- [O2 Minion_Names BLUE.] Debos
+- [O2 Minion_Names BLUE.] Miko
+- [O2 Minion_Names BLUE.] Winger
+- [O2 Minion_Names BLUE.] Bart
+- [O2 Minion_Names BLUE.] Berend
+- [O2 Minion_Names BLUE.] Gurg
+- [O2 Minion_Names BLUE.] Daniël
+- [O2 Minion_Names BLUE.] Goudvis
+- [O2 Minion_Names BLUE.] Gregers
+- [O2 Minion_Names BLUE.] Gilles
+- [O2 Minion_Names BLUE.] Hannek
+- [O2 Minion_Names BLUE.] Hylke
+- [O2 Minion_Names BLUE.] Deefnil
+- [O2 Minion_Names BLUE.] M'ryn
+- [O2 Minion_Names BLUE.] Peter
+- [O2 Minion_Names BLUE.] Reinier
+- [O2 Minion_Names BLUE.] Ninua
+- [O2 Minion_Names BLUE.] Dnarbs
+
+## O2 · Minstrel_Titles
+
+- [O2 Minstrel_Titles 100.1] Red Rescuer
+- [O2 Minstrel_Titles 100.2] Green Grabber
+- [O2 Minstrel_Titles 100.3] Blue Bringer
+- [O2 Minstrel_Titles 100.4] Rescuer of Kelda
+- [O2 Minstrel_Titles 100.5] Juno's Champion
+- [O2 Minstrel_Titles 100.6] Corruptor of the Queen
+- [O2 Minstrel_Titles 100.7] Ghost Bringer
+- [O2 Minstrel_Titles 100.8] Tyrant of Nordberg
+- [O2 Minstrel_Titles 100.9] Tyrant of Everlight
+- [O2 Minstrel_Titles 100.10] Master Builder
+- [O2 Minstrel_Titles 100.11] Tyrant of the Tower
+- [O2 Minstrel_Titles 100.12] The Dominator
+- [O2 Minstrel_Titles 100.13] The Destructor
+- [O2 Minstrel_Titles 100.14] Seal Slayer
+- [O2 Minstrel_Titles 100.15] Battle Rock Bruiser
+- [O2 Minstrel_Titles 100.16] Battle Rock Champion
+- [O2 Minstrel_Titles 100.17] Gnome Grinder
+- [O2 Minstrel_Titles 100.18] Scrooge
+- [O2 Minstrel_Titles 100.19] Rock On
+- [O2 Minstrel_Titles 100.20] Minion Harvester
+- [O2 Minstrel_Titles 100.21] Ladies’ Man
+- [O2 Minstrel_Titles 100.22] Kelda’s Special Friend
+- [O2 Minstrel_Titles 100.23] Juno’s Special Friend
+- [O2 Minstrel_Titles 100.24] Dark Fay’s Special Friend
+- [O2 Minstrel_Titles 100.25] Ghost Fay’s Special Friend
+- [O2 Minstrel_Titles 100.26] Minion Captain
+- [O2 Minstrel_Titles 100.27] Mayhem Maker
+- [O2 Minstrel_Titles 100.28] Forger
+- [O2 Minstrel_Titles 100.29] Tower Heart Salvager
+- [O2 Minstrel_Titles 100.30] Nightmare of Nordberg
+- [O2 Minstrel_Titles 100.31] Evil of Everlight
+- [O2 Minstrel_Titles 100.32] Spider Squasher
+- [O2 Minstrel_Titles 100.33] King Killer
+- [O2 Minstrel_Titles 100.34] Hippy Humbler
+- [O2 Minstrel_Titles 100.35] Commune Crusher
+- [O2 Minstrel_Titles 100.36] Global Warmer
+- [O2 Minstrel_Titles 100.37] Seafarer
+- [O2 Minstrel_Titles 100.38] ‘Panda’monium
+- [O2 Minstrel_Titles 100.39] Wastelands Explorer
+- [O2 Minstrel_Titles 100.40] Evil Presence
+- [O2 Minstrel_Titles 100.41] Dark Halo
+- [O2 Minstrel_Titles 100.42] Minion Handler
+- [O2 Minstrel_Titles 100.43] Sanctuary Smasher
+- [O2 Minstrel_Titles 100.44] Fairy Flattener
+- [O2 Minstrel_Titles 100.45] Soldier Slicer
+- [O2 Minstrel_Titles 100.46] Leader of the Pack
+- [O2 Minstrel_Titles 100.47] Band Builder
+- [O2 Minstrel_Titles 100.48] Minion Possessor
+- [O2 Minstrel_Titles 100.49] Yeti Slayer
+- [O2 Minstrel_Titles 100.50] Tourist Trapper
+- [O2 Minstrel_Titles 100.51] Tourist Trouncer
+- [O2 Minstrel_Titles 100.52] Rebel Rouser
+- [O2 Minstrel_Titles 100.53] Rebellion Queller
+- [O2 Minstrel_Titles 100.54] Yeti Petter
+- [O2 Minstrel_Titles 100.55] Dark Emperor
+- [O2 Minstrel_Titles 200.1] Our fiery friends are back with us, when will the fairies learn? In fighting Reds you'll end up dead and something's gonna burn!
+- [O2 Minstrel_Titles 200.2] The Greens have come from the jungles deep. Where wind it never blows. It's not so swell to have the smell. Everybody hold you nose!
+- [O2 Minstrel_Titles 200.3] The Blues are back in the evil fold. It’s true they had a fright. But Sire did thwart Arena foes. It was a splendid sight!
+- [O2 Minstrel_Titles 200.4] Feisty Kelda’s come to join us, she looks handy in a brawl. I hope she won’t cut off my head and mount it on the wall.
+- [O2 Minstrel_Titles 200.5] Oh Juno is a lovely sight. I'm almost moved to tears. I hope she will sit down with me and gently stroke my ears!
+- [O2 Minstrel_Titles 200.6] The Sanctuary has been destroyed, Dark Fay has come to play! We may need more black velvet if she is going to stay!
+- [O2 Minstrel_Titles 200.7] The Sanctuary has been destroyed, and Queenie made a fuss. And now we got to pay the price, her ghost’s moved in with us!
+- [O2 Minstrel_Titles 200.8] Sire is Tyrant of Nordberg, feared by one and all! No one can stand against him and those who try will fall!
+- [O2 Minstrel_Titles 200.9] Hail Tyrant of Everlight, who made the Empire quail! There’s no one left to face you down who is not bound to fail!
+- [O2 Minstrel_Titles 200.10] Our Lord he has been building. Let’s hope it’s not a fad. Foreboding, dark and heinous, it’s quite the evil pad!
+- [O2 Minstrel_Titles 200.11] The ladies love a big 'un, the dark and looming power. And now he’s built his own one, he’s Tyrant of the Tower!
+- [O2 Minstrel_Titles 200.12] Our Lord he loves to dominate, subversion is the key. All around do fear him, the land’s on bended knee!
+- [O2 Minstrel_Titles 200.13] The Master loves destruction, the sound of screams and fear. For every soul that he cuts down, we Minions give a cheer.
+- [O2 Minstrel_Titles 200.14] Sire did slay the fluffy beasts, they didn’t have a prayer. Now they’ll make a nice warm muff. Our Lord the Seal Slayer!
+- [O2 Minstrel_Titles 200.15] The Arena has been rocking, our Lord he loves to fight. The Minions flock to see ‘cos violence makes their night!
+- [O2 Minstrel_Titles 200.16] He’s Lord of the Arena. All foes he did ably crush. I hope he doesn’t turn on me and make Quaver into mush!
+- [O2 Minstrel_Titles 200.17] He’s hunted down the little pests, their pointy hats did run. There’s nothing like a gnome on fire to make for evil fun!
+- [O2 Minstrel_Titles 200.18] Our Lord he likes to save his gold, to spend it would be vile. Instead he likes to look at it, he has a great big pile!
+- [O2 Minstrel_Titles 200.19] His carnage is impressive. Of that there is no doubt. The rock did fly right through the air, one strike and they were out!
+- [O2 Minstrel_Titles 200.20] Life force has been gathered. Our Minions spring to work. They’ll obey their Master. The killings just a perk!
+- [O2 Minstrel_Titles 200.21] With three ladies in the Tower, we feared it would be hell. But the Lord did sooth their savage ways and they all got on so well!
+- [O2 Minstrel_Titles 200.22] Kelda came from Nordberg, to our Tower she did descend. Our Lord won her affection, now he’s her special friend.
+- [O2 Minstrel_Titles 200.23] Oh Juno is an Empire gal, she’s elegant and sleek. She showed our Lord exotic ways, I swear I didn’t peak!
+- [O2 Minstrel_Titles 200.24] Now Fay’s heart’s been corrupted, she’s got that evil spark. And when she closed the curtains, they both embrace the dark!
+- [O2 Minstrel_Titles 200.25] Fay is quite the temptress, though her time alive is done. She took our Lord to spiritual heights, the dead can have fun!
+- [O2 Minstrel_Titles 200.26] Our Master saved his Minion crew from spider webs so icky. Now they’re back to fight again, I hope they’re not too sticky!
+- [O2 Minstrel_Titles 200.27] There was a boy from the Nordberg Town who sent the locals screaming. But now the boy’s become a man, he’ll start his evil scheming!
+- [O2 Minstrel_Titles 200.28] Sire has mastered forging, he’s now prepared for battle. He’ll inspire fear and loathing and cause teeth and bones to rattle!
+- [O2 Minstrel_Titles 200.29] The Tower Heart we thought was lost, it’d taken quite a knock. But now the Master’s pieced it back, it’ll give our foes a shock.
+- [O2 Minstrel_Titles 200.30] Our Master has claimed Nordberg, a land of snow and ice. And now he will take sweet revenge, he’s naughty, he’s not nice!
+- [O2 Minstrel_Titles 200.31] Everlight was an Empire playground, a place of great excess. And now our Lord has conquered it, their tourist trap’s a mess!
+- [O2 Minstrel_Titles 200.32] Sire did kill the Spider Queen, her reign of terror ends. The Greens are very happy, cos we’ve got her little friends!
+- [O2 Minstrel_Titles 200.33] The Salamander King is dead! He’s just a piece of meat. The Reds are celebrating, cos his mounts will save their feet!
+- [O2 Minstrel_Titles 200.34] Our Lord did crash the commune and captured them like bugs. They shall not run from him again. He’s got no time for hugs!
+- [O2 Minstrel_Titles 200.35] Our Lord did crush the commune and squashed them all like bugs. None shall run from him again. He’s got no time for hugs!
+- [O2 Minstrel_Titles 200.36] The tarpits are all burning, the sky has been turned black. The seas have started rising, global warming’s right on track!
+- [O2 Minstrel_Titles 200.37] Our captain manned a mighty ship and sailed us through the straits. With his merry rowing Minions he discovered Elven gates!
+- [O2 Minstrel_Titles 200.38] Master killed a panda, a horrid, fluffy beast. If I knew how to cook one, we’d have a giant feast!
+- [O2 Minstrel_Titles 200.39] The Master’s been to the Wastelands, Once our Minion home. Now it’s where the magic’s soured and oozing beasts do roam!
+- [O2 Minstrel_Titles 200.40] Evil Presence is with us, my very favorite spell! Make them fall upon their knees or send their bones to hell.
+- [O2 Minstrel_Titles 200.41] Master has a Halo, to buff his army vast. Or turn that feisty spell on him and cause himself to blast!
+- [O2 Minstrel_Titles 200.42] Now Master can grab a Minion and send it to attack. Or use the fellow to buff himself with a light Minion snack!
+- [O2 Minstrel_Titles 200.43] Now Sire did find a Sanctuary, a place of magic light. He smashed it up, he smashed it down and had a real good smite!
+- [O2 Minstrel_Titles 200.44] Sire did slay a winged one! I don’t know how they fly. They seem too round to leave the ground and ever reach the sky!
+- [O2 Minstrel_Titles 200.45] Those Elven soldiers are finished, why does the earth cry out in pain? With those poor saps out of the way, she’s everything to gain!
+- [O2 Minstrel_Titles 200.46] Now Sire has found some wolven friends, there is no looking back. With his Browns aboard their steeds, he’s leader of the pack!
+- [O2 Minstrel_Titles 200.47] Poor Quaver he does sing alone, sad times he had to weather. But now our Lord has looted Elves, he’s got a band together!
+- [O2 Minstrel_Titles 200.48] Sire performed an unholy act, a Minion he did possess. Thankfully he let it go, before there was a mess!
+- [O2 Minstrel_Titles 200.49] Master slayed the Yeti fierce, he really was a thug. And I think we all agree, he looks better as a rug!
+- [O2 Minstrel_Titles 200.50] Those tourists tried to run, from the Master’s evil reign! But our Lord did track them down and brought them back again!
+- [O2 Minstrel_Titles 200.51] Those tourists tried to run, and got themselves a boat. But Master sent it sinking down, I wonder can they float?
+- [O2 Minstrel_Titles 200.52] The rebels tried to stir things up, and blow Everlight apart. But now they’re slaves, just like the rest, it wasn’t very smart!
+- [O2 Minstrel_Titles 200.53] The rebels tried to stir things up, and blow Everlight apart. But now they’re food for bugs and worms, it wasn’t very smart!
+- [O2 Minstrel_Titles 200.54] Lord subdued the Yeti fierce, he really was a thug. Master has him as a pet, he’d be better as a rug!
+- [O2 Minstrel_Titles 200.55] Sire slew the Devourer, before it could eat the town. Now folks all call him Emperor for beating that blob down!

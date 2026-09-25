@@ -1,0 +1,36 @@
+[100.10] PEASANT_1: Help us! He’s destroying the town! Come on!   <<Trigger: Player encounters a peasant on his way to Spree. >>
+[.] (unattributed): ---
+[101.10] PEASANT_1: I’m sorry Sire, I’m sorry, Sire! They threatened to kill my sheep!   <<Trigger: The player approaches the peasant who betrayed him. The peasant drops to his knees. >>
+[101.20] BROWN_MINION: Naughty, naughty! Those are Minions’ sheepies!
+[.] (unattributed): ---
+[102.10] GATE_GUARD_1: Thank the Gods it’s you, Lord! He’s in here!   <<Trigger: The player approaches the gates of Spree. >>
+[102.20] GATE_GUARD_1: Oh no, there goes Stan! There’s no coming back from that!   <<Sound of loud *thunk* from inside Spree before line.>>
+[.] (unattributed): ---
+[103.10] GATE_GUARD_1: Sorry, Lord, but our new Master’s so much bigger than you! Here come his servants!   <<Trigger: The player enters Spree. >>
+[103.20] GATE_GUARD_1: Don’t worry, it'll all be over soon.
+[104.10] MALE_PEASANT_1: Um...we didn’t mean to betray you, Sire, it just sort of...   <<Trigger: The player approaches the group of peasants after you've freed Spree again.>>
+[104.20] MALE_PEASANT_2: We were weak... forgive us... let us worship you again, Sire.
+[104.30] GNARL: They have the loyalty of potatoes, Sire.
+[104.40] GNARL: Do with them what you will, but make it quick, Kahn is heading for Heaven’s Peak.
+[.] (unattributed): ---
+[105.10] MALE_PEASANT_3: You saved us, Sire... again!   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.20] FEMALE_PEASANT_1: Don’t let him come back here.   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.30] ARCHIE: I thought he was gonna crush my poor Inn!   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.40] MALE_PEASANT_4: We were so frightened, Lord, we didn’t know what to do.   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.50] FEMALE_PEASANT_2: I didn’t want to betray you, Sire. But they wouldn’t listen to me!   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.60] ARCHIE: Oh my, I need a strong drink.   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.70] MALE_PEASANT_5: Why’s everyone picking on Spree? We never done nothing to nobody!   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.80] FEMALE_PEASANT_3: I   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[105.90] ARCHIE: You know I think they might need more innkeepers in Ruboria.   <<Trigger: General ambient dialogue after the player has freed Spree. These can be looped 
+>>
+[110.10] GNARL: Your Minions can only attack those creatures from above, Sire. Move them higher!   <<Trigger: Hint to the player what to do>>
+[110.20] GNARL: Attack the creatures from above, Master. Rain chaos down upon them!   <<Trigger: Hint to the player what to do>>
+[110.30] GNARL: Move your Minions higher, lord!   <<Trigger: Hint to the player what to do>>

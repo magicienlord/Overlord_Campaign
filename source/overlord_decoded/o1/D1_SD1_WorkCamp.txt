@@ -1,0 +1,42 @@
+[100.10] GNARL: Your Tower appears to have extended its reach. This is a Waypoint Gate.   <<Trigger: The Player arrives in the Work camp Sub-Domain, the opening cut-scene, the sub Domain Portal opens in front of them.>>
+[100.20] GNARL: Use it to teleport yourself, or objects, back to the Tower.
+[100.30] GNARL: It'll save some wear and tear on your boots, Sire!
+[101.10] SLAVE_1: We've got to keep chopping!   <<Trigger: A little bit further, the player will see a couple of Peasant Slaves walking, guarded by Halflings.>>
+[101.20] SLAVE_2: I’ve got calluses! My beautiful hands!   <<Spoken 'haaaaaaannds!'>>
+[102.10] SLAVE_1: Thank you, Lord. You should know that the camp up ahead is defended by rock-throwers.   <<Trigger: The player frees the slaves. >>
+[102.20] SLAVE_1: Better find a way to surprise them.
+[103.10] CAGED_SLAVE_1: Hey! Help us out!   <<Trigger: When the player enters the area.>>
+[103.20] CAGED_SLAVE_1: We’ll hold them off, you free the others!
+[103.30] CAGED_SLAVE_2: Quickly, turn the wheel!
+[103.40] CAGED_SLAVE_1: Come on, free us!
+[104.10] GNARL: No sense in dying when there are others willing to do it for you! Fear and awe can be valuable commodities, Sire.   <<Trigger: When the player frees the slaves and they begin fighting the Halflings.>>
+[105.10] CAGED_SLAVE_1: There are more prisoners over there, but they’ve got a big ol’ Troll guarding ‘em.   <<When the Halflings are dead and the player continues to the next area, the slaves who survived run along with him. 
+Trigger: The player continues to the next area, some of the rescued slaves go with h>>
+[105.20] CAGED_SLAVE_2: We’ll help you slay the brute.
+[200.10] CAGED_SLAVE_3: Get it!   <<Trigger: As the player is fighting the troll.>>
+[200.20] CAGED_SLAVE_4: That Troll ate my brother!   <<Trigger: As the player is fighting the troll.>>
+[200.30] CAGED_SLAVE_3: Get us out of here!   <<Trigger: As the player is fighting the troll.>>
+[200.40] CAGED_SLAVE_4: Hurry! Hurry!   <<Trigger: As the player is fighting the troll.>>
+[200.50] CAGED_SLAVE_3: I don’t wanna die in a cage!   <<Trigger: As the player is fighting the troll.>>
+[200.60] CAGED_SLAVE_4: Kill! Kill! Kill!   <<Trigger: As the player is fighting the troll.>>
+[201.10] CAGED_SLAVE_3: Hurrah!   <<Hurraaaaaahh! | Trigger: the player uses the wheel to free the caged slaves.>>
+[201.20] CAGED_SLAVE_4: We’re free!   <<Trigger: the player uses the wheel to free the caged slaves.>>
+[201.30] CAGED_SLAVE_3: Yay!   <<Yaaaaayyy! | Trigger: the player uses the wheel to free the caged slaves.>>
+[201.40] CAGED_SLAVE_4: Thank the Gods!   <<Trigger: the player uses the wheel to free the caged slaves.>>
+[201.50] CAGED_SLAVE_4: Come on!   <<Trigger: the player uses the wheel to free the caged slaves.>>
+[201.60] CAGED_SLAVE_5: Let’s go to Spree!   <<Trigger: the player uses the wheel to free the caged slaves.>>
+[202.10] CAGED_SLAVE_4: Unpaid debts have a habit of clubbing you to death while you sleep, so come with me!   <<Trigger: Some of the slaves directly address the player.>>
+[203.10] CRANE_SLAVE_1: Our liberator!   <<Trigger: Player enters the Crane area where a few of the slaves are milling about. Notes: The crane retrieval quest will be given in the Tower
+>>
+[203.20] CRANE_SLAVE_1: Hey, we don’t need this Crane, anymore. You take it.
+[203.30] GNARL: Well... it is ours! Wretched creatures!
+[203.40] GNARL: Quickly, Sire. Have your Minions bring it to the Waypoint Gate.
+[204.10] FREED_SLAVE_1: Spree is free... Spree is free!   <<2nd time say 'freeeeeeeeee!' | Trigger: As the player takes the Crane object towards the exit>>
+[204.20] FREED_SLAVE_2: Let’s go home!   <<Trigger: As the player takes the Crane object towards the exit>>
+[204.30] FREED_SLAVE_3: Walk away nice and slowly… nice and slowly… Now … RUN!   <<Whistles nonchalantly before 'Now run!' | Trigger: As the player takes the Crane object towards the exit>>
+[204.40] FREED_SLAVE_1: Quick!   <<Trigger: As the player takes the Crane object towards the exit>>
+[204.50] FREED_SLAVE_2: Before he changes his mind.   <<Trigger: As the player takes the Crane object towards the exit>>
+[204.60] FREED_SLAVE_3: Go! Go!   <<Trigger: As the player takes the Crane object towards the exit>>
+[204.70] FREED_SLAVE_1: I hope my wife remembers me!   <<Trigger: As the player takes the Crane object towards the exit>>
+[204.80] FREED_SLAVE_2: Home to my pumpkins!   <<Trigger: As the player takes the Crane object towards the exit>>
+[204.90] FREED_SLAVE_3: Home to my sheep!   <<Trigger: As the player takes the Crane object towards the exit>>

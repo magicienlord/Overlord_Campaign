@@ -1,0 +1,288 @@
+[100.10] (unattributed): Now, how does it go? Oh yes…
+[100.30] (unattributed): Once upon a time there was an ending.
+[100.40] (unattributed): And we Minions searched high and low for a new Overlord.
+[100.75] (unattributed): Sleepy little Nordberg, you have no idea what awaits you.
+[100.50] (unattributed): We were like fleas without a dog, maggots without a carcass, pimples without a face! 
+[100.60] (unattributed): And on Midwinter’s Eve, in the town of Nordberg we found a beginning.
+[100.70] (unattributed): If only it knew what powers lie within its walls... old powers and a darkness that cannot be suppressed.
+[100.80] (unattributed): Hey Witch-boy!
+[101.10] (unattributed): That kid’s a Witch-boy!
+[101.20] (unattributed): You’re mean. One day he’ll make you pay!
+[102.5] (unattributed): On Midwinter’s Eve Witch-boys better hide!
+[102.10] (unattributed): Yeah, go hide, Witch-boy!
+[102.15] (unattributed): Get lost, Witch-boy!
+[102.20] (unattributed): Don’t come near me!
+[102.25] (unattributed): I don’t like him. His eyes are funny!
+[102.30] (unattributed): I don’t want him at the Midwinter’s feast!
+[102.35] (unattributed): You were just a foundling!
+[102.40] (unattributed): yeah, you don’t really belong here!
+[102.45] (unattributed): Witch-boy!
+[102.50] (unattributed): Don’t stand too close to him!
+[102.55] (unattributed): They say he’s unlucky!
+[102.60] (unattributed): My Pa says that he was found outside Nordberg’s gates!
+[102.65] (unattributed): Wish they’d left him there!
+[102.70] (unattributed): He draws nasty pictures!
+[102.75] (unattributed): I don’t like him!
+[102.80] (unattributed): He scares me!
+[103.10] (unattributed): Don’t be mean!
+[103.20] (unattributed): It’s Midwinter’s Eve. Be nice!
+[103.30] (unattributed): You’re just scared of him!
+[103.40] (unattributed): This is his home too, you know!
+[103.50] (unattributed): Don’t listen to them!
+[103.60] (unattributed): You’re all big ‘fraidy cats!
+[103.70] (unattributed): Well I like him!
+[104.5] (unattributed): Get back Witch-boy!
+[104.10] (unattributed): Stay away!
+[104.15] (unattributed): Don’t come near me.
+[104.20] (unattributed): Does he want to start trouble?
+[104.25] (unattributed): We were just messin’ with ya!
+[104.30] (unattributed): Don’t let him get close to you!
+[104.35] (unattributed): Agggggghh!
+[104.40] (unattributed): He’s coming for us!
+[104.45] (unattributed): Don’t let him get me!
+[104.50] (unattributed): Eeeeeeeek!
+[300.10] (unattributed): Is that Master?
+[300.20] (unattributed): Master would know to smash!
+[300.30] (unattributed): Think he smart enough to get it?
+[300.40] (unattributed): Go Master!
+[300.50] (unattributed): He not Master yet!
+[310.10] (unattributed): He slow!
+[310.20] (unattributed): Sure it’s the Master?
+[310.30] (unattributed): Yes! Bash Master! Bash!
+[320.10] (unattributed): He slow!
+[320.20] (unattributed): Master would know how to move!
+[320.30] (unattributed): Hmmm think he sick?
+[105.5] (unattributed): Aaaaahhhh!
+[105.10] (unattributed): Ouucccccchh!
+[105.15] (unattributed): He made me drop my lantern!
+[105.20] (unattributed): Mummmmmmmmmy!
+[105.25] (unattributed): Hey! I’m telling on you!
+[105.30] (unattributed): He hit me! He hit me!
+[105.35] (unattributed): Horrid boy!
+[105.40] (unattributed): Big bully!
+[105.45] (unattributed): Waaaaaaahh my lantern!
+[105.50] (unattributed): My daddy’s gonna sort you out!
+[106.5] (unattributed): Get back!
+[106.10] (unattributed): Don’t you hassle us!
+[106.15] (unattributed): Take that!
+[106.20] (unattributed): Go away!
+[106.25] (unattributed): Go back to where you came from, Witch-boy!
+[106.30] (unattributed): Ha ha!
+[106.35] (unattributed): Stay away nasty boy!
+[106.40] (unattributed): Yaaaaahhh haaaa!
+[106.45] (unattributed): Get away!
+[106.50] (unattributed): You’re not my friend!
+[107.10] (unattributed): Snowmen yuck!
+[107.20] (unattributed): Master would know to smash snow thingies!
+[107.30] (unattributed): Ohhh! Ohhh! Ohh! Hit them snowie men Master.
+[108.5] (unattributed): Ahhh no fair!
+[108.10] (unattributed): He destroyed our snowmen!
+[108.15] (unattributed): Hey!
+[108.20] (unattributed): Aggggggg!
+[108.25] (unattributed): You think you’re so smart!
+[108.30] (unattributed): We’ll get you for that!
+[108.35] (unattributed): Daaaddddyyy!!
+[108.40] (unattributed): You’re a big, mean, bully!
+[108.45] (unattributed): I hate that Witch-boy!
+[108.50] (unattributed): Waaaaaaaa!
+[108.55] (unattributed): Ha! Ha! He got you!
+[108.60] (unattributed): Told you!
+[108.65] (unattributed): You deserved that!
+[400.10] (unattributed): The Master would use magic!
+[400.20] (unattributed): Show magic Master!
+[400.30] (unattributed): Yeah! Yeah with pretty lights!
+[400.40] (unattributed): We would follow magic Master!
+[410.10] (unattributed): Waaaaaahhh haaaaaa heeeeeee!
+[420.10] (unattributed): Ouch! Witch-boy got me!
+[420.20] (unattributed): Not fun any more!
+[420.30] (unattributed): Quick run to the fort!
+[430.10] (unattributed): Good! Good!
+[430.20] (unattributed): Gloob likes! Gloob likes!
+[430.30] (unattributed): Ohh I think you is the Master! I do! I do!
+[430.40] (unattributed): Keep going!
+[430.50] (unattributed): Minions like!
+[430.60] (unattributed): Yeah! Yeah! Yeah!
+[430.70] (unattributed): Ohhhhhhhhhh ohhhhhh!
+[430.80] (unattributed): We will follow if you is Master!
+[500.10] (unattributed): Control us Master!
+[510.10] (unattributed): Ahhh demons!
+[510.15] (unattributed): Get ‘em off me!
+[510.20] (unattributed): Mummmmmmy!
+[510.25] (unattributed): Heeelp!
+[510.30] (unattributed): Get to the fort!
+[510.35] (unattributed): Eeeeeeeek!
+[510.40] (unattributed): Waaaaah Midwinter demons!
+[510.45] (unattributed): They’re after me!
+[510.50] (unattributed): Head for the fort!
+[510.55] (unattributed): Daaaaaddddddy!
+[510.60] (unattributed): Waaah! What’s he doing!
+[510.65] (unattributed): He’s set his demons on me!
+[520.10] (unattributed): Hey you Witch-boy! I see you demon child!
+[520.20] (unattributed): Stop that floating about! You trying to make old Nev sick?
+[520.30] (unattributed): You ain’t getting in here. I have *hic* orders!
+[520.40] (unattributed): No Witch-boys! With your funny eyes... and no demons!
+[520.50] (unattributed): Go wobble about someplace else!
+[520.60] (unattributed): Push off! And take your funny eyes with ya!
+[530.10] (unattributed): Hey, I’ll show you the way!
+[530.20] (unattributed): Follow me!
+[530.30] (unattributed): I know where they’ve gone!
+[530.40] (unattributed): Hey, come on!
+[208.5] (unattributed): Yaaaay get back Witch-boy!
+[208.10] (unattributed): Don’t come in here!
+[208.15] (unattributed): We’re armed!
+[208.20] (unattributed): This is ours!
+[208.25] (unattributed): Stay back, weirdo!
+[208.30] (unattributed): Haahahahahaaa that’ll teach ya!
+[208.35] (unattributed): Did we get ‘im? Did we get ‘em?
+[208.40] (unattributed): You ain’t comin’ in, Witch-boy!
+[208.45] (unattributed): Stay out!
+[208.50] (unattributed): Haaahhha look at you!
+[208.55] (unattributed): Stop that!
+[208.60] (unattributed): Bunch of bullies!
+[208.65] (unattributed): Play nice!
+[109.10] (unattributed): Look what this guy has!
+[109.20] (unattributed): Over here!
+[109.30] (unattributed): Hey, come here!
+[109.40] (unattributed): Hey, you can’t be in here! These are highly flammable and have to be handled by a professional!
+[110.5] (unattributed): It’s melting!
+[110.10] (unattributed): Quick run!
+[110.15] (unattributed): Run! Run!
+[110.20] (unattributed): My feet are getting soggy!
+[110.25] (unattributed): It’s going all slushy!
+[110.30] (unattributed): Runnnnnnnnn!
+[110.35] (unattributed): He melted it! He melted it!
+[600.10] (unattributed): He’s breaking through!
+[600.20] (unattributed): The demons are coming!
+[600.30] (unattributed): Don’t let ‘em get me!
+[600.40] (unattributed): Find somewhere to hide!
+[600.50] (unattributed): The hut! The hut!
+[600.60] (unattributed): Yeah, get in the hut!
+[610.10] (unattributed): Get inside!
+[610.20] (unattributed): Quick!
+[610.30] (unattributed): They’ll never find us in here!
+[620.10] (unattributed): The demons have found us!
+[620.20] (unattributed): They’re smart!
+[620.30] (unattributed): Get off me!
+[620.40] (unattributed): Hey, he’s got my coat!
+[620.50] (unattributed): Don’t take that!
+[620.60] (unattributed): Give that back!
+[630.10] (unattributed): I’m so cccold!
+[630.20] (unattributed): My nice clothes!
+[630.30] (unattributed): I ain’t going out there!
+[640.10] (unattributed): I don’t think they’re gonna be bothering you anymore!
+[700.10] (unattributed): Hello kiddies. Come for the party?
+[700.20] (unattributed): Hey why’d bring that Witch-boy he’s got funny eyes, I tell you.
+[700.30] (unattributed): You can come in, but behave yourself. Only drink apple juice... just like *hic* me!
+[700.40] (unattributed): And don’t let that Witch-boy lead you astray.
+[710.10] (unattributed): Our Master would crash the party!
+[720.10] (unattributed): Awww, it’s the kiddies!
+[720.20] (unattributed): Look at their cute little faces!
+[720.30] (unattributed): You mustn’t stay up too late now!
+[720.40] (unattributed): Now don’t eat all the sweets and make yourselves sick!
+[720.50] (unattributed): Now behave yourselves!
+[720.60] (unattributed): You’d better not make any trouble!
+[720.70] (unattributed): Don’t bother the grown ups now!
+[720.80] (unattributed): Hmmm...they look a little on the troublesome side tonight!
+[730.10] (unattributed): They’re acting up!
+[730.15] (unattributed): Maybe they’re just over tired!
+[730.20] (unattributed): Have they been on the sugar?
+[730.25] (unattributed): Behave yourselves at once!
+[730.30] (unattributed): Stop that!
+[730.35] (unattributed): You’re not too big to go over my knee, you know!
+[730.40] (unattributed): Oi, your kids are acting up!
+[730.45] (unattributed): Control your brats!
+[730.50] (unattributed): Little hoodlums!
+[730.55] (unattributed): Right! No Midwinter treats for you!
+[730.60] (unattributed): Leave that alone!
+[730.65] (unattributed): Are they possessed by Midwinter demons?
+[740.10] (unattributed): Ha ha you go Witch-boy!
+[740.20] (unattributed): Smash it up!
+[740.30] (unattributed): Yay! Go demons!
+[740.40] (unattributed): Demons! Demons! Demons!
+[111.10] (unattributed): Empire! Empire! Man the walls!
+[111.20] (unattributed): Quick, get the children inside!
+[111.30] (unattributed): What do they want with us?
+[111.40] (unattributed): It’s that Witch-boy. He’s cursed us!
+[800.10] (unattributed): Hey, let’s take a look!
+[800.20] (unattributed): Follow me.
+[800.30] (unattributed): I...I think I like you…
+[800.40] (unattributed): Maybe we can hold hands later?
+[800.50] (unattributed): Come on, let’s watch.
+[112.5] (unattributed): Noooooooo!
+[112.10] (unattributed): Our village!
+[112.15] (unattributed): Help, help someone!
+[112.20] (unattributed): The Witch-Boy brought this upon us!
+[112.25] (unattributed): My house! My house!
+[112.30] (unattributed): What do we do? What do we do?
+[112.35] (unattributed): I’m too pretty to die!
+[112.40] (unattributed): Why are they firing?
+[112.45] (unattributed): Why are they here?
+[112.50] (unattributed): Nordberg! Save Nordberg!
+[112.55] (unattributed): Take cover!
+[112.60] (unattributed): They’re firing! They’re firing!
+[113.10] (unattributed): The catapults have stopped.
+[113.20] (unattributed): Thank the Gods!
+[113.30] (unattributed): They’re still out there!
+[113.40] (unattributed): What do they want?
+[114.20] (unattributed): Come on, over here?
+[115.10] (unattributed): Bring out your magic users, Nordberg. So they may be 
+[115.20] (unattributed): In the name of the Empire and your new Governor Borius!
+[115.30] (unattributed): We have no magic users here! We are simple people of the land. 
+[115.40] (unattributed): Do not lie. The Sentinels have spoken! Surrender your magic users or we will cleanse your whole town if necessary!
+[115.50] (unattributed): Well, er...well  maybe we do have one…
+[900.10] (unattributed): Master! We strong now!
+[900.20] (unattributed): We help you ‘scape!
+[900.30] (unattributed): Follow! Follow!
+[900.40] (unattributed): Come! Come!
+[900.50] (unattributed): Our Master would follow!
+[900.60] (unattributed): This way!
+[117.10] (unattributed): What? Where did these little demons come from. I said no demons. I was very 
+[118.10] (unattributed): Form up!
+[118.20] (unattributed): Don’t let ‘im get through!
+[118.30] (unattributed): Keep together lads!
+[119.10] (unattributed): For the Master!
+[119.20] (unattributed): Kill the Shinies!
+[119.30] (unattributed): Go Minions!
+[120.5] (unattributed): Run away!
+[120.10] (unattributed): Little demons!
+[120.15] (unattributed): Fall back!
+[120.20] (unattributed): Run!
+[120.25] (unattributed): Ahhhhhhhhh!
+[120.30] (unattributed): They’re everywhere!
+[120.35] (unattributed): Get away!
+[120.40] (unattributed): What are these things!
+[120.45] (unattributed): Let’s get out of here!
+[120.50] (unattributed): Fleeeeee!
+[121.10] (unattributed): Archers... fire!
+[970.10] (unattributed): Path block!
+[970.20] (unattributed): Our Master would find way to break it!
+[910.10] (unattributed): Our Master would take revenge on town!
+[910.20] (unattributed): Smash town! Smash! Smash!
+[910.30] (unattributed): Fire! Fire! Fire!
+[920.10] (unattributed): Now fire on Empire shinies!
+[920.20] (unattributed): Crush those shinies!
+[920.30] (unattributed): Make shinies no shine!
+[930.10] (unattributed): Must ‘scape now! Hit barrier!
+[930.20] (unattributed): Go to Minion burrows!
+[930.30] (unattributed): Yaaay Minion burrows! Yaaayyy!
+[940.10] (unattributed): Hit! Hit!
+[940.20] (unattributed): Yaaaaaaaay!
+[940.30] (unattributed): Good shot!
+[940.40] (unattributed): *Giggle*
+[950.10] (unattributed): Need to go now!
+[950.20] (unattributed): Quick! Quick!
+[950.30] (unattributed): Minion Burrows!
+[960.10] (unattributed): Wolfies friends!
+[960.20] (unattributed): Wolfies attack shinies!
+[122.10] (unattributed): There he is!
+[122.20] (unattributed): Stop him!
+[124.10] (unattributed): Magical creatures!
+[124.20] (unattributed): Smash Yeti Cage! Yeti smash Shinies!
+[125.10] (unattributed): Hurry! Hurry!
+[125.20] (unattributed): Get to Minion Burrow! 
+[126.10] (unattributed): Follow! Follow!
+[126.20] (unattributed): AnkWoo!
+[126.30] (unattributed): AnkWoo!
+[126.40] (unattributed): AnkWoo!
+[126.50] (unattributed): AnkWoo!
+[SONG.1] (unattributed): <T=10>

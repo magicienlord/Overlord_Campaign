@@ -1,0 +1,508 @@
+[START.10] (unattributed): The Netherworld has accepted you as its Master! I knew it! I knew it!
+[START.15] (unattributed): Do calm down Quaver, we don’t want another accident!
+[START.20] (unattributed): You are, indeed, our true Overlord! It’s somewhat of a relief, Sire... we didn’t want to have to bury another candidate.
+[START.25] (unattributed): Massssster.
+[START.30] (unattributed): The Netherworld will be your new seat of power, Lord. 
+[START.35] (unattributed): It’s a little on the cavernous side at the moment, but now you’re properly here we can start to refurbish and expand the tunnel  system.
+[START.40] (unattributed): This will allow us access to other areas of the world where you can establish your new dark domain. 
+[START.50] (unattributed): I feel a small poem is called for to commemorate the event.
+[START.55] (unattributed): Oh dear, he’s off again.
+[START.60] (unattributed): Ahem
+[START.65] (unattributed): There was a boy from the Nordberg Town who sent the locals screaming. But now the boy’s become a man, he’ll start his evil scheming!
+[START.70] (unattributed): Sorry about that, Sire, sometimes there’s no stopping him! And believe me, I’ve tried!
+[START.75] (unattributed): As you explore, Grubby will dig you new Netherworld Gates. You’ll be able to teleport to them from this main one.
+[START.80] (unattributed): This is your throne, Sire. And it’s not just a place to rest your evil posterior; you can teleport around your domain from here and it will also alert you about recent events and quests. 
+[START.85] (unattributed): An Overlord needs to keep on top of things.
+[START.90] (unattributed): Why don’t you try it out and then let me know if you’d like to take the tour?
+[S2.10] (unattributed): You can view the latest information about your domain from the comfort of your throne, Lord.
+[S2.20] (unattributed): Do try out your new throne, Master.
+[S3.10] (unattributed): Just let me know if your throne isn’t comfy enough, Sire. Would you like some more cushions?
+[S3.15] (unattributed): I’m sure your deeds will provide great material for my epic poems, Master.
+[S3.20] (unattributed): Ah, so good to get the smell of evil around the place.
+[S3.25] (unattributed): Don’t mind my burns, Sire, they’re quite friendly... this one’s called Oozy... this is Weepy and this is... um... Frank.
+[S3.30] (unattributed): I’ve told the Minions they have to clean their Spawning pit before you go down there, Master.
+[S3.35] (unattributed): Gnarl isn’t a music lover, Sire, but I’m sure you are!
+[S3.40] (unattributed): I know this place maybe a little upside down, but it’s all yours, Sire.
+[S3.45] (unattributed): I am a servant to the muses and you of course, Master.
+[S3.50] (unattributed): The Minions are very excited to have you here, Lord!
+[S3.55] (unattributed): As soon as you go out and start adventuring, Sire, I’ll start composing.
+[TOURCS.10] (unattributed): Which area would you like to inspect, Sire?  Perhaps the Minion Burrows?
+[TOURCS.20] (unattributed): Maybe you’d like to inspect the Netherworld Foundations, Master?
+[TOURCS.30] (unattributed): I think the Private Quarters deserves your evil eye, Dark Lord.
+[TOURCS.40] (unattributed): Very good. Follow me, Master.
+[TOUR1.10] (unattributed): The natural laws are a little bit... er flexible here in the Netherworld.
+[TOUR1.20] (unattributed): Step onto the rock, Sire. It’s probably safe… I mean perfectly safe! 
+[TOUR1.30] (unattributed): From here you can travel to the other areas of the Netherworld.
+[TOUR1.40] (unattributed): This is Construction Minion Giblet, Sire. He’s overseeing the construction of the new Dark Tower!
+[TOUR1.50] (unattributed): This is Minion Mortis he oversees the life and death of the Minions in the Spawning Pit.
+[TOUR1.60] (unattributed): Step onto the floating rock, Sire.
+[TOURPQ.10] (unattributed): This cavern will be your Private Quarters, Master. 
+[TOURPQ.20] (unattributed): It is traditional in Overlording circles to find oneself a Mistress, or several! 
+[TOURPQ.30] (unattributed): Keep an eye out for a suitable candidate. 
+[TOURPQ.40] (unattributed): You know, something to make the room look pretty and to waft about the place. I’m quite partial to a bit of wafting.
+[TOURM.10] (unattributed): This is your magic room, Sire. By collecting Spell Stones and Catalysts you can expand your magical powers. 
+[TOURM.20] (unattributed): Magic is clean carnage, Sire. No wear and tear on your weapons. Not so many entrails lodged in your armor.
+[TOURPQ2.10] (unattributed): Hello, Witch-boy, come and see what I’ve done with the place.
+[TOURPQ2.20] (unattributed): I’ve put some of your little friends to work.
+[TOURPQ2.30] (unattributed): They’re strong and seem to be able to think and move at the same time - Which puts them well above the average Nordbergian!
+[TOURPQ2.40] (unattributed): The place is becoming a little more fitting now. People should think Dark, Evil Overlord, rather than Cave Troll!
+[TOURPQ2.50] (unattributed): Still needs work though! I’ve sketched out a few upgrades. But you’ll need to dig into your pockets, a little.
+[TOURPQ2.60] (unattributed): A bed would be a good start, make me feel a little more relaxed..... You don’t snore do you?
+[K_A.10] (unattributed): At last you have a Dark Tower truly worthy of you, Master!
+[K_A.15] (unattributed): So this is your place, huh? Well it certainly beats Nordberg! It’s warm for a start!
+[K_A.20] (unattributed): I’m not sure about this thing though. What is it? Some kind of walnut with ears?
+[K_A.25] (unattributed): Perhaps you and your new Mistress should visit the Private Quarters.
+[K_A.28] (unattributed): And remember, Sire, what happens in the Private Quarters, stays in the Private Quarters!
+[K_A.30] (unattributed): Great! I’m going to see where my fur rugs and hunting souvenirs will go. 
+[K_A.35] (unattributed): I shall meet you up there Witch-boy.
+[K_A.40] (unattributed): Take my advice on the fairer sex, it’s best to keep them happy. 
+[K_A.45] (unattributed): I suggest using some of that gold of yours to buy her a few delightful knick-knacks for the Private Quarters.
+[K_A.50] (unattributed): Ladies like knick-knacks.
+[K_A.55] (unattributed): Besides, Sire, no one needs to come home from a hard day smiting things, to an angry Mistress!
+[CHUNK5.A] (unattributed): One of the slaves you subdued in Nordberg is requesting an audience, Sire. It’s all work, work, work when you’re evil!
+[CHUNK5.10] (unattributed): Forgive the intrusion, but your visit to Nordberg has not gone unnoticed the Empire is trying to dig through to the Netherworld
+[CHUNK5.20] (unattributed): I sneaked out to tell you! 
+[CHUNK5.30] (unattributed): I, er, thought after you’d dealt with Borius you might see your way clear to perhaps rewarding me for this information... by maybe um making me Mayor of Nordberg once you conquer it? 
+[CHUNK5.40] (unattributed): You know, when you’re not busy, your magnificence... maybe, just on, er, Sundays? Sunday afternoons, maybe?
+[CHUNK5.50B] (unattributed): Thank you! I can’t wait to start my... I mean our Mayoral duties!
+[CHUNK5.WAH] (unattributed): Waaaaaaaaaaaaaaah!
+[CHUNK5.60A] (unattributed): We can’t let the Empire take control of Nordberg, Master! They’ll start thinking the place belongs to them!
+[CHUNK5.70A] (unattributed): We must find our Reds in the Sanctuary so we can get through those fire barriers!
+[CHUNK5.50A] (unattributed): Don’t make me go back to Borius, Master!
+[CHUNK5.60B] (unattributed): We can’t let the Empire take control of Nordberg, Master! They’ll start thinking the place belongs to them!
+[CHUNK5.70B] (unattributed): We must find our Reds in the Sanctuary so we can get through those fire barriers!
+[MM1.10] (unattributed): There is a creature from Nordberg here to see you. I think it’s human.
+[MM1.20] (unattributed): Begging your pardon, Dark Lord, but I thought you should know something. There are some troublemakers in Nordberg!
+[MM1.30] (unattributed): They’re planning to steal the town’s food supplies and sail out of Nordhaven in one of our... I mean your ships!
+[MM1.40] (unattributed): Um, also, you wouldn’t be able to er lend me Mistress Kelda, would you? 
+[MM1.50] (unattributed): The nights in Nordberg are very cold and lonely, you know.
+[MM1.ACC1] (unattributed): Wonderful Lord! And about Mistress Kelda?
+[MM1.WAH] (unattributed): Waaaaaaaaaaaaaaah!
+[MM1.ACC2] (unattributed): Cheeky devil! Hurry, Sire, that ship is our ticket out of Nordberg to find the other Minion tribes.
+[MM1.DEC1] (unattributed): Could I still borrow Mistress Kelda?
+[MM1.DEC2] (unattributed): Cheeky devil! Hmm, we really should get hold of that ship, Master. 
+[MM1.DEC3] (unattributed): We need to get out of Nordberg and search for the other lost Minion tribes.
+[MM1.DOM] (unattributed): The ship is now seaworthy for your great magnificence.
+[MM1.DES] (unattributed): The Minions have repaired the ship, Sire. Time to try out your sea legs!
+[MM2.1] (unattributed): There's another Nordbergian here to see you.
+[MM2.2] (unattributed): This is what happens when you get all notorious, Sire. Everyone wants something from you!
+[MM2.10] (unattributed): Oh Lord, there are some folks in Nordberg who are trying to flee from your dark ways. 
+[MM2.20] (unattributed): They’ve run away to join an Elf commune!
+[MM2.30] (unattributed): I also wanted to ask whether you could spare me a few of your creatures. 
+[MM2.40] (unattributed): A couple of them around the house would make my life so much easier. How are they at darning socks?
+[MM2.ACC1] (unattributed): Marvellous Lord. Now, I think I’d like some of those Brown fellows. They look strong!
+[MM2.WAH] (unattributed): Waaaaaaaaaaaaaaah!
+[MM2.ACC2] (unattributed): Quite right, can’t have the Elves giving your subjects ideas about peace and love, Sire!
+[MM2.DEC1] (unattributed): Why should they have all the fun?
+[MM2.DEC2] (unattributed): Well, any time you feel like crashing the party, Sire, just let me know.
+[MM4.10] (unattributed): A denizen of Everlight wishes to bend your evil ear, Sire.
+[MM4.20] (unattributed): Er, sorry to bother you, Lord, but there are some disturbing developments in Everlight.
+[MM4.30] (unattributed): I overslept this morning and when I came down to the beach there was no one there! 
+[MM4.40] (unattributed): Do you know what happened to them?
+[MM4.50] (unattributed): I wonder if you could possibly send Juno my way? I think she’d mix a marvellous cocktail!
+[MM4.ACC1] (unattributed): Wonderful news, Lord. I’ll be waiting for Juno with some sparklers and a bucket of whipped cream!
+[MM4.WAH] (unattributed): AAAaaaah!
+[MM4.ACC2] (unattributed): Right, time to flatten the flouters, Lord! Giblet do we have any whipped cream?
+[MM4.DEC1] (unattributed): Oh dear, maybe she could just come and rub my back?
+[MM4.DEC2] (unattributed): Hmmm, let ‘em run. I’m sure you’ll find the time to crush them sooner or later, Master!
+[MM5.10] (unattributed): It appears that an Empire lady from Everlight is requesting your attention, Sire.
+[MM5.20] (unattributed): Master, there are bombs going off around the Everlight resort. 
+[MM5.30] (unattributed): We fear it’s those Elf soldier louts from the jungle trying to start a rebellion.
+[MM5.40] (unattributed): I say, I do like that little wrinkly creature of yours. Gnarl, is it? He’s very cuddly. Can I take him back with me?
+[MM5.ACC1] (unattributed): Come on little Gnarlie!
+[MM5.WAH] (unattributed): Waaaaaaaaaaaaa.
+[MM5.ACC2] (unattributed): Eeessssh! Let’s get to the Elven extermination, Sire. I need to see some violence, fast!
+[MM5.DEC] (unattributed): I’m sure you’ll find time to sort out those Elves later, Lord.
+[ROSE.10] (unattributed): There’s a someone here to see you, Sire. I think it’s a female someone.
+[ROSE.15] (unattributed): Hang on a moment, haven’t I seen you somewhere before?
+[ROSE.20] (unattributed): I have been in many places. But I am here to warn you about the path you are treading. 
+[ROSE.25] (unattributed): I have seen it all before – the Minions, the Dark Tower the… women! It is a pattern that will lead to your destruction.
+[ROSE.30] (unattributed): Nonsense! The Overlord is the only one who’ll be doing any destroying around here!
+[ROSE.35] (unattributed): I have watched you for many years... from the shadows. You need to see what future awaits you. 
+[ROSE.40] (unattributed): Seek answers in the old lands. The way is now open. The rest is up to you.
+[ROSE.45] (unattributed): The potty wench is right, Sire! Grubby’s found an active Gate in the Wastelands. 
+[ROSE.50] (unattributed): The area once held great power but it’s suffered some very turbulent times in the past.
+[ROSE.55] (unattributed):  It’s certain to be in a chaotic and unpredictable state. I would advise extreme caution.
+[ROSE.60] (unattributed): Ha... oh!
+[ROSE.65] (unattributed): Well it’ll probably be upside down and inside out, but at least you’ll get to see the old country, Master.
+[ROSE.70] (unattributed): I’m sure you have more urgent matters to attend to, Sire, but although the old lands are dangerous, they may be of great benefit to us.
+[BRIDGE.10] (unattributed): Mistress Juno has some intriguing information for you, Master.
+[BRIDGE.20] (unattributed): Those midget thingies, of yours, each to their own, I suppose, I saw some Blue ones being taken off to the Arena.
+[BRIDGE.30] (unattributed): That must be our Blues! This is a great opportunity for a reconnaissance mission. Sire. 
+[BRIDGE.40] (unattributed): Get our Blues back and get to know our enemy!
+[BRIDGE.50] (unattributed): Well, if you’ve got a boat I can show you the sea routes. It’s the least I can do for now.
+[FORGE1.10] (unattributed): You have items to make in the Dark Forge, Sire! No forgetting!
+[FORGE1.ACC] (unattributed): Good! Can’t let you go around with substandard Overlording gear, Master.
+[FORGE1.DEC] (unattributed): Hmm, you mustn’t go around in substandard Overlording gear, Master. People will stare!
+[FORGE2.10] (unattributed): There are still items to create in the Dark Forge! See! See!
+[FORGE2.ACC] (unattributed): Off you go, Sire. Giblet does like to see his Overlord well kitted out!
+[FORGE2.DEC] (unattributed): Giblet will be sad, Sire. He likes to see his Overlord well kitted out!
+[FORGE3.10] (unattributed): Don’t forget the Dark Forge, Master! Many, many things for smiting!
+[FORGE3.ACC] (unattributed): Quite right, Sire. You can never have too many things for smiting!
+[FORGE3.DEC] (unattributed): Are you sure, Sire? You can never have too many things for smiting!
+[FOUND1.10] (unattributed): Lovely things for the Master in the Foundation. You come soon ‘k?
+[FOUND1.ACC] (unattributed): That’s right, Master! Giblet can always find new and exciting ways to spend your gold!
+[FOUND1.DEC] (unattributed): Well if you ever feel you have too much gold, Sire, Giblet can find you new and exciting ways of spending it.
+[FOUND2.10] (unattributed): Many things to upgrade in the Foundations, Master.
+[FOUND2.ACC] (unattributed): That's right, you need to build, build, build to keep your Netherworld looking suitably evil, Sire! It’s expected!
+[FOUND2.DEC] (unattributed): You need to build, build, build, Sire. It’s key to keeping your Netherworld looking suitably evil. It’s expected!
+[FOUND3.10] (unattributed): Sire, there are new things to build in the Foundations! Come see!
+[FOUND3.ACC] (unattributed): Quite right, Sire. Don’t want the place looking shabby, do we?
+[FOUND3.DEC] (unattributed): Hmm, don’t neglect your Netherworld, Sire. You need to build as well as destroy!
+[ARENA1.10] (unattributed): I miss the smell of death, Lord! Come kill some things at the Battle rock.
+[ARENA1.ACC] (unattributed): Got to keep testing that Overlording arm, Master!
+[ARENA1.DEC] (unattributed): Careful you don’t get out of practice, Sire.
+[ARENA2.10] (unattributed): You come to the Battle rock, Sire! Gash has things that need killing.
+[ARENA2.ACC] (unattributed): Wonderful, Master. I’ll go and get the popcorn.
+[ARENA2.DEC] (unattributed): Oh dear, you’ll upset Gash, Sire. He’s been preparing all kinds of things to be killed by you.
+[ARENA3.10] (unattributed): Gash has challenges for you, Master. Oh yes! Visit the Battle rock.
+[ARENA3.ACC] (unattributed): That’s it, Sire. You can never have too much smiting!
+[ARENA3.DEC] (unattributed): Not feeling up to the challenge, Lord?
+[MAGIC1.10] (unattributed): You haven’t checked your spells lately, Sire.
+[MAGIC1.20] (unattributed): Wouldn’t want to miss out on new ways to create chaos, would we?
+[MAGIC1.ACC] (unattributed): Quick, to the magic room!
+[MAGIC1.DEC] (unattributed): Well don’t forget to keep an eye on your spells, Sire. They can always use a little boost!
+[MAGIC2.10] (unattributed): You haven’t checked your spells lately, Sire. It’s always refreshing to find new ways of making people disintegrate!
+[MAGIC2.ACC] (unattributed): I shall meet you in the magic room, Master!
+[MAGIC2.DEC] (unattributed): Well, I’m sure you know what’s best for you and your magic, Lord!
+[MAGIC3.10] (unattributed): Make sure you keep an eye on your available spells, Dark Master! 
+[MAGIC3.20] (unattributed): Sometimes it’s nice to let magic do the dirty work for you.
+[MAGIC3.ACC] (unattributed): Right, let’s go get your magic face on, Master!
+[MAGIC3.DEC] (unattributed): Well, don’t forget about your magic, Sire. Spells need love too!
+[KELDAR1.10] (unattributed): You really should re-think your choice of First Mistress.
+[KELDAR1.20] (unattributed): With me by your side in the Tower, you’d be unstoppable.
+[KELDAR1.ACC1] (unattributed): I knew I could count on you!
+[KELDAR1.ACC2] (unattributed): Ah, sadly red-heads are a little too feisty for me these days, Sire.
+[KELDAR1.DEC1] (unattributed): After all we’ve been through!
+[KELDAR1.DEC2] (unattributed): I know these red-heads. Feisty bunch! Best to stick with the one you’ve got, Sire.
+[KELDAR2.10] (unattributed): Clearly you were under some kind of spell when you chose her as First Mistress. 
+[KELDAR2.20] (unattributed): But maybe you’re not so confused any more, hmm?
+[KELDAR2.ACC1] (unattributed): That’s my Witch-boy, glad to see you’re thinking straight now!
+[KELDAR2.ACC2] (unattributed): Hmm, that’ll make some sparks fly, Sire.
+[KELDAR2.DEC1] (unattributed): You’re lucky I’m the loyal type!
+[KELDAR2.DEC2] (unattributed): Good! Smiting first, Mistress juggling later, Master!
+[JUNOR1.10] (unattributed): I’m willing to forgive your little mistake in making her First Mistress. Because I’m sure you really meant me!
+[JUNOR1.ACC1] (unattributed): That’s it, don’t fight it. Just give into Juno and then just give her... everything!
+[JUNOR1.ACC2] (unattributed): She’s certainly a lady who knows what she wants, Lord!
+[JUNOR1.DEC1] (unattributed): You’ll change your mind in the end. They all do!
+[JUNOR1.DEC2] (unattributed): Well, Sire… if you’re not interested in Juno... maybe I could... have a little... oh, never mind!
+[JUNOR2.10] (unattributed): I’m impressed at your resistance. But there’s no need to play games with Juno.
+[JUNOR2.20] (unattributed): At least, not yet. Just make me First Mistress and we’ll over look all that previous business with her.
+[JUNOR2.ACC1] (unattributed): Wonderful. Gnarl I need to see a Dark Tower accessories brochure immediately! 
+[JUNOR2.ACC2] (unattributed): Oh dear, I hope you’ve got deep pockets, Lord.
+[JUNOR2.DEC1] (unattributed): Are you ill? I’ll just have to wait for your brain to stop... not being there!
+[JUNOR2.DEC2] (unattributed): Very good, Sire. You might actually manage to hang onto some of your gold!
+[DFAYR1.10] (unattributed): I know you. I am the only one here who understands your darkness. That is why I should be First Mistress!
+[DFAYR1.ACC1] (unattributed): But of course! I shall try to reign with a sense of mercy... of a sort.
+[DFAYR1.ACC2] (unattributed): Ahh, now that’s what I call a proper Dark Mistress!
+[DFAYR1.DEC1] (unattributed): Are you trying to vex me? Hmm? No matter, I’m sure you will embrace my darkness very soon.
+[DFAYR1.DEC2] (unattributed): I could always… you know... do the whole embracing thing if you’re busy, Sire?
+[DFAYR2.10] (unattributed): Do you really favor her over me? Or are you just playing with her feeble little mind?
+[DFAYR2.20] (unattributed): If that’s the case then just make me First Mistress and I can play with her feeble little mind!
+[DFAYR2.ACC1] (unattributed): Yes! Yes! Such destructive deeds you will wreak on this world with me by your side!
+[DFAYR2.ACC2] (unattributed): You and her... it’s all so beautifully evil.
+[DFAYR2.DEC1] (unattributed): To reject me is to reject your own darkness! You will see this in time!
+[DFAYR2.DEC2] (unattributed): Perhaps the Minions aren’t ready for an evil mummy as well as an evil daddy, Sire!
+[GFAYR1.10] (unattributed): I’m sure you did not mean to choose that primitive mammal over me, Dark One. 
+[GFAYR1.20] (unattributed): I shall give you the second chance you never gave me. 
+[GFAYR1.ACC1] (unattributed): As is your will, Dark One. Perhaps there is hope for you and my sacrifice was not in vain!
+[GFAYR1.ACC2] (unattributed): I hear that ghosts can be quite frisky, Sire
+[GFAYR1.DEC1] (unattributed): I will ask the spirits to clear your addled mind! Until then, I forgive your error in judgment.
+[GFAYR1.DEC2] (unattributed): I can certainly see the benefits of sticking with a Mistress who’s actually alive, Sire!
+[GFAYR2.10] (unattributed): The least you owe me for taking my life, Dark One is the position of First Mistress. 
+[GFAYR2.20] (unattributed): My spectral form has its benefits.
+[GFAYR2.ACC] (unattributed): I knew you would embrace the spirit world, Dark One. And in time the spirit world will embrace you!
+[GFAYR2.DEC] (unattributed): Yes, yes, stick with the world of the living, Sire!
+[GRAVE1.10] (unattributed): Don’t forget, death is not the end, Master! Come to the Graveyard.
+[GRAVE1.ACC] (unattributed): Death isn’t the end, but it’s somewhat of an inconvenience, Sire, so let’s go resurrect something!
+[GRAVE1.DEC] (unattributed): Any time you feel like getting your favorite Minions back in the battle, Sire, visit the graveyard and make a few sacrifices.
+[GRAVE2.10] (unattributed): I hear Minion souls calling for their Master! Bring them forth again.
+[GRAVE2.ACC] (unattributed): Yes! Let’s visit the Graveyard, Sire, and reunite our Minion family!
+[GRAVE2.DEC] (unattributed): Don’t leave our boys in the ground for too long, Master. 
+[GRAVE3.10] (unattributed): There are Minions to be risen from the grave, Master!
+[GRAVE3.ACC] (unattributed): Thank you Mortis, the Master is on his way!
+[GRAVE3.DEC] (unattributed): Very well, Mortis will take care of the Minions until you see fit to resurrect them, Sire.
+[KELDAB1.10] (unattributed): Please could you buy me something from the Private Quarters? I’d like something nicer to look at than Gnarl.
+[KELDAB1.ACC1] (unattributed): Wonderful! I shall meet you in the Private Quarters.
+[KELDAB1.ACC2] (unattributed): Do keep her happy, Lord. I’m the one that has to stay at the tower with her, after all!
+[KELDAB1.DEC1] (unattributed): Hmmm. Don’t be a stingy Witch-boy!
+[KELDAB1.DEC2] (unattributed): Oh dear. I think I’ll go and have a quiet lie down somewhere!
+[KELDAB2.10] (unattributed): Hmmm, my Private Quarters are a little sparse. Please could you use your gold to brighten the place up a little?
+[KELDAB2.ACC1] (unattributed): Excellent! I’ve got my eye on a few things!
+[KELDAB2.ACC2] (unattributed): That’s it! Keep your Mistress happy, Sire! It’s one of the top Overlording rules.
+[KELDAB2.DEC1] (unattributed): Well, maybe you’re just planning to surprise me!
+[KELDAB2.DEC2] (unattributed): Keep your Mistress happy, Sire! It’s one of the top Overlording rules!
+[JUNOB1.10] (unattributed): Hmmm, I really wish you’d show your appreciation of me with a few little choice gifts from the Private Quarters. 
+[JUNOB1.20] (unattributed): Then I could show my appreciation of you.
+[JUNOB1.ACC1] (unattributed): Let’s go, I feel a spending spree coming on!
+[JUNOB1.ACC2] (unattributed): Ah. It’s nice to see her happy!
+[JUNOB1.DEC1] (unattributed): You don’t want to buy things for Juno? I don’t think anyone’s ever said that to me before!
+[JUNOB1.DEC2] (unattributed): I’m going to keep out of her way!
+[JUNOB2.10] (unattributed): Don’t forget about a few gifts for little old me from the Private Quarters.
+[JUNOB2.20] (unattributed): I have very high standards, you know. But believe me, I’m worth it.
+[JUNOB2.ACC1] (unattributed): I can hardly wait! We’re going to have some shopping fun...and maybe a bit of other fun, later, mmm?
+[JUNOB2.ACC2] (unattributed): Ooh, that sounds promising, Sire!
+[JUNOB2.DEC1] (unattributed): No one likes a Mr Meanie!
+[JUNOB2.DEC2] (unattributed): Please keep her happy, Lord, otherwise I’ll have to move down into the Spawning Pit!
+[DFAYB1.10] (unattributed): I think we’d both be happier if I was a little more comfortable here. 
+[DFAYB1.20] (unattributed): See what you can buy me for the Private Quarters, Dark One.
+[DFAYB1.ACC1] (unattributed): I’m sure you will find something to appeal to my tastes.
+[DFAYB1.ACC2] (unattributed): Thank you, Sire. Makes my life a lot easier if you keep your Mistress happy.
+[DFAYB1.DEC1] (unattributed): You refuse me? Well, I hope that this is merely so you may obtain more gold!
+[DFAYB1.DEC2] (unattributed): Please Sire. It makes my life a lot easier if you keep your Mistress happy!
+[DFAYB2.10] (unattributed): Um, I’m feeling a little neglected here. 
+[DFAYB2.20] (unattributed): But I’m sure you’re just saving up to buy me a really big present from the Private Quarters.
+[DFAYB2.ACC1] (unattributed): Let’s go and spend your gold, Dark One!
+[DFAYB2.ACC2] (unattributed): A happy Mistress is a Mistress who’s not making Gnarl’s ears bleed, Sire!
+[DFAYB2.DEC1] (unattributed): I do not approve of your gold hoarding ways, Dark One.
+[DFAYB2.DEC2] (unattributed): You need to learn how to spread the financial love, Sire!
+[GFAYB1.10] (unattributed): Even the dead need their comforts, Dark One. 
+[GFAYB1.20] (unattributed): Help me furnish the Private Quarters and let me look upon beauty once more.
+[GFAYB1.ACC1] (unattributed): I am pleased. I shall meet you in the Private Quarters.
+[GFAYB1.ACC2] (unattributed): Phew. Thank you master! We don’t need an angry spirit around the place!
+[GFAYB1.DEC1] (unattributed): Alas, how can one be expected to give love if one does not receive it?
+[GFAYB1.DEC2] (unattributed): Hmm, I don’t want an angry spirit around the place, Master!
+[GFAYB2.10] (unattributed): The Private Quarters are too bare, Dark One. I still have needs and I’m sure you would not wish to make me angry. 
+[GFAYB2.20] (unattributed): If you find a way to fulfill my needs I will find a way to fulfill yours.
+[GFAYB2.ACC1] (unattributed): It is pleasing to me that you understand my needs.
+[GFAYB2.ACC2] (unattributed): That spirit’s a bit of a saucepot if you ask me.
+[GFAYB2.DEC1] (unattributed): My heart is saddened that you do not wish to please me.
+[GFAYB2.DEC2] (unattributed): Oh dear, I hope she doesn’t start wailing! Wailing spirits really set my teeth on edge.
+[NORDR.10] (unattributed): A Nordbergian female has arrived to see you, Master!
+[NORDR.20] (unattributed): There are still those that walk free in Nordberg, Sire. They lounge around campfires doing no work for the cause. 
+[NORDR.30] (unattributed): They must be shown the way of darkness, Sire.
+[NORDR.40] (unattributed): You know if you’re getting bored of that Kelda, I could always take over, Lord. 
+[NORDR.ACC1] (unattributed): Just you tell me when you want me to take over and I’m there, Lord!
+[NORDR.WAH] (unattributed): Waaaaaaaaaaaaaaah!
+[NORDR.ACC2] (unattributed): Time to pull Nordberg onto its knees or into the grave, Sire!
+[NORDR.DEC1] (unattributed): So I ain’t good enough for you, Witch-boy?
+[NORDR.DEC2] (unattributed): No room for groupies!
+[EVERR.10] (unattributed): It appears there’s an Empire thing requesting an audience.
+[EVERR.20] (unattributed): Master, there are those in Everlight who do not yet understand your greatness. 
+[EVERR.30] (unattributed): They’re just laying on the beach all day drinking cocktails, when they should be worshipping you!
+[EVERR.40] (unattributed): You need to remind them...just how truly magnificent you are. 
+[EVERR.50] (unattributed): And maybe while you are at it secure me a nice little property with a sea view?
+[EVERR.ACC1] (unattributed): Wonderful! A nice two up...fourteen across will do me!
+[EVERR.WAH] (unattributed): Waaaaaaaaaaaaaaah!
+[EVERR.ACC2] (unattributed): How about a nice little... one down?
+[EVERR.DEC1] (unattributed): Oh dear...a  nice little two up...fourteen across would have done me!
+[EVERR.DEC2] (unattributed): How about a nice little... one down!
+[Choice1.10] (unattributed): I think we have a situation to discuss. You appear to have a couple of unfortunate hangers on, Dark One.
+[Choice1.15] (unattributed): A refugee from the Empire with more in front than up top!
+[Choice1.20] (unattributed): Ridiculous, my hair is lovely! And I don’t wear black out of season.
+[Choice1.25] (unattributed): And some kind of Nordbergian snow rat. I didn’t know you did charity work!
+[Choice1.30] (unattributed): Hmm I’d like to see you try to wrestle down and skin a rabid seal-mother!
+[Choice1.35] (unattributed): I guess it’s too much to ask that you just kill them right now, so I’ll just settle for being the First Mistress!
+[Choice1.40] (unattributed): I’m sure you don’t need it, but as an incentive I can make sure that Salamanders are available in your final battle against the Empire.
+[Choice1.45] (unattributed): I was going to cut you a break, because you’re new around here, fairy. But if you want to play rough... 
+[Choice1.50] (unattributed): I can offer you the services of the wolves in the final battle if you make me First Mistress!
+[Choice1.55] (unattributed): Wait a minute! I learned a few tricks in Everlight. 
+[Choice1.60] (unattributed): If you make me First Mistress I can make sure those little green spidery things aid you instead... that and I am, after all me.
+[Choice2.10] (unattributed): It saddens me that you felt the need to destroy my physical incarnation, Dark One. But I see now that you prefer the company of…
+[Choice2.15] (unattributed): A sadly deluded Empire refugee. I must pray for her soul.
+[Choice2.20] (unattributed): Who’s deluded. Come on, see-through is so last season!
+[Choice2.25] (unattributed): And a poor uncouth Nordbergian, who deserves our pity for her savage ways.
+[Choice2.30] (unattributed): I’d like to see you try to wrestle down and skin a rabid seal-mother, ghostie!
+[Choice2.35] (unattributed): I insist that you make me First Mistress so I can help them address their issues and heal.
+[Choice2.40] (unattributed): I would not be without gratitude, Dark One. 
+[Choice2.45] (unattributed): And I would also ensure that Salamanders assist you in your final battle against the Empire.
+[Choice2.50] (unattributed): I was going to cut you a break, being dead and all, but if you want to play rough... 
+[Choice2.55] (unattributed): I can offer you the services of the wolves in the final battle if you make me First Mistress!
+[Choice2.60] (unattributed): Wait a minute! I learned a few tricks in Everlight. 
+[Choice2.65] (unattributed): If you make me First Mistress I can make sure those little green spidery things aid you instead... that and I am, after all me.
+[choice.juno1] (unattributed): Well, I can still see you have your eyesight! You won’t regret this.
+[choice.juno2] (unattributed): Oh you will!
+[choice.juno2b] (unattributed): I will ask the spirit world to grant you sense soon!
+[choice.juno3] (unattributed): I’ll still be here if you come to your senses.
+[choice.Kelda1] (unattributed): Don’t be bitter ladies – he and I do have a history, after all.
+[choice.Kelda2] (unattributed): I see you’ve lost your eyesight!
+[choice.Kelda3] (unattributed): And your brains... and several other organs!
+[choice.Kelda3B] (unattributed): You poor confused creature!
+[choice.DFay1] (unattributed): As your First Mistress I shall endeavour to show mercy to these... slaves.
+[choice.DFay2] (unattributed): You’re choosing that thing... over me?
+[choice.DFay3] (unattributed): Well I’m not being her slave!
+[choice.GFay1] (unattributed): I shall weep for all of you!
+[choice.GFay2] (unattributed): You’re choosing that ghost... over me?
+[choice.GFay3] (unattributed): So a girl’s got to be dead to get your attention?
+[choice.Noone1] (unattributed): I may have to gnaw my own ears off if I have to keep hearing the ladies squabbling over who should be First Mistress!
+[choice.Noone2] (unattributed): Please, Sire make a choice. You can always go back on it.
+[prep1.10] (unattributed): A wise choice. 
+[prep1.20] (unattributed): Still, it’s an Overlord’s prerogative to go back on his choice at any time before the final battle, if he should so desire.
+[prep1.30] (unattributed): You must make your preparations, Sire, wrap up any loose ends. Can’t have those things flapping about.
+[prep1.40] (unattributed): You and your Minions must be fully prepared for the fight ahead.
+[prep1.50] (unattributed): Sit on your Throne if you wish to review your Quests.
+[prep2.10] (unattributed): If you’re ready, Sire, we’ll take the Tower Heart to the edge of the City. We need to find a way of firing it into the City wall.
+[prep2.20] (unattributed): The release of magical energy will be able to knock out the anti-magic shield, for good!
+[prep2.30] (unattributed): Remember, your choice of First Mistress will provide mounts for certain Minion groups.
+[prep2.40] (unattributed): Mistress Kelda can provide your Browns with Wolves, Mistress Fay can bring your Reds salamanders and Juno, ah Juno - she will make sure your Greens are fully mobile.
+[prep2.50] (unattributed): Are you sure you’re ready, Master?
+[K_HUG.10] (unattributed): Did I ever show you my hunting scars? Come in Witch-boy, I think it’s time we got reacquainted.
+[K_HUG.20] (unattributed): Master!
+[K_HUG.30] (unattributed): Hey, I wanna see.
+[K_HUG.40] (unattributed): Well you’re certainly all grown up. Now, I have a little present for you. Don’t be a stranger.
+[J_ARR.10] (unattributed): Hmmm, a little on the dark side, no natural light. But I think I can work with this.
+[J_ARR.20] (unattributed): Oh, I see you’ve already arranged a peasant slave as my lady in waiting. She’s a bit scruffy.
+[J_ARR.30] (unattributed): The only thing I’m waiting for, Empire, is for you to put a foot out of line so I can hang your carcass up on the wall... with the other pretty, vacant things!
+[J_ARR.40] (unattributed): Juno is now your First Mistress, Sire. She will remain in the Throne Room with me.
+[J_ARR.50] (unattributed): Should you wish to change your First Mistress back to Kelda, just visit her in the Private Quarters.
+[J_HUG.10] (unattributed): I’ve a little surprise to thank you for being so generous. Come in, I’ve just warmed up the chocolate fondue.
+[J_HUG.20] (unattributed): Ooohhh, it just gets everywhere doesn’t it?
+[J_HUG.30] (unattributed): Master!
+[J_HUG.40] (unattributed): Hey, I wanna see.
+[J_HUG.50] (unattributed): I’ve never seen anyone do that with a marshmallow before. You are very creative. 
+[J_HUG.60] (unattributed): Now, here’s another little present for you.
+[DF_HUG.10] (unattributed): Hmmmm... You’re Evil. I’m Evil. What’s there to talk about? Get in here.
+[DF_HUG.20] (unattributed): Master!
+[DF_HUG.30] (unattributed): Hey, I wanna see.
+[DF_HUG.40] (unattributed): Any time you want to spread a little darkness, I’ll be waiting. 
+[DF_HUG.50] (unattributed): In the mean time take this gift. From one dark soul to another.
+[GF_HUG.10] (unattributed): You have shown generosity towards me Dark One. It is only right that I show the same to you. 
+[GF_HUG.20] (unattributed): Prepare yourself for a very mmmmm spiritual experience.
+[GF_HUG.30] (unattributed): Master!
+[GF_HUG.40] (unattributed): Hey, I wanna see.
+[GF_HUG.50] (unattributed): Well, there are not many men who can say they’ve done that, Dark One.
+[GF_HUG.60] (unattributed): I may be dead, but we can still have a little fun. Now, take this with my blessing.
+[ALL_HUG.10D] (unattributed): We’ve had a little talk.
+[ALL_HUG.10G] (unattributed): We’ve had a little talk.
+[ALL_HUG.15] (unattributed): And we think that we can get along.
+[ALL_HUG.20] (unattributed): At least for the next... oooh thirty minutes.
+[ALL_HUG.25] (unattributed): Maybe an hour. If you keep us company.
+[ALL_HUG.30D] (unattributed): Why don’t you come inside and see how well we can all get along?
+[ALL_HUG.30G] (unattributed): Why don’t you come inside and see how well we can all get along?
+[ALL_HUG.35] (unattributed): Wooooowww Master!
+[ALL_HUG.40] (unattributed): You go Master!
+[ALL_HUG.45] (unattributed): Who would have thought we could get on that well.
+[ALL_HUG.50] (unattributed): For so long.
+[ALL_HUG.55D] (unattributed): We couldn’t have done it without you.
+[ALL_HUG.55G] (unattributed): We couldn’t have done it without you.
+[ALL_HUG.60] (unattributed): Now we can go back to hating one another.
+[ALL_HUG.65] (unattributed): Until next time.
+[ALL_HUG.70D] (unattributed): Here’s a token of our affection, Dark One.
+[ALL_HUG.70G] (unattributed): Here’s a token of our affection, Dark One.
+[J_ARR.PQ1] (unattributed): The Nordbergian wench has been confined to her Quarters whilst you are in the Dark Tower.
+[J_ARR.PQ2] (unattributed):  Don’t worry we’ll let her out for a run soon.
+[J_ARR.PQ3] (unattributed): If you want to have her back in your Throne Room as First Mistress then have a little chat with her.
+[J_ARR.PQ4] (unattributed): I can’t believe you let Empire in here. She’ll be nothing but trouble!
+[J_ARR.PQ5] (unattributed): Wouldn’t it be nice if we could all just get along?
+[MAGIC.10] (unattributed): Ready to inspect your spells, Sire?
+[MAGIC.20] (unattributed): Care to inspect your magic?
+[MAGIC.30] (unattributed): Got to keep tabs on the old magic, Sire!
+[MAGIC.40] (unattributed): Shall we check your magic?
+[MAGIC.50] (unattributed): Let’s have a look at those spells, Master.
+[IMAGIC.10] (unattributed): Make sure you keep an eye out for Catalysts, Sire. For such large artifacts, they’re always getting themselves lost.
+[IMAGIC.15] (unattributed): Make sure you keep an eye out for Spell Stones, Sire. For such large artifacts, they’re always getting themselves lost.
+[IMAGIC.20] (unattributed): You can see how strong your spells are and what you need to upgrade them.
+[IMAGIC.30] (unattributed): Although not spells themselves, Catalysts can be used to upgrade your powers, Sire.
+[IMAGIC.40] (unattributed): Spell upgrades are permanent, so choose wisely Lord. No getting angry and trying to kick me through the wall.
+[IMAGIC.50] (unattributed): Spells will change as you change, Sire, they will adapt to reflect your dark deeds and Tyranny Rating.
+[IMAGIC.60] (unattributed): Dominate and subdue and your spells will become better at... er dominating and subduing. Spells are helpful, they’re rarely imaginative, Sire!
+[IMAGIC.70] (unattributed): Crush, kill and destroy and your spells will turn you into a magical Master of mayhem. Won’t that be nice?
+[IMAGIC.NO1] (unattributed): You need more Catalysts, Sire.
+[IMAGIC.NO2] (unattributed): You don’t have enough Catalysts, Master.
+[IMAGIC.NO3] (unattributed): Go and find some more Catalysts, Lord.
+[IMAGIC.YES1] (unattributed): Let the mayhem commence!
+[IMAGIC.YES2] (unattributed): Ooh, can’t wait to see that one in action.
+[IMAGIC.YES3] (unattributed): Very good, Sire!
+[IMAGIC.YES4] (unattributed): That should do some damage!
+[IMAGIC.YES5] (unattributed): Good choice, Master!
+[IMAGIC.YES6] (unattributed): Just don’t point it at me, Lord.
+[IMAGIC.YES7] (unattributed): I can smell the fear, although that might just be Giblet!
+[IMAGIC.YES8] (unattributed): That’ll send ‘em running!
+[IMAGIC.QUIT1] (unattributed): See you soon, Master.
+[IMAGIC.QUIT2] (unattributed): Now don’t neglect your magic.
+[IMAGIC.QUIT3] (unattributed): Come back soon, Master.
+[IMAGIC.QUIT4] (unattributed): Be seeing you.
+[IPQBUY.KNO1] (unattributed): You need more treasure, best get looting!
+[IPQBUY.KNO2] (unattributed): You don’t have enough. Loot first, then spend!
+[IPQBUY.JNO1] (unattributed): Oh dear, you need more treasure! Goodie!
+[IPQBUY.JNO2] (unattributed): Luxury comes at a price… and you can’t pay it yet!
+[IPQBUY.DFNO1] (unattributed): Not enough. You need to make their treasure our treasure, Dark One!
+[IPQBUY.DFNO2] (unattributed): Find some more treasure! Find it!
+[IPQBUY.GFNO1] (unattributed): Material assets have material costs, Dark One!
+[IPQBUY.GFNO2] (unattributed): Alas, you do not have enough treasure to pay for that!
+[IPQBUY.GNO1] (unattributed): You don’t have enough Minions to make that, Master!
+[IPQBUY.GNO2] (unattributed): You need more Minions for that, Sire!
+[IPQBUY.KLIKE1] (unattributed): That’s pretty neat!
+[IPQBUY.KLIKE2] (unattributed): I think I like it!
+[IPQBUY.KLIKE3] (unattributed): Hey, not bad!
+[IPQBUY.KLIKE4] (unattributed): Who knew you’d go on to find good taste, Witch-boy?
+[IPQBUY.KLIKE5] (unattributed): I’ve got a good spot for that!
+[IPQBUY.KLIKE6] (unattributed): That’ll go well in here.
+[IPQBUY.KLIKE7] (unattributed): Good choice!
+[IPQBUY.KLIKE8] (unattributed): You couldn’t get one of those in Nordberg!
+[IPQBUY.KLIKE9] (unattributed): I approve!
+[IPQBUY.KLIKE10] (unattributed): Yeah, that’s a nice piece.
+[IPQBUY.JLIKE1] (unattributed): Very tasteful!
+[IPQBUY.JLIKE2] (unattributed): You’ve got a good eye!
+[IPQBUY.JLIKE3] (unattributed): Exquisite!
+[IPQBUY.JLIKE4] (unattributed): I think your Dark Tower really needs one of those!
+[IPQBUY.JLIKE5] (unattributed): That should make the neighbors jealous… Do we have neighbors?
+[IPQBUY.JLIKE6] (unattributed): That will look wonderful next to... me!
+[IPQBUY.JLIKE7] (unattributed): Good looks and taste!
+[IPQBUY.JLIKE8] (unattributed): You know how to shop!
+[IPQBUY.JLIKE9] (unattributed): I couldn’t have chosen better myself! Probably.
+[IPQBUY.JLIKE10] (unattributed): That perfectly compliments...me!
+[IPQBUY.DFLIKE1] (unattributed): You’ve impressed me.
+[IPQBUY.DFLIKE2] (unattributed): It’s an improvement!
+[IPQBUY.DFLIKE3] (unattributed): I approve!
+[IPQBUY.DFLIKE4] (unattributed): You have style!
+[IPQBUY.DFLIKE5] (unattributed): Your taste appeals to me!
+[IPQBUY.DFLIKE6] (unattributed): You read my mind!
+[IPQBUY.DFLIKE7] (unattributed): It is... good!
+[IPQBUY.DFLIKE8] (unattributed): It pleases me…
+[IPQBUY.DFLIKE9] (unattributed): That will look very fine in here.
+[IPQBUY.DFLIKE10] (unattributed): I like what I see!
+[IPQBUY.GFLIKE1] (unattributed): Enchanting!
+[IPQBUY.GFLIKE2] (unattributed): You are too kind.
+[IPQBUY.GFLIKE3] (unattributed): I’m sure that will go well in here.
+[IPQBUY.GFLIKE4] (unattributed): The spirits are pleased!
+[IPQBUY.GFLIKE5] (unattributed): It is a thing of beauty.
+[IPQBUY.GFLIKE6] (unattributed): I am pleased.
+[IPQBUY.GFLIKE7] (unattributed): It invigorates me!
+[IPQBUY.GFLIKE8] (unattributed): The spirits are moved.
+[IPQBUY.GFLIKE9] (unattributed): A fine choice!
+[IPQBUY.GFLIKE10] (unattributed): You have chosen...well!
+[IPQBUY.KHATE1] (unattributed): Ugg yuck!
+[IPQBUY.KHATE2] (unattributed): Nope, that’s awful!
+[IPQBUY.KHATE3] (unattributed): Not that one!
+[IPQBUY.KHATE4] (unattributed): Don’t choose that!
+[IPQBUY.KHATE5] (unattributed): Who put that in there. Yuck!
+[IPQBUY.JHATE1] (unattributed): So primitive!
+[IPQBUY.JHATE2] (unattributed): Yuck, that’s horrid!
+[IPQBUY.JHATE3] (unattributed): Oh you couldn’t possibly want that!
+[IPQBUY.JHATE4] (unattributed): I can hardly stand to look at that!
+[IPQBUY.JHATE5] (unattributed): That’s foul!
+[IPQBUY.DFHATE1] (unattributed): Ewwwwww.
+[IPQBUY.DFHATE2] (unattributed): Get it out of my sight!
+[IPQBUY.DFHATE3] (unattributed): Yuck, my eyes!
+[IPQBUY.DFHATE4] (unattributed): Don’t buy that!
+[IPQBUY.DFHATE5] (unattributed): That’s an abomination!
+[IPQBUY.GFHATE1] (unattributed): Please no!
+[IPQBUY.GFHATE2] (unattributed): That displeases me!
+[IPQBUY.GFHATE3] (unattributed): It’s an abomination.
+[IPQBUY.GFHATE4] (unattributed): It is not fit for this place!
+[IPQBUY.GFHATE5] (unattributed): I advise against that thing!
+[IPQBUY.KBUY1] (unattributed): You know what I like Witch-boy!
+[IPQBUY.KBUY2] (unattributed): That’s just perfect for me!
+[IPQBUY.KBUY3] (unattributed): I’ve always wanted one of those!
+[IPQBUY.JBUY1] (unattributed): You know just what I like, don’t you?
+[IPQBUY.JBUY2] (unattributed): That’s just so beautiful; so stylish. Did it remind you of someone?
+[IPQBUY.JBUY3] (unattributed): How wonderful! You’re spoiling me. Almost. 
+[IPQBUY.DFBUY1] (unattributed): That’s so beautifully evil. It’s perfect for me!
+[IPQBUY.DFBUY2] (unattributed): You know what I want, Dark One.
+[IPQBUY.DFBUY3] (unattributed): I am very pleased with this offering.
+[IPQBUY.GFBUY1] (unattributed): I am honored by this blessing from you, Dark One.
+[IPQBUY.GFBUY2] (unattributed): The spirit world is pleased at how you treat your Mistress.
+[IPQBUY.GFBUY3] (unattributed): I thank you for your kind gift, Dark One.
+[PQJAIL.KPICK1] (unattributed): I knew you’d come around!
+[PQJAIL.KPICK2] (unattributed): About time, Dark One!
+[PQJAIL.JPICK1] (unattributed): Couldn’t resist me, eh? Well you’re only human... um aren’t you?
+[PQJAIL.JPICK2] (unattributed): Ah, back in my rightful place!
+[PQJAIL.DFPICK1] (unattributed): This is where I belong!
+[PQJAIL.DFPICK2] (unattributed): We will rule!
+[PQJAIL.GFPICK1] (unattributed): The spirits are pleased!
+[PQJAIL.GFPICK2] (unattributed): Our souls will entwine.
+[PQJAIL.KDUMP] (unattributed): What’s with you? Make up your mind!
+[PQJAIL.JDUMP] (unattributed): Hmm, you don’t know a good thing when you’ve got it!
+[PQJAIL.DFDUMP] (unattributed): You don’t know what you’re giving up!
+[PQJAIL.GFDUMP] (unattributed): This is a mortal act of foolishness!

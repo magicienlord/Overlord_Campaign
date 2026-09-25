@@ -1,0 +1,231 @@
+[100.10] (unattributed): Empire City is laid open before you like a putrid oyster, Sire. 
+[100.20] (unattributed): Time to savour that sweet moment, just before your trample it into grey sludge!
+[100.30] (unattributed): The Imperial Palace! Look, Solarius is cowering behind his very own anti-magic shield.
+[100.40] (unattributed): Hmmm it’s being powered by those four temple shrines. Right, time to stop that malarkey! 
+[100.50] (unattributed): That magical energy belongs to us! 
+[100.60] (unattributed): And do drink in the sights and sounds of City life, Sire. It’s important to see what you’re about to crush!
+[110.10] (unattributed): Ah chaos at play, Sire! It’s nice to know that the Brown-trouser times, well brown-toga times, are well and truly back again!
+[110.20] (unattributed): Grubby is looking for a spot along that big road to place a Gate, Master!
+[200.10] (unattributed): Solarius will be most amused at your perseverance, barbarian.  
+[200.20] (unattributed): And once he has taken your energy, and wiped out that rat army, he will turn your little domain into sewers when he rebuilds this land in his own glorious image!
+[200.30] (unattributed): He really does enjoy the sound of his own voice, doesn’t he?
+[200.40] (unattributed): He really does enjoy the sound of his own voice, doesn’t he?
+[200.50] (unattributed): The Emperor’s puppet really enjoys the sound of his own voice. Tear it from him, Dark One!
+[200.60] (unattributed): Why does that creature talk so much? He bores me.
+[200.70] (unattributed): Grubby can only place a Gate behind that barrier. Find a way around, Sire!
+[210.10] (unattributed): My beautiful house, it’s ruined! I’m ruined! My insurance doesn’t cover acts of Demon Lording!
+[210.20] (unattributed): Well, my wine collection has been smashed! So many fine vintages, wasted!
+[210.30] (unattributed): Where are the slaves, they must be put to work immediately!
+[210.40] (unattributed): Oh no, it’s him!
+[210.50] (unattributed): Quick, we must protect the silverware!
+[210.60] (unattributed): Put an end to those over-privileged spongers, Sire!
+[220.10] (unattributed): Oh, Sire, Sire. Everything’s gone wrong! I need a bail out - Just a few thousand gold.
+[220.20] (unattributed):  I’m sure you can collect it from the slum folks. Pleeeeaaaaaseee!
+[220.30] (unattributed): Greed and avarice in the face of innocence and poverty are our traits. Crush the competition, Master!
+[220.40] (unattributed): Forget the gold, give me the carnage!
+[300.10] (unattributed): There’s one of the Shrines. It’s catching the magical energy released by the Tower Heart.
+[300.20] (unattributed): The Nectar will save us!
+[300.30] (unattributed): Solarius will provide.
+[300.40] (unattributed): Drink, quickly, drink!
+[300.50] (unattributed): I feel so... so alive. So ready to…
+[300.60] (unattributed): Kill!
+[300.70] (unattributed): Attttaaaatack!
+[310.10] (unattributed): That’s one down, Master. Three more to go!
+[320.10] (unattributed): There’s the Gate, Sire. Good work Grubby!
+[400.10] (unattributed): The enemy approaches, Commander!
+[400.20] (unattributed): Throw your bombs!
+[400.30] (unattributed): But there are citizens out there!
+[400.40] (unattributed): Then they will die in glory for their Empire, won’t they?
+[400.50] (unattributed): But...!
+[400.60] (unattributed): Do you doubt your place in the Glorious Empire, Soldier? That was an order!
+[400.70] (unattributed): Hail! Hail! Hail to Solarius! Hail! Hail! Hail to Solarius! Hail! Hail! Hail to Solarius!
+[400.80] (unattributed): An army of deranged, evil, sycophants? It’ll never catch on! Cut ‘em down, Master!
+[410.10] (unattributed): I don’t want to be glorious anymore! 
+[410.20] (unattributed): I mean maybe I can be glorious with you? Just point me at something to kill, Master!
+[420.10] (unattributed): I’m in your army now!
+[430.10] (unattributed): I must speak with you.
+[430.15] (unattributed): Why it’s our friendly local cloaked stranger.
+[430.20] (unattributed): Oh do shut up Gnarl.
+[430.25] (unattributed): What? How did you know- Hang on, I recognise that voice now.
+[430.30] (unattributed): Rose! Former Mistress Rose. Or Mrs Marius, now, I should say! 
+[430.35] (unattributed): Don’t trust her, she’s a devious, manipulative, abandoner... oh and she’s your mother! 
+[430.40] (unattributed): The one who took you away from us and left you in that festering town!
+[430.45] (unattributed): I knew what you could become; the power within you. 
+[430.50] (unattributed): The Empire had to be given a chance to bring a little order and discipline to these lands.
+[430.55] (unattributed): I thought that Solarius was going to be a decent ruler. But power, it always corrupts.
+[430.60] (unattributed): Ha! That’s half the fun! You can’t keep evil down!
+[430.65] (unattributed): His power has peaked! It's become unstable! He’s become unstable! 
+[430.70] (unattributed): Now he’s just a hideous weed choking the land he set out to rebuild. A weed that needs to be cut down! Ripped out! 
+[430.75] (unattributed): Hmm, perhaps you really are the one to wield the axe.
+[430.80] (unattributed): I have to go, Marius is calling for me.
+[440.10] (unattributed): Hmmm. Hard to tell if she’s on our side, Solarius’ side or her own side!
+[440.20] (unattributed): She was a Mistress? Thank goodness standards have improved! Is she actually on our side?
+[440.30] (unattributed): Hmm she is willing to betray and scheme against the Empire. Let us hope she is not doing the same to you!
+[440.40] (unattributed): Her motives are unclear, but perhaps this Rose wishes to atone for her past.
+[440.50] (unattributed): Wretched Wench! As if she didn’t do enough damage keeping you away from your Minions and your birthright! 
+[440.60] (unattributed): Forget her, Sire, two shrines left!
+[450.10] (unattributed): A couple of explosions in the right place, Sire, and that won’t be a problem anymore!
+[500.10] (unattributed): Citizens!  We may have an enemy in our midst, but I urge you all to keep calm - For we are standing on the brink of a new dawn; the birth of a new divinity.
+[500.20] (unattributed): The demon foe we face today may seem overwhelming, but I assure you citizens that he can be beaten. 
+[500.30] (unattributed): Solarius will show you the way.
+[500.40] (unattributed): And now you must all drink, drink of the blessed Nectar of Solarius.
+[500.50] (unattributed): Drink and let it cleanse your fears. Drink and be reborn.
+[510.10] (unattributed): You have to take out those shrines before we get over-run by all these concerned citizens!
+[510.20] (unattributed): Good work, Master! Destroy the other one and get that shield down!
+[510.30] (unattributed): That’s it! Now head for the Palace and bring down Solarius! Before he tries to terrify us with his stony silence and mask wearing abilities!
+[600.10] (unattributed): It’s you Scourge of Nature!
+[600.20] (unattributed): I escaped the Arena dungeons... with the aid of a helpful fairy!
+[600.30] (unattributed): Damn, thought we’d got rid of that tree hugger!
+[600.40] (unattributed): I’m going to find Solarius. He’ll be a very different man when I’ve finished with him.
+[600.50] (unattributed): Let’s bring this to an end. You and me Scourge. 
+[600.60] (unattributed): You do the whole smash things up bit and I’ll back you up with inspirational monologues!
+[610.10] (unattributed): Clearly he’s going to whinge at Solarius until he kills himself? Hmm could work!
+[610.20] (unattributed): If only I’d been magical, Scourge. It could have been a very different story. 
+[610.30] (unattributed): Elves are meant to be magical. But, I couldn’t even make a weed grow! All the other magical creatures mocked me, teased me.
+[610.40] (unattributed): Born useless!  Ooh, that's a surprise!
+[620.10] (unattributed): I’d hoped your predecessor’s Tower Heart would unleash my potential. Which is why I tried to steal it all those years ago.
+[620.20] (unattributed): I mean how was I to know it would become unstable and slightly explode.
+[620.30] (unattributed): So Florian caused the Cataclysm? Bumbling Elf!
+[630.10] (unattributed): Then people started to fear magic. And along came Solarius and he just rose on a tide of their hatred and paranoia.
+[630.20] (unattributed): And he built the Glorious Empire and they let him cleanse all the magical creatures he wanted to!
+[630.30] (unattributed): You humans... you’re just so much easier to control in a crowd. Like one big dumb animal.
+[640.10] (unattributed): So good of you to be here for this momentous occasion!
+[640.20] (unattributed): Everything is prepared for the ascension. People will talk about this day, in whispers and –
+[640.30] (unattributed): Oh do shut up Marius!
+[640.40] (unattributed): Sorry, Lord.
+[640.50] (unattributed): Anyone would think you were about to take over the world.
+[640.60] (unattributed): Shall we continue? I assure you, your complete and total annihilation is just around the corner.
+[650.10] (unattributed): As you can see Florian still has his uses. Helping me play with your little barbarian head, for one.
+[650.20] (unattributed): By maintaining him I could bring the Sanctuaries down from the inside piece by piece! 
+[650.30] (unattributed): Ah, I really hope that piece of delicious irony isn’t lost on you Scourge?
+[650.40] (unattributed): I collected the magic here. Refined it and fed it back to my citizens until they became pliable and generous.
+[650.50] (unattributed): Of course I sampled a little. Took what was mine!
+[660.10] (unattributed): Here are people’s dreams and nightmares; their fears; their will!
+[660.20] (unattributed): They will be reborn in me! As I rise from Elf to Emperor to God!
+[670.10] (unattributed): That thing’s made of solid magic! And it’s devouring everything in its path. 
+[670.20] (unattributed): Still, at least it’s retained Florian’s looks! Follow that ooze... um from a safe distance!
+[670.30] (unattributed): He’s beautiful he’s beautiful! My God is a wondrous sight.
+[670.40] (unattributed): Hmmm, looks more like the result of a giant sneeze!
+[680.10] (unattributed): That magic energy didn’t take kindly to its new host! 
+[680.20] (unattributed): It’s soured, Sire, just like the ooze in the Wastelands! Maybe you can deal with that slime in the same way.
+[END.MP1_1] (unattributed): It’s the end of the world!
+[END.MP2_1] (unattributed): What’s happened to our Emperor?
+[END.MP3_1] (unattributed): It’s taking the City apart!
+[END.MP4_1] (unattributed): What is that thing?
+[END.MP5_1] (unattributed): It came from the Palace!
+[END.MP6_1] (unattributed): Runaway! Runaway!
+[END.MP7_1] (unattributed): It’s a demon! It’s a demon!
+[END.MP1_2] (unattributed): This is the new divinity?
+[END.MP2_2] (unattributed): I don’t want to be eaten!
+[END.MP3_2] (unattributed): That slime is everywhere!
+[END.MP4_2] (unattributed): It’s going to eat my house!
+[END.MP5_2] (unattributed): Fleeeeeeeee!
+[END.MP6_2] (unattributed): Where’s Solarius?
+[END.FP1_1] (unattributed): Is this the New Dawn? I don’t think I want it!
+[END.FP2_1] (unattributed): It’s destroyed the Palace!
+[END.FP3_1] (unattributed): It’s after me!
+[END.FP4_1] (unattributed): Don’t let it get the drapes!
+[END.FP5_1] (unattributed): It’s horrible!
+[END.FP6_1] (unattributed): Runnnnnnnn!
+[END.FP7_1] (unattributed): Did it come from the Palace?
+[END.FP1_2] (unattributed): Where’s our Emperor?
+[END.FP2_2] (unattributed): This is the end! The end!
+[END.FP3_2] (unattributed): It’s going to destroy the City!
+[END.FP4_2] (unattributed): Flee! Flee! Flee!
+[END.FP5_2] (unattributed): Has it killed Solarius?
+[END.FP6_2] (unattributed): What’s it covered in?
+[END.FP7_2] (unattributed): Is it a punishment?
+[700.10] (unattributed): Lord, you are truly a magnificent sight. And I’m sure when you are ready, you will reward me for my loyalty.
+[700.20] (unattributed): Revolutionaries, now is our time to strike at the Empire! ... we need a hero of the people. You there... Attack it!
+[700.30] (unattributed): Why me?
+[700.40] (unattributed): We are all equal in the New People’s Republic!
+[700.50] (unattributed): Attack! Attack! Attack!
+[700.60] (unattributed): The people have spoken! Get in there!
+[700.70] (unattributed): Noooo nooooo!
+[700.80] (unattributed): That thing’s certainly hungry, maybe if you could put a few meals-on-legs his way, that might slow him down!
+[SLAVE.MS2] (unattributed): Where do you wish me?
+[SLAVE.MS3] (unattributed): Take me with you!
+[SLAVE.MS4] (unattributed): Master!
+[SLAVE.MS5] (unattributed): Command me!
+[SLAVE.MS6] (unattributed): Thank you, Merciful One.
+[SLAVE.MS7] (unattributed): I obey!
+[SLAVE.MS8] (unattributed): What are you orders, Master?
+[SLAVE.FS2] (unattributed): Your grovelling slave!
+[SLAVE.FS3] (unattributed): Do with me as you will!
+[SLAVE.FS4] (unattributed): Where you go I go, Master!
+[SLAVE.FS5] (unattributed): I bow before you!
+[SLAVE.FS6] (unattributed): I will die for you!
+[SLAVE.FS7] (unattributed): I obey, Sire!
+[SLAVE.FS8] (unattributed): I’m yours.
+[750.10] (unattributed): I can practically smell that from here!
+[750.20] (unattributed): Behold he blesses us with his divine outpourings!
+[750.30] (unattributed): Seems to be enjoying his meal!
+[750.40] (unattributed): Bask in his glorious fragrance!
+[750.50] (unattributed): Oozes, no table manners!
+[750.60] (unattributed): See how he honors us once more!
+[740.10] (unattributed): Nothing shall stand in his way!
+[740.20] (unattributed): Yuck, those poor people! This better work!
+[740.30] (unattributed): All will fall before him!
+[740.40] (unattributed): Empire City is that thing’s all you can eat buffet!
+[740.50] (unattributed): He has been blessed!
+[740.60] (unattributed): I guess everyone is equal in his stomach!
+[730.10] (unattributed): Those things covering it, putrid pustules, they   look weaker than the rest! Use your Greens and Reds to target them.
+[730.20] (unattributed): Use your Greens and Reds on those abscesses on its back!
+[720.10] (unattributed): He speaks through me! All magic shall be his!
+[720.20] (unattributed): He shall eat the world!
+[720.30] (unattributed): My Lord is Empire City!
+[720.40] (unattributed): He will remake this land and it will be glorious again!
+[720.50] (unattributed): He shall devour all in his path!
+[720.60] (unattributed): Trust in Solarius! He will make you all glorious!
+[710.10] (unattributed): That's got him angry, Sire! Keep this up and we might be able to extract Solarius from that pile of goo! It’s him that’s giving it power!
+[760.10] (unattributed): Nothing can stop him. Nothing!
+[760.20] (unattributed): You are an irritant to him!
+[760.30] (unattributed): Your power shall be his!
+[760.40] (unattributed): Worship him! Fall at his feet and beg for forgiveness!
+[760.50] (unattributed): Do not test him! You will fail!
+[760.60] (unattributed): Don’t forget my reward, Master!
+[770.10] (unattributed): You won’t stand in my way!
+[770.15] (unattributed): Rather you than it!
+[770.20] (unattributed): I can take you down!
+[770.25] (unattributed): You let loose that thing!
+[770.30] (unattributed): This is your fault!
+[770.35] (unattributed): I’ll cut you down!
+[770.40] (unattributed): Get out of my way!
+[770.45] (unattributed): You did this!
+[770.50] (unattributed): Over that thing and you, I’ll take you!
+[770.55] (unattributed): I’ll take you down with me!
+[770.60] (unattributed): Die Demon Lord!
+[800.10] (unattributed): Bow down to the Great Devourer!
+[800.20] (unattributed): No! There must be balance! The cycle must be maintained.
+[800.30] (unattributed): I think what that wench is ranting about is that when a force gets out of control another must rise to stop it.
+[800.40] (unattributed): There cannot be light without darkness!
+[800.50] (unattributed): And that darkness would be you, Master!
+[810.10] (unattributed): His aggression shows fear. He can be killed!
+[810.20] (unattributed): You are but bugs to him!
+[810.30] (unattributed): Order must prevail!
+[810.40] (unattributed): He is your God! Love him!
+[810.50] (unattributed): You must cut him down!
+[810.60] (unattributed): You are nothing to him!
+[900.10] (unattributed): Now is the time Master, give me my reward. Make me like you!
+[900.20] (unattributed): I hope they’ll be very happy together!
+[900.30] (unattributed): Hmmm, his abscesses are out of reach, now! Better try some new tactic so your Minions can target them!
+[910.10] (unattributed): Now we know what that thing’s been eating. Everything!
+[910.20] (unattributed): Ah, some friends! Ready your Greens Master!
+[1000.10] (unattributed): From the belly of the beast I am reborn! Soon I will ascend and divinity will be truly mine!
+[1000.20] (unattributed): Quick, Sire! Whilst he’s being all divine...Draw out his magical energy with your Evil Presence Spell.
+[1010.10] (unattributed): This is what I should have been, mortals! The world has been put right.
+[1010.20] (unattributed): I have risen! And the world shall bow before me.
+[1010.30] (unattributed): That’s it stand and bask in my divine light!
+[1010.40] (unattributed): I am just summoning the will to crush you all like tiny, tiny bugs!
+[1010.50] (unattributed): I shall remake the world!
+[1020.10] (unattributed): Cease this, immediately! Do you wish to anger a God?
+[1020.20] (unattributed): Get that away from me. I will not be tainted! 
+[1020.30] (unattributed): No. No! This is mine, do you hear me, mine! I am owed this!
+[1020.40] (unattributed): Stop! You will not take what belongs to me! I suffered for this!
+[1030.10] (unattributed): Someone’s awake!
+[1030.20] (unattributed): He’s up!
+[1030.30] (unattributed): Watch out, Master!
+[1040.10] (unattributed): This is it! My ascension, I’m being taken up! I will embrace the world!
+[1040.20] (unattributed): Or alternatively... cover it in gloop!
+[1040.30] (unattributed): And so it has ended. The cycle starts afresh.
+[1040.40] (unattributed): I hope you don’t expect me to clean this up. Men... can’t destroy without getting everything all messy!

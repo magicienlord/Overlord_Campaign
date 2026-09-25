@@ -1,0 +1,5 @@
+[100.10] GNARL: We are directly under the tree of that Sleeping Elf... the heart of his nightmares.   <<Trigger: The player enters the Skull Tribe Den.>>
+[.] (unattributed): ---
+[101.10] GNARL: It seems Oberon does not want us venturing this way... all the more reason why we should!   <<Trigger: The player nears the Temple Exit when it’s covered by the root.>>
+[.] (unattributed): ---
+[102.10] GNARL: I hear the creak of something dying nearby!   <<None given.>>

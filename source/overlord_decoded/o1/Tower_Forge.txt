@@ -1,0 +1,76 @@
+[100.10] GNARL: Your Minions have opened the Tower Forge! The smelter is being taken there.   <<Note: The Forge opens up when the first smelter is brought back from the Halfling domain.
+Trigger: The player retrieves the first smelter and the Forge opens. If the player goes back to the Tower with>>
+[100.20] GNARL: Visit the Forge, Dark One, and create weapons and armor truly worthy of an Overlord!
+[101.10] GNARL: Do inspect your Forge, Sire, I wouldn’t want to see you crushed by something heavy!   <<Trigger: Player hasn’t gone to the Forge for X minutes. Can be looped.
+>>
+[101.20] GNARL: Visit your Forge, Sire, before your Minions start using it to roast some enemies.   <<Trigger: Player hasn’t gone to the Forge for X minutes. Can be looped.
+>>
+[101.30] GNARL: Sire, do not forget to inspect your Forge!   <<Trigger: Player hasn’t gone to the Forge for X minutes. Can be looped.
+>>
+[102.10] GNARL: Now, Sire, you won’t get much smiting done with that weapon! Visit the Forge at once!   <<Trigger: Player is wearing a substandard weapon.
+Can be looped
+>>
+[102.20] GNARL: Master, do forge yourself a new weapon. You don’t want the peasants laughing at you.   <<Trigger: Player is wearing a substandard weapon.
+Can be looped
+>>
+[102.30] GNARL: That weapon does not do you justice, Lord, visit your Forge immediately!   <<Trigger: Player is wearing a substandard weapon.
+Can be looped
+>>
+[103.10] GNARL: That armor is looking a bit rusty, Sire! Visit your Forge and upgrade it.   <<Trigger: Player is wearing substandard armour.
+Can be looped
+>>
+[103.20] GNARL: That old armor wouldn’t stop a sneeze, let alone a charging Troll. Visit your Forge at once!   <<Trigger: Player is wearing substandard armour.
+Can be looped
+>>
+[103.30] GNARL: You really need some new armor, Master. I can see the cracks in that one from here! Visit the Forge!   <<Trigger: Player is wearing substandard armour.
+Can be looped
+>>
+[104.10] GNARL: Sire, you might as well be wearing a bucket on your head for all the protection that helmet is providing! Go to the Forge and create a new one!   <<Trigger: Player is wearing substandard helmet.
+Can be looped
+>>
+[105.10] GNARL: Sire, there are special Forge recipes available to you!   <<Trigger: Player has received recipe(s) but not used them.>>
+[105.20] GNARL: Master you can create magical items with special Forge recipes.   <<Trigger: Player has received recipe(s) but not used them.>>
+[105.30] GNARL: Sire, there are new recipes at your Forge! Oh! Why not try crafting something a little more exciting.   <<Trigger: Player has received recipe(s) but not used them.>>
+[106.10] GNARL: The Durium smelter, Sire! This can produce a much sturdier metal, which can hold more Minion sacrifices!    <<Trigger: The Durium smelter has been acquired.>>
+[106.20] GNARL: Visit your Forge to find out what new recipes are available to you.
+[107.10] GNARL: It’s the Arcanium smelter. The smelter of smelters, Sire!  It will allow you to create some truly superior weaponry and armor.   <<Trigger: The Arcanium smelter has been acquired.>>
+[200.10] GNARL: Ah, the Forge, Sire!  This place has brought forth weapons that could slay Troll Kings, and armor that could stop a dragon’s breath.   <<Trigger: The player enters the Forge for the first time.
+The door to the Forge should shut at this point, holding the player in the Forge area for the duration of the opening tutorial.
+>>
+[200.20] GNARL: Giblet has been promoted to Forge Master, he will show you around.
+[201.10] GNARL: The smelter is heating, Sire. Please follow Giblet to the Forge chamber.   <<Trigger: Giblet the Forge Master walks past the armor to the smelter.>>
+[202.10] GNARL: Here you can forge new items and upgrade existing ones!   <<Trigger: Giblet the Forge Master walks to the Forge chamber. 
+On screen interface pops up.
+>>
+[203.10] GNARL: You can create three types of items: weapons, helmets and armor.   <<Trigger: Weapon Type interface pops up.>>
+[204.10] GNARL: This is where you can select the material type, Sire. It’s dependant on the types of smelters you have in your Forge.   <<Trigger: Material Type interface pops up. >>
+[205.10] GNARL: The lives of your Minions can be used to imbue items. The more you sacrifice the more powerful the item!   <<Trigger: Imbuement Screens pops up.  >>
+[205.20] GNARL: Cost and the maximum number of Minions you can sacrifice are determined by item and material type.
+[205.30] GNARL: Don’t get too carried away, Sire, remember Minions are your deadliest weapons. So don’t leave home without them!
+[206.10] GNARL: Your item is ready to be forged, Master.   <<Trigger: Forge Screens pops up.>>
+[207.10] GNARL: Follow Forge Master Giblet, Sire.   <<Trigger: The player doesn’t follow Giblet. This can be at any time during this tutorial.  These can be looped. 
+>>
+[207.20] GNARL: Giblet will show you around your Forge, Sire.   <<Trigger: The player doesn’t follow Giblet. This can be at any time during this tutorial.  These can be looped. 
+>>
+[207.30] GNARL: Follow Giblet, Master.   <<Trigger: The player doesn’t follow Giblet. This can be at any time during this tutorial.  These can be looped. 
+>>
+[208.10] GNARL: This is your armory, Sire, where you can store your armor and weapons.   <<Trigger: Giblet walks to the armory area. >>
+[300.10] GNARL: Welcome to your Forge, Sire.   <<Trigger: The player enters the Forge - one to be played each time.
+These can be looped. 
+>>
+[300.20] GNARL: Your Minions are waiting to be embraced by the flames.   <<Trigger: The player enters the Forge - one to be played each time.
+These can be looped. 
+>>
+[300.30] GNARL: The smelter needs feeding, Master.   <<Trigger: The player enters the Forge - one to be played each time.
+These can be looped. 
+>>
+[300.40] GNARL: A little forging is restful for the mind, Sire. Helps clear your head for the Evil deeds ahead.   <<Trigger: The player enters the Forge - one to be played each time.
+These can be looped. 
+>>
+[300.50] GNARL: Giblet, see to the Master’s needs.   <<Trigger: The player enters the Forge - one to be played each time.
+These can be looped. 
+>>
+[300.60] GNARL: Giblet wake up, there’s forging to be done!   <<Trigger: The player enters the Forge - one to be played each time.
+These can be looped. 
+>>
+[.] (unattributed): ---

@@ -1,0 +1,174 @@
+[100.10] GNARL: Evernight Forest was once filled with Elven magic.   <<Disgusted | Trigger: On entering the domain for the first time>>
+[100.20] GNARL: Creature and plant existed harmoniously amid leafy canopies and sun-dappled pools.
+[100.30] GNARL: Now it is dank, dark, corrupted…
+[100.40] GNARL: Ooh I like what they’ve done with the place!   <<Upbeat>>
+[200.10] MALE_GHOSTELF_PATH_1: Who trespasses on this once verdant soil?   <<Triggered: After Gnarl’s announcement, as the player is exploring. Important Note: The Elf is communicating with the player from a distance, at this point.
+>>
+[.] (unattributed): ---
+[201.10] MALE_GHOSTELF_PATH_1: What creature has the Dreaming brought forth? Alas Oberon is truly sickened!   <<Triggered: Once the player has reached the path Elves.>>
+[201.20] GNARL: Elves, even dead ones, can speak telepathically to all magical beings, Sire. Lazy creatures!
+[201.30] MALE_GHOSTELF_PATH_1: It must prove that it is not a manifestation made flesh!   <<After Speech: The two ghosts float nearer to the player.>>
+[201.40] MALE_GHOSTELF_PATH_2: If you are of the earth and not of the mind, seek out the one-horned beasts.
+[201.50] MALE_GHOSTELF_PATH_1: Once they bestowed healing, but now they crave the blood of living creatures, all living creatures.
+[201.60] BROWN_MINION: Blood... blood... wooo hooo!   <<Minions bounce up and down (If they can!)>>
+[201.70] MALE_GHOSTELF_PATH_2: Release them from their pain and return here. Only then shall you learn more of Evernight’s sorrow.   <<Ends - These Elves do not fade yet>>
+[300.10] GNARL : Soppy, over-rated pit-ponies! Elves, I    <<Triggered: When the player nears the first unicorn
+(Note: The cut-scene for this has already been done.)
+>>
+[300.20] BROWN_MINION: Aaaaahh horsie wanna play!   <<Trigger: As the bloody unicorn start to charge.>>
+[.] (unattributed): ---
+[301.10] MALE_GHOSTELF_PATH_1: Kill the one-horned beasts and we will tell you more of Evernight.   <<Triggered: If the player returns to the Elves on the path without having killed either unicorn.>>
+[302.10] MALE_GHOSTELF_PATH_2: You have freed one beast, but you must release the other from its suffering!   <<Triggered: If the player returns to the Elves on the path without having killed either unicorn. Ends - These Elves do not fade yet.>>
+[.] (unattributed): ---
+[303.10] MALE_GHOSTELF_PATH_1: The beasts are slain! Alas, it is only a brief light that shines within this darkness.   <<Triggered: The player returns to the Elves on the path after having killed both bloody unicorns.
+
+>>
+[303.20] MALE_GHOSTELF_PATH_2: Listen to the Forest... its sadness will tell you more.   <<After: The Elves fade away>>
+[303.30] ROSE: Typical Elves, they’re dead and now they can’t wait to bring everyone else down!   <<ONLY IF ROSE IS IN THE TOWER>>
+[400.10] GHOSTELF_TRACK_1: ...the footprints of death still linger. They taunt us.   <<Trigger: When the player nears the war machine tracks. An Elf fades into view.>>
+[400.20] ROSE : Elves, they’re so depressing. Pull yourself together man!   <<If Rose is in your Tower. If not, line doesn’t play.>>
+[.] (unattributed): ---
+[401.10] GHOSTELF_TRACK_1: Roots breaking, branches snapping, I hear their cries... their anguish.
+[401.20] GHOSTELF_TRACK_1: Unholy devourer of nature...it cannot be of this world.   <<Ends – The Elf fades away>>
+[500.10] EVERNIGHT_GHOST_1: To fight the Dreaming is to fight the wind, the leaves on the trees, the birds in the sky. It is    <<Trigger: After the player has killed the skull tribe rats. >>
+[600.10] GHOSTELF_OBERON_1: Oberon Greenhaze once travelled the lands vanquishing great Evils.   <<Trigger: When the player enters the area with Oberon encased in the depths of a giant tree. The first part is a non-interactive cut-scene as the camera pans across the area, the roots leading up to th>>
+[600.20] GHOSTELF_OBERON_1: But when last he returned, our great hero lost his taste for battle. When the Dwarven invaders came, he would not fight.
+[600.30] GHOSTELF_OBERON_1: Oberon’s blade became dull, his bow-string brittle and he would not wake from his slumber.
+[600.40] GHOSTELF_OBERON_1: Around him grew this tree, swaddling him in its branches.
+[600.50] GHOSTELF_OBERON_1: Then the Dreaming came.
+[600.60] BROWN_MINION: Oooohhhhhh!   <<Full of Wonder>>
+[.] (unattributed): ----
+[601.10] GHOSTELF_OBERON_1: Oberon gave form to his blackest dreams. They drove out the invaders.   <<Trigger: An Elf fades into view.>>
+[601.20] GHOSTELF_OBERON_1: The tree grew over the place where the invaders entered our lands, but its roots drew power from the Forest, corrupting all within.
+[601.30] GHOSTELF_OBERON_1: Now Oberon’s nightmares rule Evernight.   <<The Elf fades from view>>
+[601.40] BROWN_MINION:  So... Sad...   <<Sound of loud nose blowing, then the speech, then an evil chuckle. I.e. being sarcastic.>>
+[.] (unattributed): ---
+[602.10] GNARL : Hmmm...Oberon... catchy name...  That Elf is protected by a powerful shield, Master. The roots give it energy.   <<Snaps to / realisation after ellipsis. | Trigger: The first time the player encounters the first root node. This maybe directly after the interactive Elf cut-scene (above) has finished. >>
+[603.10] GHOSTELF_OBERON_1: What? What is happening? The tree... I feel it quivering!   <<Trigger: The first tree root is destroyed.>>
+[.] (unattributed): ---
+[604.10] GNARL: Find the other root nodes. Give that lazy Elf a rude awakening!   <<Trigger: The player returns to the clearing after destroying the first tree root, and before destroying the last tree root. If Rose is in your Tower.>>
+[604.20] GNARL : Find the other root nodes. Give that lazy Elf a rude awakening!   <<Trigger as line 56. If Rose is NOT in your Tower. >>
+[604.30] GNARL : The shield is weakening! You must destroy the other root nodes, Sire!   <<Trigger as line 56. If Rose is NOT in your Tower.>>
+[604.40] GNARL : No doubt the Dwarf domain is bloated with the spoils of war! We must find a way through, Lord.   <<Trigger as line 56. If Rose is NOT in your Tower.>>
+[.] (unattributed): ---
+[605.10] GNARL: That was the last root node, Sire! The shield is down! Now let’s see if that Elf can keep his eyes open long enough to fight!   <<Trigger: The last root node is destroyed.>>
+[605.20] GNARL: He can sleep all he likes in the afterlife!
+[.] (unattributed): ---
+[606.10] ROSE: Come on, man! What are you waiting for? He’s not going to move himself!   <<If the player has Rose in their Tower.>>
+[606.20] VELVET: That’s enough prolonging the excitement sweetie, I want to see some real Elf blood!   <<If the player has Velvet in their Tower.>>
+[606.30] GNARL: Time is wasting, Sire. You must face Oberon!   <<Trigger: If the player hangs around too long in the rest of the domain without going to the Oberon’s area. >>
+[606.40] GNARL: Do not let that Elf fall asleep again!   <<Trigger: If the player hangs around too long in the rest of the domain without going to the Oberon’s area. >>
+[606.50] GNARL: You must take the fight to Oberon, Lord!   <<Trigger: If the player hangs around too long in the rest of the domain without going to the Oberon’s area. >>
+[700.10] GNARL : Green Minions! We are in luck! They have resistance to the poisonous plants in Evernight. You must find their lair.   <<Trigger: This triggers when the player comes across the Green Minions for the first time and a cut-scene triggers in which the Minions escape a skull tribe rat by running through a poison barrier. >>
+[700.20] BROWN_MINION: Greens smell! Greens smell! Poooooo!   <<Giggles after speech.>>
+[.] (unattributed): ---
+[701.10] GNARL : Do not try to cross these blooms, Lord. You will need to find Minions with a resistance to poison, first.   <<Trigger: When the player nears a poison barrier for the first time, and they have not found the Green Minion Tower object.>>
+[701.20] GNARL : Only they can destroy this noxious flora!
+[701.30] GNARL : Do not venture near those blooms without the aid of the Green Minions.   <<Trigger: When the player nears a poison barrier for the second time, and they have still not found the Green Minion Tower object.
+>>
+[.] (unattributed): ---
+[702.10] GNARL : Drowning your army is a waste. Sire, if only we had Minions that could swim, or float, or not drown quite so fast!   <<Trigger: When the player nears the water/wheel area for the first time and they have not found the Blue Minion Tower object.>>
+[702.20] BROWN_MINION: Blues, swim like fishes!   <<Giggles after speech.>>
+[703.10] GNARL : Although your imposing form can enter water, your Minions cannot!   <<Trigger: When the player nears the water area with the root bridge for the first time>>
+[703.20] GNARL : Well they can... but they will drown in a rather amusing way. You must find them a bridge across.   <<Trigger: When the player nears the water area with the root bridge for the first time>>
+[800.10] GHOSTELF_CITY_1: We, the lost children of the Goddess, praise her.   <<Trigger: These 3 Elves should be the first group of Elves that the player encounters in the ruined city area.>>
+[800.20] GHOSTELF_CITY_1: For she is mother to all races, but embraces the Elves as her kindred.
+[800.30] GHOSTELF_CITY_2
+GHOSTELF_CITY_3: Do not forsake us Elf Mother!
+[800.40] BROWN_MINION: Yaaaaaaawwwwnnn!   <<This should be a loud yawn.>>
+[800.50] GHOSTELF_CITY_1: Through the protection of her effigy we beseech her to restore our glory.
+[800.60] GHOSTELF_CITY_2
+GHOSTELF_CITY_3: For only through our torment can we come to know her divinity!
+[.] (unattributed): ---
+[801.10] GHOSTELF_CITY_1: Has the Goddess deserted us? Does she favor the Dwarves? Can it be?   <<Trigger: These can be dotted around the ruined city are and looped/alternated as required.>>
+[801.20] GHOSTELF_CITY_1: Even in death we will protect the statue.   <<Trigger: as above.>>
+[801.30] GHOSTELF_CITY_2: Fragile peace was shattered. Sword met axe, arrow met shield, as had done in the old wars.   <<Trigger: as above.>>
+[801.40] GHOSTELF_CITY_2: One by one we fell and the forest floor cradled us like dying leaves.   <<Trigger: as above.>>
+[801.50] GHOSTELF_CITY_3: Better to die in battle than to be a slave to the Dwarves. We were the lucky ones...   <<Trigger: as above.>>
+[801.60] GHOSTELF_CITY_3: The beast... it chewed through our trees like a wolf through a sheep’s flesh.   <<Trigger: Trigger: as above.>>
+[801.70] BROWN_MINION: Sheepies... sheepies, where’s sheepies?
+[.] (unattributed): ---
+[802.10] GHOSTELF_CITY_3: Stay back, invader! Know that none of your kind has returned from our sacred temple.   <<Trigger: These 2 Elves should be near the entrance to the skull domain.>>
+[802.20] GHOSTELF_CITY_4: Those that have gone before you will die in there. If you too should trespass, you will share their fate.
+[.] (unattributed): ---
+[803.10] GNARL: How nice... company... do kill them quickly, Sire.   <<Trigger: On destroying the tree root a large number of skull creatures will appear.>>
+[900.10] GHOSTELF_GROVEGUARD_1: The Sacred Grove is the last place in Evernight untouched by Corruption. See, our ancient tree still stands.   <<Trigger: On entering the Sacred Grove area.>>
+[900.20] GNARL: The area is infested! Those creatures don’t know how to destroy the tree.
+[900.30] GHOSTELF_GROVEGUARD_1: I know you need aid, Stranger. Over by the tree is an ancient artefact.
+[900.40] GHOSTELF_GROVEGUARD_1: It is yours...but, if you damage the grove in any way, it will be lost to all of us.
+[900.50] GNARL : That grass looks like it would burn, crisp those creatures nicely, but turn that bit of tasty loot into useless firewood.
+[.] (unattributed): ---
+[901.10] GHOSTELF_GROVEGUARD_1: No! The Sacred Grove! What have you done... what have you done?   <<The Elf will not attack the player – can just fade away.>>
+[.] (unattributed): ---
+[902.10] GHOSTELF_GROVEGUARD_1: You are skilled indeed. Now leave me to my grieving.   <<Trigger: The player successfully retrieves the artefact.>>
+[.] (unattributed): ---
+[903.10] GHOSTELF_GROVEGUARD_1: Greetings beneficent preserver of Evernight Forest!   <<Trigger: Player enters the Sacred Grove again after successfully removing the Tower object, or having left the area completely alone.
+
+>>
+[903.20] GHOSTELF_GROVEGUARD_1: Tread carefully, we beg you.   <<Trigger: Trigger: as above.>>
+[903.30] GHOSTELF_GROVEGUARD_1: Welcome, benevolent Lord!   <<Trigger: as above.>>
+[904.10] GHOSTELF_GROVEGUARD_1: The beauty of Evernight is lost to us forever.   <<Trigger: Player enters the Sacred Grove area again, after they have corrupted it.>>
+[904.20] GHOSTELF_GROVEGUARD_1: Leave this place... you have done enough.   <<Trigger: Player enters the Sacred Grove area again, after they have corrupted it.>>
+[904.30] GHOSTELF_GROVEGUARD_1: Let me mourn in peace…   <<Trigger: Player enters the Sacred Grove area again, after they have corrupted it.>>
+[905.10] GHOSTELF_GROVEGUARD_1: You have betrayed us! You life is forfeit!   <<Trigger: Player removes the Tower object without corrupting the Grove, and then subsequently corrupts it by burning the grass/tree.>>
+[1000.10] GNARL: Elves are more magic than meat, Master! Blue Minions are gifted in the magical arts. Find them!   <<Trigger: The player attempts to attack and Elf without Blue Minions. These lines can be looped as required.
+Note: This will cause the Elf to charge through a Minion and instantly kill them.
+>>
+[1000.20] GNARL: Do not attempt to engage Elves without Blue Minions, Sire!   <<Trigger: as above.>>
+[1000.30] GNARL: Seek out the Blue Minions, my Lord! Only they have the power to take down such magical creatures.   <<Trigger: as above.>>
+[1100.10] GNARL : Poison pods - delicious sautéed in a splash of demon’s bile!   <<Trigger: The first time the player comes across the poison pods. >>
+[1100.20] GNARL : Deadly, of course, so perhaps they’d be more useful for dispensing a touch of mass carnage?   <<Trigger: The first time the player comes across the poison pods. >>
+[1100.30] GNARL : Pity those Elves are already dead!   <<Trigger: The first time the player comes across the poison pods. >>
+[.] (unattributed): ---
+[1200.10] GNARL : Whilst Minions can go where you cannot, you can also traverse terrain too harsh for them.   <<Trigger: This dialogue triggers in the first area where the player has to direct the Minions along a separate path. If control text is needed it will have to be displayed on-screen at this point.>>
+[1200.30] GNARL : Make sure you find your Minions a safe path, however, or they will fret and start chewing their ears!   <<Trigger: This dialogue triggers in the first area where the player has to direct the Minions along a separate path. If control text is needed it will have to be displayed on-screen at this point.>>
+[1300.10] OBERON: Once I deserted my people, my forest, and I have been punished. I will not desert them again!   <<Trigger: The player enters Oberon’s clearing after having destroyed all six root nodes.>>
+[.] (unattributed): ---
+[1301.10] OBERON: You shall feel the suffering of Evernight...Every broken branch, every fallen leaf!   <<Trigger: The player attacks Oberons’s head
+Note: Line to be said as Oberon holds up his branches to protect itself.
+>>
+[1302.10] OBERON: Roots... boring into my brain. I cannot control it. They are coming... they are coming!   <<Trigger: The player is pushed away.
+This dialogue is to play as the Minions are being pushed back and the skull tribe start to materialize.
+>>
+[1303.10] OBERON: My nightmares... it brought them forth…   <<Slightly fearful | Trigger: The player attacks Oberon’s head.
+Note: Line to be said as Oberon holds up his braches to protect itself.
+>>
+[1304.10] OBERON: The blackness... the shadows... Cease! Cease! Leave me!   <<Angry/scared | Trigger: The player is pushed away.
+This dialogue is to play as the Minions are being pushed back and the skull tribe start to materialize.
+>>
+[1305.10] OBERON: I cannot control it... it controls me... it controls me!   <<Maddened | Trigger: The player attacks Oberon’s head
+Note: Line to be said as Oberon holds up his braches to protect itself.
+>>
+[1306.10] OBERON: It is weakening... it is weakening!   <<Trigger: The player is pushed away.
+This dialogue is to play as the Minions are being pushed back and the skull tribe start to materialize.
+>>
+[1307.10] OBERON: Enough. Finish this! Free me from this torment!   <<Trigger: The Tree/Oberon is almost dead a branch drops down, the Player can use this to get to Oberon’s head.>>
+[1308.10] OBERON: You had the strength to do for me what once, I could not for you... Thank you...   <<Voice fades over 'Thank you'. | Trigger: As Oberon dies>>
+[.] (unattributed): ---
+[1309.10] MALE_GHOSTELF_PATH_1: The eternal sleep has claimed him.   <<Trigger: Oberon is dead.
+The two path ghost Elves from the opening of the level fade into view.
+>>
+[1309.20] MALE_GHOSTELF_PATH_2: The earth stirs beneath us. Evernight will be reborn.
+[1309.30] MALE_GHOSTELF_PATH_1: Return the Mother Goddess statue to us Blessed of the Elves, and every tree in this forest will sing your praises.
+[1400.10] GHOSTELF_ANGRY_1: What is the world without Elves?   <<Trigger: The player encounters an Elf or Elves after having killed the females in the Dwarf Domain.>>
+[1400.20] GNARL: A better place!   <<Evil cackle after speech.>>
+[.] (unattributed): ---
+[1401.10] GHOSTELF_ANGRY_1: You have doomed our race!   <<Trigger: The player encounters an Elf or Elves after having killed the females in the Dwarf Domain.>>
+[1401.20] GHOSTELF_ANGRY_1: We have nothing to live for but   <<Trigger: as above.>>
+[1401.30] GHOSTELF_ANGRY_1: You have proved yourself to be in league with the Dwarves!   <<Trigger: as above.>>
+[1401.40] GHOSTELF_ANGRY_1: Without us there will be no music, no poetry, no beauty but your death.   <<Trigger: as above.>>
+[1401.50] GHOSTELF_ANGRY_1: Kill them! Kill them all!   <<Trigger: as above.>>
+[1401.60] GHOSTELF_ANGRY_1: May the Mother Goddess strike you down!   <<Trigger: as above.>>
+[1401.70] GHOSTELF_ANGRY_1: You return here...    <<Trigger: as above.>>
+[1401.80] GHOSTELF_ANGRY_1: I will not let you gloat over our despair, you animal!   <<Trigger: as above.>>
+[1401.90] GHOSTELF_ANGRY_1: You were our last hope... now I will be your last vision!   <<Trigger: as above.>>
+[1500.10] PRISONERELF_RESCUED_1: You have given us hope.   <<Trigger: The player has rescued the female Elves in the Dwarf Domain and encounters a Rescued Elf Prisoner after returning to the Elf Domain.>>
+[1500.20] PRISONERELF_RESCUED_1: You have done the Elves a great service, and we shall not forget this.   <<Trigger: as above.>>
+[1500.30] PRISONERELF_RESCUED_1: Evernight thanks you, we thank you.   <<Trigger: as above.>>
+[1500.40] PRISONERELF_RESCUED_1: See, the Forest is healing itself... but it will take time.   <<Trigger: as above.>>
+[1500.50] PRISONERELF_RESCUED_1: Saviour of the Elves, I am humbled by your presence.   <<Trigger: as above.>>
+[1500.60] GHOSTELF_FRIENDLY_1: You saved them from that place... you gave us a future.   <<Trigger: The player has rescued the female Elves in the Dwarf Domain and encounters a Friendly Elf Ghost after returning to the Elf Domain.>>
+[1500.70] GHOSTELF_FRIENDLY_1: I feel the energy returning to the Forest.   <<Trigger: as above.>>
+[1500.80] GHOSTELF_FRIENDLY_1: You have given our deaths meaning.   <<Trigger: as above.>>
+[1500.90] GHOSTELF_FRIENDLY_1: The Forest is starting to sing again.   <<Trigger: as above.>>
+[1500.100] GHOSTELF_FRIENDLY_1: Mercy is not a weakness, Lord. And you are strong indeed.   <<Trigger: as above.>>

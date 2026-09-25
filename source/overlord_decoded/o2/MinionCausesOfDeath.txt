@@ -1,0 +1,35 @@
+[MCODCHAR.Gnome] (unattributed): Death by pointy hat
+[MCODCHAR.Legionnaire] (unattributed): Battle fodder
+[MCODCHAR.Emp_Vil] (unattributed): Smacked by a Citizen
+[MCODCHAR.Nord_Vil] (unattributed): Nobbled by a Nordbergian
+[MCODCHAR.Elf_Vil] (unattributed): Hugged to death
+[MCODCHAR.Hunter] (unattributed): Clubbed by a Hunter
+[MCODCHAR.Yeti] (unattributed): Squashed by hairy toes
+[MCODCHAR.Yeti_Berserker] (unattributed): Squashed by giant hairy toes
+[MCODCHAR.Empire_Centurion] (unattributed): Smashed by a Centurion
+[MCODCHAR.Alpha_Salamander] (unattributed): Roasted by the Salamander King
+[MCODCHAR.Alpha_Spider] (unattributed): Eaten by the Spider Queen
+[MCODCHAR.Circle_Member] (unattributed): Drained by a Sentinel
+[MCODCHAR.Colossus] (unattributed): Devoured by the Devourer
+[MCODCHAR.Dryad] (unattributed): Death by Dryad
+[MCODCHAR.Eradicator] (unattributed): Cleansed by an Eradicator
+[MCODCHAR.Forest_Troll] (unattributed): Trounced by a Troll
+[MCODCHAR.Imperial_Guard] (unattributed): Shot down by an Imperial Guard
+[MCODCHAR.Killer Panda] (unattributed): Pulverized by a Panda
+[MCODCHAR.Mermaid] (unattributed): Murdered by a Mermaid
+[MCODCHAR.Mutant_Minion] (unattributed): Killed by his brother Minion
+[MCODCHAR.Unicorn] (unattributed): Got the horn
+[MCODCHAR.Storm_Trooper] (unattributed): Flattened by a Gargantuan
+[MCODCHAR.Slugs] (unattributed): Slimed to death
+[MCODCHAR.Wild_Wolves] (unattributed): Wolf's chew toy
+[MCODCHAR.Wild_Spiders] (unattributed): Spider's snack
+[MCODCHAR.Wild_Salamanders] (unattributed): Lit up by a Salamander
+[MCODDEFAULT.UNKNOWN] (unattributed): Casualty of war
+[MCODDEFAULT.DROWNED] (unattributed): Sent to a watery grave
+[MCODDEFAULT.GIBBED] (unattributed): Gibbed out
+[MCODDEFAULT.SACRIFICED] (unattributed): Died for the Master
+[MCODHAZARD.Poison_Hazards] (unattributed): Poison victim
+[MCODHAZARD.Fire_Hazards] (unattributed): Burnt to a cinder
+[MCODHAZARD.Hazard_Generic] (unattributed): Killed in the line of duty
+[MCODCHAR.ElvenWarrior] (unattributed): Ended by an Elf
+[MCODCHAR.ElvenPriest] (unattributed): Punished by a Priestess

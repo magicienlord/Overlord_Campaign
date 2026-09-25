@@ -1,0 +1,357 @@
+[700.5] (unattributed): He's after me. He's after me! Its a Midwinter demon!
+[700.10] (unattributed): The witch-boy’s back!
+[700.15] (unattributed): Noooooo! Nooooo!
+[700.20] (unattributed): Demons in Nordberg! They're after our feast!
+[700.25] (unattributed): It's the witch-boy!
+[700.30] (unattributed): Eeeeeeeeeek! No, not on Midwinter’s Eve!
+[700.35] (unattributed): Help! Heeeeeeeeelp!
+[700.40] (unattributed): You're spoiling Midwinter's Eve!
+[701.5] (unattributed): Master!
+[701.10] (unattributed): My Lord!
+[701.15] (unattributed): Thank you for your mercy.
+[701.20] (unattributed): I am your humble servant.
+[701.25] (unattributed): You are indeed merciful.
+[701.30] (unattributed): I'm yours, Sire.
+[701.35] (unattributed): Thank you, Master, thank you.
+[701.40] (unattributed): Your servant, Lord.
+[702.5] (unattributed): You demon!
+[702.10] (unattributed): I don't believe you did that!
+[702.15] (unattributed): What'd you do that for?
+[702.20] (unattributed): Nooooooo!
+[702.25] (unattributed): Have you no heart?
+[702.30] (unattributed): What'd they ever do to you?
+[702.35] (unattributed): You beast!
+[702.40] (unattributed): Where's your Midwinter's spirit?!
+[703.5] (unattributed): Let me bask in your magnificence.
+[703.10] (unattributed): I'm with you!
+[703.15] (unattributed): Command me, O'Lord.
+[703.20] (unattributed): I'll protect you.
+[703.25] (unattributed): You're wonderful.
+[703.30] (unattributed): I won't leave your side.
+[703.35] (unattributed): You're my hero.
+[703.40] (unattributed): You're like the best Midwinter's present ever, Master!
+[704.5] (unattributed): You're just what Nordberg needs.
+[704.10] (unattributed): Marvellous, Lord, marvellous!
+[704.15] (unattributed): Evil all the way, that’s what I say!
+[704.20] (unattributed): Hurrrrrrah. Hurraaaahhh!
+[704.25] (unattributed): I think I love you.
+[704.30] (unattributed): That was amazing.
+[704.35] (unattributed): Yaaaaaaay! Yaaaaaaaah!
+[704.40] (unattributed): You're my dark hero.
+[705.5] (unattributed): Stay away from my Lord!
+[705.10] (unattributed): Enemies Master!
+[705.15] (unattributed): Yaaaaaaaaaaaay!
+[705.20] (unattributed): For the Overlord!
+[705.25] (unattributed): I will protect my Master!
+[705.30] (unattributed): Get them!
+[705.35] (unattributed): Unbelievers!
+[705.40] (unattributed): Kill! Kill!
+[706.5] (unattributed): Ohh treasure, Lord! Treasure!
+[706.10] (unattributed): Hey, I've found something, Master!
+[706.15] (unattributed): You know you could use those beasts of yours to jump onto the walls, Sire.
+[706.20] (unattributed): Why don't you get those wolves of yours onto the walls and kill those guards!
+[706.25] (unattributed): I've found something for you, Master.
+[706.30] (unattributed): Over here! Over here, Lord!
+[706.35] (unattributed): Use your wolfies to get those guards!
+[706.40] (unattributed): I bet those beasts of yours can jump onto Nordberg's walls.
+[707.5] (unattributed): Hey stop messing up our town!
+[707.10] (unattributed): We were just getting used to the Empire!
+[707.15] (unattributed): We don't need trouble from the likes of you.
+[707.20] (unattributed): Ere stop that!
+[707.25] (unattributed): I know you witch-boy! We can kick you out a second time, you know!
+[707.30] (unattributed): What'd you want with Nordberg?
+[707.35] (unattributed): Leave our town alone!
+[707.40] (unattributed): Big bully. Stop smashing up stuff!
+[MM2_D.M1] (unattributed): It’s so hot.
+[MM2_D.M2] (unattributed): The skies are so dark.
+[MM2_D.M3] (unattributed): Will the sun ever shine again?
+[MM2_D.M4] (unattributed): The witch-boy has claimed Nordberg.
+[MM2_D.M5] (unattributed): The darkness, the darkness has taken us.
+[MM2_D.M6] (unattributed): The Arena would be better than this.
+[MM2_D.M7] (unattributed): Why did you do this to us?
+[MM2_D.M8] (unattributed): The tar pits keep burning. We can’t stop them.
+[MM2_D.F1] (unattributed): The demons have claimed Nordberg.
+[MM2_D.F2] (unattributed): Forgive us, Witch-boy.
+[MM2_D.F3] (unattributed): What has become of our town?
+[MM2_D.F4] (unattributed): It’s so dark. Everything is so dark.
+[MM2_D.F5] (unattributed): Are you happy now, Witch-boy?
+[MM2_D.F6] (unattributed): I hate the smell of burning tar.
+[MM2_D.F7] (unattributed): It’s too warm. I like the cold!
+[MM2_D.F8] (unattributed): Nordberg just ain’t the same anymore.
+[DAILY.M1] (unattributed): The snows are even worse this year.
+[DAILY.M2] (unattributed): If you see a Yeti around here, don’t kill it, that lump of gristle’s mine!
+[DAILY.M3] (unattributed): I’m getting bored of seal meat, but er, don’t tell my wife that!
+[DAILY.M4] (unattributed): I lost an uncle in the great Cataclysm, he went all strange and oozy.
+[DAILY.M5] (unattributed): The Midwinter’s feasting is the one time of year I look forward to!
+[DAILY.M6] (unattributed): Food’s getting scarce around here.
+[DAILY.M7] (unattributed): I bet that Solarius has never done a hard day’s work in his life!
+[DAILY.M8] (unattributed): Don’t you start messing with my stuff!
+[DAILY.F1] (unattributed): My husband’s disappeared. I bet he’s gone after some Empire floosy!
+[DAILY.F2] (unattributed): One day I’m going to find myself a man who doesn’t spend his days elbow-deep in seal blubber!
+[DAILY.F3] (unattributed): Those little dogs of yours, I hope they ain’t magical!
+[DAILY.F4] (unattributed): I’m going to move to Everlight, I could do with a tan!
+[DAILY.F5] (unattributed): The plague never reached here, thank god, but they say it was awful, body parts everywhere.
+[DAILY.F6] (unattributed): I don’t trust magic; it’s just for lazy folk!
+[DAILY.F7] (unattributed): Snow, snow, snow! What I wouldn’t give to see proper cobblestones once in a while!
+[DAILY.F8] (unattributed): Those things of yours... can they wrestle seals, maybe in a bit of oil?
+[SWEEP.M1] (unattributed): I don’t know why I bother cleaning up, it just gets all messy again.
+[SWEEP.M6] (unattributed): I’m tidying, Lord, I’m tidying!
+[SWEEP.F1] (unattributed): There’s so much mess around here and it’s not me making it!
+[SWEEP.F6] (unattributed): I’ll never get this tidy!
+[STALL.M2] (unattributed): Get your seal blubber here! Still warm!
+[STALL.M7] (unattributed): Don’t forget those last minute Midwinter’s Eve presents!
+[STALL.M2_2] (unattributed): Lovely seal nose nibbles, get ‘em while they’re fresh.
+[STALL.M7_2] (unattributed): Yeti slippers, made of 100% genuine Yeti’s feet.
+[STALL.F2] (unattributed): Everything for Midwinter’s feasting, right here.
+[STALL.F7] (unattributed): Dried fish, chewable for up to 48 hours!
+[STALL.F2_2] (unattributed): Lovely fruit, straight from the Empire. Keeps you regular!
+[STALL.F7_2] (unattributed): Charms and trinkets, keeps 95 percent of Midwinter demons away!
+[BUY.M3] (unattributed): Do you have any snow cones? Er... not the yellow ones.
+[BUY.M3_2] (unattributed): Couple of seal tails. Ridged not smooth, please.
+[BUY.M8] (unattributed): I’ll take a couple of charms. Don’t want any of those demons at my door!
+[BUY.M8_2] (unattributed): Pint of seal blubber, please!
+[BUY.F3] (unattributed): Do you have any of those lanterns you had last week?
+[BUY.F3_2] (unattributed): I need a new pair of mittens. Wolf skin would be best.
+[BUY.F8] (unattributed): My husband has such a craving for deep fried baby seal, he just can’t get enough!
+[BUY.F8_2] (unattributed): Do you have my order from last week?
+[HAMMER.M4] (unattributed): I hope I can repair this before the next snow fall.
+[HAMMER.F4] (unattributed): Look what you did to my home!
+[DRINK.M5] (unattributed): Ah, that’s the ticket, takes the edge off the cold.
+[DRINK.M8] (unattributed): Ohh, that hit the spot!
+[DRINK.M1] (unattributed): Ahh, a good brew!
+[DRINK.M7] (unattributed): Another one over here!
+[DRINK.F5] (unattributed): Urgg, I think the weevils have got in the barrels again!
+[DRINK.F8] (unattributed): Same again, please!
+[PRE.M1] (unattributed): They say Empire City is a wondrous sight.
+[PRE.M2] (unattributed): I wonder what happened to that old Witch-boy.
+[PRE.M3] (unattributed): You look oddly familiar.
+[PRE.M4] (unattributed): They say little monsters have been seen around here, must be some kind of rabid seal.
+[PRE.M5] (unattributed): Solarius is right about magic users, cleanse the lot of them, I say!
+[PRE.M6] (unattributed): They say the Empire’s gone looking for the Sanctuaries, I don’t think they even exist!
+[PRE.M7] (unattributed): Don’t I know you from somewhere?
+[PRE.M8] (unattributed): Those Empire soldiers, they wouldn’t be able to hunt down a yeti if their lives depended on it!
+[PRE.F1] (unattributed): Most of those soldier boys are just out of the crib. Strong Nordberg men, that’s what you need in an army!
+[PRE.F2] (unattributed): I didn’t like the way that Borius looked at me.
+[PRE.F3] (unattributed): I don’t know what would have happened to Nordberg if we hadn’t given them that Witch-boy!
+[PRE.F4] (unattributed): Nordberg is magic free and proud of it!
+[PRE.F5] (unattributed): I don’t trust those Empire soldiers, their boots are too clean.
+[PRE.F6] (unattributed): We kept ourselves to ourselves, why’d the Empire have to interfere?
+[PRE.F7] (unattributed): You seem familiar... I think it’s the walk.
+[PRE.F8] (unattributed): Hmmm, are you from around here?
+[COMM.M1DES] (unattributed): Lazy blighters, running off with the Elves! You certain showed them who’s boss!
+[COMM.F1DES] (unattributed): My husband was at that commune, Lord, but I’m glad you killed him! I can find myself another one!
+[COMM.M2DOM] (unattributed): Was there really free love at that commune, Sire? Never had any I didn’t have to pay for, somehow!
+[COMM.F2DOM] (unattributed): I liked the look of those Elf men, wish I’d gone! Er I wouldn’t have wanted to get myself enslaved though!
+[BOR.M3DES] (unattributed): Glad we won’t be seeing Borius around here no more, Lord!
+[BOR.M4DES] (unattributed): You finished off that Borius good and proper!
+[BOR.F3DES] (unattributed): That Borius had it coming if you ask me!
+[BOR.F4DES] (unattributed): Now Borius is dead we don’t have to find any more widgeons or quails' eyeballs... yuck!
+[BOR.M5DO] (unattributed): Borius is much more fun this way. Especially when we throw firecrackers at him!
+[BOR.M6DO] (unattributed): That Borius is a sad sight, how the mighty have fallen, eh?
+[BOR.M5DO2] (unattributed): Ha! Look at Borius now!
+[BOR.M6DO2] (unattributed): I think Borius has wet his toga!
+[BOR.F5DOM] (unattributed): I almost feel sorry for Borius... almost.
+[BOR.F6DOM] (unattributed): I don’t know why you bothered enslaving Borius. There’s no muscle on him, only lard!
+[NORD.M7] (unattributed): You’re a welcome sight from the Empire, Lord. A very welcome sight!
+[NORD.M8] (unattributed): Ah we always knew you were one of us, Lord!
+[NORD.F7] (unattributed): Those soldiers stole all my seal nose nibbles! My hubby won’t be happy.
+[NORD.F8] (unattributed): Empire! Bunch of louts the lot of ‘em!
+[BOR.B1] (unattributed): I’m your servant now, Master.
+[BOR.B2] (unattributed): I bask in your greatness, Lord.
+[BOR.B3] (unattributed): I am, but a moth to your flame of magnificence, Sire.
+[BOR.B4] (unattributed): You can smite me as much as you like, Great One.
+[EVER.M1] (unattributed): They say someone did something nasty to the Governess of Everlight! Do you think it was him.
+[EVER.M2] (unattributed): There seems to be a lot more sea around than normal.
+[EVER.M3] (unattributed): I hear the spider infestation has been wiped out in Everlight. Think it was the Master?
+[EVER.F1] (unattributed): Everlight’s full of fat, bloated tourists! They deserve everything they get!
+[EVER.F2] (unattributed): Well, Everlight and Nordberg might be under dark occupation, but at least they’ve got the nice weather!
+[EVER.F3] (unattributed): I’d like to go to Everlight one day, but I don’t want to wear a toga. Those things look drafty.
+[MM5.DESM4] (unattributed): I hear a ship sunk in Everlight. Hope those Empire tourists got eaten by sharks!
+[MM5.DESM5] (unattributed): They say a boat’s sunk in Everlight. Ha! Doubt those fat tourists know how to swim!
+[MM5.DESF4] (unattributed): Er, you’re not thinking of sinking any boats around here are you, Master?
+[MM5.DOMM6] (unattributed): I hear those tourists tried to escape Everlight, but you dragged ‘em back. Good for you, Lord!
+[MM5.DOMF5] (unattributed): I’m loyal to you, Lord. I won’t hop in a boat to get away from you. I’ll probably use a horse.
+[MM5.DOMF6] (unattributed): Fancy those tourists trying to escape like that. But you showed ‘em who’s Master...er, Master. 
+[MM6.M7] (unattributed): I hear Everlight had rebel troubles. Of course, we wouldn’t rebel.
+[MM6.M8] (unattributed): Elves, you can’t trust ‘em, Lord. Always up to something! Not like us!
+[MM6.F7] (unattributed): Talk says the Elves tried to take back, Everlight. Ha, they couldn’t take fish from a seal pup!
+[MM6.F8] (unattributed): I hope there are no Elf rebels around here. The Lord’d soon sort ‘em out!
+[ARENA.M1] (unattributed): I wish I could have seen the Arena Games.
+[ARENA.M2] (unattributed): I hear there were some nasty goings on in the Arena. Good work, Master!
+[ARENA.M3] (unattributed): Have you really been inside Empire City, Lord?
+[ARENA.M4] (unattributed): I bet those city slums are still better than here!
+[ARENA.M5] (unattributed): You know I’d volunteer to be a slave if I thought it would get me somewhere warm!
+[ARENA.M6] (unattributed): All that fancy food and parties. Nah give me snow and some deep fried baby seal anytime!
+[ARENA.M7] (unattributed): Hey, I hear you’ve got little blue dogs now, Lord. Wonderful news.
+[ARENA.M8] (unattributed): And they tried to put our Lord in the Arena. Ha! Fools!
+[ARENA.F1] (unattributed): One day, I’m going to go to Empire City and bewitch Solarius with my rugged beauty...or maybe the Dark Lord!
+[ARENA.F2] (unattributed): Did you really break the Arena, Sire.
+[ARENA.F3] (unattributed): I don’t like the Arena Games, they sound very cruel.
+[ARENA.F4] (unattributed): You know, I think Nordberg needs an Arena. Liven things up a bit!
+[ARENA.F5] (unattributed): Did you really ride in a sedan chair, Dark One?
+[ARENA.F6] (unattributed): I can’t imagine anything worse that a city full of men like Borius!
+[ARENA.F7] (unattributed): Someday I’ll go to Empire City, even if I have to live in the slums!
+[ARENA.F8] (unattributed): Did they really try putting you in the Arena, Lord?
+[DOM.M1] (unattributed): I saw my neighbour today, didn’t even recognise me, just mumbled about doing overtime for the Overlord!
+[DOM.M2] (unattributed): Everyone is suddenly much quieter.
+[DOM.M3] (unattributed): There’s a lot of grovelling going on around here.
+[DOM.M4] (unattributed): Hmm, I’ve never seen the town so productive before!
+[DOM.M5] (unattributed): What did you do to everyone, Lord?
+[DOM.M6] (unattributed): Don’t you go subduing me. I won’t like it! It’ll make my ears bleed!
+[DOM.M7] (unattributed): All my wife goes on about is the Overlord this and the Overlord that!
+[DOM.M8] (unattributed): Folks around here seem a little different somehow.
+[DOM.M1_2] (unattributed): All people want to do is talk about work and you, Lord. Er not that there’s anything wrong with that!
+[DOM.M2_2] (unattributed): No one’s got time to chat anymore.
+[DOM.M3_2] (unattributed): There’s something very strange happening to Nordberg. 
+[DOM.F1] (unattributed): I’ve never seen my husband work so hard!
+[DOM.F2] (unattributed): This place is looking better than it has done in years!
+[DOM.F3] (unattributed): Well, you’ve certain brought a bit of order to the place, Lord, I’ll give you that!
+[DOM.F4] (unattributed): I hope you’re not thinking of making me your slave!
+[DOM.F5] (unattributed): Everyone is just work, work, work all the time, I don’t think they’re even sleeping.
+[DOM.F6] (unattributed): My brother was shovelling all day, until his hands bled, and he still kept going!
+[DOM.F7] (unattributed): Don’t make me like the others!
+[DOM.F8] (unattributed): This place ain’t what it used to be, that’s for sure!
+[DOM.F1_2] (unattributed): Is Nordberg under some kind of spell?
+[DOM.F2_2] (unattributed): Everyone is so productive!
+[DOM.F3_2] (unattributed): You’ve got mysterious dark ways, Lord. And I respect that!
+[DES.M1] (unattributed): I’m so lonely.
+[DES.M2] (unattributed): Why did you do it, Lord, why?
+[DES.M3] (unattributed): If I close my eyes, maybe the nasty man will go away.
+[DES.M4] (unattributed): You don’t want to kill me, I’d be no challenge!
+[DES.M5] (unattributed): What have you done to our town?
+[DES.M6] (unattributed): So much destruction, everywhere... everywhere I look…
+[DES.M7] (unattributed): This is a living nightmare!
+[DES.M8] (unattributed): Why have you destroyed Nordberg? This used to be your home.
+[DES.F1] (unattributed): I can’t find my husband, or my brother, what have you done with them?
+[DES.F2] (unattributed): Everything’s burning!
+[DES.F3] (unattributed): Please don’t kill me, Lord.
+[DES.F4] (unattributed): What’s with all the destruction. Do you have father issues?
+[DES.F5] (unattributed): I wish we’d never taken you in, Witch-boy!
+[DES.F6] (unattributed): We’d be so much more productive left alive, Sire.
+[DES.F7] (unattributed): I’ll work for you, Lord. I’ll work hard. Don’t kill me!
+[DES.F8] (unattributed): Please let me live, Sire.
+[SLAVE.M1DIG1] (unattributed): This work is back breaking... er, but I do it willingly for my Overlord!
+[SLAVE.M2DIG1] (unattributed): Everything aches.
+[SLAVE.M1DIG2] (unattributed): I am happy to shovel in your dark name, Lord!
+[SLAVE.M2DIG2] (unattributed): I dig for the Dark Lord!
+[SLAVE.F1DIG1] (unattributed): If I keep shovelling maybe the Master will love me more.
+[SLAVE.F2DIG1] (unattributed): I was hoping for something a little bit more evil than shovelling.
+[SLAVE.F1DIG2] (unattributed): I dig for darkness!
+[SLAVE.M3HA1] (unattributed): Ouch, I just hit me thumb!
+[SLAVE.M4HA1] (unattributed): Look, lord, I’m hammering, I’m hammering, no slacking here!
+[SLAVE.M3HA2] (unattributed): Thank you for not smiting me, Lord!
+[SLAVE.F3HA1] (unattributed): I’m so tired.
+[SLAVE.F4HA1] (unattributed): I hate this work... oh, but I love you, Master!
+[SLAVE.F3HA2] (unattributed): Anything you need hammering, Master?
+[SLAVE.M5MI1] (unattributed): I’m just happy to be working for my Master!
+[SLAVE.M6MI1] (unattributed): Keep working, keep working before he brings in cheap dwarf labour!
+[SLAVE.M5MI2] (unattributed): I mine for the Master!
+[SLAVE.F5MI1] (unattributed): Why are we doing this, again?
+[SLAVE.F6MI1] (unattributed): I’m working hard, Master... I’m working hard!
+[SLAVE.F5MI2] (unattributed): If I die, know that I died serving you, Sire. 
+[SLAVE.M7TRA1] (unattributed): I think I might have to go and just die quietly in a corner somewhere.
+[SLAVE.M8TRA1] (unattributed): Ugg, I think I heard something crack... oh, it’s ok, it’s just me.
+[SLAVE.M7TRA2] (unattributed): My legs are gonna give way.
+[SLAVE.F7TRA1] (unattributed): I wish he’d just finished me off fast rather than finish me off slowly.
+[SLAVE.F8TRA1] (unattributed): This is so heavy.
+[SLAVE.F7TRA2] (unattributed): See how I lift heavy things in the name of evil, Master?
+[FLEE.M1] (unattributed): The Master’s displeased!
+[FLEE.M2] (unattributed): The dark ruler’s back!
+[FLEE.M3] (unattributed): Help! Help! He’s going to smite me!
+[FLEE.M4] (unattributed): Run for your lives!
+[FLEE.M5] (unattributed): He’s got his smiting face on!
+[FLEE.M6] (unattributed): Flee fleeeee!
+[FLEE.M7] (unattributed): The dark army’s coming!
+[FLEE.M8] (unattributed): Find somewhere to hide!
+[FLEE.F1] (unattributed): The Master’s displeased!
+[FLEE.F2] (unattributed): The dark ruler’s back!
+[FLEE.F3] (unattributed): Help! Help! He’s going to smite me!
+[FLEE.F4] (unattributed): Run for your lives!
+[FLEE.F5] (unattributed): He’s got his smiting face on!
+[FLEE.F6] (unattributed): Flee fleeeee!
+[FLEE.F7] (unattributed): The dark army’s coming!
+[FLEE.F8] (unattributed): Find somewhere to hide!
+[SUBDUE.M1] (unattributed): I will obey, Lord.
+[SUBDUE.M2] (unattributed): I will work tirelessly for you.
+[SUBDUE.M3] (unattributed): I am now a cog in your dark machine.
+[SUBDUE.M4] (unattributed): I am you loyal slave.
+[SUBDUE.M5] (unattributed): Master!
+[SUBDUE.M6] (unattributed): My Lord!
+[SUBDUE.M7] (unattributed): Thank you for your mercy.
+[SUBDUE.M8] (unattributed): I am your humble servant. 
+[SUBDUE.F1] (unattributed): I will obey, Lord.
+[SUBDUE.F2] (unattributed): I will work tireless for you.
+[SUBDUE.F3] (unattributed): I am now a cog in your dark machine.
+[SUBDUE.F4] (unattributed): I will obey, Lord.
+[SUBDUE.F5] (unattributed): You are indeed merciful.
+[SUBDUE.F6] (unattributed): I’m yours, Sire.
+[SUBDUE.F7] (unattributed): Thank you, Master, thank you.
+[SUBDUE.F8] (unattributed): Your servant, Lord.
+[ANGRY.M1] (unattributed): That’s terrible!
+[ANGRY.M2] (unattributed): You ain’t doing that to me!
+[ANGRY.M3] (unattributed): Ooh, they didn’t deserve that!
+[ANGRY.M4] (unattributed): Coward!
+[ANGRY.F1] (unattributed): Do you think that makes you better than us?
+[ANGRY.F2] (unattributed): That doesn’t scare me.
+[ANGRY.F3] (unattributed): You monster!
+[ANGRY.F4] (unattributed): That was unnecessary!
+[UNKNO.M1] (unattributed): Hmmm, well you’re a funny looking one and no mistake.
+[UNKNO.M2] (unattributed): Hmm, you’re not here to start trouble are you?
+[UNKNO.M3] (unattributed): You look like you’ve spent a lot of time in the dark.
+[UNKNO.M4] (unattributed): You’re a very odd looking fellow and no mistake!
+[UNKNO.M5] (unattributed): What are those strange little things... are they mutant seals?
+[UNKNO.M6] (unattributed): Those things don’t look very tame.
+[UNKNO.M7] (unattributed): I wonder what one of those little things of yours would taste like deep fried.
+[UNKNO.F1] (unattributed): Hmmm, you look like you’re up to no good.
+[UNKNO.F2] (unattributed): You look a bit.... suspect. Did you escape from somewhere?
+[UNKNO.F3] (unattributed): Are you with the Empire?
+[UNKNO.F4] (unattributed): Now there goes a man with a purpose!
+[UNKNO.F5] (unattributed): One of your creatures is looking at me funny.
+[UNKNO.F6] (unattributed): Do those dogs of yours bite?
+[UNKNO.F7] (unattributed): Those little things do not look house-broken!
+[KNO.M2] (unattributed): The darkness is coming!
+[KNO.M3] (unattributed): Oh god, not you again!
+[KNO.M4] (unattributed): Look, I’ve done nothing to you, nothing!
+[KNO.M5] (unattributed): Agg! We’re not at home to chaos!
+[KNO.M6] (unattributed): He’s back! Look busy!
+[KNO.M7] (unattributed): Not those little things again!
+[KNO.M8] (unattributed): It’s the hell on tiny legs!
+[KNO.F2] (unattributed): The Lord of chaos approaches!
+[KNO.F3] (unattributed): Please, just leave us alone!
+[KNO.F4] (unattributed): Hide the good china!
+[KNO.F5] (unattributed): The demon lord and his army are back, hide yourselves!
+[KNO.F6] (unattributed): He’s coming for us all!
+[KNO.F7] (unattributed): The little demons are back!
+[KNO.F8] (unattributed): Oh no those little things get into everything! Get them away from me!
+[KNOCK.M1] (unattributed): He’s starting trouble! He’s starting trouble!
+[KNOCK.M2] (unattributed): Agg he’s getting rough!
+[KNOCK.M3] (unattributed): Aggg, he’s after me! He’s after me!
+[KNOCK.M4] (unattributed): He’s going to smite me!
+[KNOCK.M5] (unattributed): He’s going to smite me!
+[KNOCK.F1] (unattributed): Aggg stop that!
+[KNOCK.F2] (unattributed): He’s got it in for me!
+[KNOCK.F3] (unattributed): Don’t kill me, Lord!
+[KNOCK.F4] (unattributed): What kind of monster are you?
+[KNOCK.F5] (unattributed): Oh no... he’s going to smite, he’s going to smite!
+[PIN.M4] (unattributed): The demons are attacking!
+[PIN.M5] (unattributed): Aggg, his little things have got me!
+[PIN.M6] (unattributed): These little things are all over me!
+[PIN.M7] (unattributed): The demons have got me!
+[PIN.M8] (unattributed): Agggg, they’re going to eat me!
+[PIN.F4] (unattributed): I’m gonna be demon food!
+[PIN.F5] (unattributed): Call off your creatures!
+[PIN.F6] (unattributed): Nooo, his dogs are after me!
+[PIN.F7] (unattributed): Get these demons off me!
+[PIN.F8] (unattributed): Help get ‘em off me.
+[SLAVE.M1] (unattributed): Hurrah for the Dark Master!
+[SLAVE.M2] (unattributed): I am just loving this back breaking work, Sire!
+[SLAVE.M3] (unattributed): I like being useful to you, Lord.
+[SLAVE.M4] (unattributed): I’m overworking for the Overlord! Yaaaay!
+[SLAVE.M5] (unattributed): I’m your biggest fan, Master!
+[SLAVE.M6] (unattributed): You’re evil and now I’m evil too, Lord!
+[SLAVE.F1] (unattributed): I’m with the evil party!
+[SLAVE.F2] (unattributed): I maybe over worked, but I’m still alive Sire!
+[SLAVE.F3] (unattributed): Any more painful and tiring work you want doing, Lord?
+[SLAVE.F4] (unattributed): I’m simply pausing work to praise you, Master.
+[SLAVE.F5] (unattributed): I want to be just like you, Lord... only me!
+[SLAVE.F6] (unattributed): Hurrah for the Master, hurrah!

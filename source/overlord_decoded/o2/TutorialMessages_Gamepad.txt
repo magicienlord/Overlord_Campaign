@@ -1,0 +1,179 @@
+[MACHINE.S_START] (unattributed): Press <I=10> to start the Ship   <<For ships, shows always (not only for tutorial)>>
+[MACHINE.S_DOCK] (unattributed): Press <I=11> to dock the Ship   <<For ships, shows always  (not only for tutorial)>>
+[MACHINE.R_START] (unattributed): Press <I=10> to use the Raft   <<For rafts, shows always (not only for tutorial)>>
+[MACHINE.C_START] (unattributed): Press <I=10> to start the Catapult   <<For catapults, shows always (not only for tutorial)>>
+[MACHINE.B_START] (unattributed): Press <I=10> to start the Ballista   <<For ballistas, shows always (not only for tutorial)>>
+[MACHINE.T_START] (unattributed): Press <I=10> to start the Siege Tower   <<For Siege Tower, shows always (not only for tutorial)>>
+[MACHINE.T_DOCK] (unattributed): Press <I=11> to dock the Siege Tower   <<For Siege Tower, shows always (not only for tutorial)>>
+[MACHINE.R_DOCK] (unattributed): Press <I=11> to dock the Raft   <<For rafts, shows always (not only for tutorial)>>
+[POSSESSION.BARRIER] (unattributed): You reached the end of possession range   <<When the player runs into a possession barrier>>
+[SPELL.MINION] (unattributed): Hold <I=12> and press <I=8> to pick up and charge a Minion. Release <I=12> to throw it forward, or hold on and  sacrifice it to regain health and get a temporary shield
+[SPELL.HALO] (unattributed): Hold <I=12> and press <I=3> to cast the Halo spell. Release <I=12>  to boost your Minion Horde, or hold on to create a Shockwave
+[TOWER.THRONE] (unattributed): Press <I=10> to open the Throne interface    <<User Prompt to open the Throne Interface/World Map>>
+[TOWER.MAGIC] (unattributed): Press <I=10> to open the Magic interface   <<User Prompt to open the Magic Interface>>
+[TOWER.ARMORY] (unattributed): Press <I=10> to view your armor and weapons.    <<User Prompt to open the Armory Interface>>
+[TOWER.BUILDERS] (unattributed): Press <I=10> to upgrade your Tower   <<User Prompt to open the Tower Upgrade Interface>>
+[TOWER.BROWNHIVE] (unattributed): Press <I=10> to open the Brown Hive interface    <<User Prompt to open the Brown Barrack Interface>>
+[TOWER.REDHIVE] (unattributed): Press <I=10> to open the Red Hive interface    <<User Prompt to open the Red Barrack Interface>>
+[TOWER.GREENHIVE] (unattributed): Press <I=10> to open the Green Hive interface    <<User Prompt to open the Green Barrack Interface>>
+[TOWER.BLUEHIVE] (unattributed): Press <I=10> to open the Blue Hive interface   <<User Prompt to open the Blue Barrack Interface>>
+[TOWER.GRAVEYARD] (unattributed): Press <I=10> to open the Graveyard interface   <<User Prompt to open the Resurrection/Graveyard Interface>>
+[TOWER.FORGE] (unattributed): Press <I=10> to Forge Items   <<User Prompt to open the Forge Interface>>
+[TOWER.PQBUYABLES] (unattributed): Press <I=10> to Customize your Dark Tower   <<User Prompt to open the Private Quarters Upgrade Interface>>
+[TOWER.DUNGEON] (unattributed): Press <I=10> to use the Dungeon   <<User Prompt to open the Dungeon Interface>>
+[TOWER.AUDITION] (unattributed): Press <l=10> to accept, or press <l=11> to decline   <<Used to accept or decline audition events>>
+[TOWER.AUDITION2] (unattributed): Press <l=11> to accept, or press <l=10> to decline   <<Used to accept or decline audition events>>
+[TOWER.KELDA] (unattributed): Press <I=10> to make Kelda your First Mistress   <<User Prompt to select Kelda as your first lady>>
+[TOWER.JUNO] (unattributed): Press <I=10> to make Juno your First Mistress   <<User Prompt to select Juno as your first lady>>
+[TOWER.DARK_FAY] (unattributed): Press <I=10> to make Dark Fay your First Mistress   <<User Prompt to select Dark Fay as your first lady>>
+[TOWER.GHOST_FAY] (unattributed): Press <I=10> to make Ghost Fay your First Mistress   <<User Prompt to select Ghost Fay as your first lady>>
+[TOWER.KELDA_FAVO] (unattributed): Kelda is now your First Mistress   <<Confirmation for selecting Kelda as your first lady>>
+[TOWER.JUNO_FAVO] (unattributed): Juno is now your First Mistress   <<Confirmation for selecting Juno as your first lady>>
+[TOWER.DARK_FAY_FAVO] (unattributed): Dark Fay is now your First Mistress   <<Confirmation for selecting Dark Fay as your first lady>>
+[TOWER.GHOST_FAY_FAVO] (unattributed): Ghost Fay is now your First Mistress   <<Confirmation for selecting Ghost Fay as your first lady>>
+[TOWER.CHOICES] (unattributed): Press <I=12> to choose Kelda, <I=13> to choose Fay and <I=11> to choose Juno.   <<Confirmation for selecting Ghost Fay as your first lady>>
+[BASICS.CAM] (unattributed): Use <I=26> to look around   <<Basic Tutorial CK1>>
+[BASICS.MOVE] (unattributed): Use  <I=4> to move   <<Basic Tutorial CK1>>
+[BASICS.STRIKE1] (unattributed): Press <I=10> to strike the other children   <<Basic Tutorial CK1>>
+[BASICS.STRIKE2] (unattributed): Press <I=10> to hit the snowmen   <<Basic Tutorial CK1>>
+[BASICS.SPELL] (unattributed): Press <I=12> to cast spell   <<Basic Tutorial CK1>>
+[BASICS.SEND1] (unattributed): Press <I=8> to send your Minions to the crates   <<Basic Tutorial CK1>>
+[BASICS.SEND2] (unattributed): Send your Minions to chase the children (<I=8>)   <<Basic Tutorial CK1>>
+[BASICS.DISGUISE] (unattributed): To disguise the Minions, hold <I=5> to lock the hut and send the Minions (<I=8>)   <<Basic Tutorial CK1>>
+[BASICS.CALLBACK] (unattributed): Press or Hold (<I=11>) to call the Minions   <<Basic Tutorial CK1>>
+[BASICS.SWEEP] (unattributed): Move  (<I=26>) up to Sweep the Minions onto the ice fort   <<Basic Tutorial CK1>>
+[BASICS.MOUNT] (unattributed): Sweep or send Minions onto Wolves to ride them   <<Basic Tutorial CK1>>
+[BASICS.SWEEPM] (unattributed): Use (<I=26>) to Sweep Wolf Riders into enemies   <<Basic Tutorial CK1>>
+[CATAPULT.ACTIVATE] (unattributed): Send 10 Minions to the Catapult   <<Ballista tutorial (CK1)>>
+[CATAPULT.PLATFORM] (unattributed): Walk to the steering platform   <<Ballista tutorial (CK1)>>
+[CATAPULT.AIMSHOOT] (unattributed): Use <I=4> to aim and <I=8> to shoot   <<Ballista tutorial (CK1)>>
+[CATAPULT.STOP] (unattributed): Press <I=11> to stop shooting   <<Ballista tutorial (CK1)>>
+[100.20] (unattributed): Press <I=10> to strike the Yeti   <<Yeti Tutorial Section in CK2>>
+[100.30] (unattributed): Hold <I=5> to lock on the Yeti   <<Yeti Tutorial Section in CK2>>
+[100.40] (unattributed): Press <I=8> to send Minions to the Yeti   <<Yeti Tutorial Section in CK2>>
+[100.50] (unattributed): Use <l=26> to sweep your Minions to the Yeti   <<Yeti Tutorial Section in CK2>>
+[BASICS.MGATE1] (unattributed): Hold <I=5> to lock onto the Minion Gate…   <<How to TL a Minion Gate>>
+[BASICS.MGATE1] (unattributed): ... and Press <I=11> to summon your Minions!   <<On TL Mgate: Switch to this message>>
+[BASICS.TOWEROBJECT] (unattributed): Minions automatically bring objects to nearby Netherworld Gates   <<Committing objects in CK4>>
+[BASICS.TARGETSPELL1] (unattributed): Hold <I=12> down to kill villagers or release it in time to subdue them.   <<Target Spell tutorial in CK4>>
+[BASICS.TARGETSPELL2] (unattributed): To subdue a villager, hold <I=12> and release it when the villager kneels   <<Target Spell tutorial in CK4>>
+[BASICS.TARGETSPELL3] (unattributed): To kill a villager with your spell, hold <I=12> until they die   <<Target Spell tutorial in CK4>>
+[BASICS.BULLY] (unattributed): Target Lock (<I=5>) a villager and send Minions (<I=8>) to pin them down and stop them from running away   <<Bully tutorial in CK4>>
+[BASICS.LOWMANA] (unattributed): When your Mana is low, find a Mana potion or walk onto a Netherworld Gate to recharge   <<Netherworld Gate Tutorial in CK4>>
+[BASICS.GATE] (unattributed): Walk onto a Netherworld Gate and press <I=10> to travel back to the Tower   <<Netherworld Gate Tutorial in CK4>>
+[POSSESSION.END] (unattributed): Hold <I=12> for three seconds to end possession   <<Possession tutorial (CK5)>>
+[FLAG.PLACE] (unattributed): Press <I=13> to gather your Reds around a Guard Flag   <<Flag tutorial (CK5)>>
+[FLAG.SWEEP] (unattributed): Lock the Flag and Sweep with <l=26> to position it on the wooden platform   <<Flag tutorial (CK5)>>
+[FLAG.FUNCTION] (unattributed): Minions on a Guard Flag will automatically attack nearby enemies   <<Flag tutorial (CK5)>>
+[FLAG.CALLBACK] (unattributed): Lock a Guard Flag and press <I=11> to call back a Minion   <<Flag tutorial (CK5)>>
+[FLAG.CALLBACK_ALL] (unattributed): Hold <I=11> to call back all Minions from Flags and enemies   <<Flag tutorial (CK5)>>
+[MINIONSELECT.SPAWN] (unattributed): Summon some Browns from the Minion Gate   <<Minion select tutorial (CK5)>>
+[MINIONSELECT.SELECTION] (unattributed): Hold the <I=6> button to select a Minion type…   <<Minion select tutorial (CK5)>>
+[MINIONSELECT.TYPE] (unattributed): ... and press <I=13> to select Browns or <I=11> to select Reds   <<Minion select tutorial (CK5)>>
+[MINIONSELECT.ALL] (unattributed): Press <I=6> once to select all Minions   <<Minion select tutorial (CK5)>>
+[BALLISTA.ACTIVATE] (unattributed): Send 5 Minions to power the Ballista   <<Ballista tutorial (CK6)>>
+[BALLISTA.PLATFORM] (unattributed): Walk to the steering platform   <<Ballista tutorial (CK6)>>
+[BALLISTA.AIMSHOOT] (unattributed): Use <I=4> to aim and <I=8> to shoot   <<Ballista tutorial (CK6)>>
+[BALLISTA.ZOOM] (unattributed): Press <l=7> to zoom   <<Ballista tutorial (CK6)>>
+[BALLISTA.STOP] (unattributed): Press <I=11> to stop shooting   <<Ballista tutorial (CK6)>>
+[SIEGET.ACTIVATE] (unattributed): Send 10 Minions to power the Siege Tower   <<Siege Tower tutorial (CK6)>>
+[SIEGET.PLATFORM] (unattributed): Walk to the highlighted steering platform   <<Siege Tower tutorial (CK6)>>
+[SIEGET.MOVE] (unattributed): Use <I=8> to accelerate and <I=5> to decelerate and reverse   <<Siege Tower tutorial (CK6)>>
+[SIEGET.STEER] (unattributed): Use <I=4> to steer   <<Siege Tower tutorial (CK6)>>
+[SIEGET.SWEEP] (unattributed): Use <l=26> to Sweep you Minions whilst steering   <<Siege Tower tutorial (CK6)>>
+[SIEGET.DOCK] (unattributed): Steer to the platform to dock the Siege Tower   <<Siege Tower tutorial (CK6)>>
+[NORDBERG.TCT] (unattributed): Press <I=10> to open the Town Hall interface   <<User Prompt to open the Town Hall Interface>>
+[SHIP.ACTIVATE] (unattributed): Send 10 Minions to power the Ship   <<Ship tutorial (CK8)>>
+[SHIP.PLATFORM] (unattributed): Walk to the highlighted steering platform   <<Ship tutorial (CK8)>>
+[SHIP.ACCELERATE] (unattributed): Hold <I=8> to accelerate to ramming speed   <<Ship tutorial (CK8)>>
+[SHIP.DECELERATE] (unattributed): Hold <I=5> to decelerate and reverse   <<Ship tutorial (CK8)>>
+[SHIP.BOOST] (unattributed): Tap <I=10> to make your Minions row faster   <<Ship tutorial (CK8)>>
+[SHIP.STEER] (unattributed): Use <I=4> to steer the Ship   <<Ship tutorial (CK8)>>
+[SHIP.DOCK] (unattributed): Dock the Ship by steering it sideways against a jetty   <<Ship tutorial (CK8)>>
+[SHIP.BOARD] (unattributed): Board a stationary ship by sailing alongside it   <<Ship tutorial (CK8)>>
+[SHIP.RAM] (unattributed): Use a battering ram at full speed to damage large objects and other ships   <<Ship tutorial (CK8)>>
+[EVERLIGHT.TCT] (unattributed): Press <I=10> to open the Town Hall interface   <<User Prompt to open the Town Hall Interface>>
+[DRESS.POSSESSED] (unattributed): Walk into the Legionnaire tent to change the possessed minion's clothes
+[BLUE.RESURRECT] (unattributed): Sweep or send a Blue Minion to a dead Minion to resurrect him   <<Tutorial message in CK13>>
+[BLUE.BLINK] (unattributed): Sweeping or sending Blue Minions to a target will make them Blink through enemies   <<Tutorial message in CK13>>
+[BOMB.ONE] (unattributed): Lock onto a Flower Bomb <I=5> and send a Minion to it <I=8>   <<Bomb Tutorial in Spider Boss map>>
+[BOMB.TWO] (unattributed): Hold <I=5> and use the <I=7> to carry the Flower Bomb   <<Bomb Tutorial in Spider Boss map>>
+[BOMB.THREE] (unattributed): Release <I=5> to drop the Flower Bomb   <<Bomb Tutorial in Spider Boss map>>
+[REDMOUNTS.MOUNT] (unattributed): Use your Reds to Mount the Salamanders   <<Red Mount Tutorial (CK17)>>
+[REDMOUNTS.SWEEP] (unattributed): Move the Mounted Salamander on the cliff-side   <<Red Mount Tutorial (CK17)>>
+[REDMOUNTS.RUNGUN] (unattributed): Salamanders will shoot fire whilst moving   <<Red Mount Tutorial (CK17)>>
+[REDMOUNTS.GNOMEHOLE] (unattributed): Send Salamanders into the Gnome Holes to close them   <<Red Mount Tutorial (CK17)>>
+[MP.WATER_CONFLICT] (unattributed): The Water zone is under attack!
+[MP.MOUNTAIN_CONFLICT] (unattributed): The Mountain zone is under attack!
+[MP.ROCK_CONFLICT] (unattributed): The Rock zone is under attack!
+[MP.FOREST_CONFLICT] (unattributed): The Forest zone is under attack!
+[MP.CENTER_CONFLICT] (unattributed): The Center zone is under attack!
+[MP.WATER_ENDS] (unattributed): The Water zone is no longer under attack
+[MP.MOUNTAIN_ENDS] (unattributed): The Mountain zone is no longer under attack
+[MP.ROCK_ENDS] (unattributed): The Rock zone is no longer under attack
+[MP.FOREST_ENDS] (unattributed): The Forest zone is no longer under attack
+[MP.CENTER_ENDS] (unattributed): The central zone is no longer under attack
+[MP.PILLAGE_DEFEND] (unattributed): Leave some Minions behind on the Flags to defend your gold
+[MP.PILLAGE_LOOT] (unattributed): Break into your opponent's vault to steal some of their gold!
+[MP.PILLAGE_BREACH] (unattributed): Your opponent is trying to break into your vault!
+[MP.PILLAGE_NOBREAK] (unattributed): You cannot break into your own vault! Try breaking into your opponent's vault instead!
+[MP.QUEST] (unattributed): Fight your way through the enemy forces to kill the Centurion as quickly as possible!
+[MP.SURVIVAL] (unattributed): To achieve the best time, survive for as long as possible against the waves of enemies
+[MP.DOMINATE] (unattributed): Score by using your Minions to take and hold as many zones on the map as possible!
+[MP.DOM_CAP] (unattributed): Leave some Minions here to take and hold this zone!
+[MP.WATER_YOU] (unattributed): You have captured the Water zone!
+[MP.WATER_HIM] (unattributed): Your enemy has taken the Water zone!
+[MP.MOUNTAIN_YOU] (unattributed): You have captured the Mountain zone!
+[MP.MOUNTAIN_HIM] (unattributed): Your enemy has taken the Mountain zone!
+[MP.ROCK_YOU] (unattributed): You have captured the Rock zone!
+[MP.ROCK_HIM] (unattributed): Your enemy has taken the Rock zone!
+[MP.FOREST_YOU] (unattributed): You have captured the Forest zone!
+[MP.FOREST_HIM] (unattributed): Your enemy has taken the Forest zone!
+[MP.CENTER_YOU] (unattributed): You have captured the Center zone!
+[MP.CENTER_HIM] (unattributed): Your enemy has taken the Center zone!
+[MP.WATER_LOST] (unattributed): You've lost control of the Water zone!
+[MP.MOUNTAIN_LOST] (unattributed): You've lost control of the Mountain zone!
+[MP.ROCK_LOST] (unattributed): You've lost control of the Rock zone!
+[MP.FOREST_LOST] (unattributed): You've lost control of the Forest zone!
+[MP.CENTER_LOST] (unattributed): You've lost control of the Center zone!
+[MP.PILLAGE] (unattributed): Gather as much gold as you can! Killing the other Overlord will cause them to lose gold!
+[MP.PILLAGE_VAULT] (unattributed): This is your vault, where your gold is kept
+[100.4] (unattributed): Use  <l=26> to look around
+[100.5] (unattributed): Use  <I=4> to walk.
+[100.10] (unattributed): Hold <I=5> to lock onto the Minion Gate…
+[100.15] (unattributed): ... and Press <I=11> to summon Minions!
+[100.60] (unattributed): Press <I=11> to call a Minion back
+[100.70] (unattributed): You can center the camera behind you by pressing <I=3>.
+[100.80] (unattributed): Hold <I=11> to recall ALL Minions
+[100.90] (unattributed): You can change the camera view by pressing  <l=26>
+[300.10] (unattributed): Hold the <I=6> button to select a Minion type…
+[300.20] (unattributed): … and press <I=11> to select Red Minions
+[300.40] (unattributed): Press <I=6> once to select all Minions
+[300.50] (unattributed): Select your Reds and move them towards the vantage point
+[300.60] (unattributed): Set Reds in position and press <I=13>
+[300.70] (unattributed): Hold <I=6> and Press <I=11> to select your Red Minions.
+[200.40] (unattributed): To summon Minions, face the Brown Gate.  Lock using <I=5> then hold <I=11>
+[200.50] (unattributed): Harvest Lifeforce. <I=8> to send Minions. <I=11> to call back Minions.
+[200.60] (unattributed): Destroy the vases and pickup weapons by Sweeping your Minions forward with <l=26>. Minions can be upgraded with all kind of weapons throughout the game!
+[200.110] (unattributed): To release Minions from the object: Face the Object, hold the <I=5> and hit or hold <I=11>.
+[200.150] (unattributed): Minions don't like water. Minions following you will avoid water! Be careful when Sweeping and Sending.
+[200.170] (unattributed): To strike, press  <I=10>
+[200.180] (unattributed): To use magic, press  <I=12>
+[200.190] (unattributed): To Sacrifice a Minion and Heal, face the Blood Pit. Lock using <I=5> then press <I=8>
+[500.10] (unattributed): Press <I=8> once to send a Minion to the Poison Pod
+[500.20] (unattributed): Hold <I=5> to lock onto the Poison Pod
+[500.40] (unattributed): Release <I=5> to drop the Poison Pod
+[400.60] (unattributed): Hold <I=11> to Return to Tower   <<KM - new. Onscreen msg to use waypoint>>
+[700.10] (unattributed): Hold <I=3> and Move  <l=26> to use look around
+[800.10] (unattributed): Press <I=0> to view your Quests and Status   <<press back button to see your stats + outstanding quests>>
+[900.10] (unattributed): Target Lock   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.20] (unattributed): Send Minions   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.30] (unattributed): Call Back Minions   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.40] (unattributed): Strike   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.50] (unattributed): Sweep Minions   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.60] (unattributed): Move Overlord   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.70] (unattributed): Camera Snap   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.80] (unattributed): Pause   <<For use in Demo. Duplicated The Controls in the manual>>
+[900.90] (unattributed): Display Controls   <<For use in Demo. Duplicated The Controls in the manual>>
+[1000.10] (unattributed): Press <I=8> to send Minions   <<Tutorial message to be displayed intermittently>>
+[1000.20] (unattributed): Move  <l=26> up to sweep Minions   <<Tutorial message to be displayed intermittently>>

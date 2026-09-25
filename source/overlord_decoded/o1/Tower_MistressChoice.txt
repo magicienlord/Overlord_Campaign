@@ -1,0 +1,15 @@
+[100.10] GNARL: You can now upgrade your Reds and Greens in your Private Quarters, Lord.   <<Cut-scene. Trigger: The player is automatically summoned back to the Tower after choosing Velvet.>>
+[100.20] VELVET: Darling! We’re going to have such fun!   <<Trigger: Velvet who is sitting in the Overlord’s throne sashays over to the player. >>
+[100.30] VELVET: You, me, a few helpless prisoners. It’s going to be so romantic!
+[100.40] BROWN_MINION: Ar!   <<Soppily and drawn out.>>
+[100.50] VELVET: But don’t bring the pixies!
+[100.60] BROWN_MINION: Aw!   <<Sadly.>>
+[100.70] VELVET: You should really try and make this place a little more befitting of a lady.   <<Trigger: Velvet looks around.>>
+[100.80] VELVET: Find me a few pretty things and I’ll make it worth your while.   <<Giggles before 'I'll', While is pronounced 'whiiiiiiile'.>>
+[200.10] GNARL: Mistress Rose has already upgraded your Browns, Sire. You can upgrade your Blues in your Private Quarters, mmm!   <<Trigger: The player is automatically summoned back to the Tower after choosing Rose. Scene is interactive but player should be held in the throne room area for the duration of the scene.
+>>
+[200.20] ROSE: Come on my lovelies! Pay attention or Aunty Rose will have to hurt you!   <<Rose is training a few brown Minions with a whip.>>
+[200.30] ROSE: My sister has some issues, Sire. Father was never there and Mother spoilt her...her own puppy, her own pony…   <<Rose leaves the Minions and walks to the player.>>
+[200.40] BROWN_MINION: No sheepie?
+[200.50] ROSE: Guess who had to clean up the blood!
+[200.60] ROSE: Speaking of cleaning, this place could do with a woman’s touch. You should really get it looking a bit more homely!   <<Rose looks around, speaks, then goes back to Minion whipping.>>

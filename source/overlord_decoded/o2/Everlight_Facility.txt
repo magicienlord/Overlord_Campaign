@@ -1,0 +1,77 @@
+[100.10] (unattributed): That place certainly is heavily guarded. Very odd. I wonder what’s going on inside. 
+[100.20] (unattributed): Well, you’ll soon be finding out, Lord! If they have our hive, you need to find a way in and start smashing some heads!
+[105.10] (unattributed): Ah, such sights. Such sights!
+[105.20] (unattributed): Don’t make me skin you and wear you as a hat, Gnarl!
+[110.10] (unattributed): Perhaps you should consider a little bit of sneaky camouflage, Sire.
+[115.10] (unattributed): Ohhhhhh MMmmmmassssster!
+[115.20] (unattributed): Ohhhh heeee oowwwww it tickles!
+[115.30] (unattributed): Heheheheheheeeeeeeee!
+[120.10] (unattributed): Be gentle Master!
+[120.20] (unattributed): Enter me, Master!
+[120.30] (unattributed): Possess me! Possess me!
+[120.40] (unattributed): I think you should give it a bit of a magical nudge.
+[125.10] (unattributed): Now, it’s important to make the most of that Green’s stealth abilities. 
+[125.20] (unattributed): Gnah, I don’t envy you inside that smelly carcass. Just breathe through your mouth, Sire.
+[130.10] (unattributed): Remember, Minions are not as robust as you, Sire. Possess a fresh one and continue your infiltration.
+[135.10] (unattributed): There’s the Hive! Ah, that was quite easy. 
+[135.20] (unattributed): Unfortunately, now we need to get it out of there. It’s too big for the Minion hole!
+[140.10] (unattributed): You need to get to that elevator behind the gates, Lord! That’s the only way we’ll get the Hive out.
+[140.20] (unattributed): Those are Sentinels, Master. It seems as though they can detect magical creatures. 
+[140.30] (unattributed): That’s bad news for us. You’re going to have to take them out before we can get the hive away.
+[143.10] (unattributed): You should leave the hive here, Master, clear a safe route down and then return for it.
+[144.10] (unattributed): The gardens won’t provide any cover against those Sentinels, Sire. Better make them dead first.
+[145.10] (unattributed): I don’t like the look of those fellows either. Stay out of sight and away from those beams.
+[145.20] (unattributed): Attack them from behind and they’ll never see it coming.
+[150.10] (unattributed): I’m sure these lawn ornaments could create a distraction. No one likes having a Gnome infestation on their hands.
+[152.10] (unattributed): Your Greens can hide in those gardens to avoid detection, Sire. They like a bit of shrubbery.
+[155.10] (unattributed): Now turn the wheel and steal our Green Hive back!
+[200.10] (unattributed): Right. Bring in the Gnome.
+[200.15] (unattributed): Gnomes - hardly any magic and too weak for the Arena. Waste of an Eradication if you ask me. Right, what’s next?
+[200.20] (unattributed): This is ridiculous! I don’t have any magical powers.
+[200.25] (unattributed): Well, these upstanding Empire Citizens say that you do!
+[200.30] (unattributed): Yes, she bewitched my husband, Governess!
+[200.35] (unattributed): And mine!
+[200.40] (unattributed): They weren’t bewitched they were just bored! I can’t help it if rich and powerful men are attracted to me.
+[200.45] (unattributed): She’s a witch! She must be!
+[200.50] (unattributed): Silence!
+[200.55] (unattributed): There is only one way to judge this!
+[200.60] (unattributed): Ha! I knew it. Eradicate her, this instant!
+[200.65] (unattributed): Wait!
+[200.70] (unattributed): Since this is such an unusual specimen, I’d like to examine her carefully before she is cleansed!
+[200.75] (unattributed): Take her to my quarters in the Town Hall!
+[200.80] (unattributed): Your machine… it's broken! I don’t have any magic! Let me go! Unhand me you plebeians!
+[210.10] (unattributed): Remember, Master, hive first, wench later!
+[210.20] (unattributed): Huuugggh
+[210.30] (unattributed): Ooooffffff.
+[210.40] (unattributed): What Gnarl meant to say is focus on the task in hand!
+[210.50] (unattributed): Of course if you happen upon this prisoner of the Empire, then I’m sure she would be most useful in ... er passing on any essential insider information. 
+[210.60] (unattributed): Hmmmm!
+[220.10] (unattributed): Well, that’s her out of the way!
+[220.20] (unattributed): Cheap hussy! Trying to come between us and our hubbies!
+[220.30] (unattributed): I’m going to get myself an Elf lover! They really know how to appreciate a larger lady.
+[220.40] (unattributed): I know, have you seen the size of their priestesses?
+[230.10] (unattributed): We did Empire City a favour!
+[230.20] (unattributed): She should find a man of her own! Not try to steal one from the likes of us!
+[230.30] (unattributed): Arrogant flibberty gibbet!
+[230.40] (unattributed): I’d pay good money to see her in the Arena!
+[235.10] (unattributed): I’m yours
+[235.20] (unattributed): Command me
+[240.10] (unattributed): I’ve seen wolves less vicious than Empire women. And at least wolves are only after your meat not your money!
+[300.10] (unattributed): Stay out of the Sentinel’s light, Sire!
+[310.10] (unattributed): Quick, get those Minion legs moving!
+[310.20] (unattributed): You’re fragile in Minion form! Run and hide, Lord!
+[310.30] (unattributed): Get away quick! Find a hiding place!
+[320.20] (unattributed): Take out those Sentinels, Master!
+[320.30] (unattributed): Leave no Sentinel alive!
+[320.40] (unattributed): Make sure you take down all the Sentinels, Lord!
+[330.10] (unattributed): Make sure you take down all the Sentinels, Lord!
+[330.20] (unattributed): Those Sentinels and Eradicators are easily distracted, Sire!
+[330.30] (unattributed): You can distract both the Sentinels and the Eradicators. Then sneak up on them!
+[340.10] (unattributed): Almost there, Dark One!
+[340.20] (unattributed): The route is clear, Sire. Quick, get that hive out of the Empire’s clutches!
+[350.10] (unattributed): Grubby has dug another Netherworld Gate for you in Everlight Town. You’ll need to go through the old Temple to reach it…
+[350.20] (unattributed): And of course, the town is where other local delights are being held prisoner.
+[350.30] (unattributed): Don’t make me hurt you again, Gnarl!
+[360.10] (unattributed): Dear me... aren’t we a forgetful Overlord? Go back and get the Green Hive!
+[360.20] (unattributed): Don’t forget the Green Hive, Sire.
+[360.30] (unattributed): The Green hive, Sire the Green Hive!

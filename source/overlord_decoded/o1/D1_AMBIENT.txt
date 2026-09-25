@@ -1,0 +1,131 @@
+[100.10] MALE_PEASANT: Thank you for freeing us!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[100.20] MALE_PEASANT: Remember, Sire, never trust anything that’s head-height with your groin!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[100.30] MALE_PEASANT: I can’t get rid of the Halfling stench!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[100.40] MALE_PEASANT: I’m gonna name a pumpkin after you!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[100.50] MALE_PEASANT: I wanna be just like you!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[100.60] MALE_PEASANT: Those ‘orrible Halflings stole our food!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[100.70] MALE_PEASANT: You’re the best kind of hero...one with their own army!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[.] (unattributed): ---
+[101.10] FEMALE_PEASANT: Do you have a lady-friend, you big heroic hunk, you?   <<Trigger: Various points throughout this area (designers to decide.) >>
+[101.20] FEMALE_PEASANT: Is that a pumpkin in your pocket, or are you just pleased to see me?   <<Trigger: Various points throughout this area (designers to decide.) >>
+[101.30] FEMALE_PEASANT: That Melvin always used to be teased for being so small. Well, he ain’t so small now!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[101.40] FEMALE_PEASANT: That Melvin’s eaten us out of our homes!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[101.50] FEMALE_PEASANT: Nice creatures you got there! Do they come in pink?   <<Trigger: Various points throughout this area (designers to decide.) >>
+[101.60] FEMALE_PEASANT: That’s what a real hero looks like!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[101.70] FEMALE_PEASANT: I think I love you!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[.] (unattributed): ---
+[102.10] VILLAGE_GUARD: You and your creatures saved us some work!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[102.20] VILLAGE_GUARD: Only good Halfling’s a dead Halfling!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[102.30] VILLAGE_GUARD: Ahhh I smell roasted Halfling on the breeze!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[102.40] VILLAGE_GUARD: Those Halflings might be half the size, but they’re twice the trouble!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[102.50] VILLAGE_GUARD: You'd better go sort out that Melvin!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[102.60] VILLAGE_GUARD: Halflings’ll eat anything not nailed down! Ha even then, they’d just eat the nails!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[102.70] VILLAGE_GUARD: Hey, are those creatures for sale?   <<Trigger: Various points throughout this area (designers to decide.) >>
+[200.10] MALE_PEASANT: Hey watch it!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[200.20] MALE_PEASANT: Be careful with those things!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[200.30] MALE_PEASANT: You’re worse than the Halflings!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[200.40] MALE_PEASANT: Don’t you go messing up our village!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[200.50] MALE_PEASANT: We’ve got rights you know!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[200.60] MALE_PEASANT: I thought you were on our side!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[200.70] MALE_PEASANT: Hey, what you got against us?!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[.] (unattributed): ---
+[201.10] FEMALE_PEASANT: You ain’t too big to go over my knee, you know!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[201.20] FEMALE_PEASANT: I’d just got things nice and tidy!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[201.30] FEMALE_PEASANT: Don’t you go getting me angry!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[201.40] FEMALE_PEASANT: Ohhh, you’re gonna feel the back of my hand, sonny!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[201.50] FEMALE_PEASANT: Those dirty creatures are all over my things!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[201.60] FEMALE_PEASANT: I’m getting my frying pan!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[201.70] FEMALE_PEASANT: That ain’t very heroic!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[201.80] FEMALE_PEASANT: Get out of it!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[.] (unattributed): ---
+[202.10] VILLAGE_GUARD: Hey that ain’t nice!   <<Note: When the player/Minions destroy or loot objects. Trigger: Various points throughout this area (designers to decide.)>>
+[202.20] VILLAGE_GUARD: Don’t make me go and get the boys!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[202.30] VILLAGE_GUARD: Control those things!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[202.40] VILLAGE_GUARD: Why’d you bother saving us?   <<Trigger: Various points throughout this area (designers to decide.) >>
+[202.50] VILLAGE_GUARD: Stop that!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[202.60] VILLAGE_GUARD: Oh great, more mess to clean up!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[202.70] VILLAGE_GUARD: You’re wrecking the place!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[202.80] VILLAGE_GUARD: Bloody heroes! No respect for other people!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[202.90] VILLAGE_GUARD: Oi, stop oppressing us!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[300.10] MALE_PEASANT: Right, that’s it!   <<Note: When the player/Minions loot and destroy a lot of objects or kill a lot of peasants Trigger: When the male villagers and guards attack. Initiating attack line (not during).
+>>
+[300.20] MALE_PEASANT: I’ve ‘ad enough of you!   <<Trigger: When the male villagers and guards attack. Initiating attack line (not during).>>
+[300.30] MALE_PEASANT: Get ‘im!   <<Trigger: When the male villagers and guards attack. Initiating attack line (not during).>>
+[300.40] MALE_PEASANT: I won’t be oppressed!   <<Trigger: When the male villagers and guards attack. Initiating attack line (not during).>>
+[300.50] MALE_PEASANT: You need sorting out son!   <<Trigger: When the male villagers and guards attack. Initiating attack line (not during).>>
+[300.60] MALE_PEASANT: That’s enough!   <<Trigger: When the male villagers and guards attack. Initiating attack line (not during).>>
+[.] (unattributed): ---
+[301.10] VILLAGE_GUARD: I ain’t letting you get away with that!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[301.20] VILLAGE_GUARD: Okay, that’s it! I’m angry now!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[301.30] VILLAGE_GUARD: You Evil blighter!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[301.40] VILLAGE_GUARD: We ain’t that down-trodden!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[301.50] VILLAGE_GUARD: We’ve got families!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[301.60] VILLAGE_GUARD_1: Unite against the oppressor!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[302.10] MALE_PEASANT: That’s enough, we give up!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+
+>>
+[302.20] MALE_PEASANT: We surrender. Please stop hitting us!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+
+>>
+[302.30] MALE_PEASANT: Mercy, mercy! Have mercy!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+
+>>
+[302.40] MALE_PEASANT: Spare us poor, grubby peons!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+
+>>
+[302.50] MALE_PEASANT: I’m not a fighter!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+
+>>
+[302.60] MALE_PEASANT: Take pity on me, Lord!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+
+>>
+[302.70] MALE_PEASANT: Call your creatures off!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+
+>>
+[.] (unattributed): ---
+[303.10] VILLAGE_GUARD: I don’t wanna fight no more!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[303.20] VILLAGE_GUARD: We bow to your superiority and pointy weaponry, Sire.   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[303.30] VILLAGE_GUARD: Spare me from your wrath, oh Great One.   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[303.40] VILLAGE_GUARD: Spare me from your wrath, oh Great One.   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[303.50] VILLAGE_GUARD: Don’t waste your weapons on me, Sire.   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[303.70] VILLAGE_GUARD: Hold back, I give up!   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[303.80] VILLAGE_GUARD: I don’t want to get blood on you, Lord.   <<Note: When the villagers/guards surrender during a fight. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.10] MALE_PEASANT: You’re looking extremely Evil today, Sire.   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.20] MALE_PEASANT: Evil suits you, Lord.   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.30] MALE_PEASANT: You can have my wife! You can even have my sheep!   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.40] MALE_PEASANT: We are not fit to be incinerated by you, Sire.   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.50] MALE_PEASANT: I am your humble, groveling Servant, Lord.   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.60] MALE_PEASANT: Sire, you honor us with your presence.   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.70] MALE_PEASANT: Would you like us to polish your armor for you?   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[304.80] MALE_PEASANT: We’re much more useful alive, Sire!   <<Note: When the player/Minions kill an X-amount of villagers and the villagers/guards have surrendered. Trigger: Various points throughout this area (designers to decide.) 
+>>
+[.] (unattributed): ---
+[305.10] FEMALE_PEASANT: You look especially big and imposing, Sire.   <<Trigger: Various points throughout this area (designers to decide.) >>
+[305.20] FEMALE_PEASANT: We live to serve you.   <<Trigger: Various points throughout this area (designers to decide.) >>
+[305.30] FEMALE_PEASANT: We are honored to bask in your Evil glow!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[305.40] FEMALE_PEASANT: You are my favorite Evil tyrant, Sire.   <<Trigger: Various points throughout this area (designers to decide.) >>
+[305.50] FEMALE_PEASANT: Do with me as you will, oh Dark Lord of all things...er...dark!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[305.60] FEMALE_PEASANT: The creatures are coming! Quick, hide the beer!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[305.70] FEMALE_PEASANT: I’m but a poor wench! Spare me.   <<Trigger: Various points throughout this area (designers to decide.) >>
+[.] (unattributed): ---
+[306.10] VILLAGE_GUARD: Hush, the dark hand of tyranny approaches!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[306.20] VILLAGE_GUARD: We are but pitiful smelly wretches, have pity on us.   <<Trigger: Various points throughout this area (designers to decide.) >>
+[306.30] VILLAGE_GUARD: You may take our homes, but don't take our sheep.   <<Trigger: Various points throughout this area (designers to decide.) >>
+[306.40] VILLAGE_GUARD: Bow, bow down! Quickly!   <<Trigger: Various points throughout this area (designers to decide.) >>
+[306.50] VILLAGE_GUARD: Would you like us to do any smiting for you, Sire?   <<Trigger: Various points throughout this area (designers to decide.) >>
+[306.60] VILLAGE_GUARD: Can I get you a nice drop of pumpkin beer, Sire?   <<Trigger: Various points throughout this area (designers to decide.) >>
+[306.70] VILLAGE_GUARD: They’re comin'! Get the sheep indoors!   <<Trigger: Various points throughout this area (designers to decide.) >>

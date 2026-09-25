@@ -1,0 +1,472 @@
+[M_N.10] (unattributed): You don’t look like you’re from the Empire!
+[M_N.15] (unattributed): Armies of pixies was not in the brochure!
+[M_N.20] (unattributed): This is meant to be a select resort!
+[M_N.25] (unattributed): Don’t tell me, you’re the mime artists?
+[M_N.30] (unattributed): Have you seen that Juno around here?
+[M_N.35] (unattributed): Do you know when the wet toga competition is going to start?
+[M_N.40] (unattributed): Don’t tell my wife I’m here!
+[M_N.45] (unattributed): I’ve been sick 18 times! I think that’s a record!
+[M_N.50] (unattributed): Where have you wandered in from?
+[M_N.55] (unattributed): Hmmm, you don’t look like you’ve been invited!
+[F_N.10] (unattributed): Oh my god who dressed you!
+[F_N.15] (unattributed): I came here to get away from louts like you!
+[F_N.20] (unattributed): How did you get in?
+[F_N.25] (unattributed): Oh dear me no...no, no, no, no, NO!
+[F_N.30] (unattributed): You’re blocking my sun!
+[F_N.35] (unattributed): Hmm the Governess doesn’t care who she lets in!
+[F_N.40] (unattributed): Urrg stay away from me, you underling!
+[F_N.45] (unattributed): This isn’t the place for rampaging! We’re not that sort!
+[F_N.50] (unattributed): Are you some kind of travelling clown act?
+[F_N.55] (unattributed): Does the governess know you’re here?
+[M_N.L1] (unattributed): Another cocktail, slave! And this time I want two umbrellas!
+[M_N.L2] (unattributed): You’d better not take my towel!
+[M_N.L3] (unattributed): No room! No room!
+[M_N.L4] (unattributed): You’re a funny looking slave.
+[M_N.L5] (unattributed): I’m trying to relax here!
+[F_N.L1] (unattributed): Well I’m certainly not going to ask you to rub oil on me!
+[F_N.L2] (unattributed): Stop staring at me!
+[F_N.L3] (unattributed): I need a tan for Emperor Solarius’ party!
+[F_N.L4] (unattributed): At least that Juno hussy isn’t around!
+[F_N.L5] (unattributed): You look like you’ve had too much sun!
+[M_H.10] (unattributed): Don’t kill me, I forgot my travel insurance!
+[M_H.20] (unattributed): Get away from me!
+[M_H.30] (unattributed): Help! Guards! Guards!
+[M_H.40] (unattributed): Please don’t kill me!
+[M_H.50] (unattributed): I don’t want to die on vacation!
+[M_H.60] (unattributed): Nooooooooooo!
+[M_H.70] (unattributed): Did my wife send you?
+[M_H.80] (unattributed): Killing is strictly forbidden!
+[F_H.10] (unattributed): Don’t touch me! Don’t touch me!
+[F_H.20] (unattributed): Nooooooooooo!
+[F_H.30] (unattributed): Don’t kill me!
+[F_H.40] (unattributed): Stay away!
+[F_H.50] (unattributed): I don’t want to die!
+[F_H.60] (unattributed): Get away you beast!
+[F_H.70] (unattributed): Guards! Guards!
+[F_H.80] (unattributed): I’m telling the Governess!
+[M_S.10] (unattributed): I am your loyal slave!
+[M_S.15] (unattributed): I’m yours!
+[M_S.20] (unattributed): I’ll follow you anywhere, Lord!
+[M_S.25] (unattributed): Command me, Great One!
+[M_S.30] (unattributed): I will never leave you.
+[M_S.35] (unattributed): Let me protect you.
+[M_S.40] (unattributed): None shall harm you.
+[M_S.45] (unattributed): Master!
+[M_S.50] (unattributed): Lord, I am yours.
+[M_S.55] (unattributed): I’m Evil and so’s my wife!
+[M_A.10] (unattributed): Protect the Master!
+[M_A.20] (unattributed): I’ll fight for you!
+[M_A.30] (unattributed): Attack!
+[M_A.40] (unattributed): Attaaaaaaaacccck!
+[M_A.50] (unattributed): I fight for my Dark Lord!
+[M_A.60] (unattributed): You shall not hurt my Master.
+[M_A.70] (unattributed): Get them!
+[M_A.80] (unattributed): Silence the unbelievers!
+[F_S.10] (unattributed): Do with me as you will, Sire.
+[F_S.15] (unattributed): My life is yours.
+[F_S.20] (unattributed): I serve you, Master. 
+[F_S.25] (unattributed): Don’t ever leave me, Master!
+[F_S.30] (unattributed): I wish to follow you always!
+[F_S.35] (unattributed): I am your obedient slave!
+[F_S.40] (unattributed): Take me with you.
+[F_S.45] (unattributed): Command me, Lord!
+[F_S.50] (unattributed): I will defend you, Lord.
+[F_S.55] (unattributed): I am your humble servant.
+[F_A.10] (unattributed): For the Master.
+[F_A.20] (unattributed): I will protect my Lord.
+[F_A.30] (unattributed): You shall not touch him.
+[F_A.40] (unattributed): Attack!
+[F_A.50] (unattributed): Attaaaaaaaaccck!
+[F_A.60] (unattributed): I’ll fight for you!
+[F_A.70] (unattributed): Stay back, Lord!
+[F_A.80] (unattributed): I’ll die for you!
+[MELF_N.10] (unattributed): Please don’t make too much mess, man, we have to clear it up!
+[MELF_N.15] (unattributed): I was made to dance and sing and worship nature. Not mop up vomit!
+[MELF_N.20] (unattributed): How could the Mother Goddess let this happen to us?
+[MELF_N.25] (unattributed): First the wave and then this? This is bad karma. Really bad karma.
+[MELF_N.30] (unattributed): We thought the spiders would frighten them off!
+[MELF_N.35] (unattributed): Everlight should be a place of peace and tranquillity.
+[MELF_N.40] (unattributed): What did we do to deserve this?
+[MELF_N.45] (unattributed): This is a holy place, man... the Empire have no respect!
+[MELF_N.50] (unattributed): I hate scrubbing.
+[MELF_N.55] (unattributed): What will all the little creatures do without us to protect them?
+[FELF_N.10] (unattributed): I hear the poor fluffy ones crying for us!
+[FELF_N.15] (unattributed): Such devastation, such destruction... such debauchery!
+[FELF_N.20] (unattributed): I need to be with the flowers.
+[FELF_N.25] (unattributed): This is a place for Elves, not for Empire.
+[FELF_N.30] (unattributed): They lay all over our sands like big pink, beached whales!
+[FELF_N.35] (unattributed): They do not pay heed to the Mother Goddess.
+[FELF_N.40] (unattributed): They drink and eat... and drink and eat... then throw up and do it all over again!
+[FELF_N.45] (unattributed): Nature has forsaken us.
+[FELF_N.50] (unattributed): Did the Mother Goddess send you?
+[FELF_N.55] (unattributed): This place makes my soul hurt.
+[MELF_H.10] (unattributed): Hey stop that!
+[MELF_H.20] (unattributed): Get away! Get away!
+[MELF_H.30] (unattributed): Uncool! Uncool!
+[MELF_H.40] (unattributed): Like we don’t have enough problems!
+[MELF_H.50] (unattributed): You’re giving off bad vibes.
+[MELF_H.60] (unattributed): Nooooooooo!
+[MELF_H.70] (unattributed): Heeeelllp!
+[MELF_H.80] (unattributed): Take it easy, man!
+[FELF_H.10] (unattributed): Mother Goddess protect me!
+[FELF_H.20] (unattributed): You’re worse than the Empire!
+[FELF_H.30] (unattributed): You’re ruining my Karma!
+[FELF_H.40] (unattributed): Heeeeeeeelllp!
+[FELF_H.50] (unattributed): Peace! Peace!
+[FELF_H.60] (unattributed): Don’t kill me!
+[FELF_H.70] (unattributed): I’m not ready to meet the Mother Goddess!
+[FELF_H.80] (unattributed): Why pick on us?
+[MELF_S.10] (unattributed): Where you lead, I follow!
+[MELF_S.15] (unattributed): Use me for you own ends, Sire!
+[MELF_S.20] (unattributed): Command me.
+[MELF_S.25] (unattributed): You’re cooooool.
+[MELF_S.30] (unattributed): Screw Karma, I’m with you!
+[MELF_S.35] (unattributed): I’m your slave.
+[MELF_S.40] (unattributed): Take me with you, Master.
+[MELF_S.45] (unattributed): I’ll protect you!
+[MELF_S.50] (unattributed): Don’t leave me, Master.
+[MELF_S.55] (unattributed): The Dark side calls to me.
+[MELF_A.10] (unattributed): Protect the Master!
+[MELF_A.20] (unattributed): Attack the unbeliever!
+[MELF_A.30] (unattributed): Do not fear, Master I will smite them.
+[MELF_A.40] (unattributed): Strike down the infidels.
+[MELF_A.50] (unattributed): Attack!
+[MELF_A.60] (unattributed): You shall not hurt the Master!
+[MELF_A.70] (unattributed): I will bleed for you, Lord.
+[MELF_A.80] (unattributed): I will smite them!
+[FELF_S.10] (unattributed): What do you wish of me?
+[FELF_S.15] (unattributed): I’m yours!
+[FELF_S.20] (unattributed): Fill me with your Dark energy.
+[FELF_S.25] (unattributed): I’m with you.
+[FELF_S.30] (unattributed): Take me rampaging, Sire!
+[FELF_S.35] (unattributed): I want to be by your side, forever.
+[FELF_S.40] (unattributed): Command me, Great One!
+[FELF_S.45] (unattributed): You need me, Master.
+[FELF_S.50] (unattributed): Take me with you.
+[FELF_S.55] (unattributed): Nothing will harm you. 
+[FELF_A.10] (unattributed): I will keep you safe!
+[FELF_A.20] (unattributed): Attack!
+[FELF_A.30] (unattributed): Nothing shall harm you.
+[FELF_A.40] (unattributed): You shall be preserved.
+[FELF_A.50] (unattributed): Destroy the unbelievers!
+[FELF_A.60] (unattributed): I will die for you.
+[FELF_A.70] (unattributed): Attaaaaaccccck.
+[FELF_A.80] (unattributed): Protect the Master!
+[BUY.MT1] (unattributed): Do you have any cream for a... um personal problem?
+[BUY.MT2] (unattributed): Do you carry the latest news parchments?
+[BUY.MT3] (unattributed): I fancy a little snack.
+[BUY.MT4] (unattributed): I need some body oil, please. Extra slippery.
+[BUY.MT5] (unattributed): Someone stole my towel! I need a new one!
+[BUY.FT1] (unattributed): Do you do toga shortening?
+[BUY.FT2] (unattributed): I need more suncream!
+[BUY.FT3] (unattributed): I want one of those ‘A present from Everlight’ souvenirs... the ones with the sad Elf with the little cocktail jug on a tray!
+[BUY.FT4] (unattributed): Honestly, this stuff’s a load of old tat!
+[BUY.FT5] (unattributed): I need a windbreak... Tarquin’s been over doing the peanuts.
+[DRINK.MT1] (unattributed): Another round here!
+[DRINK.MT2] (unattributed): These just go down far too quickly!
+[DRINK.MT3] (unattributed): Line ‘em up!
+[DRINK.MT4] (unattributed): I want a pink drink and I want it now!
+[DRINK.MT5] (unattributed): I think I’ve got a bad one!
+[DRINK.FT1] (unattributed): Three more please!
+[DRINK.FT2] (unattributed): This isn’t what I ordered!
+[DRINK.FT3] (unattributed): I feel a bit ill.
+[DRINK.FT4] (unattributed): I want one with an umbrella in it... and a parrot... and a little monkey in a tree.
+[DRINK.FT5] (unattributed): Slave, more drinks!
+[LAY.MT1] (unattributed): I need someone to roll me over!
+[LAY.MT2] (unattributed): Ahh, I can feel that sun doing me good.
+[LAY.FT1] (unattributed): Am I done yet?
+[LAY.FT2] (unattributed): The sand just gets everywhere!
+[MM2.MT1] (unattributed): I heard some of the Elves got into Nordberg and started causing a fuss!
+[MM2.FT1] (unattributed): Someone shut down the Elf commune in Nordberg. They were giving away free love. Shame, I liked the sound of that!
+[NDES.MT2] (unattributed): I hear something terrible happened to Governor Borius down in Nordberg!
+[NDES.FT2] (unattributed): They say Borius was killed in Nordberg! I bet they ate him! Savages!
+[NDOM.MT3] (unattributed): I haven’t heard from Governor Borius lately, do you think he’s ok?
+[NDOM.FT3] (unattributed): I heard that Borius has joined some kind of Nordbergian cult!
+[N.MT4] (unattributed): Nordberg sounds like an awful place! They needed a firm hand!
+[N.MT5] (unattributed): I don’t know what Borius did wrong to get sent to a place like Nordberg!
+[N.FT4] (unattributed): I hear the Nordberg men are all lovely and rugged.
+[N.FT5] (unattributed): You wouldn’t catch me going to Nordberg, although they do good slaves!
+[MM5DOM.MT1] (unattributed): That beast sank the boat, Poor fellows! Err, I mean, I’m sure they deserved it!
+[MM5DOM.MT2] (unattributed): And he just rammed it! They stood no chance!
+[MM5DOM.FT1] (unattributed): I hear the boat was sunk! Morty can’t swim. Oh well, I’ll have to find a new husband!
+[MM5DOM.FT2] (unattributed): Well, they got what they deserved for leaving me behind!
+[MM5DOM.MT4] (unattributed): And we almost got away!
+[MM5DOM.MT5] (unattributed): I’m sorry we tried to run from you, Lord!
+[MM5DOM.FT4] (unattributed): I really don’t want to be on vacation anymore!
+[MM5DOM.FT5] (unattributed): He caught up with the boat and dragged them back!
+[MM6.MT5] (unattributed): Slaves, rebelling, who ever heard of such a thing?
+[MM6.FT5] (unattributed): And so I told them, I refuse to be blown up on vacation! It’s very unseemly.
+[ARENA.MT1] (unattributed): I can’t believe I was stuck here for the Arena Games!
+[ARENA.MT2] (unattributed): I heard that the games got very out of hand this year!
+[ARENA.MT3] (unattributed): I miss the City. I miss the banquets... I miss my slaves. Especially that little Nordberg gal!
+[ARENA.MT4] (unattributed): I hear that something nasty happened to Senator Drearius!
+[ARENA.MT5] (unattributed): Someone told me there was a dreadful kafuffle at the Arena Games.
+[ARENA.FT1] (unattributed): And someone stole his sedan chair. I mean really! Is nothing sacred?
+[ARENA.FT2] (unattributed): You know who I blame? That Juno creature!
+[ARENA.FT3] (unattributed): I’m very worried about Mrs Drearius. She’s not returned my letters.
+[ARENA.FT4] (unattributed): It sounds like we’re better off here than in the City. A least I can work on my tan properly.
+[ARENA.FT5] (unattributed): The Drearius villa was overrun by barbarians, apparently. Shocking! Shocking!
+[DOM.MT1] (unattributed): Hey, this was meant to be our party place!
+[DOM.MT2] (unattributed): Why do those things get to party and we don’t?
+[DOM.MT3] (unattributed): He’s turning us into slaves, that’s just not cricket, I tell you!
+[DOM.MT4] (unattributed): All those little creatures, running around having a good time, I’m so jealous!
+[DOM.MT5] (unattributed): No more wet toga competitions.
+[DOM.FT1] (unattributed): What happened to our party?
+[DOM.FT2] (unattributed): But we were the ones meant to be having all the fun.
+[DOM.FT3] (unattributed): Hmmm why is everyone working, they’re supposed to be on vacation!
+[DOM.FT4] (unattributed): When I booked this, I was very insistent that under no circumstances should I be drafted into a slave camp!
+[DOM.FT5] (unattributed): I want to go back to Empire City. No one makes me work there!
+[DES.MT1] (unattributed): It’s too quiet around here.
+[DES.MT2] (unattributed): Where’s everyone gone?
+[DES.MT3] (unattributed): Well, this isn’t much of a vacation!
+[DES.MT4] (unattributed): Everything is burning!
+[DES.MT5] (unattributed): Well, you won’t get any visitors with the place looking like this!
+[DES.FT1] (unattributed): Is everybody... dead?
+[DES.FT2] (unattributed): I don’t want to be left alone in this place!
+[DES.FT3] (unattributed): Well, this is no way to run a vacation resort!
+[DES.FT4] (unattributed): Look at this place, what’s the matter with you?
+[DES.FT5] (unattributed): I’ve had it with these package deals!
+[DIG.MT1] (unattributed): I’m not built to do manual labour, Lord!
+[DIG.MT2] (unattributed): I’m no good at this, how about a nice desk job, Master?
+[DIG.MT1B] (unattributed): I’m not a digger, Lord. I’m more of a watch other people dig person!
+[DIG.FT1] (unattributed): This really isn’t me, Lord.
+[DIG.FT2] (unattributed): I think my hands are going to drop off!
+[DIG.FT1B] (unattributed): I dig for the Demon Lord!
+[SMITH.MT2] (unattributed): I didn’t know I knew how to do this!
+[SMITH.MT3] (unattributed): Hail the Great One!
+[SMITH.FT2] (unattributed): I’m so tired.
+[SMITH.FT3] (unattributed): This is really quite liberating, Lord.
+[TRAN.MT1] (unattributed): Is this hell?
+[TRAN.MT2] (unattributed): No one told me this was a working vacation.
+[TRAN.FT1] (unattributed): Can’t someone just do this for me? It’s so tiring.
+[TRAN.FT2] (unattributed): I think I’m going to faint.
+[SELL.MT1] (unattributed): Get your Minion party hats here, 101 things to put on your head!
+[SELL.MT2] (unattributed): Minion oil, Minion oil, really crisp up those scabby areas!
+[SELL.MT3] (unattributed): Grass skirts, humourous coconut bikinis!
+[SELL.MT4] (unattributed): It’s happy hour!
+[SELL.MT5] (unattributed): Don’t down it all at once!
+[SELL.FT1] (unattributed): Who wanted the fairy kebabs?
+[SELL.FT2] (unattributed): Don’t shout, there’s plenty for all!
+[SELL.FT3] (unattributed): Claw cleaners and back scratchers!
+[SELL.FT4] (unattributed): Snacks, drinks!
+[SELL.FT5] (unattributed): The Minion Mayhem cocktail is now here, no pushing please!
+[ANGRY.MT1_1] (unattributed): That’s awful!
+[ANGRY.MT2_1] (unattributed): You rapscallion!
+[ANGRY.MT3_1] (unattributed): That was unnecessary!
+[ANGRY.MT4_1] (unattributed): Don’t you try doing that to me!
+[ANGRY.MT5_1] (unattributed): Coward!
+[ANGRY.MT1_2] (unattributed): Aggg, what are you doing?
+[ANGRY.MT2_2] (unattributed): That’s disgraceful behaviour!
+[ANGRY.MT3_2] (unattributed): That was horrible!
+[ANGRY.FT1_1] (unattributed): You rotter!
+[ANGRY.FT2_1] (unattributed): Well, that doesn’t scare me.
+[ANGRY.FT3_1] (unattributed): I won’t tolerate that kind of behaviour!
+[ANGRY.FT4_1] (unattributed): They didn’t deserve that!
+[ANGRY.FT5_1] (unattributed): That was horrible!
+[ANGRY.FT1_2] (unattributed): Don’t you come near me!
+[ANGRY.FT2_2] (unattributed): You demon!
+[ANGRY.FT3_2] (unattributed): That was unnecessary!
+[ANGRY.FT4_2] (unattributed): I can’t look!
+[ANGRY.FT5_2] (unattributed): Coward!
+[UNKNO.MT1] (unattributed): No pets in the resort!
+[UNKNO.MT2] (unattributed): Hmmm, have you come from Nordberg? You look like a savage to me!
+[UNKNO.MT3] (unattributed): Those things of yours better not eat my snacks!
+[UNKNO.MT4] (unattributed): I bet those things will drink all the cocktails!
+[UNKNO.FT1] (unattributed): Don’t let those dogs of yours mess in the sand!
+[UNKNO.FT2] (unattributed): And what are you meant to be?
+[UNKNO.FT3] (unattributed): Are you a gigolo? I’ve heard about men like you preying on beautiful women whilst they’re on vacation!
+[UNKNO.FT4] (unattributed): Are those little things some kind of souvenir? Do you have pastel colors?
+[KNO.MT1] (unattributed): Oh god, not you!
+[KNO.MT2] (unattributed): He’s back to spoil our vacation again!
+[KNO.MT3] (unattributed): Not those little things again!
+[KNO.MT4] (unattributed): That little rat army are back!
+[KNO.MT5] (unattributed): It’s the Evil of Everlight!
+[KNO.FT1] (unattributed): Please, just leave us alone!
+[KNO.FT2] (unattributed): He’s come to ravish me!
+[KNO.FT3] (unattributed): They’re going to mess everything up!
+[KNO.FT4] (unattributed): Those little things get everywhere! Somebody stop them!
+[KNO.FT5] (unattributed): Run! Run! Hide the cocktails!
+[PUSH.MT1] (unattributed): What did you do that for? Ruffian!
+[PUSH.MT2] (unattributed): We’ve got some kind of trouble maker here!
+[PUSH.MT3] (unattributed): Aggg, he’s after me! He’s after me!
+[PUSH.MT4] (unattributed): Don’t kill me!
+[PUSH.MT5] (unattributed): Don’t touch me! Don’t touch me!
+[PUSH.FT1] (unattributed): Aggg stop that, you cad!
+[PUSH.FT2] (unattributed): Are you trying to get me angry?
+[PUSH.FT3] (unattributed): No smiting! I will not be smited!
+[PUSH.FT4] (unattributed): What kind of monster are you?
+[PUSH.FT5] (unattributed): How could you do that to a lady?
+[PIN.MT1] (unattributed): His attack dogs have got me!
+[PIN.MT2] (unattributed): Agggg, they’re going to eat me!
+[PIN.MT3] (unattributed): His dogs! They’re all over me!
+[PIN.MT4] (unattributed): These little things get them off me!
+[PIN.MT5] (unattributed): Oh god, I’m surrounded!
+[PIN.FT1] (unattributed): Call off your creatures!
+[PIN.FT2] (unattributed): Aggg they’ll get in my hair!
+[PIN.FT3] (unattributed): Get these rat things off me!
+[PIN.FT4] (unattributed): Help get this little devil off me!
+[PIN.FT5] (unattributed): They’re everywhere!
+[SLA.MT1_1] (unattributed): You’re an evil inspiration, Sire!
+[SLA.MT2_1] (unattributed): I will work tirelessly to serve the needs of our new guests.
+[SLA.MT3_1] (unattributed): You know how to throw a party, Sire. Wish it was for us.
+[SLA.MT4_1] (unattributed): Those little fellows of yours certainly know how to relax!
+[SLA.MT5_1] (unattributed): We’re all terribly, terribly evil around here now, Lord!
+[SLA.MT1_2] (unattributed): Even demon armies need a place to unwind.
+[SLA.MT2_2] (unattributed): Overworked and underpaid, but at least I’m supporting the dark regime!
+[SLA.FT1_1] (unattributed): Your party looks much more fun than ours was!
+[SLA.FT2_1] (unattributed): Better to be overworked and alive than underworked and dead!
+[SLA.FT3_1] (unattributed): I say, those demons of yours really know how to have a good time!
+[SLA.FT4_1] (unattributed): I’m simply pausing work to bask in your dark glory, Master.
+[SLA.FT5_1] (unattributed): Evil is my middle name, Sire...after Hermione.
+[SLA.FT1_2] (unattributed): Hurrah for the evil party!
+[SLA.FT2_2] (unattributed): I hope your little creatures are enjoying themselves, Master.
+[SWEEP.ME1] (unattributed): The Mother Goddess wouldn’t approve of this.
+[SWEEP.ME2] (unattributed): I was born to sing and dance, not sweep!
+[SWEEP.ME3] (unattributed): This is never ending!
+[SWEEP.ME4] (unattributed): These tourists are so messy.
+[SWEEP.ME5] (unattributed): Everlight never used to be like this.
+[SWEEP.FE1] (unattributed): I even sweep in my dreams now.
+[SWEEP.FE2] (unattributed): The Mother Goddess would not approve of her child sweeping!
+[SWEEP.FE3] (unattributed): I need to feel the softness of the forest floor beneath me.
+[SWEEP.FE4] (unattributed): I sweep and sweep, but it never gets clean. It will never be clean again.
+[SWEEP.FE5] (unattributed): It will just be dirty tomorrow.
+[SELL.ME1] (unattributed): Everlight souvenirs, get your stuffed baby spiders here.
+[SELL.ME2] (unattributed): No we don’t have any of those left, Sir.
+[SELL.ME3] (unattributed): We’re running very short on coconut oil.
+[SELL.ME4] (unattributed): Sand brushes, gets unwanted grit out of those hard to reach places.
+[SELL.ME5] (unattributed): The wet toga competition will start in one hour. We ask that Elderly male guests be accompanied at all times!
+[SELL.FE1] (unattributed): Beach towels, beach towels.
+[SELL.FE2] (unattributed): Cocktails, freshly mixed.
+[SELL.FE3] (unattributed): Five jugs... are you sure? Okay, Sir!
+[SELL.FE4] (unattributed): No, I am not for sale, Sir.
+[SELL.FE5] (unattributed): Here you go Ma’am.
+[HAMM.ME1] (unattributed): Please don’t break this again, Lord.
+[HAMM.ME2] (unattributed): I need more wood!
+[HAMM.ME3] (unattributed): Why all this destruction, man?
+[HAMM.ME4] (unattributed): May the Mother Goddess protect this place. So I don’t have to do this again!
+[HAMM.FE1] (unattributed): Why must you break things?
+[HAMM.FE2] (unattributed): At least this is better than cleaning up after them!
+[HAMM.FE3] (unattributed): Just don’t break any more, man.
+[HAMM.FE4] (unattributed): Hand me some more nails.
+[MM2DES.ME1] (unattributed): I heard some of our Elven brothers were crushed in the pursuit of peace and love!
+[MM2DES.ME2] (unattributed): The Elf Commune down in Nordberg was viciously raided. They are with the Mother Goddess now!
+[MM2DES.FE4] (unattributed): I hear the spirits of our dead kindred in Nordberg. They call out to me.
+[MM2DES.FE5] (unattributed): Our fellow Elves tried to bring peace and love to Nordberg. But they were brutally cut down!
+[MM2DOM.ME4] (unattributed): The Dark Lord has claimed our kindred in Nordberg. They are his now.
+[MM2DOM.ME5] (unattributed): I have not heard from our brothers in Nordberg. I fear what may have happened to them.
+[MM2DOM.FE4] (unattributed): Our brave sister Elves are bringing the message of love to Nordberg.
+[MM2DOM.FE5] (unattributed): So you think the Elves at the Nordberg commune could have fallen under his dark spell?
+[MM4DES.ME1] (unattributed): And the Dark Lord sunk their boat! I think he must have been working with the Mother Goddess!
+[MM4DES.ME2] (unattributed): I saw their boat sinking! That’s what you get for messing with Everlight!
+[MM4DES.FE1] (unattributed): He rammed their boat. Do you think he could be on our side?
+[MM4DES.FE2] (unattributed): I normally take no joy in death, but for those Empire tourists I’ll make an exception!
+[MM4DOM.ME4] (unattributed): He brought those tourists back, but at least they might do some work now!
+[MM4DOM.ME5] (unattributed): I wish he’d killed those tourists, man. Not brought them back to us!
+[MM4DOM.FE4] (unattributed): The Mother Goddess should have sunk that Empire boat!
+[MM4DOM.FE5] (unattributed): Did you see them running? That’s more exercise than they’ve had all lifetime!
+[MM5DES.ME4] (unattributed): He just cut them down. The Dark Lord has no mercy!
+[MM5DES.ME5] (unattributed): Shussh! Do not let him hear us talking, or we will die like the rest!
+[MM5DES.FE4] (unattributed): They were brave, but foolish, why did they think they could stand against him?
+[MM5DOM.ME4] (unattributed): Those rebels were lucky to be turned into slaves! The Dark One could have killed them!
+[MM5DOM.ME5] (unattributed): Those rebels bow to the Dark One now!
+[MM5DOM.FE5] (unattributed): I’m glad the rebellion is over, my fragile soul cannot take any more noise!
+[WAST.ME1] (unattributed): My soul cries out in pain at the destruction of the Last Sanctuary.
+[WAST.ME2] (unattributed): Could it really be that the Last Sanctuary is no more?
+[WAST.ME3] (unattributed): They say that Queen Fay herself gave the Dark One the Sanctuary to destroy!
+[WAST.FE1] (unattributed): How could Queen Fay sacrifice the Last Sanctuary to him?
+[WAST.FE2] (unattributed): So many beautiful magical creatures are lost to us now!
+[WAST.FE3] (unattributed): Queen Fay escaped the Empire, but she could not escape him!
+[FAYD.ME4] (unattributed): I am told Queen Fay has turned into some kind of dark creature!
+[FAYD.ME5] (unattributed): The Dark Lord has taken Queen Fay for his own. This is terrible, man, terrible!
+[FAYD.FE4] (unattributed): Have you heard what happened to Queen Fay?
+[FAYD.FE5] (unattributed): The Queen and the Last Sanctuary are lost to us. This is the end. The end!
+[FAYG.ME4] (unattributed): He cut down Queen Fay! Our beloved Queen!
+[FAYG.ME5] (unattributed): Our Queen is gone, although there are those that say her spirit is still with us.
+[FAYG.FE4] (unattributed): Our Queen has been slaughtered in cold blood! Our last hope is gone!
+[FAYG.FE5] (unattributed): They say even though she is dead, the spirit of Queen Fay still lingers somewhere.
+[DOM.ME1] (unattributed): Hey man, at least we aren’t the only slaves now!
+[DOM.ME2] (unattributed): Hmm, well the guests have changed, but the partying still goes on!
+[DOM.ME3] (unattributed): Now they know what it’s like to serve rude, demanding guests all day!
+[DOM.ME4] (unattributed): I’d still rather these creatures than those Empire tourists!
+[DOM.FE1] (unattributed): When will the partying end?
+[DOM.FE2] (unattributed): I hope the Mother Goddess is averting her eyes from all this new debauchery!
+[DOM.FE3] (unattributed): At least we have some help serving now!
+[DES.ME4] (unattributed): Has the Dark Lord taken them?
+[DES.ME5] (unattributed): Why does he desire bodies, not slaves?
+[DES.FE4] (unattributed): Is everybody... dead?
+[DES.FE5] (unattributed): He desires nothing but death and destruction!
+[S_DIG.ME1] (unattributed): Mother Goddess save my hands!
+[S_DIG.ME2] (unattributed): Why such cruelty, Dark One?
+[S_DIG.FE2] (unattributed): I dig for the Dark One!
+[S_HAM.ME3] (unattributed): I will work until my hands bleed!
+[S_HAM.ME4] (unattributed): I shall not stop my toil, Dark One!
+[S_HAM.FE1] (unattributed): May the Mother Goddess guide my hammer!
+[S_TRA.ME2] (unattributed): We let Everlight fall. Now the Mother Goddess is letting us fall too.
+[S_TRA.ME3] (unattributed): I am weakening.
+[S_TRA.FE2] (unattributed): If I die, know I died for you, Dark Lord.
+[S_SELL.ME1] (unattributed): Snacks!
+[S_SELL.ME2] (unattributed): Cocktails, by the glass, jug or bucket!
+[S_SELL.ME3] (unattributed): It’s happy hour again... just like the last hour!
+[S_SELL.ME4] (unattributed): Ear wax scoops.
+[S_SELL.ME5] (unattributed): Please don’t break any more jugs on my head!
+[S_SELL.FE1] (unattributed): Minion nibbles. Still wet and wriggling!
+[S_SELL.FE2] (unattributed): What would you like, Mr. scabby creature?
+[S_SELL.FE3] (unattributed): We need more vomit buckets!
+[S_SELL.FE4] (unattributed): Cocktails!
+[S_SELL.FE5] (unattributed): We’re all out of umbrellas, I’m afraid. Would you like a cherry on a stick?
+[FLEE.ME1] (unattributed): Mother Goddess protect us!
+[FLEE.ME2] (unattributed): You are a beast, a beast!
+[FLEE.ME3] (unattributed): That was so uncool, man!
+[FLEE.ME4] (unattributed): That’s gonna bring you bad karma man!
+[FLEE.ME5] (unattributed): Noooooo!
+[FLEE.FE1] (unattributed): Please don’t hurt us!
+[FLEE.FE2] (unattributed): Take your evil ways far from Everlight.
+[FLEE.FE3] (unattributed): Oh no! Do you need a hug, Dark Lord?
+[FLEE.FE4] (unattributed): Why would you do such a thing?
+[FLEE.FE5] (unattributed): Mother Goddess shield my eyes!
+[UNKNO.ME1] (unattributed): Gosh, man, your creatures scare me.
+[UNKNO.ME2] (unattributed): I do not think those creatures have come from the Mother Goddess
+[UNKNO.ME3] (unattributed): Have you come to save us, man?
+[UNKNO.ME4] (unattributed): Are you a slave too?
+[UNKNO.FE1] (unattributed): I sense a dark aura about you!
+[UNKNO.FE2] (unattributed): I am chilled by your presence.
+[UNKNO.FE3] (unattributed): What manner of creature are you?
+[UNKNO.FE4] (unattributed): Oh the bad vibes, they hurt my heart.
+[KNO.ME5] (unattributed): Mother Goddess protect us, it’s him!
+[KNO.ME1] (unattributed): He has come to send us to the next world!
+[KNO.ME2] (unattributed): Why? Why? Why is this happening to us, man?!
+[KNO.ME3] (unattributed): The dark creatures, they are approaching!
+[KNO.FE5] (unattributed): Please, just leave us alone!
+[KNO.FE1] (unattributed): The demons are back!
+[KNO.FE2] (unattributed): It is he who must be avoided!
+[KNO.FE3] (unattributed): They have no respect for Everlight!
+[KNOCK.ME1] (unattributed): Why did you do that?
+[KNOCK.ME2] (unattributed): What’s your problem, man?
+[KNOCK.ME3] (unattributed): Hey, I’m a peaceful type!
+[KNOCK.ME4] (unattributed): Ouuuuccccch!
+[KNOCK.ME5] (unattributed): I’m not looking to fight, Dark One!
+[KNOCK.FE1] (unattributed): I have been struck by the darkness!
+[KNOCK.FE2] (unattributed): The bad karma is coming for me!
+[KNOCK.FE3] (unattributed): Why would you do that?
+[KNOCK.FE4] (unattributed): Oooouuuccch!
+[KNOCK.FE5] (unattributed): Don’t kill me!
+[PIN.ME1] (unattributed): The demons have me!
+[PIN.ME2] (unattributed): I am demon food!
+[PIN.ME3] (unattributed): They’re all over me!
+[PIN.ME4] (unattributed): These little things get them off me!
+[PIN.ME5] (unattributed): I’m surrounded, man, I’m surrounded!
+[PIN.FE1] (unattributed): Mother Goddess save me from the demons!
+[PIN.FE2] (unattributed): I do not wish to be eaten!
+[PIN.FE3] (unattributed): Please call your creatures off!
+[PIN.FE4] (unattributed): Heeeeeeelllp!
+[PIN.FE5] (unattributed): They’re everywhere!
+[SLAVE.ME1] (unattributed): I hope your guests are enjoying themselves, Lord.
+[SLAVE.ME2] (unattributed): It is an honour to serve you and your creatures, Dark One.
+[SLAVE.ME3] (unattributed): Your demons party harder than the tourists!
+[SLAVE.ME4] (unattributed): The Mother Goddess is nothing compared to you, Dark One!
+[SLAVE.ME5] (unattributed): You sure know how to throw a party, man!
+[SLAVE.FE1] (unattributed): I serve the evil party.
+[SLAVE.FE2] (unattributed): Let me bask in your dark aura.
+[SLAVE.FE3] (unattributed): I live to serve you.
+[SLAVE.FE4] (unattributed): Long may the partying continue, Dark One.
+[SLAVE.FE5] (unattributed): Praise the Dark One! Praise the Darkness!

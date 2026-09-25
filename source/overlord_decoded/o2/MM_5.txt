@@ -1,0 +1,83 @@
+[100.10] (unattributed): He’s coming! He’s gonna try to stamp down our rebellion!
+[100.20] (unattributed): Protect them! The rebellion must not be thwarted!
+[110.10] (unattributed): Quick, more barrels!
+[110.20] (unattributed): Too late, he’s here!
+[110.30] (unattributed): Get those barrels into position!
+[110.40] (unattributed): The rebellion must not fail!
+[110.50] (unattributed): Here he comes!
+[110.60] (unattributed): Quick, set them up!
+[110.70] (unattributed): Don’t let him get into town!
+[110.80] (unattributed): Man the blockades!
+[120.10] (unattributed): This entrance is blocked, Master. Blasted Elves! You’ll have to find another route.
+[120.20] (unattributed): They’ve blocked off this entrance, too!
+[120.30] (unattributed): This route is blocked as well, Sire.
+[120.40] (unattributed): You won’t get in that way, Master.
+[P.M1_1] (unattributed): Protect us from the rebels, Master.
+[P.M2_1] (unattributed): The slaves are rebelling!
+[P.M3_1] (unattributed): Don’t look at me, I’m no rebel!
+[P.M4_1] (unattributed): I bet they want to be paid. Outrageous!
+[P.M5_1] (unattributed): They blew up my favourite sun lounger!
+[P.M1_2] (unattributed): Sort them out, Master.
+[P.M2_2] (unattributed): Rebelling, who ever heard of such a thing!
+[P.M3_2] (unattributed): No one’s bringing me my drinks!
+[P.F1_1] (unattributed): The slaves are revolting... totally.
+[P.F2_1] (unattributed): We don’t rebel where I come from!
+[P.F3_1] (unattributed): Please sort out those awful rebels!
+[P.F4_1] (unattributed): Those rebels are everywhere.
+[P.F5_1] (unattributed): I hope I don’t get any of that rebellion on me.
+[P.F1_2] (unattributed): I don’t want to be blown up, Lord!
+[P.F2_2] (unattributed): I’m most certainly not a rebel!
+[P.F3_2] (unattributed): They’re rebelling! No respect for authority!
+[SOLDIER.10] (unattributed): You’re oppressing our people!
+[SOLDIER.15] (unattributed): Stay back Scourge of Nature!
+[SOLDIER.20] (unattributed): What we do we do for the good of all creatures! You must be stopped!
+[SOLDIER.25] (unattributed): The Evil of Everlight will be no more!
+[SOLDIER.30] (unattributed): We’ve had enough of your negative energy!
+[SOLDIER.35] (unattributed): We won’t let you take Everlight!
+[SOLDIER.40] (unattributed): You’re in league with the Empire, aren’t you, man?
+[SOLDIER.45] (unattributed): We’d love you if your creatures were fluffier!
+[SOLDIER.50] (unattributed): Let us have our island back, man!
+[SOLDIER.55] (unattributed): We won’t let you give our people bad karma!
+[200.10] (unattributed): Now, Sire, you must root out these naughty, rebellious tinkers and make them subservient or make them dead!
+[NEUTRAL.M6_1] (unattributed): I’m not with the rebellion! You gotta believe me!
+[NEUTRAL.M7_1] (unattributed): I like you, man!
+[NEUTRAL.M8_1] (unattributed): I’m cool man, I’m cool!!
+[NEUTRAL.M9_1] (unattributed): Honestly, we’re not rebels!
+[NEUTRAL.M10_1] (unattributed): I’m just minding my own business, man.
+[NEUTRAL.M6_2] (unattributed): I don’t know anything...about er... anything!
+[NEUTRAL.M7_2] (unattributed): I’m not involved, man! I’m not involved.
+[NEUTRAL.M8_2] (unattributed): My mojo’s cool with you man. I ain’t rebelling.
+[NEUTRAL.F6_1] (unattributed): Relax! Relax! I’m not a rebel!
+[NEUTRAL.F7_1] (unattributed): It wasn’t me!
+[NEUTRAL.F8_1] (unattributed): Hey, I’m no rebel!
+[NEUTRAL.F9_1] (unattributed): I don’t know anything about a rebellion!
+[NEUTRAL.F10_1] (unattributed): I don’t know anything! I don’t know anything!
+[NEUTRAL.F6_2] (unattributed): I swear I don’t know anything about a rebellion!
+[NEUTRAL.F7_2] (unattributed): Please don’t hassle me!
+[NEUTRAL.F8_2] (unattributed): No really, I like your dark vibes!
+[HOSTILE.M1] (unattributed): Up the rebellion! Up the rebellion!
+[HOSTILE.M2] (unattributed): For the rebels!
+[HOSTILE.M3] (unattributed): I’ll cut you down, man!
+[HOSTILE.M4] (unattributed): Destroy the Evil of Everlight!
+[HOSTILE.M5] (unattributed): You’re too uncool, man!
+[HOSTILE.M7] (unattributed): Death to the oppressor!
+[HOSTILE.F1] (unattributed): The rebels will triumph!
+[HOSTILE.F2] (unattributed): You will pay for your evil ways!
+[HOSTILE.F3] (unattributed): The Mother Goddess gives me strength!
+[HOSTILE.F4] (unattributed): You will not cut us down!
+[HOSTILE.F5] (unattributed): For the rebellion!
+[HOSTILE.F6] (unattributed): There he is! The evil!
+[HOSTILE.F7] (unattributed): Crush the army of evil!
+[REB_S.M1] (unattributed): I don’t know what I was thinking!
+[REB_S.M2] (unattributed): I’ll never do it again!
+[REB_S.M3] (unattributed): I didn’t mean to rebel.
+[REB_S.M4] (unattributed): I’m sorry, Master.
+[REB_S.M5] (unattributed): Forgive me, Lord.
+[REB_S.M7] (unattributed): I was such a fool, Master.
+[REB_S.F1] (unattributed): Forgive this foolish ex rebel.
+[REB_S.F2] (unattributed): No more rebellion for me!
+[REB_S.F3] (unattributed): I’m yours again, Sir!
+[REB_S.F4] (unattributed): I’ll never rebel again!
+[REB_S.F5] (unattributed): I do not deserve such mercy, Lord
+[REB_S.F6] (unattributed): I swear I’ll never do it again!
+[REB_S.F7] (unattributed): I swear to the Mother Goddess, no more trouble!

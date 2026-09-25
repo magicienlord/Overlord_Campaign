@@ -1,0 +1,55 @@
+[100.10] GNARL: All this for one bloated Halfling hero! It could feed a hundred Minions!   <<Trigger: The player enters the first area where some cooks are preparing dinner for Melvin. Quick camera pan over the area. 
+>>
+[100.20] GNARL: The Reds! Those Halflings must be using them to start the cooking fires!   <<Camera cuts to the Red held behind a gate under the gratings.>>
+[100.30] GNARL: They must use that wheel to control the flames.
+[101.10] GNARL: Ha! Roasted in his own kitchen! There’s something Evilly poetic about that!   <<Trigger: The player sets a cook on fire. These lines can be looped. >>
+[101.20] GNARL: More roast meat for Melvin!   <<Trigger: The player sets a cook on fire. These lines can be looped. >>
+[101.30] GNARL: A good Halfling is an on-fire-and screaming Halfling!   <<Trigger: The player sets a cook on fire. These lines can be looped. >>
+[102.10] BROWN_MINION: Yuck!   <<Yuuuuuuuuuuuuck! | Trigger: The player enters the Melvin Boss fight area. The camera focuses on Melvin’s back while he eating from a large plate of food. There are loud and disgusting eating noises. 
+>>
+[102.20] MELVIN: Melvin ain't so small now!   <<Melvin turns round in middle of eating, his mouth half open, food dripping out of it.>>
+[103.10] MELVIN: Come ‘ere!   <<Trigger: Melvin tries to stab a Minion with a fork.>>
+[103.20] MELVIN: Oh...Stay still little snack!   <<Trigger: Melvin tries to stab a Minion with a fork.>>
+[103.30] MELVIN: Mine! Mine! Mine!   <<Trigger: Melvin tries to stab a Minion with a fork.>>
+[103.40] MELVIN: Tasty! Ooh! Tasty!   <<Tasssssty! Tassssty! | Trigger: Melvin tries to stab a Minion with a fork.>>
+[103.50] MELVIN: Hungry... hungry!   <<Hungrrrry... hungrrrrry!
+ | Trigger: Melvin tries to stab a Minion with a fork.>>
+[104.10] MELVIN: Food!   <<Foooooooooood! | Trigger: Melvin has lost a certain amount of health. A plate of food descends from the ceiling on a chain. Melvin stops attacking and runs to the food.
+>>
+[105.10] MELVIN: Squash food, eat food!   <<Trigger: As Melvin rolls himself up into a ball to execute his rolling attack.>>
+[106.10] GNARL: Burst him like a balloon, Master!   <<Trigger: Melvin is almost dead.When Melvin is almost dead he will wobble into the middle of the room and fall down convulsing.
+
+>>
+[107.10] GNARL: That is concentrated Evil, Sire!    <<Trigger: Melvin is dead. A large red cloud of concentrated Evil floats up from Melvin’s corpse and disperses.
+>>
+[107.20] GNARL: It accumulates in those of an especially Evil disposition!
+[107.30] GNARL: Now you’ve dealt with Melvin, you should endeavor to find our fiery friends.
+[200.10] GNARL: Reds! Look after them, and they’ll look after you. Just like one big Evil family.   <<Trigger: Player frees the first 5 Red Minions. Non-Interactive Cut-scene The Red minions run under the grating and out the oven. When the Reds run out of the oven they run towards a red gate and jump >>
+[200.20] GNARL: As I explained, Reds are fire immune, but they also have a powerful ranged attack.
+[201.10] GNARL: Summon some Reds, Sire. If you’ve reached your Maximum Minion Horde with your Browns, you can swap them at the Gate.   <<Trigger: Above cut-scene becomes interactive.>>
+[202.10] GNARL: I think you should have a little practice, Sire. Select your Reds.   <<Trigger: The player has pulled the Reds out of the gate:>>
+[203.10] GNARL: Now sweep your Reds into that fire barrier over there.   <<Trigger: Tutorial text on screen. Hold the RB button to select the minion type. Now select the Red Minions by pressing B
+>>
+[204.10] GNARL: More Reds are available at the Gate, Master.
+[205.10] GNARL: This is Red Lifeforce, Sire. It will allow you to summon more Reds.   <<Trigger: Player harvests Red Lifeforce for the first time,>>
+[206.10] GNARL: That’s the Red Minion Hive, Master! Summon enough Reds to carry it to the Waypoint Gate.   <<Trigger: Player nears Red Hive.
+Brief cut-away highlighting the Red Minion Hive.
+>>
+[207.10] GNARL: The Reds won’t leave without their Hive.   <<Trigger: The player tries to leave the area without the Red Hive. The Reds will refuse to go any further.
+>>
+[300.10] GNARL: Ah, the perfect opportunity to test out your Reds on those Halflings.   <<Trigger: The player nears the area where the Halflings can be seen through the gate.>>
+[300.20] GNARL: Recall your Reds from the Red Hive and commence the fry and die, Sire!
+[301.10] GNARL: Quick Sire, select your Browns again!   <<Trigger: Reds kill X amount of Halflings. Short non-interactive cut-scene.The rest of the Halflings run out of the area and towards the door/gate and try andstart banging on the door trying to break i>>
+[301.20] GNARL: Quick Sire, select your Browns!
+[302.10] GNARL: Quick Sire, select all your Minions!   <<Trigger: When player has selected Browns/All Minions. Non-Interactive Short shot on the door, the gate opens and the Halflings run in. Ends – scene becomes interactive 
+
+>>
+[303.10] GNARL: Do not forget the Red Hive, Sire.   <<Trigger: The player tries to proceed to the next area without the Red Hive.>>
+[304.10] GNARL: You cannot reach them from here. You must reposition your Reds for maximum flaming carnage!   <<Trigger: Player enters second area with the Halfling cooks in.
+Non-Interactive. Brief cut-scene - Shot on cook coming out of a door spawner. Shot on another cook walking towards the wheel (the cooks a>>
+[305.10] GNARL: Sire, you can hold the position of your Minions by placing Guard Markers for them.   <<Trigger: The player sweeps the Reds to the vantage point 
+
+>>
+[306.10] GNARL: See, now they are holding off the cooks you can sweep your Browns to that fire wheel.   <<Trigger: Player uses flag and Reds fire down on cooks.>>
+[307.10] GNARL: There were flames... there was carnage... well done Sire!   <<Trigger: The player clears the area of cooks>>
+[308.10] GNARL: No Hive, no Reds, Sire!   <<Trigger: The player tries to leave the level without taking the Red Hive.>>

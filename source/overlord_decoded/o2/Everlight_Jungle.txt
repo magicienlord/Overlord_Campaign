@@ -1,0 +1,64 @@
+[100.10] (unattributed): Everlight is where Elves go when they get sick and tired of the world.
+[100.20] (unattributed): It’s also where Elves go when the world gets sick and tired of Elves!
+[100.30] (unattributed): It is rumored to be an island paradise, where the Elves go to meditate and be spiritually at one with the earth.
+[100.40] (unattributed): Blleeeeeuucccccchhhaa!
+[100.50] (unattributed): Hmm, it seems the Empire have got here first!
+[100.60] (unattributed): Well, you can always count on tourists to add a bit of color to a place!
+[100.70] (unattributed): Ah yes, Everlight has some wonderfully stimulating examples of natural splendor!
+[100.80] (unattributed): Don’t distract him Gnarl!
+[100.90] (unattributed): Master... Master... Mast-
+[110.10] (unattributed): Ma...ster... M...
+[110.20] (unattributed): There you are! I knew you’d make it!
+[110.30] (unattributed): Apologies, Sire, we lost your signal for a while, there. Glad to see you’re not dead!
+[110.40] (unattributed): Now, head for the Gate Grubby’s set-up.
+[110.50] (unattributed): I thought you might have been distracted by a certain scenic local!
+[110.60] (unattributed): I heard that!
+[200.10] (unattributed): According to rumors in the Spawning Pit, the Empire hasn’t taken over all of Everlight. 
+[200.20] (unattributed): Apparently there are still Elves hiding in the jungle. 
+[210.10] (unattributed): These females are the height of Elven beauty. They force feed themselves to look like their Mother Goddess deity. 
+[210.20] (unattributed): Hell of a wobble these ladies have... hell of a wobble!
+[210.30] (unattributed): They seem to have a connection with the ruin doors.
+[220.10] (unattributed): You interrupt the feeding!
+[220.15] (unattributed): The Mother Goddess will prevail.
+[220.20] (unattributed): Nature swells me!
+[220.25] (unattributed): Avert your eyes from my beauty!
+[220.30] (unattributed): Remove yourselves from this sacred place.
+[220.35] (unattributed): Crush the skinny ones!
+[220.40] (unattributed): Do not disturb the feasting!
+[220.45] (unattributed): For the Mother Goddess!
+[220.50] (unattributed): Big is beautiful!
+[220.55] (unattributed): My body is a temple!
+[220.60] (unattributed): To feed is to worship!
+[220.65] (unattributed): Leave this place!
+[220.70] (unattributed): Mother Goddess protect me!
+[220.75] (unattributed): Do not assault my sacred flesh!
+[220.80] (unattributed): I am one with my Goddess.
+[223.10] (unattributed): Hmmm we need to get her down off that platform.
+[223.20] (unattributed): Er, perhaps you should try a spell on her, Master?
+[226.10] (unattributed): Smash those stinking flowers, Sire. It will distract those insects!
+[226.20] (unattributed): Flatten that flora, Master!
+[226.30] (unattributed): Quick, Lord. Bash those blooms and distract the spiders.
+[230.10] (unattributed): Try picking up those pods, Sire.
+[230.20] (unattributed): Distract the spiders by picking up those pods!
+[230.30] (unattributed): Quick, grab those pods and distract those insects!
+[240.10] (unattributed): Can’t let your Minions become a spider’s breakfast, Master.
+[240.20] (unattributed): Ewww I bet he’s all sticky now!
+[240.30] (unattributed): One more Minion, Master!
+[240.40] (unattributed): You’ll have your horde back in no time, Sire.
+[240.50] (unattributed): Lazy blighter, just hanging around waiting to be rescued!
+[240.60] (unattributed): Good work, Master!
+[300.10] (unattributed): You won’t get by those poison barriers with normal Minions. You need the Greens.
+[300.20] (unattributed): They love jungle areas especially those with lots of rotting vegetation and exotic stenches!
+[300.30] (unattributed): Go deeper into the jungle, Sire and see if you can sniff them out.
+[310.10] (unattributed): By my scales what kind of teddy-shaped monster is this? 
+[310.20] (unattributed): I’ve never seen anything like it... even in the lands around the old Tower! 
+[310.30] (unattributed): Ewww, it’s just so fluffy... it’s repulsive... My eyes! My eyes!
+[310.40] (unattributed): What wonderful fur that beast has. I bet it would look much better on me, though!
+[320.10] (unattributed): Best to leave that monster to its munching, Sire. It has a taste for that tall grass.
+[320.20] (unattributed): Doesn't look like that beast could fit through those rocks, Master. But you could!
+[330.10] (unattributed): Look, Greens! Ah, I’ve almost missed their smell.
+[330.20] (unattributed): Hmmm, look there, Sire. At least they don’t seem foolish enough to try attacking, you. Must be a fan!
+[340.10] (unattributed): Perhaps the Greens can subdue the beast with their stealth attack!
+[350.10] (unattributed): As pungent as they might be, Greens are surprisingly stealthy and have a very nasty back-stab attack.
+[350.20] (unattributed): You’ll need to find the Green Hive if you wish to summon more of the little sneakers.
+[350.30] (unattributed): Ah, the Greens tell me that the Empire stole the hive. They’re keeping it in a heavily guarded building, nearby.

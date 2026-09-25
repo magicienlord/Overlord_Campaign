@@ -1,0 +1,55 @@
+[100.10] TEMPLE_GHOST_ELF_1: You are journeying toward damnation, Outsider!   <<Trigger: On entering the temple for the first time
+The cut-scene starts and the camera floats down to an Elf guard who comes forward and starts speaking.
+>>
+[100.20] TEMPLE_GHOST_ELF_1: We are the ever vigilant ones. Sworn to protect the tombs of our heroes fallen in battle.   <<In this view, on the right side of the tomb, Jewel drops from the air, silently. The Elf doesn't notice her and keeps droning on. >>
+[100.30] TEMPLE_GHOST_ELF_1: We guard their rest until the day when they shall rise and reclaim our fallen Kingdom.   <<Jewel sneaks behind the tomb. The camera moves a bit to focus on the tomb. She gestures upwards and several raiders drop down to join her. >>
+[100.40] TEMPLE_GHOST_ELF_1: Intruders! Defilers! Infidels! Cease so I may strip the quivering flesh from your unholy bones!   <<Jewel strikes the tomb and the lid wobbles and falls off, and a magical effect appears from the now open tomb. The camera flies to the door, and the player can see a magical light appear on a light-ho>>
+[100.50] GNARL: It seems that the tombs hold the key to this place. Be thankful for the foolishness of others.   <<Gnarl comment after the cutscene>>
+[200.10] TOMB_ELF_GHOST: Go no further. We are the watchers...   <<Whispering. | Trigger: When the player nears a temple room (on the stairs)for the first time.
+
+>>
+[200.15] GNARL: Careful, they’ll attack whatever they see, so make sure they don’t see you!   <<Trigger: A reaction from Gnarl to the warning of the elves>>
+[200.20] TOMB_ELF_GHOST: Sacred be these graves...   <<Whispering. | Trigger: The player nears a temple room (on the stairs) after the initial encounter (above). These can be spread across 4 rooms. One or two lines could be linked up. These lines can be l>>
+[200.30] TOMB_ELF_GHOST: Cease your descent. Here is hallowed ground.   <<Whispering. | Trigger: The player nears a temple room (on the stairs) after the initial encounter (above). These can be spread across 4 rooms. One or two lines could be linked up. These lines can be l>>
+[200.40] TOMB_ELF_GHOST: We are the guardians...   <<Whispering. | Trigger: The player nears a temple room (on the stairs) after the initial encounter (above). These can be spread across 4 rooms. One or two lines could be linked up. These lines can be l>>
+[200.50] TOMB_ELF_GHOST: Go back! We are the watchful ones.   <<Whispering. | Trigger: The player nears a temple room (on the stairs) after the initial encounter (above). These can be spread across 4 rooms. One or two lines could be linked up. These lines can be l>>
+[200.60] TOMB_ELF_GHOST: Eyes in the darkness!   <<Whispering. | Trigger: The player nears a temple room (on the stairs) after the initial encounter (above). These can be spread across 4 rooms. One or two lines could be linked up. These lines can be l>>
+[200.70] TOMB_ELF_GHOST: Come no futher. Our watch is eternal.   <<Whispering. | Trigger: The player nears a temple room (on the stairs) after the initial encounter (above). These can be spread across 4 rooms. One or two lines could be linked up. These lines can be l>>
+[200.80] TOMB_ELF_GHOST: They sleep the sleep of heroes.   <<Whispering. | Trigger: The player nears a temple room (on the stairs) after the initial encounter (above). These can be spread across 4 rooms. One or two lines could be linked up. These lines can be l>>
+[.] (unattributed): ---
+[201.10] TOMB_ELF_GHOST: We serve the fallen!   <<Alarmed, hissing. | Trigger: The player causes the Elves in the temple rooms to attack. These lines can be looped as needed.
+>>
+[201.20] TOMB_ELF_GHOST: Protect the fallen ones!   <<Alarmed, hissing. | Trigger: The player causes the Elves in the temple rooms to attack. These lines can be looped as needed.
+>>
+[201.30] TOMB_ELF_GHOST: It did not heed the warning!   <<Alarmed, hissing. | Trigger: The player causes the Elves in the temple rooms to attack. These lines can be looped as needed.
+>>
+[201.40] TOMB_ELF_GHOST: We are the last!   <<Alarmed, hissing. | Trigger: The player causes the Elves in the temple rooms to attack. These lines can be looped as needed.
+>>
+[201.50] TOMB_ELF_GHOST: The shadows are here!   <<Alarmed, hissing. | Trigger: The player causes the Elves in the temple rooms to attack. These lines can be looped as needed.
+>>
+[201.60] TOMB_ELF_GHOST: Mother Goddess protect us!   <<Alarmed, hissing. | Trigger: The player causes the Elves in the temple rooms to attack. These lines can be looped as needed.
+>>
+[201.70] TOMB_ELF_GHOST: Fight the darkness!   <<Alarmed, hissing. | Trigger: The player causes the Elves in the temple rooms to attack. These lines can be looped as needed.
+>>
+[202.10] TOMB_ELF_GHOST: Let us out!   <<Angry, hissing. | Trigger: The player traps the Elves inside a room>>
+[202.20] TOMB_ELF_GHOST: Release us!   <<Angry, hissing. | Trigger: The player traps the Elves inside a room>>
+[202.30] TOMB_ELF_GHOST: We are trapped!   <<Angry, hissing. | Trigger: The player traps the Elves inside a room>>
+[202.40] TOMB_ELF_GHOST: What has happened?   <<Angry, hissing. | Trigger: The player traps the Elves inside a room>>
+[300.10] GNARL: It’s our little friend! Let’s watch, something might kill her!   <<Trigger: As the player walks through the door. Cut-scene. Camera moves from Player perspective to the back of the tunnel. >>
+[300.20] JEWEL: It’s gone! The statue’s gone! I told you lot to hurry up! Fools!   <<Jewel can be heard grumbling in the distance >>
+[300.30] JEWEL: We’re meant to be the thieves! And look, those rock-huggers have got here first!   <<Shot moves to the missing statue where Jewel is standing with a couple of her raiders.>>
+[300.40] JEWEL: Let’s get out of here.  You, call the Overseer!   <<Frustrated. | Camera moves to right to display hole in wall through which the player can see and get to a root node.>>
+[300.50] KAHN: Honey! Love muffin! I’ve found you! You mustn’t use the Overseers, snuggle bottom, the old man don’t like it!   <<One of the Raiders makes a whistling nose, as if he’s calling a dog and an Overseer floats into view from the right side of the screen. It opens a portal, and out of it steps a huge figure... it is Ka>>
+[300.60] JEWEL: Clearly I didn’t hit you hard enough!   <<Frustrated sigh before the line. | One of the Raiders tries to repress a sniggering hiss.>>
+[300.70] KAHN: Jewel, I don’t like you beaming off like that my little thieving sugar plum.   <<Kahn is oblivious to Jewel’s anger. >>
+[300.80] JEWEL: Just stop    <<Jewel holds out her hand in a ‘whatever’/silencing gesture.>>
+[300.90] KAHN: It makes Kahn
+[300.100] JEWEL: Look what you did!  Come on you great lug, let’s go!   <<First part sharply, second kindly. | Kahn lashes out and smashes the two raiders killing them stop dead.>>
+[400.10] GNARL: This node is sturdier than the rest. Something must have strengthened it.   <<Trigger: When the player tries to destroy the root node – the root node holds firm and does not break like the others did.>>
+[400.20] GNARL: And there is the something now! The proximity of those Trolls must have toughened the node.   <<A loud roaring sound is heard Brief non-interactive cut-away to show the appearance of 2-3 trolls.
+>>
+[.] (unattributed): ---
+[401.10] SANCTUARY_ELF_1: We are lost...we are lost, the statue is gone. She has been taken from us. Is the destruction of our race not enough for those barbarians?   <<Trigger: After the player has destroyed the node and the shaking/noise, if it’s the last root node has stopped. Two elves float through the door of the sanctuary and up to the player.
+>>
+[401.20] SANCTUARY_ELF_2: We beseech you, return her, and you will not find us without gratitude. Until then we shall mourn.
+[401.30] GNARL: Mourn? Never rely on an Elf to do anything useful!   <<Trigger: The elves fade away.>>

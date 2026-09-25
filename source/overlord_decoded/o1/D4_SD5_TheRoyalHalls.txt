@@ -1,0 +1,24 @@
+[100.10] GNARL: Hm, it looks like all the mining has weakened the structure of this place.   <<Hmmmmm' | Trigger: The player enters the start of the Royal Quarters>>
+[100.20] GNARL: Careful Lord, you don’t want to end up buried in rubble and chunks of Dwarf!
+[101.10] GNARL: That must be Goldo...   <<Trigger: The player enters the Second Hall. The player sees Goldo who cackles manically and runs away into a room at the other end smashing the door closed behind him. Line delivered afterwards.>>
+[101.20] GNARL: And that must be Rollie!   <<There’s a loud rumble of an engine starting and Rollie, Goldo’s huge War Machine crashes through the door into the area.>>
+[102.10] GNARL: Look at all that Evil energy, Sire!   <<Trigger: The player kills Goldo, a large cloud of dark energy is released.>>
+[200.10] GNARL: Goldo’s hoard! I think you should give that gold a good home, Sire.   <<Trigger: The player enters Goldo’s Treasury. 
+The area starts to rumble and shake as if it’s about to collapse. Camera moves from Player perspective to the gold.
+>>
+[200.20] BROWN_MINION: Phhrrrt!   <<Blows a loud raspberry! | Minions run forward to look at the gold but are distracted by some screaming/shouting female voices. The camera pans to focus on the last of the female Elves. The Minions run>>
+[200.30] GNARL: Without their females the Elven race would be wiped from the face of this land!
+[200.40] GNARL: No more Elves? Ah, be still my beating heart!
+[200.50] FEMALE_ELF_2: We are the last. Do not let this world forget the beauty of the Elves.   <<Trigger: Female Elf 2 runs forward.>>
+[200.60] FEMALE_ELF_2: Aah!   <<Screaming 'Ahhhhhhhhhh!' | Trigger: A large rock crashes down near the Elf.>>
+[200.70] GNARL: Master, this place is collapsing. It’s the gold, or the Elves.
+[200.80] GNARL: Make up your mind... and make it up fast!   <<Trigger: More rocks crack down and there are more screams from the Elves.>>
+[201.10] FEMALE_ELF_1: Please...help us!   <<Trigger: Can be used throughout this area. Designers to choose. Can be looped as needed.>>
+[201.20] FEMALE_ELF_2: The gratitude of the Elves is worth more than gold!   <<Trigger: Can be used throughout this area. Designers to choose. Can be looped as needed.>>
+[201.30] FEMALE_ELF_1: Do not leave us here!   <<Trigger: Can be used throughout this area. Designers to choose. Can be looped as needed.>>
+[201.40] FEMALE_ELF_2: Free us! Free us now!   <<Trigger: Can be used throughout this area. Designers to choose. Can be looped as needed.>>
+[201.50] FEMALE_ELF_1: We must rebuild the Elven race!   <<Trigger: Can be used throughout this area. Designers to choose. Can be looped as needed.>>
+[202.10] GNARL: Very good, Sire, now get yourself out of there!   <<Trigger: The player chooses the Gold (By picking it up?)>>
+[202.20] FEMALE_ELF_1: No, no, what have you done?   <<Pronounced 'noooo'>>
+[203.10] GNARL: Let’s hope they make it worth leaving all that lovely gold, Sire. Now get yourself out of there!   <<Sighs before line. | Trigger: The player chooses the Elves Note: not sure how player executes this choice.>>
+[203.20] FEMALE_ELF_1: Evernight will thank you, friend.

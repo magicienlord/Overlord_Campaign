@@ -1,0 +1,96 @@
+[100.10] GNARL: I can feel two more energy surges, my Lord! There are more Gates.   <<The player has killed Oberon AND Goldo >>
+[100.20] GNARL: One is enrapturing the Elves of Evernight,  so we can only hope it leads to something horrible.
+[100.30] GNARL: And either those Dwarves have started blowing themselves up or another Gate has emerged in the Golden Hills.
+[101.10] GNARL: Hmmm, another of those Gates… Perhaps all that concentrated Evil from those heroes is forcing something to the surface, like some kind of suppurating pustule!   <<Trigger: The player nears the Elven Abyss>>
+[101.30] GHOST THEATRE ELF 1: I hear it’s a new theatrical production about the 
+[101.40] GHOST THEATRE ELF 2: May they do us justice, brother.
+[101.50] GHOST THEATRE ELF 1: I do hope there’s enough seating, everyone is trying to get in to see this.
+[200.10] FORGOTTEN GOD: Places everybody! Elves…   <<Trigger: The player has entered the Elven Abyss.>>
+[200.20] THEATRE ELF 1: Not again…
+[200.30] THEATRE ELF 2: My eyes cannot continue to watch this travesty!
+[200.40] THEATRE ELF 3: No, no, please no!   <<The Elves moan and cry>>
+[200.50] FORGOTTEN GOD: Wraiths…
+[200.60] FORGOTTEN GOD: And... Oberon Greenhaze!
+[200.70] GNARL: There’s the Abyss Stone, Sire. Oberon’s roots are covering it.
+[210.5] FORGOTTEN GOD: Ah, I see we have a 
+[210.10] FORGOTTEN GOD: Now... welcome to... The Terror of Evernight Forest – I 
+[210.15] GNARL: Hmmm, the undead seem very respectful of that voice. I wonder who it belongs to... 
+[210.20] FORGOTTEN GOD: Act 1, in which the Elven race live peacefully, deep in the Evernight Forest… protected by their unworthy deity the    <<Mother godess said in a scatching way>>
+[210.25] STAGE ELF 1: Oh brother, how lucky we Elves are to live in the bounteous green bosom of Evernight.   <<Pronounced in a stilted way, like a bad actor>>
+[210.30] STAGE ELF 2: Aye, my friend, we are. Let us pray to the Mother Goddess.   <<stilted>>
+[210.35] STAGE ELF 1: For although she is a cold and uncaring harlot, undeserving of worship, she alone will listen to our woe, our sorrow and our poetry.   <<stilted>>
+[210.40] GNARL: Cold and uncaring harlot, eh? The writer of this play doesn’t seem to like the Mother Goddess much, or the Elves for that matter. Aah, I think I’m a fan already.
+[210.45] FORGOTTEN GOD: Act 2, in which the Dwarves attack Evernight, crushing the Elves into the ground of their    <<upbeat>>
+[210.50] GNARL: Now that’s 
+[210.55] FORGOTTEN GOD: Act 3, in which the Terror comes to Evernight Forest.   <<excited>>
+[210.60] FORGOTTEN GOD: Act 3, in which the Terror comes to Evernight Forest.   <<Louder and frustrated>>
+[210.65] FORGOTTEN GOD: Where is it, where’s the terror? I want    <<Shouting>>
+[210.70] WRAITH: Hsssss Hsss Hssssssss.
+[210.75] FORGOTTEN GOD: What do you mean it’s   <<Frustrated>>
+[210.85] GNARL: Oh, shame, just as it was getting good! Perhaps you should locate this Terror of Evernight, Sire... help end things with a bang!
+[211.5] FORGOTTEN GOD: Act 1, in which the Elven race live peacefully, deep in the Evernight Forest… protected by their unworthy deity the    <<Mother godess said in a scatching way>>
+[211.10] STAGE ELF 1: Oh brother, how lucky we Elves are to live in the bounteous green bosom of Evernight.   <<Pronounced in a stilted way, like a bad actor>>
+[211.15] STAGE ELF 2: Aye, my friend, we are. Let us pray to the Mother Goddess.   <<stilted>>
+[211.20] STAGE ELF 1: For although she is a cold and uncaring harlot, undeserving of worship, she alone will listen to our woe, our sorrow and our poetry.   <<stilted>>
+[211.25] FORGOTTEN GOD: Act 2, in which the Dwarves attack Evernight, crushing the Elves into the ground of their    <<upbeat>>
+[211.30] FORGOTTEN GOD: Terror still broken, back to Act 1!
+[212.5] FORGOTTEN GOD: Act 1, in which the Elven race live peacefully, deep in the Evernight Forest… protected by their unworthy deity the    <<Mother godess said in a scatching way>>
+[212.10] STAGE ELF 1: Oh brother, how lucky we Elves are to live in the bounteous green bosom of Evernight.   <<Pronounced in a stilted way, like a bad actor>>
+[212.15] STAGE ELF 2: Aye, my friend, we are. Let us pray to the Mother Goddess.   <<stilted>>
+[212.20] STAGE ELF 1: For although she is a cold and uncaring harlot, undeserving of worship, she alone will listen to our woe, our sorrow and our poetry.   <<stilted>>
+[212.25] FORGOTTEN GOD: Act 2, in which the Dwarves attack Evernight, crushing the Elves into the ground of their    <<upbeat>>
+[212.30] FORGOTTEN GOD: Terror still broken, back to Act 1!
+[220.10] THEATRE ELF 1: How can they call this 
+[220.20] THEATRE ELF 2: They are mocking us! Mocking us!
+[220.30] THEATRE ELF 3: Our fall was tragedy enough, must it be entertainment as well?
+[220.40] THEATRE ELF 1: I 
+[220.50] THEATRE ELF 2: How long must we continue to watch this?
+[220.60] THEATRE ELF 3: The same play, over and 
+[220.70] THEATRE ELF 3: My eyes, my poor eyes! I can’t take any more!   <<Read the last one as eyyyyeeeeeees! | Makes break for it and it shot. >>
+[300.10] GNARL: You must be right behind the stage, Sire, it’s where all the lovely,    <<wonderful magic said in a sarcastic way | Trigger: The player enters the backstage area.>>
+[300.20] FORGOTTEN GOD: Hmmmm, there’s the lighting cue. Right, Act 1 again!   <<Trigger: The player switches the lights off >>
+[300.30] FORGOTTEN GOD: Lights down! Act 1 again, people!   <<Trigger: The player switches the lights off >>
+[310.10] GNARL: It’s Rollie... That must be the Terror! Better find a way to reach it, my Lord.   <<snigger between ' the'  and 'terror'  | Trigger: The player enters area the war machine prop room.>>
+[320.10] GNARL: This must be where those Wraiths playing the Dwarves get ready, Sire. Ah, splendid work, very moving. You couldn’t get me an autograph could you?   <<Trigger: The player enters the right backstage area >>
+[330.10] FORGOTTEN GOD: Act 2, in which the Dwarves attack Evernight Forest! Dwarves... DWARVES!   <<Pause between Forest and Dwarves | Act 2 starts and all the wraith actors are dead FIRST TIME>>
+[330.20] GNARL: I think that’s your cue, Master!
+[330.30] FORGOTTEN GOD: Act 2, in which the Dwarves attack Evernight Forest! DWARVES!   <<Pause between Forest and Dwarves | Act 2 starts and all the wraith actors are dead>>
+[340.10] FORGOTTEN GOD: Remember Dwarves, I want to feel hate, I want to feel anger, I want to smell the beer on your beards!   <<Player enters the stage with the Minions pretending to be dwarves>>
+[340.15] GNARL: Break a leg Sire...anybody’s will do
+[340.20] FORGOTTEN GOD: Kill    <<Trigger: The player has not killed the Elves>>
+[340.30] FORGOTTEN GOD: Dwarves! Didn’t you study your parts? Kill the Elves!
+[340.40] FORGOTTEN GOD: Dwarves, kill those Elves!
+[350.10] FORGOTTEN GOD: Lights down... prepare for Act 1 you useless creatures!   <<Trigger: Lights go off to prepare for Act 1 whilst the player is on stage >>
+[350.20] GNARL: Hmmm, without the Terror, the play can’t progress to the Third Act! I hear it has a great ending, Sire, truly epic! There must be a way further backstage. Ah well, if in doubt push, smash or kill until you get some answers, Master!   <<after ' third act', sigh. >>
+[351.10] FORGOTTEN GOD: That’s the cue, Act 1,    <<Trigger: Lights go off to prepare for Act 1 whilst player is onstage (Subsequent times).>>
+[351.20] FORGOTTEN GOD: Act 1. Move it!
+[352.10] FORGOTTEN GOD: Stop that, peon!   <<angrily | Trigger: Player tries to push scenery when the lights are on.>>
+[352.20] FORGOTTEN GOD: You, 
+[360.10] STAGE ELF 1: No autographs please, I must have my rest!   <<Trigger: The player enters the left backstage area. >>
+[361.10] STAGE ELF 1: I can’t perform under these conditions!   <<Elf Ambient>>
+[361.20] STAGE ELF 2: I can’t take the pressure, it’s ruining my nerves!
+[361.30] STAGE ELF 1: The play must go on, and on, and on and 
+[361.40] STAGE ELF 1: I have played Kings, you know. Kings!
+[361.50] STAGE ELF 2: Are you the understudies?
+[362.10] GNARL: Those roots don’t seem to like the light. Ah, I know how they feel.   <<Trigger: Player switches lights on. First time only.>>
+[364.10] GNARL: Ah, you’re found the Terror, Sire. You know, I think this could be your starring role, if you can find a way to fix that thing!   <<Trigger: Player enters Terror of Evernight prop room.>>
+[364.20] GNARL: Your audience are waiting, Dark Master!   <<Trigger: Player has repaired the Terror of Evernight prop>>
+[364.30] GNARL: Now wait for your big entrance, Sire.   <<Trigger: Player has repaired the Terror of Evernight prop>>
+[364.40] FORGOTTEN GOD: Act 3, in which the Terror comes to Evernight Forest.
+[364.50] GNARL: That’s it!
+[365.10] FORGOTTEN GOD: That’s it! Now get that Terror terrifying things... I want pain, I want suffering, I want to see pointy ears flying!   <<Trigger: The Player pushes the Terror onto the stage.>>
+[365.20] GNARL: Ah! The smell of dead actors, the screams of the crowd… takes me back to my community theatre days.   <<Trigger: Player crushes the Elves. First Time>>
+[365.30] FORGOTTEN GOD: Crush them! Crush those Mother Goddess worshippers!   <<(Excited/Manic) | Trigger: Player crushes the Elves - Subsequent times.>>
+[365.40] FORGOTTEN GOD: Destroy! Destroy! Leave no Elf alive!   <<(Excited/Manic)>>
+[365.50] FORGOTTEN GOD: Kill! Kill!   <<(Excited/Manic)>>
+[400.10] FORGOTTEN GOD: Burn him! Burn him! Burn the hero!   <<Trigger: Player pushes the Terror to the front of the stage>>
+[400.20] GNARL: He’s certainly keen to see Oberon suffer, can’t fault his dedication to the craft!
+[401.10] FORGOTTEN GOD: Make them suffer, make them    <<Trigger: Player burns the wraiths and Elves, but does not reach Oberon>>
+[401.20] FORGOTTEN GOD: Give me fire, give me roaring flames!
+[402.10] FORGOTTEN GOD: No... this is my play and    <<Trigger: Player picks up the Abyss stone>>
+[402.20] GNARL: I know that voice, that condescending tone… Don’t worry, it’ll come to me, Sire.
+[402.25] GNARL: They’re after the stone, my Lord!
+[402.30] FORGOTTEN GOD: Muahahahaha!   <<Evil Laughter | Trigger: The Abyss Stone is destroyed.>>
+[402.40] FORGOTTEN GOD: No! Without my actors, how can I have my play? Without my play how will I be remembered? I    <<(Angry/Manic) | Trigger: The player has successfully repelled the Elves. >>
+[404.10] FORGOTTEN GOD: So... you enjoyed the show, sub-creature? I see you have an appreciation for the finer points of punishment! Your actions amuse me. I have plenty more Abysses... why don’t you entertain me by   <<(Evil Snigger) at end | Trigger: The Player commits the Abyss stone.>>
+[404.20] GNARL: You are Master of the Elven Abyss, Sire! However if what he said is true we have work to do!

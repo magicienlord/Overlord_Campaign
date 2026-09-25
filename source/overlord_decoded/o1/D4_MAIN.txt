@@ -1,0 +1,91 @@
+[100.10] GNARL: We are on the outskirts of Golden Hills, home to the Dwarves.   <<Trigger: On entering the domain for the first time>>
+[100.20] GNARL: Now Dwarves, Sire, they’re like angry beards on legs. Angry, 
+[.] (unattributed): ---
+[101.10] GNARL: Be glad of that chasm, Master. Rock giants don’t take kindly to anything squashier than they are.   <<Trigger: When the player reaches the chasm and sees the rock giant for the first time.>>
+[101.20] GNARL: And everything is squashier than they are!
+[.] (unattributed): ---
+[102.10] VELVET: Once you smash it up, you’ll see it’s nothing more than over-grown gravel!   <<Trigger: Alternate line for if the player has Velvet in their tower.>>
+[103.10] GNARL: We are on the outskirts of Golden Hills, home to the Dwarves.   <<ALTERNATIVE FIRST LINE Trigger: on entering the domain for the first time. NOTE: duplicate of 100@10>>
+[200.10] GNARL: Dwarves like anything that fires or burns and especially, explodes! Make that their downfall, Sire! Yes!   <<Trigger: The player nears the bomb area. The camera shows an overview of the village swarming with Dwarves and then focuses on the bomb and nearby Dwarf guards. NOTE: THIS IS FOLLOWED UP BY A TUTORIAL>>
+[.] (unattributed): ---
+[201.10] ROSE: I’ve never seen the point of slugs. They seem to exist merely to be squashed!   <<Trigger: When the player sees the first small slugs which are fighting Dwarves and/or slaves - if the player has Rose at their tower.>>
+[201.20] GNARL: These creatures may be deadly but they have no love for Dwarves. Perhaps that can be of use to us.
+[.] (unattributed): ---
+[202.10] VELVET: That is the most disgusting thing I’ve ever seen, and I’ve seen Gnarl!   <<Trigger: When the player sees the first small slugs which are fighting Dwarves and/or slaves - if the player has Velvet at their tower.>>
+[202.20] GNARL: Oh thank you, Mistress! These creatures may be deadly but they have no love for Dwarves.
+[.] (unattributed): ---
+[203.10] GNARL: Such a proud race, reduced to servitude. Sometimes even Gods have a sense of humour!   <<Trigger: When the player nears the first Elf slave. (This is just a mock up model, will be replaced by an actual Elf)>>
+[300.10] ELF_SLAVE: They’re trapped down there by those slimy beasts.   <<Trigger: The player nears the entrance to the glittering mine, which has the rock giant standing in front of it.  Note: The rock giant may be shown squashing slugs, but this does not need to be commen>>
+[300.20] ELF_SLAVE: What good is gold? They cannot eat it, sleep upon it, nor use it as a weapon!
+[300.30] GNARL: Gold, music to my ears, along with the words ‘Trapped Elves’!   <<Chuckles at the end of the line.>>
+[300.40] GNARL: Now we just have that twenty-ton problem blocking our way!
+[.] (unattributed): ---
+[301.10] GNARL: Those pipes channel beer straight from the Brewery. It’s potent stuff!   <<Trigger: When the player enters the beer garden area for the first time.>>
+[301.20] GNARL: Like Minions, Dwarves are never more ferocious than when they’ve had a drink. So watch out, Sire!
+[.] (unattributed): ---
+[302.10] GNARL: Flamethrowers! Effective at burning everything to a crisp, especially those slugs, I bet.   <<Trigger: The first time the player encounters the flame-thrower Dwarf.>>
+[302.20] GNARL: However, Sire, the tank is notoriously unstable, given the right kind of persuasion.
+[400.10] ELF_SLAVE: The Mother Goddess Statue... stolen... they make us work... build a new temple...   <<Weakly | Trigger: the player nears the new temple entrance. Outside is a weak Elf slave, lying on the ground, obviously too weak to work. Important Note: The entrance shows signs of construction, larg>>
+[400.20] GNARL: I confess, Master, I have been hatching somewhat of, oh let's call it a cunning plan.
+[400.30] GNARL: I won't bore you with details just yet, but it involves gaining access to that statue.
+[.] (unattributed): ---
+[401.10] GNARL: The Dwarves are fiercely secret about their brewing rituals. This fort must guard the Brewery.   <<Trigger: The player approaches the fort.>>
+[402.10] GNARL: The statue has arrived in Jewel’s domain, Sire. Your Minions have escaped and are searching for a suitable Tower Gate.   <<Trigger: After the player has completed the fort.This is conditional on the statue being stolen at this point. 
+
+>>
+[500.10] ELF_SLAVE: The place is locked down. King Goldo heard of the cancelled wedding in Heaven’s Peak.   <<Trigger: The player approaches the Brewery, but has not finished the Paladin domain. Note: There are guards either side of the two large brewery doors. The doors cannot be broken down by the player. I>>
+[500.20] ELF_SLAVE: Now he has gone to Angelis Keep to retrieve his wedding gifts!
+[500.30] GNARL: Master... perhaps, we should find some way of aiding this greedy little Dwarf. It could be in our interest.
+[.] (unattributed): ---
+[501.10] ELF_SLAVE2: They say that thieves have been spotted at the new temple construction site.   <<Trigger: The player has completed the Paladin domain, but not the New Temple/Mother Goddess statue area. Important Note: If the player hasn’t completed the Paladin domain, *or* the new temple area the>>
+[501.20] ELF_SLAVE2: Goldo is so fearful that they’re after his gold, that the Royal Halls have been locked down until they are dealt with.
+[501.30] GNARL: Thieves, eh? Wouldn’t want them to steal the statue before we had a chance to!
+[.] (unattributed): ---
+[502.10] GNARL: This is the centre of the Dwarves’ brewing operations. Their empire is built upon this beverage!    <<Trigger: The player approaches the Brewery, and has finished the Paladin domain. Note: The doors are open but there still might be guards.>>
+[502.20] GNARL: Do not expect a welcome mat and a guided tour!
+[600.10] SLAVE_CAMP_ELF_1: He is no Dwarf!   <<Trigger: The player approaches the Slave Camp area.>>
+[600.20] SLAVE_CAMP_ELF_2: Let us out, let us out!
+[600.30] SLAVE_CAMP_ELF_3: Quick... before the guards return!
+[.] (unattributed): ---
+[601.10] SLAVE_CAMP_ELF_1: We are a disgrace to our race... we should have died fighting.   <<Trigger: When the player nears the Slave Camp. Note: These can be looped as required>>
+[601.20] SLAVE_CAMP_ELF_2: There is still a chance for us if only we could find our Elven women.
+[601.30] SLAVE_CAMP_ELF_1: The Mother Goddess has forsaken us, do not do the same.
+[601.40] SLAVE_CAMP_ELF_2: Please... we still have some strength left.
+[601.50] SLAVE_CAMP_ELF_1: Let me die with dignity, stranger.
+[601.60] SLAVE_CAMP_ELF_2: Do not side with the Dwarves...
+[.] (unattributed): ---
+[602.10] SLAVE_CAMP_ELF_1: Bless you, stranger.   <<Trigger: When the player releases the slaves.>>
+[602.20] SLAVE_CAMP_ELF_2: Let us die shedding Dwarven blood!
+[.] (unattributed): ---
+[603.10] SLAVE_CAMP_ELF_1: Do not leave us... do not leave us to die as prisoners!   <<Trigger: If the player goes to leave the area without releasing the slaves. Note: These can be looped as required>>
+[603.20] SLAVE_CAMP_ELF_2: Don’t leave us to die in here!
+[603.30] SLAVE_CAMP_ELF_1: How could you turn your back on us!
+[603.40] SLAVE_CAMP_ELF_2: Have you no compassion?
+[.] (unattributed): ---
+[604.10] SLAVE_CAMP_ELF_1: Cease, Cease!   <<Trigger: If the player attacks a slave. Note: These can be looped as required>>
+[604.20] SLAVE_CAMP_ELF_2: We do not wish to fight you!
+[604.30] SLAVE_CAMP_ELF_1: Stay your creatures!
+[604.40] SLAVE_CAMP_ELF_1: Evernight curse you!
+[700.10] ELF_SLAVE: The Arcanium mine is overrun! We did not even have time to save the smelter!   <<Trigger: The player nears the Arcanium mine entrance. >>
+[700.20] GNARL: Locate that smelter, Sire! Then our Minions could create some armor truly worthy of you!
+[.] (unattributed): ---
+[701.10] ELF_SLAVE2: You would go into the lair of Evernight’s destroyer?   <<Trigger: The player nears the Stronghold entrance. >>
+[701.20] ELF_SLAVE2: Riches abound, but you must be prepared to slay the master and his beast! They say he calls the beast...Rollie.
+[701.30] GNARL: Slaying and riches... I see no downside to this idea, Master!
+[702.10] GNARL: The Minions that escaped from that Mother Goddess statue are still searching for a Tower Gate, Sire.   <<Trigger: After the player has completed the stronghold. This should be as they enter the Royal Halls. >>
+[800.10] ELF_SLAVE1: The last of the Elven women... I heard them in there, crying out to me! Without them our ancient race is surely doomed!   <<Trigger: The player nears the Royal Halls Entrance.>>
+[.] (unattributed): ---
+[801.10] ELF_SLAVE: Find the others... find them!   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Ideally these should be elf ghosts that fade in an out, otherwise they can be loose elf slaves, although ghost elves (fr>>
+[801.20] ELF_SLAVE: That creature... it tore through our forest... we couldn’t stop it!   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.30] ELF_SLAVE: He’s obsessed with gold, no matter how much they mine... it does not satisfy him!   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.40] ELF_SLAVE: They can enslave us, kill us; we will never give up our Mother Goddess!   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.50] ELF_SLAVE: Soon Evernight will be no more... we will be no more.   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.60] ELF_SLAVE: To think that such a thing could come to pass...   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.70] ELF_SLAVE: The Mother Goddess will watch over us, for we alone are her rightful children!   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.80] ELF_SLAVE: Our women... they took them... I know not where.   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.90] ELF_SLAVE: I haven’t seen the forest for so long... I miss the trees... the sound of the wind in the branches...   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.100] ELF_SLAVE: Gold... everywhere... I can see it when I close my eyes!   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.110] ELF_SLAVE: This place whispers of our doom.   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[801.120] ELF_SLAVE: My little sister, they took her... she... she was crying... I think they hurt her.   <<Trigger: When the player nears an Elf, these can be divided between the slaves. Note: These can be alternated and looped as required.>>
+[.] (unattributed): ---
+[802.10] GNARL: Return to your Tower, Master. I have news about the Minions in Jewel's domain! Mmm!   <<Trigger: When the player finished the royal halls and got back to the surface.>>

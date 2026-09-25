@@ -1,0 +1,14 @@
+[100.10] GNARL: It is back where it belongs.This is the Heart of the Tower, Sire. It will play a vital role in helping re-establish your Dark Domain!   <<CUT_SCENE: The Minions heave the Tower Heart into place as Gnarl watches. The Tower Heart begins to sink down into the Spawning Pit with lots of sparkly effects.
+ 
+Note: The Portal Gate should be lock>>
+[100.20] GNARL: It will allow you to visit the Tower whenever you wish and provide access to all of the Tower’s resources.    <<Cut to the Overlord similar sparkly effects on him.>>
+[100.30] GNARL: And look, it seems to have bestowed a little gift upon you, Sire.
+[100.40] GNARL: You can now control 10 Minions!   <<Cut-scene: Cut to Minion cap pillar.>>
+[100.50] GNARL: Hah! And it seems to have retained one of its spells! The Fireball spell. Robust fellow. Might have known he’d make it!   <<Cut to Gargoyle fire power head.>>
+[100.60] GNARL: I’ll teach you how to use him when the need arises. But I urge you, Sire, find more of our missing Tower Objects!   <<Cut back to Gnarl>>
+[100.70] GNARL: A Crane would be particularly handy. Then we could clear the debris around here, open up some rooms!
+[.] (unattributed): ---
+[200.10] GNARL: Unfortunately, I am not the Evil entity that I once was. I cannot take the feel of lush green grass under my feet and birdsong in my ears.   <<Gnarl moves closer to the Heart and gazes down at it lovingly. Scene can become interactive at this point, but Gate should be still locked, because the player needs to know why Gnarl’s not coming with>>
+[200.20] GNARL: In fact, I think I need to find a dark corner and something to pummel.
+[200.30] GNARL: I shall stay here, the Heart will allow me to speak directly to you, Sire, and see and hear what you do.
+[200.40] GNARL: Use the Gate to return to the Halfling Domain.

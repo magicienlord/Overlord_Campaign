@@ -1,0 +1,84 @@
+[100.10] GNARL: That Crane is just the job. Your Minions are opening up the Dungeon! Do go see it, it’s so... soothing.   <<Trigger: The Crane is bought back to the tower.>>
+[100.20] GNARL: You can fight almost anything you like down there, providing you’ve already defeated it once.
+[.] (unattributed): --
+[101.10] GNARL: If you’re feeling in the mood to practice your combat skills, Sire, then this is the place to do it.   <<Trigger: The player enters the Dungeon for the first time>>
+[101.20] GNARL: The Tower can recreate many of the enemies you’ve conquered so you can kill them again... at your 
+[.] (unattributed): --
+[102.10] GNARL: Select your Minions, Sire.   <<Trigger: Player nears Minion Gates.>>
+[.] (unattributed): --
+[103.10] GNARL: Don’t go in there alone, Master, you’ll need your Minions!   <<Trigger Player enters arena without Minions.>>
+[200.10] MINION_JESTER: Good evening Minions. Welcome to fight time! Yeah!   <<Trigger: The first battle the player undertakes in the Dungeon.
+Camera pans around the arena and the Minion audience
+>>
+[200.20] MINION_JESTER: It’s dreary, dark and dank here in the Dungeon, just how we like it.   <<Minions cheers and clap>>
+[200.30] MINION_JESTER: Now, put your claws together for... the Overlord!
+[.] (unattributed): --
+[201.10] MINION_JESTER: Here he is, the Duke of Domination, the Prince of Persecution, the one, the only, the... Overlord!   <<Trigger: The start of any of battle in the Dungeon aside from the first. Can be looped, every line should be followed by cheering and clapping from the Minions. Camera focuses on the Overlord
+>>
+[201.20] MINION_JESTER: You know him, you love 'im, it’s the... Overlord!   <<Trigger: The start of any of battle in the Dungeon aside from the first. Can be looped, every line should be followed by cheering and clapping from the Minions. Camera focuses on the Overlord
+>>
+[201.30] MINION_JESTER: He’s the leader of the pack, he’s the big daddy, he’s... the Overlord!   <<Trigger: The start of any of battle in the Dungeon aside from the first. Can be looped, every line should be followed by cheering and clapping from the Minions. Camera focuses on the Overlord
+>>
+[201.40] MINION_JESTER: Browns, Reds, Blues, Greens, lets hear some noise for the Overlord!   <<Trigger: The start of any of battle in the Dungeon aside from the first. Can be looped, every line should be followed by cheering and clapping from the Minions. Camera focuses on the Overlord
+>>
+[201.50] MINION_JESTER: Clap your claws and shake your ears for the Overlord!   <<Trigger: The start of any of battle in the Dungeon aside from the first. Can be looped, every line should be followed by cheering and clapping from the Minions. Camera focuses on the Overlord
+>>
+[.] (unattributed): --
+[202.10] MINION_JESTER: He is triumphant!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[202.20] MINION_JESTER: He is triumphant!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[202.30] MINION_JESTER: The Overlord reigns supreme!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[202.40] MINION_JESTER: The Overlord reigns supreme!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[202.50] MINION_JESTER: Chalk one up for Evil!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[202.60] MINION_JESTER: Chalk one up for Evil!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[202.70] MINION_JESTER: Overlord wins!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[202.80] MINION_JESTER: Overlord wins!   <<Trigger: The player kills an enemy in the arena. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[.] (unattributed): --
+[203.10] MINION_JESTER: Ohhh I can’t watch!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[203.20] MINION_JESTER: Ohhh I can’t watch!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[203.30] MINION_JESTER: It’s a massacre out there!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[203.40] MINION_JESTER: It’s a massacre out there!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[203.50] MINION_JESTER: And there are bits of Minion everywhere!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[203.60] MINION_JESTER: And there are bits of Minion everywhere!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[203.70] MINION_JESTER: It’s not looking good for the Overlord!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[203.80] MINION_JESTER: It’s not looking good for the Overlord!   <<Trigger: A lot of Minions die (Note: this will have to be tied to a specific number). Note: The repeat lines should be recorded with different tone and intonation.
+
+>>
+[.] (unattributed): --
+[204.10] MINION_JESTER: And he’s down!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[204.20] MINION_JESTER: And he’s down!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[204.30] MINION_JESTER: He’s out for the count!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[204.40] MINION_JESTER: He’s out for the count!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[204.50] MINION_JESTER: And he’s outta there!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[204.60] MINION_JESTER: And he’s outta there!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[204.70] MINION_JESTER: And the Overlord bites the dust! That’s all Minions!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>
+[204.80] MINION_JESTER: And the Overlord bites the dust! That’s all Minions!   <<Trigger: The Overlord dies. Note: The repeat lines should be recorded with different tone and intonation.
+>>

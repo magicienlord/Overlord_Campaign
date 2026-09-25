@@ -1,0 +1,122 @@
+[P.M1] (unattributed): They’re attacking, they’re attacking!
+[P.M2] (unattributed): They’re breaching the Last Sanctuary!
+[P.M3] (unattributed): We’re all doomed!
+[P.M4] (unattributed): This is the end of magic!
+[P.M5] (unattributed): Help! Help us!
+[P.M6] (unattributed): The Empire’s here!
+[P.M7] (unattributed): Run for your lives!
+[P.M8] (unattributed): We must stick together!
+[P.F1] (unattributed): Protect the Sanctuary! Protect the Sanctuary!
+[P.F2] (unattributed): They’re after me!
+[P.F3] (unattributed): What do we do?
+[P.F4] (unattributed): Where do we run to?
+[P.F5] (unattributed): There’s too many of them!
+[P.F6] (unattributed): Protect the poor creatures!
+[P.F7] (unattributed): Don’t let us die!
+[P.F8] (unattributed): Push them back! Push them back!
+[S.M1] (unattributed): I will fight off the invaders!
+[S.M2] (unattributed): Together we will protect the Sanctuary, Master!
+[S.M3] (unattributed): Your presence gives me strength, Lord!
+[S.M4] (unattributed): I’m on your side.
+[S.M5] (unattributed): I’m your Minion now.
+[S.M6] (unattributed): I shall fight them off.
+[S.M7] (unattributed): Together we can protect this sacred place.
+[S.M8] (unattributed): As one, Lord!
+[S.F1] (unattributed): Command me.
+[S.F2] (unattributed): I shall push them back.
+[S.F3] (unattributed): No Empire is getting through me! 
+[S.F4] (unattributed): Your loyal subject, Sire. 
+[S.F5] (unattributed): I will follow you into battle.
+[S.F6] (unattributed): In your name.
+[S.F7] (unattributed): I’m with the Demon Lord!
+[S.F8] (unattributed): Lead me.
+[190.10] (unattributed): Ah chaos! Don’t linger, Sire, It means the Empire are almost through. 
+[190.20] (unattributed): You should return to Queen Fay and see if she knows how to finish powering up the Tower Heart! Hurry!
+[200.10] (unattributed): What great magic your artifact must have once held, Dark One, for even the power of my shrines could not revive it.
+[200.20] (unattributed): So many have died; so many innocents. It was I who condemned them, so it is only fitting that I tread the same path.
+[200.30] (unattributed): Take my energy.
+[200.40] (unattributed): He destroyed our shrines, enslaved the salamanders and now he’s bewitched our Queen!
+[200.50] (unattributed): Soldiers! To arms! Protect the Queen! Protect the Sanctuary.
+[200.60] (unattributed): Hold them off, Sire and suck that fairy dry!
+[205.10] (unattributed): Sire, place the Tower Heart close to her to fill it up!
+[205.20] (unattributed): The Tower Heart needs to be closer to her, Lord!
+[205.30] (unattributed): Move the Tower Heart nearer to Fay, Sire!
+[205.40] (unattributed): The energy can’t reach the Tower Heart, move it close to her, Master!
+[210.10] (unattributed): She doesn’t know what she’s doing!
+[210.15] (unattributed): If she dies, the Sanctuary dies!
+[210.20] (unattributed): You’ve gone too far this time, man.
+[210.25] (unattributed): She’s our last hope.
+[210.30] (unattributed): You will not take Queen Fay.
+[210.35] (unattributed): We will die for her.
+[210.40] (unattributed): She’s under the influence of his bad vibes!
+[210.45] (unattributed): Light magic must always have a place in this world.
+[210.50] (unattributed): Help her!
+[210.55] (unattributed): Destroy the beast!
+[210.60] (unattributed): She’s is not well!
+[210.65] (unattributed): Our most glorious Queen must be preserved.
+[210.70] (unattributed): Your evil shall not infect her.
+[210.75] (unattributed): She is the lifeblood of the Sanctuary.
+[210.80] (unattributed): She is too pure for you, man!
+[210.85] (unattributed): Dark One out! Dark One out!
+[300.10] (unattributed): Forgive me creatures of the Sanctuary.
+[300.20] (unattributed): It is the only way.
+[310.10] (unattributed): The poor thing. She’s gone quite, quite mad, Petunia!
+[310.20] (unattributed): We must save her.
+[310.30] (unattributed): No, leave me! This is the only way!
+[310.40] (unattributed): Bring her here!
+[310.50] (unattributed): No! No! Nooooooooo!
+[320.10] (unattributed): You don’t understand!
+[320.20] (unattributed): There, there, we won’t let the nasty man get you!
+[320.30] (unattributed): You just stay here with us, dearie.
+[330.10] (unattributed): I’m your Queen, listen to me!
+[330.20] (unattributed): But you’re not very well, are you, dear? You need a lie down!
+[330.30] (unattributed): And a nice cup of tea.
+[340.10] (unattributed): Let’s regroup Petunia!
+[400.10] (unattributed): What is this feeling? Your... your dark energy. is taking me over. My light is fading!
+[400.20] (unattributed): I give my life...willingly. 
+[410.10] (unattributed): Oh dear! It’s getting worse!
+[410.20] (unattributed): The nasty man is back!
+[410.30] (unattributed): Look you mad lumps, let me go this instant! I must do this!
+[410.40] (unattributed): Agggggggg!!!
+[420.10] (unattributed): Let me go you lipstick-smeared bats!
+[420.20] (unattributed): Now, now, dearie, don’t get personal!
+[420.30] (unattributed): She’s ranting. Pay no attention. 
+[430.10] (unattributed): I’m trying to save the Sanctuary, you simple-minded creatures!
+[430.20] (unattributed): Well, you can’t do that if you’re dead, can you, dear?
+[430.30] (unattributed): Silly thing!
+[440.10] (unattributed): We’ll be back for you, dearie! Don’t worry!
+[500.10] (unattributed): The darkness... the evil... it’s all so ... beautiful.
+[500.20] (unattributed): Take my energy! You must... take it all! It is the only way!
+[510.10] (unattributed): Oh dear, now why are you letting the nasty man do that to you, dearie?
+[510.20] (unattributed): That’s not nice you know.
+[510.30] (unattributed): Unhand me before I rip off your wings and stick red-hot pokers in the holes!
+[510.40] (unattributed): See, all that dark energy is no good for you! Come on!
+[520.10] (unattributed): Hold them back and finish her off!
+[530.10] (unattributed): Are you really this stupid? Are you even hearing me?
+[530.20] (unattributed): You’re sick, dear. And we must help the sick and enfeebled, mustn’t we?
+[530.30] (unattributed): Yes, you can’t help it if the nasty man’s made your brain go all bibbly. 
+[540.10] (unattributed): You idiotic creatures!
+[540.20] (unattributed): It is my choice!
+[540.30] (unattributed): Listen to your Queen, you amoebas!
+[550.10] (unattributed): There’s no helping some people!
+[600.A] (unattributed): That’s it! That’s it! Consume me with your dark majesty!
+[600.B] (unattributed): That’s it! That’s it! The darkness consumes me!
+[610.A] (unattributed): The end is coming. I can feel it. The darkness is overwhelming me!
+[610.B] (unattributed): My end is near. The darkness is overwhelming. I will go to it.
+[700.10] (unattributed): <T=10>
+[700.15] (unattributed): I live... when so many others have died.
+[700.20] (unattributed): You have made me a... new woman, Dark One. I shall adjourn to your Tower, I will await your return... eagerly.
+[700.30] (unattributed): You‘re not going to let that thing in here are you? Brazen hussy!
+[700.40] (unattributed): Yeah! It’s always the former fairies you have to watch!
+[710.10] (unattributed): Mmm those that say three’s a crowd, probably haven’t made it further than one, Sire... I call it cosy.
+[710.20] (unattributed): However, I think she still has a bit of energy left in her. You could drain her completely and kill her.
+[710.30] (unattributed): She’s bound to contain some magical goodies. Or you could retain her in your Tower and see what other benefits she has.
+[720.10] (unattributed): No, what are you doing? No, noooo!
+[720.20] (unattributed): Ha Ha! We’re in men!
+[720.30] (unattributed): When ooze falls from the sky it’s generally a good idea not be anywhere near it, Sire. 
+[720.40] (unattributed): I think it’s time to end this fairy killing adventure and head home.
+[730.10] (unattributed): Queeeen Fay?
+[730.20] (unattributed): No! I am no longer your Queen. I see clearly now and I wish nothing more to do with this place. 
+[730.30] (unattributed): He is your ruler now and you will obey his every command.
+[730.40] (unattributed): I have a whole new world waiting for me…
+[730.50] (unattributed): Don’t I, Dark One?

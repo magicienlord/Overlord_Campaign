@@ -1,0 +1,114 @@
+[100.10] GNARL: Sire, there seems to be a surge of Evil energy coming from the Mellow Hills! Your peasants are being drawn towards it!   <<Trigger: The play has killed both Melvin and the Wizard and has installed the expansion pack. i.e. the Halfling Abyss Gate is active and the Warrior Gate (non-active has appeared)
+>>
+[100.15] GNARL: Sire, there seems to be a surge of Evil energy coming from the Mellow Hills! Your peasants are being drawn towards it!   <<Trigger: The play has killed both Melvin and the Wizard and has installed the expansion pack. i.e. the Halfling Abyss Gate is active and the Warrior Gate (non-active has appeared)
+>>
+[100.20] GNARL: A strange structure has also appeared in the Ruborian Desert
+[100.25] GNARL: A strange structure has also appeared in the Ruborian Desert
+[101.10] GNARL: Curious, Sire... there seems to be    <<Trigger: As the player nears the Abyss gate>>
+[101.20] ABYSS GATE PEASANT 1: The Gods have surely smiled upon us lowly peons!
+[101.30] ABYSS GATE PEASANT 2: They have given us a way to escape our Dark Overlord. It must be a passage... a passage to heaven.   <<heaaaaaven should be said with a lot of awe in the voice>>
+[101.40] ABYSS GATE PEASANT 3: Do we get wings? I want wings! Do they have wings? Oooh, I hope they have wings.   <<Overly enthusiastic>>
+[101.50] ABYSS GATE PEASANT 1: Come on, let us be free from this sheep-killing, pumpkin smashing Overlord!   <<After this, peasant 1 jumps into the gate>>
+[101.60] ABYSS GATE PEASANT 2: That Overlord can grow ‘is own bloody food... I'm going where there's a halo with my name on it!   <<After this, peasant 2 jumps into the gate>>
+[101.70] ABYSS GATE PEASANT 3: And wings, don't forget the wings.   <<After this, peasant 3 jumps into the gate>>
+[101.80] GNARL: I had some wings once... gave me a rash. However Sire, you have an Evil domain to uphold, you can't just let your subjects wander off. It's bad for your image! Find out where they're going and stop them!
+[102.10] GNARL: It appears this place isn't so heavenly after all.
+[102.20] GNARL: Those creatures you see are Wraiths, spirits of the Evil dead... In fact I think I see a few old drinking chums. Hello!
+[102.30] GNARL: Something very powerful must have opened this rift to their world.
+[102.40] GNARL: Still, we just can't just have Evil Abysses cropping up anywhere they like and threatening your Evil domination!
+[102.50] GNARL: I remember when one appeared in the Minion dung pile, gave Giblet quite a shock.
+[102.60] GNARL: No, no, no, can't have that! You must investigate further, Sire.
+[200.5] CHAINED MALE LAVA PEASANT 1: Oh no, not    <<Ambient dialogue>>
+[200.10] CHAINED MALE LAVA PEASANT 2: You couldn't get one of your creatures to fan me a little, could you?   <<Ambient dialogue>>
+[200.15] CHAINED MALE LAVA PEASANT 3: I'm sweating like a sheep on market day!   <<Ambient dialogue>>
+[200.20] CHAINED MALE LAVA PEASANT 4: Well at least no one    <<Ambient dialogue>>
+[200.25] CHAINED MALE LAVA PEASANT 5: Um, we weren't trying to run away from you, honestly!   <<Ambient dialogue>>
+[200.35] CHAINED MALE LAVA PEASANT 1: Could you turn me over please... and maybe rub some oil on my back?   <<Ambient dialogue>>
+[200.40] CHAINED MALE LAVA PEASANT 2: I wasn't leaving you Sire, I was simply going to admire you from a distance.   <<Ambient dialogue>>
+[200.45] CHAINED MALE LAVA PEASANT 3: Hey, his chains are longer than mine.   <<Ambient dialogue>>
+[200.50] CHAINED MALE LAVA PEASANT 4: I can't look at your creatures with their arms and their legs all waggling free like that!   <<Ambient dialogue>>
+[200.55] CHAINED MALE LAVA PEASANT 5: Well, at least I'm out of the house!   <<Ambient dialogue>>
+[201.5] CHAINED MALE LAVA PEASANT 1: Beautiful, beautiful, I could watch that all day!   <<Trigger: Player pushes a peasant into the lava>>
+[201.10] CHAINED MALE LAVA PEASANT 2: It doesn't matter, they all just come back again!   <<Trigger: Player pushes a peasant into the lava>>
+[201.15] CHAINED MALE LAVA PEASANT 3: Nicely done!   <<Trigger: Player pushes a peasant into the lava>>
+[201.20] CHAINED MALE LAVA PEASANT 4: Seven out of ten... good form, good form! Would have liked more screaming though.   <<Trigger: Player pushes a peasant into the lava>>
+[201.30] CHAINED MALE LAVA PEASANT 1: Ah, now that's a 9 right there. Near perfect!   <<Trigger: Player pushes a peasant into the lava>>
+[201.35] CHAINED MALE LAVA PEASANT 2: Don't stop...don't stop!   <<Trigger: Player pushes a peasant into the lava>>
+[201.40] CHAINED MALE LAVA PEASANT 3: Oh dear, that's a 5. Try to get some style into it, don't just do ‘em in any old how!   <<Trigger: Player pushes a peasant into the lava>>
+[201.45] CHAINED MALE LAVA PEASANT 4: Hmmm, I can't see your jib from here... but I'm sure I wouldn't like the cut of it!   <<Trigger: Player pushes a peasant into the lava>>
+[210.5] MALE ENSLAVED PEASANT 1: I think I prefer your fireballs to this place!   <<Ambient dialogue>>
+[210.10] MALE ENSLAVED PEASANT 2: Well, at least you didn't trap us in an Evil Abyss!   <<Ambient dialogue>>
+[210.15] MALE ENSLAVED PEASANT 3: Oh get me out of here Lord, I promise I'll worship you every day!   <<Ambient dialogue>>
+[210.20] MALE ENSLAVED PEASANT 4: Argh no! He's got that look about him… I've only just reincarnated!   <<Ambient dialogue>>
+[210.25] MALE ENSLAVED PEASANT 5: They've got their own Melvin here, and he eats twice as much as our Melvin did!   <<Ambient dialogue>>
+[210.30] MALE ENSLAVED PEASANT 1: I was working in my field, Master, then whoosh! Suddenly I'm working down here! Only now I'm burnt to a crisp every half an hour!   <<Ambient dialogue>>
+[210.35] MALE ENSLAVED PEASANT 2: You couldn't, sort of, take over from me, could you, Lord? Honestly, it's very relaxing work!   <<Ambient dialogue>>
+[210.40] MALE ENSLAVED PEASANT 3: I'm sorry we left Spree, Dark One!   <<Ambient dialogue>>
+[210.50] MALE ENSLAVED PEASANT 4: No point in tryin' to kill that Melvin, he'll just pop up again.   <<Ambient dialogue>>
+[210.55] MALE ENSLAVED PEASANT 5: We work, we die, we come back to life. We work, we die… I like the    <<focus on the word 'routine' | Ambient dialogue>>
+[400.10] BOB: Don't go near the pumpkins, I tell you. They're fearless little varmints! I saw them eat a sheep once... a whole one, hooves and all!   <<Trigger: cutscene of Bob>>
+[401.10] BOB: I think one of them is chewing my foot!   <<Trigger: Player stays in area, but does not attack pumpkins. These lines can be looped as needed>>
+[401.20] BOB: That one moved, I saw it!
+[401.30] BOB: Careful... careful!
+[402.10] GNARL: Angry pumpkins... deadly Sire, deadly! Second only to a huffy tomato.   <<Trigger: Player starts attacking the pumpkins and they get up and start attacking the player/minions.>>
+[402.20] BOB: Careful, they'll have your boots off in a flash! They like to start with the toes!
+[403.10] BOB: Woah, woah, what are you doing you little brutes? Don't you threaten me! Okay, okay, I'll go quietly.    <<Trigger: The Halflings carry Bob off. >>
+[301.10] GNARL: It's the tormented spirit of Melvin, Sire. Looks like he's getting all the food he could ever wish for down here!   <<Trigger: Melvin runs towards the first food plate.>>
+[301.20] GNARL: All that flesh, wobbling from side to side... is almost hypnotic.   <<Hypnotic should be said in a dreamy voice | Trigger: Melvin goes to second foodplate>>
+[301.30] GNARL: Ooohh, this should be interesting…   <<Trigger: Melvin goes to third foodplate>>
+[301.40] GNARL: That's the way to end a meal!   <<Cackle before saying the line | Trigger: melvin explodes>>
+[301.50] GNARL: Oh! There he goes again! Blowing up and reincarnating like that must hurt like hell! But look at him! Melvin just can't seem to stop himself!   <<Evil laugh / giggle before 'hell'. | Trigger: Melvin respawns>>
+[301.60] GNARL: Something down here must want to punish him even more than you do! No point in killing him, Sire, he'd just reincarnate. Still he might be of some use to us.
+[302.10] GNARL: All this food just lying about…
+[302.20] GNARL: Hmm, Lord, that wobbly ball of lard might prove handy here. That is if you can make use of his fatal bouts of indigestion   <<Snigger before fatal bouts>>
+[303.10] GNARL: That what's been spawning those pumpkins! Be careful Sire, that's one big mother!
+[303.15] GNARL: They must be preparing Melvin's eternal feast. Damnation is busy work!   <<Trigger: Player enters Kitchen area.>>
+[304.10] CHAINED OVEN PEASANT: They cook Melvin's food in this here oven. Won't be long until I'm in there!   <<Trigger: Player nears the oven. These lines can repeat as needed,>>
+[304.20] CHAINED OVEN PEASANT: I can't stand the smell of roasting meat any more!
+[304.30] CHAINED OVEN PEASANT: Sheep go in... dinner comes out!
+[305.10] GNARL: Best use for sheep Sire, I think I can hear Melvin drooling from here.   <<Trigger: Player turns the sheep into food>>
+[305.20] GNARL: As greedy as he is, I don't think even Melvin would eat these raw!   <<Trigger: Player gets near sheep lure (either hay or lamb).>>
+[305.30] GNARL: Oh dear, Sire, herding sheep? Are we going to have to get you a crook and a bonnet with spikes on?   <<Trigger: Player starts to herd sheep>>
+[305.40] GNARL: As greedy as he is, I don't think even Melvin would eat a raw one of those!   <<Trigger: Player near sheep>>
+[306.10] BOB: They're gonna cook me! Get me back to my home and I'll give you something for your little chaps.   <<Trigger: Player nears Bob who is surrounded by evil pumpkins wearing chef's hats.>>
+[306.20] BOB: I don't wanna die with my ears full of mint sauce!
+[306.30] BOB: You don't wanna eat me, I've been in the sun too long. I'm all leathery!
+[306.40] BOB: I'll give you indigestion!
+[307.10] BOB: That's it laddy! Now get me home, I've got some stylish attire your squeakers might like.   <<Trigger: Player Kills the Cook(s) near Bob>>
+[308.10] BOB: The barrels are yours, Lord, take ‘em, take ‘em!   <<Trigger: Player commits Bob to the Abyss gate>>
+[309.10] BOB: That's a mighty fine lookin' army you've got there!   <<Trigger: Minions put on hats>>
+[500.10] GNARL: He's charging Sire... must think you're food!   <<Trigger: Melvin switches behaviour to charge>>
+[501.10] GNARL: Ha! Let's see how Melvin fares on an eternal diet of dirt and earthworms! Actually a nice juicy earthworm can be rather yummy…   <<Smacks lips | Trigger: Player successful completes the 3 Melvin pinball courses and Melvin is sent into the pit.>>
+[502.10] GNARL: That glowing object must be the key to controlling this Abyss, Sire. Keep those Wraiths distracted and return it to the Tower Gate.   <<Trigger: Abyss portal stone appears>>
+[503.10] GNARL: They're trying to destroy the Abyss Stone, Sire, Stop them!   <<Trigger: Abyss Stone is returned. The peasants run towards the Abyss Gate>>
+[503.20] FORGOTTEN GOD: Muahahahaha!   <<(Evil laughter) | Trigger: 10 peasants leave the abyss>>
+[504.10] GNARL: The Mellow Hills Abyss is yours Dark Master! Please don't try bringing it back to the Tower... Giblet is already getting nasty flash-backs!   <<Trigger: The player has successfully stopped the peasants  from leaving the abyss.>>
+[600.5] CHAINED MALE PEASANT 1: I feel inclined to whistle... I have no idea why.
+[600.10] CHAINED MALE PEASANT 2: My arms are aching Sire, please get me down.
+[600.15] CHAINED MALE PEASANT 3: There's something tickling my foot!
+[600.20] CHAINED MALE PEASANT 4: In the warm, bit of a stretch, giant exploding Halfling to watch... what more could a man wish for?
+[600.25] CHAINED MALE PEASANT 5: I'm going to sneeze… oh, it's all down my front now.   <<(sneezes loudly) inbetween … - oh>>
+[600.35] CHAINED MALE PEASANT 1: Just get me down and I'll join your little goblin gang.
+[600.40] CHAINED MALE PEASANT 2: I don't like this place, I want to go back to your Evil domain, Sire!
+[600.45] CHAINED MALE PEASANT 3: So this is ‘eaven is it?
+[600.50] CHAINED MALE PEASANT 4: I'm sorry I left you Sire, really, really sorry.
+[600.55] CHAINED MALE PEASANT 5: Wings, wings! There were meant to be wings, not chains!
+[600.65] CHAINED MALE PEASANT 1: Those Wraiths seem very protective of this strange looking stone. No idea what it does.
+[600.70] CHAINED MALE PEASANT 2: I've heard there's sheep down here, my Lord, I know you like sheep!
+[600.75] CHAINED MALE PEASANT 3: Go on, swap me for one of those creatures, you won't miss one.
+[600.80] CHAINED MALE PEASANT 4: You really get time to think up here, you should try it, my Lord.
+[601.5] CHAINED MALE KITCHEN PEASANT 1: They're going to eat me! Oh don't let them eat me, Lord!
+[601.10] CHAINED MALE KITCHEN PEASANT 2: And my wife said she could never get me in the kitchen!
+[601.15] CHAINED MALE KITCHEN PEASANT 3: Er, I think there's be some kind of mistake, Sire. You couldn't have a word with someone could you?
+[601.20] CHAINED MALE KITCHEN PEASANT 4: You'll help us, won't you Master?
+[601.25] CHAINED MALE KITCHEN PEASANT 5: All this food and I don't get none of it.
+[601.30] CHAINED MALE KITCHEN PEASANT 1: I thought I'd escaped Melvin, but he's down here too!
+[601.35] CHAINED MALE KITCHEN PEASANT 2: All this cooking, it's like home only... appetising.
+[601.40] CHAINED MALE KITCHEN PEASANT 3: Free me! Free me, Sire! Before they stuff an apple in my mouth and serve me to Melvin!
+[601.45] CHAINED MALE KITCHEN PEASANT 4: Sort them out Sire, do that whooshy fire thing you do.
+[601.50] CHAINED MALE KITCHEN PEASANT 5: Er, I need the little boys' room. If you don't get me down you'll be sorry!
+[601.55] CHAINED MALE KITCHEN PEASANT 1: Will someone just give me some food? Potato peelings, apple cores, a brussel sprout even... anything!
+[601.60] CHAINED MALE KITCHEN PEASANT 2: Lots for your Minions to destroy down here, Lord! Just, er, not me please?
+[601.65] CHAINED MALE KITCHEN PEASANT 3: How drunk was I last night?
+[601.70] CHAINED MALE KITCHEN PEASANT 4: I thought to myself, if there's something to be looted, killed or ransacked, my Master won't be far away!
+[601.75] CHAINED MALE KITCHEN PEASANT 5: My wife's gonna be so mad. I only went out for bread!

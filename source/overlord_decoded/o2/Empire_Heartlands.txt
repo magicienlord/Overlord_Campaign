@@ -1,0 +1,300 @@
+[100.10] (unattributed): So this is the Glorious Empire? 
+[100.20] (unattributed): Doesn’t look very glorious to me. Not enough dark corners or dank pools. No anguished screams. Amateurs!
+[100.30] (unattributed): I never thought I’d be seeing my old homelands like this...  Well, guess I’d better give my new man a tour of the place.
+[100.40] (unattributed): This harbour is the hub of City trade; So many wonderful things to buy. 
+[100.50] (unattributed): Of course, you can just steal them... which is much better.
+[100.60] (unattributed): Loot away, Sire, but watch out for the guards.
+[100.70] (unattributed): You’ll need to get through the harbour and fort beyond so that Grubby can find a safe area to deploy a Gate.
+[110.10] (unattributed): I’ve been waiting weeks for these goods to come in!
+[110.15] (unattributed): I may have lost money on that banana order, but I’ll making it back betting on the Arena Games!
+[110.20] (unattributed): They say the Arena Games will be the best ever this year.
+[110.25] (unattributed): I’m so disappointed my vacation to Everlight had to be cancelled! But they have...troubles, you know.
+[110.30] (unattributed): The calibre of slaves around here simply isn’t what it used to be!
+[110.35] (unattributed): I heard they found Juno guilty of witchcraft! Ha, I could’ve told them that!
+[110.40] (unattributed): My slaves smell nasty... I need to buy ones scented like cherry blossom or lilies...or gold!
+[110.45] (unattributed): My new villa must be bigger than Senator Drearius’!
+[110.50] (unattributed): If I don’t get the silk for my new dress, I won’t be able to go to Emperor Solarius’ party!
+[110.55] (unattributed): I need new slaves my old ones are... broken.
+[120.10] (unattributed): This work is back breaking. Wish they’d just throw me in the Arena!”
+[120.15] (unattributed): I reckon I’d make a good gladiator. They’re wasting me here.
+[120.20] (unattributed): Least the weather’s nicer here than in Nordberg!
+[120.25] (unattributed): One day I’ll buy my freedom!
+[120.30] (unattributed): I wish I knew what happened to my family.
+[120.35] (unattributed): Oh, I hope they’ll let me serve at the Emperor’s party.  I’m pretty enough!
+[120.40] (unattributed): This place makes me miss good old Nordberg.
+[120.45] (unattributed): Hmm, you’re a funny looking slave.
+[120.50] (unattributed): My Mistress will whip me if I don’t pick up her new dresses.
+[120.55] (unattributed): Oooh, I wouldn’t mind being your slave!
+[130.10] (unattributed): Keep a look out for any escaped slaves.
+[130.15] (unattributed): Have you seen the creatures they’re taking to the games? Should be a great show.
+[130.20] (unattributed): I know a fella who’s selling tickets cheap.
+[130.25] (unattributed): I’ve got front row seats to the games! Cost me 2 weeks wages!
+[130.30] (unattributed): Centurion’s got me on duty during the games. Hope it’s above ground, might get a good view then.
+[130.35] (unattributed): My wife won’t go to Everlight no more. Not with news we’ve been hearing.
+[130.40] (unattributed): You know my back’s killing me. I think I might visit one of Solarius’ Shrines. 
+[130.45] (unattributed): You seen those Gargantuans? Wouldn’t wanna meet one of those on a dark night!
+[130.50] (unattributed): That Juno...what a woman!
+[130.55] (unattributed): The centurion will have my hide if I don’t get those slaves back!
+[140.10] (unattributed): Escaped slaves! Get ‘em!
+[140.15] (unattributed): Stop those trouble makers!
+[140.20] (unattributed): They look like the wrong sort.
+[200.10] (unattributed): The fort’s closed, Master. Find a way around or better still, smash through it with the enemy's catapult! .
+[200.20] (unattributed): Empire City is just beyond the fort. Ha, bet I’m the talk of the town!
+[200.30] (unattributed): Well, feel free to go back there any time you like!
+[205.10] (unattributed): Hey, is that the new catapult shift down there? ‘Bout time!
+[205.20] (unattributed): They don’t look like no Legionaries I’ve ever seen... hey, they must be slaves that have escaped from the harbor!
+[205.30] (unattributed): Right! Fire!
+[210.10] (unattributed): Run Sire! Avoid those boulders!
+[215.10] (unattributed): Perhaps you can use the boulders to your advantage against that barrier, Lord!
+[215.20] (unattributed): Master, see if you can get those boulders to destroy the barrier!
+[220.10] (unattributed): Bet you wished you had a catapult, slaves ...but no catapult for you... naughty slaves, back to your masters  with you!
+[220.20] (unattributed): Hmm… where’s that new catapult shift got to? Those guys should have been here hours ago! Useless lumps!
+[220.30] (unattributed): Look... we have the catapult, you have the squashy heads!
+[220.40] (unattributed): Gah, dammit, where’s that shift, I need to go and visit the little soldiers’ room!
+[225.10] (unattributed): Look another slave has escaped!
+[225.20] (unattributed): Greetings brother!
+[225.30] (unattributed): They think you’re a slave! Urggg, how disgusting. We really have to work on your dress sense!
+[225.40] (unattributed): She’s got a point! Sorry, Witch-boy!
+[230.10] (unattributed): We’ll never be able to take the harbor with that catapult still there!
+[230.20] (unattributed): Why do you want to? We have our freedom. Be content with that.
+[231.10] (unattributed): Do you think we can become citizens now?
+[231.20] (unattributed): Ohh that would be wonderful. Then we could have our own slaves!
+[232.10] (unattributed): You know it’s quite peaceful here.
+[232.20] (unattributed): Yeah, we can all starve... in peace!
+[240.10] (unattributed): I managed to bribe a guard for my freedom!
+[240.15] (unattributed): We’re lucky to be alive.
+[240.20] (unattributed): You don’t want to know what I had to do for my freedom!
+[240.25] (unattributed): I don’t want to go and live in the slums!
+[240.30] (unattributed): I’m not going back there and no one’s gonna make me!!
+[240.35] (unattributed): I’m hungry.
+[240.40] (unattributed): At least when I was a slave someone fed me!
+[240.45] (unattributed): I say we join forces and take the harbor!
+[245.10] (unattributed): Don’t turn on us, brother!
+[245.15] (unattributed): Traitor!
+[245.20] (unattributed): Noooooooo!
+[245.25] (unattributed): He's is one of them!
+[245.30] (unattributed): What are you doing?
+[245.35] (unattributed): He’s Empire! He’s Empire!
+[245.40] (unattributed): You beast!
+[245.45] (unattributed): What did we ever do to you?
+[250.10] (unattributed): I hate wash day. Real soldiers should be sweaty!
+[250.20] (unattributed): It looks cold. Is it cold? I have a condition you know!
+[250.30] (unattributed): Ugg, soldiers... uncouth bores. Still, at least they’re bathing.
+[250.40] (unattributed): Truly a rare event!
+[255.10] (unattributed): I’m just going to dip my toe in...just my toe.
+[255.15] (unattributed): Hey what are those bubbles? Titus, have you been at the stuffed quails eggs again?
+[255.20] (unattributed): Did anyone remember to bring the loofah?
+[255.25] (unattributed): All this hygiene... I don’t trust it!
+[255.30] (unattributed): Nobody move, Angus has dropped the soap!
+[255.35] (unattributed): Ohhh it’s actually quite soothing.
+[255.40] (unattributed): This bathing... it’ll never catch on. 
+[255.45] (unattributed): *Whistles*
+[255.50] (unattributed): Ahhhh that hit the spot!
+[260.10] (unattributed): They’ve left their clothes in there! I wonder if they’d fit your little... pets!
+[265.10] (unattributed): We shinies!
+[265.15] (unattributed): Dress up! Dress up!!
+[265.20] (unattributed): Ohhhhhhhhh!
+[265.25] (unattributed): Me in the army now!
+[265.30] (unattributed): Heeeeheeeeeheeee!
+[265.35] (unattributed): Me soldier!
+[265.40] (unattributed): You like Master?
+[265.45] (unattributed): Me shiny!
+[270.10] (unattributed): Now, Sire. If you can find the Possession Gate you’ll be able to guide them through to the catapult.
+[270.20] (unattributed): You’ll need to disguise more Minions than that, Master!
+[275.10] (unattributed): There they are again, fire!
+[275.20] (unattributed): It’s the escaped slaves, fire!
+[275.30] (unattributed): Fire!
+[280.10] (unattributed): Hold fire, it’s the new catapult crew!
+[300.10] (unattributed): Ah, finally, the Imperial Guards! Hmmm you’re a bit small! Don’t tell me they’re recruiting Gnomes now?
+[300.20] (unattributed): <T=10>
+[300.30] (unattributed): Can’t abide Gnomes... cockroaches in pointy hats! Nah, these are good, honest military men, right enough.
+[300.40] (unattributed): <T=10>
+[310.10] (unattributed): She’s oiled up and ready to go. If you treat her right she’ll squash ‘em like a good un!
+[310.20] (unattributed): Time to get some rest. There’s a bowl of suspicious brown gruel and a lumpy mattress with my name on them!
+[310.30] (unattributed): Last one to the Inn’s a rusty gladius!
+[320.10] (unattributed): You’ve gained control of the catapult, Sire. Now, I expect those Legionaries could do with a few boulders to the head! 
+[320.20] (unattributed): Quick, hit ‘em again before they reach you!
+[330.10] (unattributed): We hit!
+[330.20] (unattributed): Yaaaaaay!
+[330.30] (unattributed): Hit! Hiiiiiiiiiit!
+[330.40] (unattributed): Yay! Yay! Yay!!
+[340.10] (unattributed): Left! Left!
+[340.15] (unattributed): Leeeeeeefft!
+[340.20] (unattributed): We go left!
+[340.25] (unattributed): Left! Quick!
+[340.30] (unattributed): Right! Right!
+[340.35] (unattributed): Rigggggggghht!
+[340.40] (unattributed): We go right!
+[340.45] (unattributed): Quick! Right!
+[350.10] (unattributed): Bang goes sheepie!
+[350.20] (unattributed): Flying mutton!
+[350.30] (unattributed): Sheeeeepppiiiiie!
+[350.40] (unattributed): Hehehe bye bye sheepies!
+[360.10] (unattributed): Now’s your chance to take down the gate!
+[360.20] (unattributed): They’re running away, cowards!
+[360.30] (unattributed): Get those Minions back into the catapult and destroy those Legions, Lord!
+[360.40] (unattributed): Sire, guide your Minions back to the catapult and smash that Gate!
+[360.50] (unattributed): Minions need an Overlord. Get them back in the catapult and destroy that barrier!
+[370.10] (unattributed): There are more soldiers heading for you, Sire!
+[370.20] (unattributed): Ah, Catapult carnage. It’ll be just like my old school sports day!
+[380.10] (unattributed): Now, you can’t go around in Minion suits all day, Sire.
+[380.20] (unattributed): Use the catapult to break the barrier so you can return quickly to your more appropriate form.
+[380.30] (unattributed): Now get to the catapult and recall your minions.
+[390.10] (unattributed): What has happened?
+[390.15] (unattributed): Why are we being attacked, what have we done?
+[390.20] (unattributed): Did you do this?
+[390.25] (unattributed): I don’t understand, where are the Legionaries?
+[390.30] (unattributed): This is intolerable!
+[390.35] (unattributed): This is what happened in Everlight! The troubles have come here!
+[390.40] (unattributed): How could Solarius let this happen?
+[390.45] (unattributed): Where are all the Legionaries?
+[390.50] (unattributed): This is what happens when you let the wrong sort in!
+[390.55] (unattributed): Are we under attack?
+[400.10] (unattributed): Hmm, they’ll never let you into the City.
+[400.15] (unattributed): Hey are you selling tickets for the Arena games?
+[400.20] (unattributed): Have you seen my slaves?
+[400.25] (unattributed): There’s no denying how much Emperor Solarius has done for this land.
+[400.30] (unattributed): That catapult crew are always on the vino. It’s unprofessional!
+[400.35] (unattributed): I hope to receive Emperor Solarius’ divine blessing.
+[400.40] (unattributed): I’ve got terrible foot fungus… I hope one of those shrines will cure me.
+[400.45] (unattributed): Is it true the slaves are rebelling?
+[400.50] (unattributed): Those sentinels scare me. 
+[400.55] (unattributed): Do you know that Senator Drearius made a pass at me. Urrg!
+[410.10] (unattributed): I hope my new Mistress is nice.
+[410.15] (unattributed): I wouldn’t go around dressed like that if I were you.
+[410.20] (unattributed): Hey, what’s your Master like?
+[410.25] (unattributed): I don’t know what happened. One minute I’m hunting in Nordberg... Out go the lights and I wake up here.
+[410.30] (unattributed): Hey, you’re new, ain’t you?
+[410.35] (unattributed): These Empire citizens, they eat so much fiddly food.
+[410.40] (unattributed): I ain’t seen a slave like you before.
+[410.45] (unattributed): You should watch out for that Juno creature... she’s been around.
+[410.50] (unattributed): I wonder if Emperor Solarius blesses slaves.
+[410.55] (unattributed): Watch out for those sentinels.
+[420.10] (unattributed): Don’t bump me about oafs! I have a delicate constitution.
+[420.20] (unattributed): Must be the only thing that’s delicate about her! Okay lads. Brace yourselves and heave!
+[430.10] (unattributed): Those chairs are something I won’t miss about Empire city. Get one short carrier and you’re walking at an angle all day!
+[430.20] (unattributed): Still they are useful for travelling with a little privacy. It does get boring being constantly admired all day.
+[430.30] (unattributed): Yes... I often have the same problem... 
+[430.40] (unattributed): Might be handy to acquire one of those chairs, Sire, what with this much security around.
+[440.10] (unattributed): I really hope I can find work here.
+[440.15] (unattributed): They say the City is paved with gold... I don’t think that’s very practical.
+[440.20] (unattributed): I’m going to become the best gladiator the Arena has ever seen!
+[440.25] (unattributed): Do you think if I make a run for it anyone would notice?
+[440.30] (unattributed): They say bad slaves get thrown in the Arena!
+[440.35] (unattributed): Ohh I do hope I can get a job at the palace. Emperor Solarius is bound to fall in love with me!
+[440.40] (unattributed): Hope I don’t end up in the slums.
+[440.45] (unattributed): Ohh I hope they don’t make me work for Senator Drearius. I’ve heard about him!
+[440.50] (unattributed): One day I’m going to be a real lady, like that Juno everyone talks about.
+[440.55] (unattributed): One day I’m going to get me one of those Sedan chairs!
+[450.10] (unattributed): I’ve got to get home to my wife. She thinks I’m seeing Juno!
+[450.15] (unattributed): I wonder if I can find a nice slave girl at the Emperor’s party.
+[450.20] (unattributed): Nice slaves you’ve got there!
+[450.25] (unattributed): Phew, glad I didn’t take that weekend break to Everlight!
+[450.30] (unattributed): Hmmm are you a gladiator?
+[450.35] (unattributed): Coming through! Coming through!
+[450.40] (unattributed): At last I’ve got enough gold to visit one of Solarius’ healing shrines.
+[450.45] (unattributed): Do you have any good slaves for sale?
+[450.50] (unattributed): Where did my chair carriers go?
+[450.55] (unattributed): They say the Sentinels are the real power behind Solarius!
+[500.10] (unattributed): Those Sentinels are searching for something... probably you!
+[500.20] (unattributed): You’ve been spotted! Get to a safe place, Sire!
+[505.10] (unattributed): Idiot! They’re after you now! Run!
+[505.20] (unattributed): Get away! Get away!
+[505.30] (unattributed): Run! Run!
+[505.40] (unattributed): The Sentinels!
+[505.50] (unattributed): Watch out!
+[510.10] (unattributed): I’ve sent out Grubby with a Gate, Master!
+[510.20] (unattributed): This could be a good area to lie low. Perhaps you could dress up your pets again, I could do with a laugh!
+[515.10] (unattributed): I recognise this place! It belongs to Senator Drearius.
+[515.20] (unattributed): His wife accused me of sleeping with him. As if! 
+[515.30] (unattributed): I only hinted that maybe I possibly would if he’d buy me a dozen new slaves with ruby encrusted collars. That’s all!
+[515.40] (unattributed): And he didn’t, the tight fisted windbag. Still he does have a very nice Sedan Chair.
+[520.10] (unattributed): Now men, I want you to meet our newest recruit. He is known as a Gargantuan and hails from our experiments.... 
+[520.20] (unattributed): *ahem* I mean our absolutely-100-percent-natural breeding program.
+[520.30] (unattributed): As you can see he’s a tough brute. Not like you wimpy lot!
+[525.10] (unattributed): Intruders!
+[525.15] (unattributed): Alert the Sentinels!
+[525.20] (unattributed): There are the escaped slaves!
+[525.25] (unattributed): Slaves on the loose!
+[525.30] (unattributed): Sentinels! Target the slaves!
+[525.35] (unattributed): Escaped Slaves!
+[525.40] (unattributed): There! Quick, Sentinels!
+[525.45] (unattributed): Slaves on the run!
+[525.50] (unattributed): Hey look! Intruders!
+[525.55] (unattributed): Slaves! Over there!
+[530.10] (unattributed): What is that thing?
+[530.20] (unattributed): Will you look at the size of that!
+[530.30] (unattributed): Suddenly I feel very, very small.
+[530.40] (unattributed): Is that a man or a monkey?
+[530.50] (unattributed): Woooooooowwwwww.
+[535.10] (unattributed): Ah, now Imperial guards. Come over here men. Let’s see how you lily-livered loungers stand up to a Gargantuan.
+[540.10] (unattributed): Ha Ha!
+[540.20] (unattributed): Come on get him!
+[540.30] (unattributed): Don’t show us up!
+[540.40] (unattributed): Bet he’s not as tough as he looks!
+[540.50] (unattributed): Ya soft wimps.
+[540.60] (unattributed): Even I could do better than that!
+[545.10] (unattributed): Well...obviously, obviously we need to work on his eyesight.
+[545.20] (unattributed): But mark my words men, that there is a marvel of modern warfare!
+[545.30] (unattributed): Right, we’re on duty at the City Gates now, so let’s move quick sharpish!
+[550.10] (unattributed): Tough head that thing’s got... I expect it could break anything!
+[550.20] (unattributed): Get that beast to charge the gate, Sire!
+[555.10] (unattributed): What are these uncouth louts doing? They’re making my garden look untidy!
+[555.15] (unattributed): Deal with them, Guards!
+[555.20] (unattributed): Yuck. That’s Drearius. Just seeing him again makes me want to vomit. 
+[555.30] (unattributed): Do you know he tried to give me his wife’s jewels? I mean really... I do not do second hand.
+[555.40] (unattributed): And his wife encouraged the others to get me tried for witchcraft!
+[555.50] (unattributed): Punish them both, Lord!
+[560.10] (unattributed): Don’t kill us, don’t kill us! When I called you louts I meant it in the nicest possible way!
+[560.20] (unattributed): I will worship you Oh Great One!
+[560.30] (unattributed): I am your groveling slave!
+[560.40] (unattributed): I will lie and cheat for you alone, Sire!
+[565.10] (unattributed): I am yours, Master!
+[565.20] (unattributed): You’re my Emperor now!
+[565.30] (unattributed): The ladies of Empire City shall know of your dark mercy!
+[570.10] (unattributed): Ha! Should have bought me my own jewels!
+[570.20] (unattributed): Serves the old harpy right!
+[570.30] (unattributed): Haven’t you forgotten something for little old me?
+[575.10] (unattributed): There’s the chair!
+[580.10] (unattributed): Ah, I love it when a plan comes together!
+[SONG.10] (unattributed): <T=10>
+[A.EM1] (unattributed): Agg, sound the alarm I’m being violated!
+[A.EM2] (unattributed): Stop that you scoundrel!
+[A.EM3] (unattributed): Help! Help! Guards!
+[A.EM4] (unattributed): Agg, the nasty slave touched me!
+[A.EM5] (unattributed): Solarius save me!
+[A.EF1] (unattributed): Stop that!
+[A.EF2] (unattributed): Guards, stop these ruffians!
+[A.EF3] (unattributed): Stop! Don’t you know we’re Empire Citizens?
+[A.EF4] (unattributed): Call the Sentinels!
+[A.EF5] (unattributed): Get your filty paws off me!
+[N.SM1] (unattributed): We slaves must stick together!
+[N.SM2] (unattributed): Careful, don’t let ‘em see your weapon!
+[N.SM3] (unattributed): Be careful of those Sentinels!
+[N.SM4] (unattributed): Don’t attract too much attention!
+[N.SM5] (unattributed): Just keep your head down, brother, and don’t start causing trouble!
+[N.SF1] (unattributed): Hey, you’re one of us, right?!
+[N.SF2] (unattributed): Never seen a slave like you before!
+[N.SF3] (unattributed): Don’t draw that weapon or the guards’ll be all over you!
+[N.SF4] (unattributed): Those Sentinels don’t miss a thing!
+[N.SF5] (unattributed): So what’s your Master like?
+[H.SM1] (unattributed): It’s him!
+[H.SM2] (unattributed): Traitor!
+[H.SM3] (unattributed): Murderer!
+[H.SM4] (unattributed): You ain’t my brother!
+[H.SM5] (unattributed): I’ll call the guards on you!
+[H.SF1] (unattributed): If I give you to the Empire, they might give me my freedom!
+[H.SF2] (unattributed): You’re a killer!
+[H.SF3] (unattributed): You ain’t on our side!
+[H.SF4] (unattributed): Slave killer!
+[H.SF5] (unattributed): Keep away from me!
+[A.SM1] (unattributed): Like we don’t have enough problems!
+[A.SM2] (unattributed): What are you doing?
+[A.SM3] (unattributed): Don’t kill me!
+[A.SM4] (unattributed): I ain’t that miserable!
+[A.SM5] (unattributed): What did I ever do to you?
+[A.SF1] (unattributed): Why me?
+[A.SF2] (unattributed): You’re spying for the Sentinels!
+[A.SF3] (unattributed): Demon!
+[A.SF4] (unattributed): I don’t wanna die!
+[A.SF5] (unattributed): Stop! Stop!

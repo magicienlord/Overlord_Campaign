@@ -1,0 +1,32 @@
+[100.10] GNARL: Welcome to the Spawning Pit, Master!   <<Note: The Tower Heart now lives in the Spawning Pit.
+Note: The Spawning Pit is now open from the start of the game as the opening tutorial is set there. The dialogue should not trigger when the player>>
+[200.10] GNARL: Browns are toughest of all the Minions. They’re never ones to shy away from a fight.   <<There will be Brown Minion animations in this area.
+Trigger: The first time the player enters the Brown Hive area, after the tutorial section.
+>>
+[200.20] GNARL: In fact it’s quite difficult to get them to stop!
+[200.30] GNARL: Such is their dedication to the fight that Browns can also use many different objects as weapons.
+[.] (unattributed): -
+[201.10] GNARL: Reds aren’t particularly hardy, so you mustn’t let enemies get too close to them, Sire.   <<There will be Red Minion animations in this area. Trigger: The first time the player enters the Red Hive area, after the tutorial section.
+
+>>
+[201.20] GNARL: But use them in a pack, and that’s a different story – a story full of flames and burning and screaming!
+[201.30] GNARL: Ahhh, it’s good to have them back, maybe I can get a hot meal now!
+[.] (unattributed): -
+[202.10] GNARL: Greens can do a great deal of damage if you attach them to an enemy’s back.    <<There will be Green Minion animations in this area. Trigger: The first time the player enters the Green Hive area, after the tutorial section.
+
+>>
+[202.20] GNARL: They aren’t terribly hygienic I’m afraid. But they are good at sneaking up on things. 
+[202.30] GNARL: Use them to guard an area, and they’re practically invisible. As long as the enemies don’t notice the smell!
+[.] (unattributed): -
+[203.10] GNARL: The Blue Minions’ minds appear to be on a different plane of existence half the time.    <<There will be Blue Minion animations in this area. Trigger: The first time the player enters the Blue Hive area, after the tutorial section.
+
+>>
+[203.20] GNARL: When they do decide to join us on this one, their healing and magical-damage skills can be most useful.
+[203.30] GNARL: They can resurrect fallen Minions during battle, but Blues are quite fragile, so position them carefully.
+[300.10] GNARL: The Tower Heart is not only the main source of your Tower’s power, but it also contains information on your Minions!    <<Trigger: The first time the player enters the Tower Heart area, after the tutorial section.>>
+[300.20] GNARL: Touch it and see. 
+[.] (unattributed): -
+[301.10] GNARL: Ah it’s nice to see the little gnashers back.   <<Trigger: Ambient dialogue for Gnarl whilst the player is in the Spawning Pit. Note: this should not clash with the Hive area dialogue. It should only be used when there are Minions present i.e. after >>
+[301.20] GNARL: It was quite peaceful without them…oh thank Evilness I didn’t eat all my ear wax.   <<Trigger: Ambient dialogue for Gnarl whilst the player is in the Spawning Pit. Note: this should not clash with the Hive area dialogue. It should only be used when there are Minions present i.e. after >>
+[301.30] GNARL: Minions need a little down-time too, Sire.   <<Trigger: Ambient dialogue for Gnarl whilst the player is in the Spawning Pit. Note: this should not clash with the Hive area dialogue. It should only be used when there are Minions present i.e. after >>
+[301.40] GNARL: Now don’t stay down here too long, Master.   <<Trigger: Ambient dialogue for Gnarl whilst the player is in the Spawning Pit. Note: this should not clash with the Hive area dialogue. It should only be used when there are Minions present i.e. after >>

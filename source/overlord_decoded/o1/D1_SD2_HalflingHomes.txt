@@ -1,0 +1,35 @@
+[100.10] GNARL: Tread lightly, Master and make sure those Halflings never wake up!   <<Trigger: The player enters the first bedroom (doesn’t matter whether it’s bedroom number 1 or 2).>>
+[101.10] TRAPPED_PEASANT_1: Please! Oh! Get us out of here! It’s the wheel over there.   <<Trigger: The player enters the storage room.>>
+[101.20] TRAPPED_PEASANT_2: I heard those Halflings say they’re going to serve us to Melvin!
+[101.30] TRAPPED_PEASANT_1: Oh! I don’t wanna be lunch!   <<Sobbing. 'Lunch' as 'Luuuuuuuuunnnch!'>>
+[102.10] TRAPPED_PEASANT_1: Don’t go, don’t go!   <<Trigger: If the player leaves without freeing them.>>
+[102.20] TRAPPED_PEASANT_2: Don’t leave us!
+[103.10] TRAPPED_PEASANT_1: Oh! You’ve returned! Oh, get me..   <<Trigger: If the player leaves without freeing them and then returns.>>
+[103.20] TRAPPED_PEASANT_2: Oh, the Halflings keep waving big toasting forks at me! Oh!
+[104.10] TRAPPED_PEASANT_1: Oh, thank you, thank you!   <<Trigger: The player sets the peasants free. >>
+[104.20] TRAPPED_PEASANT_2: Hey, those Halflings brought a load of food down here... You looking for it?
+[104.30] TRAPPED_PEASANT_1: Come on! Let’s get back to Spree!
+[105.10] GNARL: Seems that some careless Halfling has broken that wheel! You’ll have to find the missing spokes before you can use it.   <<Trigger: Player nears the broken wheel.>>
+[106.10] GNARL: There’s one of the spokes! Return it to the wheel, Sire!   <<Trigger: Player finds first wheel spoke.>>
+[107.10] GNARL: What a fine specimen! It must have taken them years to grow. Don’t you just want to... smash it up?   <<Trigger: The player enters the garden area and nears the huge pumpkin. >>
+[108.10] GNARL: Ah ha! Take this here thingumybob back to the Tower and it'll upgrade your Maximum Minion Horde!   <<Trigger: Player finds Tower object inside the pumpkin.>>
+[200.10] GNARL: Hmmm, we’ve found the nest, Sire. Careful, you should not alarm them all at once.   <<Trigger: The player enters the dinning area.>>
+[200.20] GNARL: Otherwise they’ll have your Minions upside down in a pot before you know it!
+[201.10] GNARL: There’s the food. Use your Minions to move it, Master!   <<Trigger: The player finds the lost food.>>
+[202.10] FOOD_PEASANT_1: Oh, you’ve found it! Oh, Spree is saved! Thank you, Lord.   <<Trigger: The Minions and the food object reach a trigger point just before the dinning room where a group of peasants stand and block the way.>>
+[202.20] FOOD_PEASANT_2: If you could just place the food over here, Lord, we shall take it up to Spree.   <<Food peasant 2 walks to the spot where the food object should be placed.>>
+[202.30] GNARL: That food would provide you with a substantial amount of Lifeforce, Sire.
+[202.40] GNARL: You could leave them the food. Just walk next to the platform and let your Minions leave the food supply on it.
+[202.50] GNARL: Or, if you’re feeling particularly Evil, why not just...keep it?   <<Clears throat '*ahem*' before 'witnesses'.>>
+[202.60] GNARL: That is, if we dispose of the…ahem, witnesses!   <<Cough *ahem* before witnesses.>>
+[203.10] GNARL: A generous act. I hope Spree will reward you accordingly.   <<Trigger: After the player has chosen to leave the food.>>
+[204.10] GNARL: Self-preservation is key, Sire. I’m sure the peasants will understand.   <<Trigger: After the player has got rid of the peasants i.e. chosen the food.>>
+[205.10] GNARL: Those filthy vermin don’t seem to like the Halflings, they smell their own!   <<Trigger: Player encounters rat spawner baskets for the first time. The rats run out and attack the Halflings.
+>>
+[206.10] GNARL: The Halflings have got holes   <<Trigger: Player encounters door spawners for the first time.>>
+[207.10] GNARL: Good, now you’ll need 12 Minions to turn it.   <<Trigger: Player fixes the wheel.>>
+[208.10] GNARL: You can now control 15 Minions!    <<Trigger: Player commits Tower object.>>
+[209.10] GNARL: Mmm! Some juicy rat food down there!   <<Trigger: Player overlooks kitchen area.  Several cooks and rat spawner baskets can be seen..
+>>
+[210.10] FOOD_PEASANT_1: This ain’t goin’ to plan. Back-up! Back-up!   <<Trigger: Player attacks peasants>>
+[210.20] FOOD_PEASANT_2: You heartless wretch! We’re starving!   <<More peasants turn up.>>
